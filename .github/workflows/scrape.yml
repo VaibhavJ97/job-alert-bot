@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+    inputs:
+      force_email:
+        description: "Send email even if no new jobs (for testing)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
   push:
     paths:
       - "urls.json"
@@ -34,6 +43,9 @@ jobs:
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           CV_TEXT: ${{ secrets.CV_TEXT }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
+          FORCE_EMAIL: ${{ github.event.inputs.force_email || 'false' }}
         run: python scripts/fetch.py
 
       - name: Commit new snapshots and digest back to the repo
