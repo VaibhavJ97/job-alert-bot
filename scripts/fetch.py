@@ -1,18 +1,19 @@
-"""Job Alert Bot - Phase 3 scraper with AI scoring.
+"""Job Alert Bot - Phase 3 scraper with keyword filter + AI scoring.
 
-Reads urls.json, fetches each enabled site, extracts links that look
-like job postings, scores each job against the CV using Groq, writes a
-Markdown digest sorted by match score.
+Two-stage filtering:
+1. Cheap keyword filter (from keywords.json) applied to job titles.
+   Eliminates obvious mismatches without any AI call.
+2. AI scoring (via Groq) for the survivors only.
 
 Design principles:
-- The user edits only urls.json. Everything else is auto-managed.
+- User edits only urls.json and keywords.json.
 - One broken URL never breaks the rest of the run.
 - One failed Groq score never breaks the rest of the scoring.
 - Scores are cached in snapshots - a given job URL is scored only once.
-- Removing a URL from urls.json simply stops fetching it.
-
-In GitHub Actions, GROQ_API_KEY and CV_TEXT are injected from repo
-secrets. If either is missing, the scraper still runs but skips scoring.
+- 429 rate limits are retried with backoff up to 2 times per job.
+- Filtered-out jobs are NOT stored in snapshots, so editing keywords
+  causes them to be re-evaluated on the next run (they appear as new
+  if they now pass the new filter).
 """
 
 from __future__ import annotations
@@ -36,6 +37,7 @@ from bs4 import BeautifulSoup
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 URLS_FILE = REPO_ROOT / "urls.json"
+KEYWORDS_FILE = REPO_ROOT / "keywords.json"
 SNAPSHOTS_DIR = REPO_ROOT / "snapshots"
 DIGEST_DIR = REPO_ROOT / "digest"
 
@@ -80,11 +82,13 @@ HEADERS = {
 
 TIMEOUT = 25
 GROQ_TIMEOUT = 30
-GROQ_DELAY_SECONDS = 1.0  # respectful pause between API calls
+GROQ_DELAY_SECONDS = 3.0
+GROQ_BACKOFF_SECONDS = 15
+GROQ_MAX_ATTEMPTS = 3
 
 
 # ----------------------------------------------------------------------
-# Helpers
+# Config loaders
 # ----------------------------------------------------------------------
 
 def slugify(name: str) -> str:
@@ -108,6 +112,50 @@ def load_urls() -> list[dict]:
             enabled.append(s)
     return enabled
 
+
+def load_keywords() -> tuple[list[str], list[str]]:
+    """Load include/exclude keyword lists from keywords.json.
+
+    Returns ([], []) if file is missing - filter becomes a no-op.
+    """
+    if not KEYWORDS_FILE.exists():
+        return [], []
+    try:
+        with KEYWORDS_FILE.open(encoding="utf-8") as f:
+            data = json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"WARN: keywords.json invalid JSON: {e}", file=sys.stderr)
+        return [], []
+    includes = [str(k).lower().strip() for k in data.get("include", []) if str(k).strip()]
+    excludes = [str(k).lower().strip() for k in data.get("exclude", []) if str(k).strip()]
+    return includes, excludes
+
+
+def passes_keyword_filter(
+    title: str, includes: list[str], excludes: list[str]
+) -> tuple[bool, str]:
+    """Return (passed, reason).
+
+    Rules:
+    - If title contains ANY exclude keyword -> fail with reason.
+    - If includes is empty -> pass (only excludes were checked).
+    - Otherwise title must contain at least one include keyword.
+    """
+    t = title.lower()
+    for kw in excludes:
+        if kw in t:
+            return False, f"excluded by '{kw}'"
+    if not includes:
+        return True, "no include filter"
+    for kw in includes:
+        if kw in t:
+            return True, f"matched '{kw}'"
+    return False, "no include keyword matched"
+
+
+# ----------------------------------------------------------------------
+# Fetch + parse
+# ----------------------------------------------------------------------
 
 def fetch_html(url: str) -> str | None:
     try:
@@ -193,10 +241,6 @@ Output ONLY valid JSON in this exact form:
 
 
 def score_job(title: str) -> dict | None:
-    """Score one job title against CV_TEXT via Groq.
-
-    Returns {"score": int 0-100, "reasoning": str} or None on failure.
-    """
     if not GROQ_API_KEY or not CV_TEXT:
         return None
 
@@ -206,37 +250,70 @@ def score_job(title: str) -> dict | None:
         "Respond with JSON only."
     )
 
-    try:
-        r = requests.post(
-            GROQ_API_URL,
-            headers={
-                "Authorization": f"Bearer {GROQ_API_KEY}",
-                "Content-Type": "application/json",
-            },
-            json={
-                "model": GROQ_MODEL,
-                "messages": [
-                    {"role": "system", "content": SCORING_SYSTEM_PROMPT},
-                    {"role": "user", "content": user_prompt},
-                ],
-                "temperature": 0.2,
-                "max_tokens": 200,
-                "response_format": {"type": "json_object"},
-            },
-            timeout=GROQ_TIMEOUT,
-        )
-        r.raise_for_status()
-        content = r.json()["choices"][0]["message"]["content"]
-        result = json.loads(content)
-        score = int(result.get("score", 0))
-        reasoning = str(result.get("reasoning", "")).strip()
-        return {
-            "score": max(0, min(100, score)),
-            "reasoning": reasoning[:300],
-        }
-    except Exception as e:
-        print(f"  score fail for '{title[:60]}': {e}", file=sys.stderr)
-        return None
+    payload = {
+        "model": GROQ_MODEL,
+        "messages": [
+            {"role": "system", "content": SCORING_SYSTEM_PROMPT},
+            {"role": "user", "content": user_prompt},
+        ],
+        "temperature": 0.2,
+        "max_tokens": 200,
+        "response_format": {"type": "json_object"},
+    }
+    api_headers = {
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    for attempt in range(1, GROQ_MAX_ATTEMPTS + 1):
+        try:
+            r = requests.post(
+                GROQ_API_URL,
+                headers=api_headers,
+                json=payload,
+                timeout=GROQ_TIMEOUT,
+            )
+
+            if r.status_code == 429:
+                wait_s = GROQ_BACKOFF_SECONDS * attempt
+                retry_after = r.headers.get("Retry-After")
+                if retry_after:
+                    try:
+                        wait_s = max(wait_s, int(float(retry_after)))
+                    except ValueError:
+                        pass
+                wait_s = min(wait_s, 60)
+                if attempt < GROQ_MAX_ATTEMPTS:
+                    print(
+                        f"  rate limited (attempt {attempt}/{GROQ_MAX_ATTEMPTS}), "
+                        f"waiting {wait_s}s..."
+                    )
+                    time.sleep(wait_s)
+                    continue
+                print(
+                    f"  score fail for '{title[:60]}': rate limit exhausted "
+                    f"after {GROQ_MAX_ATTEMPTS} attempts"
+                )
+                return None
+
+            r.raise_for_status()
+            content = r.json()["choices"][0]["message"]["content"]
+            result = json.loads(content)
+            return {
+                "score": max(0, min(100, int(result.get("score", 0)))),
+                "reasoning": str(result.get("reasoning", "")).strip()[:300],
+            }
+        except Exception as e:
+            if attempt < GROQ_MAX_ATTEMPTS:
+                print(
+                    f"  score error (attempt {attempt}/{GROQ_MAX_ATTEMPTS}) "
+                    f"for '{title[:50]}': {e} - retrying"
+                )
+                time.sleep(5)
+                continue
+            print(f"  score fail for '{title[:60]}': {e}", file=sys.stderr)
+            return None
+    return None
 
 
 def score_badge(score: int) -> str:
@@ -261,9 +338,19 @@ def main() -> int:
         print("No enabled sites in urls.json.")
         return 0
 
+    includes, excludes = load_keywords()
+    if includes or excludes:
+        print(
+            f"Keyword filter: ENABLED "
+            f"({len(includes)} include, {len(excludes)} exclude)"
+        )
+    else:
+        print("Keyword filter: DISABLED (no keywords.json or empty)")
+
     scoring_enabled = bool(GROQ_API_KEY and CV_TEXT)
     if scoring_enabled:
-        print(f"AI scoring: ENABLED (model {GROQ_MODEL})")
+        print(f"AI scoring: ENABLED (model {GROQ_MODEL}, "
+              f"{GROQ_DELAY_SECONDS}s between calls)")
     else:
         missing = []
         if not GROQ_API_KEY:
@@ -280,6 +367,7 @@ def main() -> int:
     total_scored_now = 0
     total_failed = 0
     total_seeded = 0
+    total_filtered = 0
     new_jobs_for_top_list: list[dict] = []
 
     for site in sites:
@@ -301,10 +389,23 @@ def main() -> int:
         had_snapshot, prev_by_url = load_snapshot(slug)
         print(f"  found {len(current_jobs)} job-like links")
 
-        # Merge: keep cached scores forward
+        # ---- Stage 1: keyword filter ----
+        passing: list[dict] = []
+        filtered_count = 0
+        for j in current_jobs:
+            ok, _reason = passes_keyword_filter(j["title"], includes, excludes)
+            if ok:
+                passing.append(j)
+            else:
+                filtered_count += 1
+        total_filtered += filtered_count
+        if filtered_count:
+            print(f"  filtered out {filtered_count} by keywords, {len(passing)} survive")
+
+        # ---- Merge with score cache ----
         merged: list[dict] = []
         new_urls: list[str] = []
-        for j in current_jobs:
+        for j in passing:
             prev = prev_by_url.get(j["url"])
             if prev and "score" in prev:
                 merged.append({
@@ -318,7 +419,7 @@ def main() -> int:
                 if j["url"] not in prev_by_url:
                     new_urls.append(j["url"])
 
-        # Score everything missing a score
+        # ---- Stage 2: AI scoring (only survivors) ----
         unscored = [j for j in merged if "score" not in j]
         if unscored and scoring_enabled:
             print(f"  scoring {len(unscored)} unscored job(s)...")
@@ -330,16 +431,17 @@ def main() -> int:
                     total_scored_now += 1
                 time.sleep(GROQ_DELAY_SECONDS)
 
+        # ---- Digest output for this site ----
         if not had_snapshot:
             total_seeded += 1
             digest_lines.append(f"## {name}")
             digest_lines.append("")
             digest_lines.append(
-                f"First run. Seeded {len(merged)} current postings as baseline. "
+                f"First run. Seeded {len(merged)} matching postings as baseline. "
+                f"{filtered_count} filtered by keywords. "
                 "New postings will be flagged as NEW from next run on."
             )
             digest_lines.append("")
-            # Even on seed run, show the top-scoring ones so user gets value immediately
             scored = [j for j in merged if "score" in j]
             if scored:
                 top_seeded = sorted(scored, key=lambda x: x["score"], reverse=True)[:5]
@@ -383,7 +485,6 @@ def main() -> int:
 
         save_snapshot(slug, merged)
 
-    # Top-of-digest "best new matches across all sites"
     if new_jobs_for_top_list:
         new_jobs_for_top_list.sort(
             key=lambda x: x.get("score", -1),
@@ -406,8 +507,9 @@ def main() -> int:
         digest_lines[2:2] = top_block
 
     summary = (
-        f"**Summary:** {total_new} new posting(s) | "
+        f"**Summary:** {total_new} new | "
         f"{total_scored_now} scored this run | "
+        f"{total_filtered} filtered by keywords | "
         f"{total_seeded} site(s) seeded | "
         f"{total_failed} fetch failure(s)"
     )
