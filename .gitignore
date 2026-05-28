@@ -1,0 +1,17 @@
+# Personal data - NEVER commit these
+cv.md
+cv.txt
+cv.pdf
+.env
+.env.local
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

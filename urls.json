@@ -1,0 +1,45 @@
+{
+  "_comment": "Edit this file to add or remove career-site URLs. The scraper handles failures gracefully - one broken URL never stops the others. To temporarily disable a site without deleting it, set enabled=false.",
+  "sites": [
+    {
+      "name": "IONOS Careers",
+      "url": "https://careers.ionos.com/",
+      "enabled": true
+    },
+    {
+      "name": "EnBW Karriere",
+      "url": "https://www.enbw.com/karriere/",
+      "enabled": true
+    },
+    {
+      "name": "inovex Karriere",
+      "url": "https://www.inovex.de/de/karriere/",
+      "enabled": true
+    },
+    {
+      "name": "CAS Software Karriere",
+      "url": "https://www.cas.de/karriere",
+      "enabled": true
+    },
+    {
+      "name": "Vulcan Energy Careers",
+      "url": "https://v-er.eu/careers/",
+      "enabled": true
+    },
+    {
+      "name": "INERATEC Careers",
+      "url": "https://ineratec.de/careers/",
+      "enabled": true
+    },
+    {
+      "name": "Atruvia Karriere",
+      "url": "https://atruvia.de/karriere",
+      "enabled": true
+    },
+    {
+      "name": "KIT Stellenmarkt",
+      "url": "https://www.pse.kit.edu/karriere/",
+      "enabled": true
+    }
+  ]
+}
