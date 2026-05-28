@@ -1,4 +1,161 @@
 {
-  "updated_at": "2026-05-28T19:00:34+00:00",
-  "jobs": []
+  "updated_at": "2026-05-28T19:03:31+00:00",
+  "jobs": [
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-berlin",
+      "title": "Berlin",
+      "score": 0,
+      "reasoning": "Job title 'Berlin' is a location, not a job description, no skills or domain match possible."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-hamburg",
+      "title": "Hamburg",
+      "score": 0,
+      "reasoning": "Hamburg is a location, not a job title."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-m%c3%bcnchen",
+      "title": "München",
+      "score": 0,
+      "reasoning": "München is a location, not a job title."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-k%c3%b6ln",
+      "title": "Köln",
+      "score": 0,
+      "reasoning": "Köln is a city, not a job title."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-stuttgart",
+      "title": "Stuttgart",
+      "score": 0,
+      "reasoning": "Job title is a location, not a job description."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-karlsruhe",
+      "title": "Karlsruhe",
+      "score": 0,
+      "reasoning": "Job title is a location, not a job description."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-erlangen",
+      "title": "Erlangen",
+      "score": 0,
+      "reasoning": "Job title 'Erlangen' is a location, not a job title, no skills or domain match possible."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-europa",
+      "title": "Europa",
+      "score": 0,
+      "reasoning": "Job title 'Europa' is unrelated to candidate's skills and experience."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-westliches-europa",
+      "title": "Westliches Europa",
+      "score": 0,
+      "reasoning": "Job title 'Westliches Europa' does not provide sufficient information to determine a match with the candidate's skills and experience."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-westdeutschland",
+      "title": "Westdeutschland",
+      "score": 0,
+      "reasoning": "Job title 'Westdeutschland' is a geographic region, not a job description, making it impossible to determine a match."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-s%c3%bcddeutschland",
+      "title": "Süddeutschland",
+      "score": 0,
+      "reasoning": "Job title 'Süddeutschland' is a geographic region in Germany and does not describe a job role."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-nordrhein-westfalen",
+      "title": "Nordrhein-Westfalen",
+      "score": 0,
+      "reasoning": "Nordrhein-Westfalen is a German state, not a job title."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-norddeutschland",
+      "title": "Norddeutschland",
+      "score": 0,
+      "reasoning": "Job title 'Norddeutschland' is a geographic region, not a job title, and does not match any skills or experience."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-s%c3%bcdwestdeutschland",
+      "title": "Südwestdeutschland",
+      "score": 0,
+      "reasoning": "Job title 'Südwestdeutschland' is a geographic region in Germany and does not describe a job role."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-ostdeutschland",
+      "title": "Ostdeutschland",
+      "score": 0,
+      "reasoning": "Job title 'Ostdeutschland' does not provide sufficient information to evaluate the candidate's fit."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-bayern",
+      "title": "Bayern",
+      "score": 0,
+      "reasoning": "Job title 'Bayern' does not provide sufficient information to determine a match."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-baden-w%c3%bcrttemberg",
+      "title": "Baden-Württemberg",
+      "score": 10,
+      "reasoning": "Job title is a geographic location, not a job role."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-rheinland",
+      "title": "Rheinland",
+      "score": 0,
+      "reasoning": "Job title 'Rheinland' is a location, not a job title, no skills or domain match possible."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-neckarland-schwaben",
+      "title": "Neckarland-Schwaben",
+      "score": 0,
+      "reasoning": "Job title does not provide sufficient information to determine relevance to candidate's skills and experience."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-s%c3%bcdbayern",
+      "title": "Südbayern",
+      "score": 0,
+      "reasoning": "Job title 'Südbayern' does not provide enough information for a meaningful match."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-schwarzwald",
+      "title": "Schwarzwald",
+      "score": 0,
+      "reasoning": "Job title 'Schwarzwald' does not provide enough information for a meaningful match."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-nordbayern",
+      "title": "Nordbayern",
+      "score": 0,
+      "reasoning": "Job title 'Nordbayern' is a geographic region in Germany and does not provide enough information to determine a match with the candidate's skills and experience."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-franken",
+      "title": "Franken",
+      "score": 0,
+      "reasoning": "Job title 'Franken' does not provide enough information to determine a match."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/in-nordbaden",
+      "title": "Nordbaden",
+      "score": 0,
+      "reasoning": "Job title 'Nordbaden' is a region in Germany and does not provide enough information to determine a match with the candidate's skills and experience."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/vollzeit?action=facet_selected%3bworktypes%3b80001",
+      "title": "Vollzeit",
+      "score": 0,
+      "reasoning": "Job title 'Vollzeit' is not descriptive and does not provide enough information to evaluate the candidate's fit."
+    },
+    {
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs/teilzeit?action=facet_selected%3bworktypes%3b80002",
+      "title": "Teilzeit",
+      "score": 0,
+      "reasoning": "Job title 'Teilzeit' translates to 'part-time' and does not provide sufficient information to evaluate the candidate's fit."
+    }
+  ]
 }
