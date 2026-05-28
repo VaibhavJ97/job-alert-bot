@@ -17,6 +17,11 @@
       "enabled": true
     },
     {
+      "name": "Greenlyte",
+      "url": "https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/",
+      "enabled": true
+    },
+    {
       "name": "KIT Jobs",
       "url": "https://jobs.pse.kit.edu/",
       "enabled": true
