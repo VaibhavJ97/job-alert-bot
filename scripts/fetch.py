@@ -1,19 +1,19 @@
-"""Job Alert Bot - Phase 3 scraper with keyword filter + AI scoring.
+"""Job Alert Bot - Phase 4 scraper with keyword filter + AI scoring + email.
 
-Two-stage filtering:
-1. Cheap keyword filter (from keywords.json) applied to job titles.
-   Eliminates obvious mismatches without any AI call.
-2. AI scoring (via Groq) for the survivors only.
+Pipeline:
+1. Read urls.json. For each enabled site, fetch HTML, extract links matching
+   JOB_PATTERNS.
+2. Apply keyword filter from keywords.json. Drop titles hitting excludes.
+3. AI-score the survivors using Groq. Cache scores in snapshots to avoid
+   re-scoring known URLs.
+4. Write Markdown digest sorted by score.
+5. If there's anything new (or FORCE_EMAIL is set), email the digest via
+   Resend. Skip the email when nothing has changed - no inbox spam.
 
-Design principles:
-- User edits only urls.json and keywords.json.
-- One broken URL never breaks the rest of the run.
-- One failed Groq score never breaks the rest of the scoring.
-- Scores are cached in snapshots - a given job URL is scored only once.
-- 429 rate limits are retried with backoff up to 2 times per job.
-- Filtered-out jobs are NOT stored in snapshots, so editing keywords
-  causes them to be re-evaluated on the next run (they appear as new
-  if they now pass the new filter).
+Required env vars (from GitHub Secrets in production):
+- GROQ_API_KEY, CV_TEXT       -> enable AI scoring (else skip with warning)
+- RESEND_API_KEY, DIGEST_EMAIL_TO -> enable email (else skip with warning)
+- FORCE_EMAIL=true            -> send email even on empty digest (testing)
 """
 
 from __future__ import annotations
@@ -27,6 +27,7 @@ import time
 from pathlib import Path
 from urllib.parse import urljoin
 
+import markdown as md_lib
 import requests
 from bs4 import BeautifulSoup
 
@@ -45,6 +46,14 @@ GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "").strip()
 CV_TEXT = os.environ.get("CV_TEXT", "").strip()
+
+RESEND_API_URL = "https://api.resend.com/emails"
+RESEND_FROM = "Job Alert Bot <onboarding@resend.dev>"
+RESEND_API_KEY = os.environ.get("RESEND_API_KEY", "").strip()
+DIGEST_EMAIL_TO = os.environ.get("DIGEST_EMAIL_TO", "").strip()
+FORCE_EMAIL = os.environ.get("FORCE_EMAIL", "").lower() in ("true", "1", "yes")
+
+REPO_URL = "https://github.com/VaibhavJ97/job-alert-bot"
 
 JOB_PATTERNS = re.compile(
     r"(/jobs?/[^/\s]+|/career/[^/\s]+|/careers/[^/\s]+|"
@@ -114,10 +123,6 @@ def load_urls() -> list[dict]:
 
 
 def load_keywords() -> tuple[list[str], list[str]]:
-    """Load include/exclude keyword lists from keywords.json.
-
-    Returns ([], []) if file is missing - filter becomes a no-op.
-    """
     if not KEYWORDS_FILE.exists():
         return [], []
     try:
@@ -134,13 +139,6 @@ def load_keywords() -> tuple[list[str], list[str]]:
 def passes_keyword_filter(
     title: str, includes: list[str], excludes: list[str]
 ) -> tuple[bool, str]:
-    """Return (passed, reason).
-
-    Rules:
-    - If title contains ANY exclude keyword -> fail with reason.
-    - If includes is empty -> pass (only excludes were checked).
-    - Otherwise title must contain at least one include keyword.
-    """
     t = title.lower()
     for kw in excludes:
         if kw in t:
@@ -329,6 +327,80 @@ def score_badge(score: int) -> str:
 
 
 # ----------------------------------------------------------------------
+# Email
+# ----------------------------------------------------------------------
+
+EMAIL_CSS = """
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+       max-width: 720px; margin: 0 auto; padding: 24px; color: #24292f;
+       line-height: 1.55; background: #ffffff; }
+h1 { color: #1a1a1a; border-bottom: 1px solid #d0d7de; padding-bottom: 12px;
+     margin-top: 0; font-size: 24px; }
+h2 { color: #24292f; margin-top: 32px; font-size: 18px;
+     border-bottom: 1px solid #eaeef2; padding-bottom: 6px; }
+a { color: #0969da; text-decoration: none; }
+a:hover { text-decoration: underline; }
+ul { padding-left: 22px; }
+li { margin-bottom: 10px; }
+strong { color: #1a1a1a; }
+p { margin: 12px 0; }
+.footer { color: #57606a; font-size: 0.85em; margin-top: 36px;
+          padding-top: 16px; border-top: 1px solid #d0d7de; }
+"""
+
+
+def markdown_to_html_email(md_content: str) -> str:
+    """Wrap the digest markdown in a styled HTML email body."""
+    body = md_lib.markdown(md_content, extensions=["extra"])
+    return f"""<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>{EMAIL_CSS}</style>
+</head>
+<body>
+{body}
+<div class="footer">
+Job Alert Bot - generated automatically.
+<a href="{REPO_URL}">View source on GitHub</a>
+</div>
+</body>
+</html>"""
+
+
+def send_email_digest(subject: str, html_body: str, text_body: str) -> bool:
+    """Send digest via Resend API. Returns True on success, False otherwise."""
+    if not RESEND_API_KEY or not DIGEST_EMAIL_TO:
+        return False
+
+    try:
+        r = requests.post(
+            RESEND_API_URL,
+            headers={
+                "Authorization": f"Bearer {RESEND_API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "from": RESEND_FROM,
+                "to": [DIGEST_EMAIL_TO],
+                "subject": subject,
+                "html": html_body,
+                "text": text_body,
+            },
+            timeout=20,
+        )
+        if r.status_code >= 400:
+            print(f"Email send failed: HTTP {r.status_code}: {r.text[:200]}",
+                  file=sys.stderr)
+            return False
+        print(f"Email sent to {DIGEST_EMAIL_TO}")
+        return True
+    except Exception as e:
+        print(f"Email send error: {e}", file=sys.stderr)
+        return False
+
+
+# ----------------------------------------------------------------------
 # Main
 # ----------------------------------------------------------------------
 
@@ -358,6 +430,19 @@ def main() -> int:
         if not CV_TEXT:
             missing.append("CV_TEXT")
         print(f"AI scoring: DISABLED (missing env: {', '.join(missing)})")
+
+    email_enabled = bool(RESEND_API_KEY and DIGEST_EMAIL_TO)
+    if email_enabled:
+        print(f"Email delivery: ENABLED (to {DIGEST_EMAIL_TO})")
+        if FORCE_EMAIL:
+            print("  FORCE_EMAIL is set - will send even if no new jobs")
+    else:
+        missing = []
+        if not RESEND_API_KEY:
+            missing.append("RESEND_API_KEY")
+        if not DIGEST_EMAIL_TO:
+            missing.append("DIGEST_EMAIL_TO")
+        print(f"Email delivery: DISABLED (missing env: {', '.join(missing)})")
 
     today = dt.date.today().isoformat()
     DIGEST_DIR.mkdir(exist_ok=True)
@@ -389,7 +474,6 @@ def main() -> int:
         had_snapshot, prev_by_url = load_snapshot(slug)
         print(f"  found {len(current_jobs)} job-like links")
 
-        # ---- Stage 1: keyword filter ----
         passing: list[dict] = []
         filtered_count = 0
         for j in current_jobs:
@@ -402,7 +486,6 @@ def main() -> int:
         if filtered_count:
             print(f"  filtered out {filtered_count} by keywords, {len(passing)} survive")
 
-        # ---- Merge with score cache ----
         merged: list[dict] = []
         new_urls: list[str] = []
         for j in passing:
@@ -419,7 +502,6 @@ def main() -> int:
                 if j["url"] not in prev_by_url:
                     new_urls.append(j["url"])
 
-        # ---- Stage 2: AI scoring (only survivors) ----
         unscored = [j for j in merged if "score" not in j]
         if unscored and scoring_enabled:
             print(f"  scoring {len(unscored)} unscored job(s)...")
@@ -431,7 +513,6 @@ def main() -> int:
                     total_scored_now += 1
                 time.sleep(GROQ_DELAY_SECONDS)
 
-        # ---- Digest output for this site ----
         if not had_snapshot:
             total_seeded += 1
             digest_lines.append(f"## {name}")
@@ -517,12 +598,31 @@ def main() -> int:
     digest_lines.insert(3, "")
 
     digest_path = DIGEST_DIR / f"{today}.md"
-    digest_path.write_text("\n".join(digest_lines), encoding="utf-8")
+    digest_md = "\n".join(digest_lines)
+    digest_path.write_text(digest_md, encoding="utf-8")
 
     print()
     print("=" * 60)
     print(summary.replace("**", ""))
     print(f"Digest written to: {digest_path}")
+
+    # ---- Email delivery (only when there is something worth sending) ----
+    if email_enabled:
+        should_send = FORCE_EMAIL or total_new > 0 or total_seeded > 0
+        if should_send:
+            subj_parts = []
+            if total_new > 0:
+                subj_parts.append(f"{total_new} new")
+            if total_seeded > 0:
+                subj_parts.append(f"{total_seeded} sites seeded")
+            if not subj_parts:
+                subj_parts.append("test")
+            subject = f"Job Alerts: {', '.join(subj_parts)} - {today}"
+            html_body = markdown_to_html_email(digest_md)
+            send_email_digest(subject, html_body, digest_md)
+        else:
+            print("Email skipped: no new jobs to report")
+
     return 0
 
 
