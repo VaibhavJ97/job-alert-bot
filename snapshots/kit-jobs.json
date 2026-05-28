@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T18:35:45+00:00",
+  "updated_at": "2026-05-28T19:00:33+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170486/academic-researcher-fmd",
@@ -9,7 +9,9 @@
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
-      "title": "Academic Staff Member (f/m/d)"
+      "title": "Academic Staff Member (f/m/d)",
+      "score": 68,
+      "reasoning": "Strong educational background in geosciences and some relevant experience, but role title implies senior academic position which may be a stretch given candidate's recent graduation and limited research experience."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -19,15 +21,21 @@
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170337/akademische-mitarbeiterin-akademischer-mitarbeiter-wmd",
-      "title": "Akademische Mitarbeiterin / Akademischer Mitarbeiter (w/m/d)"
+      "title": "Akademische Mitarbeiterin / Akademischer Mitarbeiter (w/m/d)",
+      "score": 67,
+      "reasoning": "Good geosciences and programming fit, but academic position may require more seniority and German fluency."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170485/akademische-mitarbeiterinakademischer-mitarbeiter-wmd-msc-physik-elektrotechnik-optik",
-      "title": "Akademische Mitarbeiterin/Akademischer Mitarbeiter (w/m/d)"
+      "title": "Akademische Mitarbeiterin/Akademischer Mitarbeiter (w/m/d)",
+      "score": 67,
+      "reasoning": "Good geosciences background and some relevant experience, but senior academic role may require more experience and stronger German fluency."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170286/akademische-ratin-akademischer-rat-wmd",
-      "title": "Akademische Rätin / Akademischer Rat (w/m/d)"
+      "title": "Akademische Rätin / Akademischer Rat (w/m/d)",
+      "score": 42,
+      "reasoning": "Some skill overlap in geosciences and data analysis, but role title implies senior academic position requiring strong German fluency and significant experience, which the candidate lacks."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170422/assistentin-assistent-wmd-in-der-geschaftsstelle-der-kit-fakultat-bau-geo-umwelt",
@@ -36,12 +44,10 @@
       "reasoning": "Some skill overlap in geosciences, but role seems administrative and requires strong German fluency, which is a significant mismatch."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170478/beraterin-berater-wmd-studiengangsentwicklung-schwerpunkt-studienbegleitende-qualifikationsangebote-teilzeit-75",
-      "title": "Beraterin / Berater (w/m/d) Studiengangsentwicklung- Schwerpunkt studienbegleitende Qualifikationsangebote"
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170488/chemisch-technische-assistentin-chemisch-technischer-assistent-cta-wmd-vollzeit",
-      "title": "Chemisch-technische Assistentin / Chemisch-technischer Assistent (CTA) (w/m/d)"
+      "title": "Chemisch-technische Assistentin / Chemisch-technischer Assistent (CTA) (w/m/d)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct chemistry background and German fluency, despite some overlap in data analysis skills."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170470/computer-scientist-fmd",
@@ -51,15 +57,21 @@
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170079/elektronikerin-elektroniker-wmd-fur-gerate-und-systeme-vollzeit-oder-teilzeit-bis-50",
-      "title": "Elektronikerin / Elektroniker (w/m/d) für Geräte und Systeme"
+      "title": "Elektronikerin / Elektroniker (w/m/d) für Geräte und Systeme",
+      "score": 10,
+      "reasoning": "No direct match, candidate's skills in geosciences, AI, and web development do not align with the role of an electronics technician."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170390/elektronikerin-elektroniker-versorgungsmanagement-wmd",
-      "title": "Elektronikerin / Elektroniker Versorgungsmanagement (w/m/d)"
+      "title": "Elektronikerin / Elektroniker Versorgungsmanagement (w/m/d)",
+      "score": 12,
+      "reasoning": "Unrelated field, no direct match with electronics and power supply management, strong mismatch in skills and domain."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170396/elektrotechnikerin-elektrotechniker-wmd",
-      "title": "Elektrotechnikerin / Elektrotechniker (w/m/d)"
+      "title": "Elektrotechnikerin / Elektrotechniker (w/m/d)",
+      "score": 12,
+      "reasoning": "Unrelated field, candidate's background is in geosciences and web development, not electrical engineering."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170114/fachkrafte-fur-schutz-und-sicherheit-wmd",
@@ -68,30 +80,22 @@
       "reasoning": "No direct match, job title implies security expertise which is not present in the candidate's CV, and German fluency is likely required."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170351/koordinatorin-koordinator-wmd-radiologische-uberwachungkitcampus-nord",
-      "title": "Koordinatorin / Koordinator (w/m/d) Radiologische Überwachung – KIT‑Campus Nord"
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170451/leitende-facharztin-leitender-facharzt-fur-arbeitsmedizin-wmd",
-      "title": "Leitende Fachärztin / Leitender Facharzt für Arbeitsmedizin (w/m/d)"
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170481/leitung-personalbetreuung-hr-manager-wmd",
-      "title": "Leitung Personalbetreuung / HR Manager (w/m/d)",
-      "score": 10,
-      "reasoning": "No direct match, candidate's skills and experience are in geosciences, AI, and web development, not HR management."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170455/mitarbeiterin-mitarbeiter-wmd-instandhaltung-vollzeit",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) Instandhaltung"
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) Instandhaltung",
+      "score": 19,
+      "reasoning": "No direct match with geosciences, AI, or web development; Instandhaltung (maintenance) role seems unrelated to candidate's skills and experience."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170473/mitarbeiterin-mitarbeiter-wmd-fur-buroorganisation-und-community-management",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für Büroorganisation und Community-Management"
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für Büroorganisation und Community-Management",
+      "score": 22,
+      "reasoning": "Poor match due to lack of relevant skills and experience in office organization and community management."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170468/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft"
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft",
+      "score": 68,
+      "reasoning": "Good geosciences background, but job title implies a research-focused role which may require more seniority and stronger German fluency than the candidate possesses."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170332/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft",
@@ -101,11 +105,15 @@
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170342/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft-fur-den-bereich-datenbasierte-experimentelle-validierung-elektrifizierter-antriebsstrange-mit-nasslaufenden-kupplungs-und-bremssystemen",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft für den Bereich Datenbasierte, experimentelle Validierung elektrifizierter Antriebsstränge mit nasslaufenden Kupplungs- und Bremssystemen"
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft für den Bereich Datenbasierte, experimentelle Validierung elektrifizierter Antriebsstränge mit nasslaufenden Kupplungs- und Bremssystemen",
+      "score": 22,
+      "reasoning": "Unrelated field, lacking senior experience and strong German fluency required for the role."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/169972/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft-zum-thema-intelligente-prozessregelung-in-komplexen-produktionsketten",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft zum Thema Intelligente Prozessregelung in komplexen Produktionsketten"
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft zum Thema Intelligente Prozessregelung in komplexen Produktionsketten",
+      "score": 42,
+      "reasoning": "Some skill overlap in AI and data analysis, but role seems to require strong German fluency and senior experience in process control, which the candidate lacks."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170322/mitarbeiterin-mitarbeiter-in-der-alarmzentrale-wmd",
@@ -115,11 +123,9 @@
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170465/mitarbeiterinmitarbeiter-in-der-wissenschaft-wmd-mit-sozialwissenschaftlichen-schwerpunkt-teilzeit-85",
-      "title": "Mitarbeiterin/Mitarbeiter in der Wissenschaft (w/m/d) mit sozialwissenschaftlichen Schwerpunkt"
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170170/personalreferentin-personalreferent-wmd-betreuung-von-tarifbeschaftigten",
-      "title": "Personalreferentin / Personalreferent (w/m/d) - Betreuung von Tarifbeschäftigten"
+      "title": "Mitarbeiterin/Mitarbeiter in der Wissenschaft (w/m/d) mit sozialwissenschaftlichen Schwerpunkt",
+      "score": 22,
+      "reasoning": "Poor fit due to social sciences focus, lacking relevant experience and skills in the field."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170165/phd-position-on-elastocaloric-microcooling-for-photonic-systems-part-time-75",
@@ -128,12 +134,10 @@
       "reasoning": "Weak match due to lack of direct relevance to geosciences or AI/LLM experience, and requirement for PhD level expertise which candidate does not possess."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170472/phd-student-research-assistant-fmd-on-geothermal-energy-part-time-75",
-      "title": "PhD Student / Research Assistant (f/m/d) on \"Geothermal Energy\""
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170411/phd-position-fmd-with-focus-on-generative-ai-methods-for-weather-radar-data-processing-75-part-time",
-      "title": "PhD position (f/m/d)"
+      "title": "PhD position (f/m/d)",
+      "score": 39,
+      "reasoning": "Candidate lacks PhD, senior experience, and strong German fluency required for most PhD positions in Germany."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170404/phd-position-fmd-cross-sensor-transfer-learning-for-long-term-forest-biomass-and-structure-estimation-using-established-and-next-generation-sar-missions-part-time-75",
@@ -143,11 +147,15 @@
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170445/physicist-fmd",
-      "title": "Physicist (f/m/d)"
+      "title": "Physicist (f/m/d)",
+      "score": 22,
+      "reasoning": "Unrelated field, physicist role requires strong physics background which is not present in the candidate's CV, geosciences background is closest match but not sufficient for a physicist role."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170447/physicist-or-chemist-fmd",
-      "title": "Physicist or Chemist (f/m/d)"
+      "title": "Physicist or Chemist (f/m/d)",
+      "score": 22,
+      "reasoning": "Unrelated field, candidate's background is in geosciences, not physics or chemistry."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170374/physikerin-physiker-oder-chemikerin-chemiker-oder-mineralogin-mineraloge-oder-geowissenschaftlerin-geowissenschaftler-wmd-75-teilzeit",
@@ -156,12 +164,10 @@
       "reasoning": "Strong geosciences background, but job title suggests a broader scope including physics, chemistry, and mineralogy, which may require additional knowledge."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/66/rechtsreferendar-wmd-in-der-wahlstation-talentprogramm-fur-juristinnen-und-juristen-schwerpunkt-offentliches-recht-und-zivilrecht",
-      "title": "Rechtsreferendar (w/m/d) in der Wahlstation – Talentprogramm für Juristinnen und Juristen"
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170483/research-associate-fmd",
-      "title": "Research Associate (f/m/d)"
+      "title": "Research Associate (f/m/d)",
+      "score": 68,
+      "reasoning": "Good geosciences and Python fit, recent master's thesis relevant, but research associate role may require more senior experience and academic publications."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170452/research-fellow-fmd",
@@ -170,40 +176,22 @@
       "reasoning": "Strong geosciences background and relevant master thesis, but Research Fellow role may require more seniority and experience, and German fluency could be a limitation."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170458/servicecenterleiterin-servicecenterleiter-wmd-fur-elektro-und-energietechnik-vollzeit",
-      "title": "Servicecenterleiterin / Servicecenterleiter (w/m/d) für Elektro- und Energietechnik"
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170401/specialist-in-life-cycle-analysis-of-data-center-infrastructures-mfd",
-      "title": "Specialist in life cycle analysis of data center infrastructures (m/f/d)"
+      "title": "Specialist in life cycle analysis of data center infrastructures (m/f/d)",
+      "score": 42,
+      "reasoning": "Some skill overlap in data analysis and geospatial skills, but life cycle analysis of data center infrastructures is a stretch, and senior experience is likely required."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170456/technikerin-techniker-wmd-der-fachrichtung-chemietechnik-vollzeit",
-      "title": "Technikerin / Techniker (w/m/d) der Fachrichtung Chemietechnik"
+      "title": "Technikerin / Techniker (w/m/d) der Fachrichtung Chemietechnik",
+      "score": 22,
+      "reasoning": "Unrelated field of study and work experience, strong mismatch in core skills and job requirements."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170439/technikerin-techniker-wmd-in-einem-naturwissenschaftlich-technischen-bereich-oder-technische-assistentin-technischer-assistent-wmd",
       "title": "Technikerin/ Techniker (w/m/d) in einem naturwissenschaftlich-technischen Bereich oder Technische Assistentin / Technischer Assistent (w/m/d)",
       "score": 58,
       "reasoning": "Moderate geosciences background fit, but role seems to require more hands-on technical experience and stronger German fluency."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/169605/tenure-track-professorship-w1-autonomous-particle-accelerators",
-      "title": "Tenure-track Professorship (W1) „Autonomous Particle Accelerators“"
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170266/university-professorship-w3-human-geography",
-      "title": "University Professorship (W3) “Human Geography”"
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170130/university-professorship-w3-chemistry-and-process-engineering-of-energetic-materials",
-      "title": "University Professorship (W3) „Chemistry and process engineering of energetic materials“",
-      "score": 10,
-      "reasoning": "No direct match, candidate lacks senior experience, academic background and skills do not align with professorship requirements."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170426/university-professorship-w3-urban-design",
-      "title": "University Professorship (W3) „Urban Design“"
     }
   ]
 }

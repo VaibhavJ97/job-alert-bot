@@ -1,9 +1,11 @@
 {
-  "updated_at": "2026-05-28T18:34:48+00:00",
+  "updated_at": "2026-05-28T18:59:24+00:00",
   "jobs": [
     {
       "url": "https://www.enbw.com/karriere/unsere-mission",
-      "title": "Unsere Mission"
+      "title": "Unsere Mission",
+      "score": 0,
+      "reasoning": "Job title 'Unsere Mission' is not descriptive and does not provide enough information to evaluate the candidate's fit."
     },
     {
       "url": "https://www.enbw.com/karriere/unsere-werte",
@@ -13,11 +15,15 @@
     },
     {
       "url": "https://www.enbw.com/karriere/unsere-benefits",
-      "title": "Alle Benefits"
+      "title": "Alle Benefits",
+      "score": 0,
+      "reasoning": "Job title does not match any known job title or description, cannot evaluate candidate fit."
     },
     {
       "url": "https://careers.enbw.com/de_DE/careers/SearchJobs/?3_35_3=%5B%22380%22%5D&_gl=1*iqcc71*_ga_TPZ0BQETE9*MTY5ODQwOTc3MS4zLjEuMTY5ODQwOTgyNy4wLjAuMA..",
-      "title": "FÃ¼hrungspositionen"
+      "title": "FÃ¼hrungspositionen",
+      "score": 10,
+      "reasoning": "Job title 'FÃ¼hrungspositionen' translates to leadership positions, which requires senior experience the candidate lacks."
     },
     {
       "url": "https://www.enbw.com/karriere/einstiege-aufstiege/berufserfahrene-und-berufseinsteiger",
@@ -26,12 +32,10 @@
       "reasoning": "Moderate fit due to geosciences background, but Einstiegs- und Fachpositionen is broad and may require senior experience or strong German fluency, both of which are not fully met."
     },
     {
-      "url": "https://www.enbw.com/karriere/einstiege-aufstiege/studierende",
-      "title": "Einstieg fÃ¼r Studierende"
-    },
-    {
       "url": "https://www.enbw.com/karriere/einstiege-aufstiege/schuelerinnen-und-schueler",
-      "title": "Einstieg SchÃ¼ler&ast;innen"
+      "title": "Einstieg SchÃ¼ler&ast;innen",
+      "score": 0,
+      "reasoning": "Job title 'Einstieg Schüler*innen' translates to 'Entry Pupils', which is unrelated to the candidate's education, skills, and experience."
     },
     {
       "url": "https://www.enbw.com/karriere/blog",
@@ -41,11 +45,15 @@
     },
     {
       "url": "https://www.enbw.com/karriere/enbw-entdecken",
-      "title": "EnBW entdecken"
+      "title": "EnBW entdecken",
+      "score": 22,
+      "reasoning": "Unrelated job title, no direct connection to candidate's skills or experience, and likely requires strong German fluency."
     },
     {
       "url": "https://www.enbw.com/karriere/bewerben/onboarding",
-      "title": "Onboarding"
+      "title": "Onboarding",
+      "score": 20,
+      "reasoning": "No direct skills or experience related to onboarding, major reskilling needed."
     }
   ]
 }
