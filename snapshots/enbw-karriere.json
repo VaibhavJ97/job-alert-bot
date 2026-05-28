@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T18:24:39+00:00",
+  "updated_at": "2026-05-28T18:34:48+00:00",
   "jobs": [
     {
       "url": "https://www.enbw.com/karriere/unsere-mission",
@@ -7,7 +7,9 @@
     },
     {
       "url": "https://www.enbw.com/karriere/unsere-werte",
-      "title": "Unsere Werte"
+      "title": "Unsere Werte",
+      "score": 0,
+      "reasoning": "Job title 'Unsere Werte' does not provide enough information to determine a match."
     },
     {
       "url": "https://www.enbw.com/karriere/unsere-benefits",
@@ -19,7 +21,9 @@
     },
     {
       "url": "https://www.enbw.com/karriere/einstiege-aufstiege/berufserfahrene-und-berufseinsteiger",
-      "title": "Einstiegs- und Fachpositionen"
+      "title": "Einstiegs- und Fachpositionen",
+      "score": 58,
+      "reasoning": "Moderate fit due to geosciences background, but Einstiegs- und Fachpositionen is broad and may require senior experience or strong German fluency, both of which are not fully met."
     },
     {
       "url": "https://www.enbw.com/karriere/einstiege-aufstiege/studierende",
@@ -31,7 +35,9 @@
     },
     {
       "url": "https://www.enbw.com/karriere/blog",
-      "title": "Alle BlogbeitrÃ¤ge in der Ãbersicht"
+      "title": "Alle BlogbeitrÃ¤ge in der Ãbersicht",
+      "score": 10,
+      "reasoning": "Job title does not match any of the candidate's preferred roles or skills."
     },
     {
       "url": "https://www.enbw.com/karriere/enbw-entdecken",

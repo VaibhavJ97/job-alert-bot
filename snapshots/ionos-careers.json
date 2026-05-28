@@ -1,85 +1,125 @@
 {
-  "updated_at": "2026-05-28T18:24:38+00:00",
+  "updated_at": "2026-05-28T18:34:34+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
-      "title": "About us"
+      "title": "About us",
+      "score": 0,
+      "reasoning": "Job title 'About us' is not a valid job title to evaluate against the candidate's skills and experience."
     },
     {
       "url": "https://jobs.ionos.de/career/your-career",
-      "title": "Your career"
+      "title": "Your career",
+      "score": 20,
+      "reasoning": "Job title is too vague, no direct skills or domain match, unclear seniority level."
     },
     {
       "url": "https://jobs.ionos.de/career/locations/berlin",
-      "title": "Locations"
+      "title": "Locations",
+      "score": 0,
+      "reasoning": "No direct relation to Locations job title, lacking relevant skills and experience."
     },
     {
       "url": "https://jobs.ionos.de/career/departments/customer-care",
-      "title": "Departments"
+      "title": "Departments",
+      "score": 19,
+      "reasoning": "No direct match, 'Departments' is too vague and does not align with candidate's skills or experience."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs",
-      "title": "All jobs"
+      "title": "All jobs",
+      "score": 73,
+      "reasoning": "Strong geospatial and programming skills, but senior roles may be a reach due to limited work experience in primary fields of interest."
     },
     {
       "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs",
-      "title": "DE"
+      "title": "DE",
+      "score": 32,
+      "reasoning": "Candidate lacks direct experience and fluency in German, which is crucial for a DE (Germany) job title, and role specifics are unclear."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs?new-search=1",
-      "title": "Reset filter"
+      "title": "Reset filter",
+      "score": 50,
+      "reasoning": "No specific job title provided for evaluation."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4876204101-full-stack-developer-working-student-for-paid-products-team-hybrid",
-      "title": "Full-Stack Developer Working Student for Paid Products team (hybrid)"
+      "title": "Full-Stack Developer Working Student for Paid Products team (hybrid)",
+      "score": 78,
+      "reasoning": "Strong web development and programming skills match, experience with TYPO3 and web technologies is a plus, but full-stack role may require additional learning and seniority is not a major concern due to working student position."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4788888101-product-manager-fmd-public-cloud",
-      "title": "Product Manager (f/m/d) Public Cloud"
+      "title": "Product Manager (f/m/d) Public Cloud",
+      "score": 22,
+      "reasoning": "Candidate lacks direct experience in product management, and the role seems to require senior-level expertise, which is not evident in the CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4875289101-working-student-fmd-compliance",
-      "title": "Working Student (f/m/d) - Compliance"
+      "title": "Working Student (f/m/d) - Compliance",
+      "score": 20,
+      "reasoning": "Unrelated role, no direct match with candidate's skills or domain experience, compliance role requires different skillset."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4870632101-working-student-fmd-compliance",
-      "title": "Working Student (f/m/d) - Compliance"
+      "title": "Working Student (f/m/d) - Compliance",
+      "score": 20,
+      "reasoning": "Unrelated role, compliance does not match candidate's technical skills or geosciences background."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4875080101-working-student-fmd-customer-care-operations",
-      "title": "Working Student (f/m/d) Customer Care Operations"
+      "title": "Working Student (f/m/d) Customer Care Operations",
+      "score": 22,
+      "reasoning": "No direct match with customer care operations, candidate's skills in geosciences, AI, and web development are not relevant to the role."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4847787101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
-      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)"
+      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)",
+      "score": 58,
+      "reasoning": "Some skill overlap in AI/ML and programming, but role seems to require more senior experience and strong operations focus, which is not prominent in the candidate's background."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4464181101-quality-assurance-automation-working-student-for-mail-media-team-hybrid",
-      "title": "Quality Assurance Automation Working Student for Mail & Media team (hybrid)"
+      "title": "Quality Assurance Automation Working Student for Mail & Media team (hybrid)",
+      "score": 42,
+      "reasoning": "Some skill overlap in web development and automation, but primary focus on mail and media team may require significant learning curve and role seems somewhat unrelated to candidate's primary interests and geosciences background."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4764586101-working-student-fmd-global-it-support",
-      "title": "Working Student (f/m/d) - Global IT Support"
+      "title": "Working Student (f/m/d) - Global IT Support",
+      "score": 39,
+      "reasoning": "Some web development skills overlap, but role seems to focus on IT support rather than development or geosciences, and lacks clear connection to candidate's core skills and interests."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4789659101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
-      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)"
+      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)",
+      "score": 58,
+      "reasoning": "Some skill overlap in AI/ML and web development, but DevOps role may require more senior experience and German fluency."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4750313101-sr-manager",
-      "title": "Sr. Manager"
+      "title": "Sr. Manager",
+      "score": 10,
+      "reasoning": "Candidate lacks senior experience and management skills for Sr. Manager role."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4707449101-digital-media-manager-fmd-programmatic-video-display-social",
-      "title": "Digital Media Manager (f/m/d) Programmatic Video, Display & Social"
+      "title": "Digital Media Manager (f/m/d) Programmatic Video, Display & Social",
+      "score": 22,
+      "reasoning": "Unrelated role, lacking direct experience in digital media management, programmatic video, display, and social media, with no clear connection to geosciences, AI, or web development."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4864450101-digital-media-manager-fmd-programmatic-video-display-social",
-      "title": "Digital Media Manager (f/m/d) Programmatic Video, Display & Social"
+      "title": "Digital Media Manager (f/m/d) Programmatic Video, Display & Social",
+      "score": 22,
+      "reasoning": "Unrelated role, lacking direct experience in digital media management, programmatic video, display, and social; strong technical skills in AI, geosciences, and web development are not applicable."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4706707101-working-student-fmd-occupational-health-management",
-      "title": "Working Student (f/m/d) - Occupational Health Management"
+      "title": "Working Student (f/m/d) - Occupational Health Management",
+      "score": 20,
+      "reasoning": "Unrelated field, no direct match with candidate's skills or experience in geosciences, AI, or web development."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4851165101-data-engineer-python-kafka-in-development-romania-access-business-intelligence-team-hybrid",
@@ -91,7 +131,9 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4740677101-senior-website-analyst-e-commerce-management-fmd",
-      "title": "(Senior) Website Analyst – E-Commerce Management (f/m/d)"
+      "title": "(Senior) Website Analyst – E-Commerce Management (f/m/d)",
+      "score": 42,
+      "reasoning": "Some skill overlap in web development, but senior level and e-commerce management are a stretch, and German fluency may be required."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4789603101-ai-developer-with-python-for-customer-care-ai-platform-team-hybrid",
@@ -107,7 +149,9 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4835449101-devops-engineer-for-customer-care-ai-platform-team-fmd",
-      "title": "DevOps Engineer for Customer Care AI Platform Team (f/m/d)"
+      "title": "DevOps Engineer for Customer Care AI Platform Team (f/m/d)",
+      "score": 58,
+      "reasoning": "Some skill overlap in AI/ML and programming, but DevOps role may require more senior experience and specific expertise in cloud infrastructure, which is not highlighted in the candidate's CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4847123101-devops-engineer-for-customer-care-ai-platform-team-fmd",
@@ -123,7 +167,9 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4813547101-head-of-grc-fmd",
-      "title": "Head of GRC (f/m/d)"
+      "title": "Head of GRC (f/m/d)",
+      "score": 10,
+      "reasoning": "No direct match, GRC (Governance, Risk, Compliance) role requires senior experience and strong German fluency, both of which the candidate lacks."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4741977101-hr-admin-partner",
@@ -131,7 +177,9 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4673420101-network-reliability-engineer-fmd-defense-products",
-      "title": "Network Reliability Engineer (f/m/d) - Defense Products"
+      "title": "Network Reliability Engineer (f/m/d) - Defense Products",
+      "score": 22,
+      "reasoning": "Unrelated field, no direct match with geosciences, AI, or web development; senior network engineering role likely requires significant reskilling."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4699205101-senior-manager-dc-software-development-mwd",
@@ -147,7 +195,9 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4654971101-senior-software-developer-fmd-sre",
-      "title": "Senior Software Developer (f/m/d) SRE"
+      "title": "Senior Software Developer (f/m/d) SRE",
+      "score": 59,
+      "reasoning": "Some skill overlap in web development and Python, but senior level and SRE focus may require significant experience and expertise beyond the candidate's current profile."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4703515101-senior-ux-designer-fmd-aiagent-conversational-experience",
@@ -159,7 +209,9 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4684000101-site-reliability-engineer-fmd",
-      "title": "Site Reliability Engineer (f/m/d)"
+      "title": "Site Reliability Engineer (f/m/d)",
+      "score": 39,
+      "reasoning": "Some skill overlap in programming and web development, but role requires senior experience and strong system reliability skills, which are not evident in the candidate's CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4766128101-site-reliability-engineer-fmd-defense-products",
@@ -171,7 +223,9 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4750929101-software-engineer-with-c-for-it-infrastructure-development-team-hybrid",
-      "title": "Software Engineer with C++ for IT Infrastructure Development Team (hybrid)"
+      "title": "Software Engineer with C++ for IT Infrastructure Development Team (hybrid)",
+      "score": 40,
+      "reasoning": "Some skill overlap in web development, but C++ requirement and IT infrastructure focus are a significant departure from candidate's geosciences and AI/ML background."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4659163101-specialist-software-engineer-fmd-managed-kubernetes",
@@ -183,7 +237,9 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4840792101-technical-support-representative",
-      "title": "Technical Support Representative"
+      "title": "Technical Support Representative",
+      "score": 39,
+      "reasoning": "Some technical skills overlap, but role seems to focus on support rather than development or geosciences, and lacks direct alignment with candidate's core skills and interests."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4314656101-teleconseiller-fhd-niveau-1",
@@ -199,7 +255,9 @@
     },
     {
       "url": "https://jobs.ionos.de/career/privacy-policy",
-      "title": "Privacy Policy"
+      "title": "Privacy Policy",
+      "score": 0,
+      "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
     }
   ]
 }
