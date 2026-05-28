@@ -1,0 +1,45 @@
+{
+  "_comment": "Filter jobs BEFORE AI scoring. A job is REJECTED if its title contains ANY 'exclude' keyword (case-insensitive substring match). Empty 'include' = all titles pass unless they hit an exclude.",
+
+  "include": [],
+
+  "exclude": [
+    "internship", "praktikum", "praktikant", "praktikantin",
+    "minijob", "mini-job", "450-euro-job", "520-euro-job", "geringfügig",
+
+    "thesis", "master-thesis", "bachelor-thesis",
+    "master thesis", "bachelor thesis",
+    "abschlussarbeit", "masterarbeit", "bachelorarbeit", "diplomarbeit",
+
+    "ausbildung", "auszubildende", "azubi",
+    "apprenticeship", "apprentice",
+
+    "student", "studentin", "studierende",
+    "werkstudent", "working student",
+
+    "school internship", "schülerpraktikum",
+    "pupil", "schüler", "schülerin",
+
+    "senior", "leitende", "leitender",
+    "manager", "leiter", "leiterin", "leitung",
+    "team leader", "team lead",
+    "teamleiter", "teamleiterin", "teamleitung",
+    "gruppenleiter", "gruppenleiterin",
+
+    "professor", "professorship", "tenure", "tenure-track",
+    "vorstand", "geschäftsführer", "ceo", "cfo", "cto",
+    "vp of", "head of", "chief", "director", "vice president",
+    "principal architect",
+    "10+ years", "15+ years", "20+ years",
+
+    "buchhalter", "buchhaltung", "accountant",
+    "verkauf", "vertrieb", "sales executive", "account executive",
+    "personalreferent", "recruiter", "talent acquisition",
+
+    "pflege", "krankenschwester", "facharzt", "ärztin", "arbeitsmedizin",
+    "radiologisch", "radiologie",
+
+    "elektriker", "mechaniker", "facility", "reinigung",
+    "rechtsanwalt", "jurist", "legal counsel"
+  ]
+}
