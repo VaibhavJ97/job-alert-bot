@@ -30,6 +30,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run the scraper
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          CV_TEXT: ${{ secrets.CV_TEXT }}
         run: python scripts/fetch.py
 
       - name: Commit new snapshots and digest back to the repo
