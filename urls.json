@@ -1,9 +1,9 @@
 {
-  "_comment": "Edit this file to add or remove career-site URLs. The scraper handles failures gracefully - one broken URL never stops the others. To temporarily disable a site without deleting it, set enabled=false.",
+  "_comment": "Edit this file to add or remove career-site URLs. The scraper handles failures gracefully - one broken URL never stops the others.",
   "sites": [
     {
       "name": "IONOS Careers",
-      "url": "https://careers.ionos.com/",
+      "url": "https://jobs.ionos.de/career/all-jobs",
       "enabled": true
     },
     {
@@ -12,33 +12,38 @@
       "enabled": true
     },
     {
+      "name": "CAS Software",
+      "url": "https://www.cas-mitgestalter.de/jobs/",
+      "enabled": true
+    },
+    {
+      "name": "KIT Jobs",
+      "url": "https://jobs.pse.kit.edu/",
+      "enabled": true
+    },
+    {
       "name": "inovex Karriere",
-      "url": "https://www.inovex.de/de/karriere/",
+      "url": "https://www.stepstone.de/cmp/de/inovex-gmbh-24494/jobs",
       "enabled": true
     },
     {
-      "name": "CAS Software Karriere",
-      "url": "https://www.cas.de/karriere",
+      "name": "CAS Software via Stepstone",
+      "url": "https://www.stepstone.de/cmp/de/cas-software-ag-25309/jobs",
       "enabled": true
     },
     {
-      "name": "Vulcan Energy Careers",
-      "url": "https://v-er.eu/careers/",
+      "name": "Atruvia via Stepstone",
+      "url": "https://www.stepstone.de/cmp/de/atruvia-ag-271559/jobs",
       "enabled": true
     },
     {
-      "name": "INERATEC Careers",
-      "url": "https://ineratec.de/careers/",
+      "name": "Vulcan Energy via Stepstone",
+      "url": "https://www.stepstone.de/cmp/de/vulcan-energy/jobs",
       "enabled": true
     },
     {
-      "name": "Atruvia Karriere",
-      "url": "https://atruvia.de/karriere",
-      "enabled": true
-    },
-    {
-      "name": "KIT Stellenmarkt",
-      "url": "https://www.pse.kit.edu/karriere/",
+      "name": "INERATEC via Stepstone",
+      "url": "https://www.stepstone.de/cmp/de/ineratec-gmbh/jobs",
       "enabled": true
     }
   ]
