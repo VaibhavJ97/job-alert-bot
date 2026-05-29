@@ -1,8 +1,6 @@
 {
-  "_comment": "Filter jobs BEFORE AI scoring. A job is REJECTED if its title contains ANY 'exclude' keyword (case-insensitive substring match). Empty 'include' = all titles pass unless they hit an exclude.",
-
+  "_comment_title": "TITLE FILTER. A job is REJECTED at title level if its title contains ANY 'exclude' keyword (case-insensitive substring match). 'include' is empty = all titles pass unless excluded.",
   "include": [],
-
   "exclude": [
     "internship", "praktikum", "praktikant", "praktikantin",
     "minijob", "mini-job", "450-euro-job", "520-euro-job", "geringfügig",
@@ -41,5 +39,39 @@
 
     "elektriker", "mechaniker", "facility", "reinigung",
     "rechtsanwalt", "jurist", "legal counsel"
+  ],
+
+  "_comment_description": "DESCRIPTION FILTER for English-friendly jobs only. A job survives ONLY IF its description mentions English (in EN or DE) somewhere. Pure German-only jobs almost never mention English, so this filters them out. JS-rendered pages where description can't be fetched still pass through with title-only AI scoring.",
+  "description_include": [
+    "english",
+    "fluent english",
+    "good english",
+    "verygood english",
+    "very good english",
+    "excellent english",
+    "b2 english",
+    "c1 english",
+    "c2 english",
+    "native english",
+    "mother tongue english",
+
+    "englisch",
+    "englischkenntnisse",
+    "fließendes englisch",
+    "fließend englisch",
+    "englisch fließend",
+    "gutes englisch",
+    "gute englischkenntnisse",
+    "sehr gutes englisch",
+    "sehr gute englischkenntnisse",
+    "ausgezeichnetes englisch",
+    "hervorragendes englisch",
+    "hervorragende englischkenntnisse",
+    "englisch b2",
+    "englisch c1",
+    "englisch c2",
+    "englisch muttersprache",
+    "muttersprache englisch",
+    "englisch als muttersprache"
   ]
 }
