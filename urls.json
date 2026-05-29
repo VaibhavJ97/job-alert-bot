@@ -27,6 +27,11 @@
       "enabled": true
     },
     {
+      "name": "Greenjobs",
+      "url": "https://www.greenjobs.de/angebote/index.html?z=alle",
+      "enabled": true
+    },
+    {
       "name": "KIT Jobs",
       "url": "https://jobs.pse.kit.edu/",
       "enabled": true
