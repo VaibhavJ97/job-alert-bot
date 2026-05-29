@@ -22,6 +22,11 @@
       "enabled": true
     },
     {
+      "name": "Spatial",
+      "url": "https://spaitial.ai/careers",
+      "enabled": true
+    },
+    {
       "name": "KIT Jobs",
       "url": "https://jobs.pse.kit.edu/",
       "enabled": true
