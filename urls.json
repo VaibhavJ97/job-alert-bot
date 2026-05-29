@@ -32,6 +32,11 @@
       "enabled": true
     },
     {
+      "name": "braun-management",
+      "url": "https://braun-management.now-remote.com/",
+      "enabled": true
+    },
+    {
       "name": "KIT Jobs",
       "url": "https://jobs.pse.kit.edu/",
       "enabled": true
