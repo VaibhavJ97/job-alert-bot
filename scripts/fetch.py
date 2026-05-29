@@ -68,6 +68,8 @@ REPO_URL = "https://github.com/VaibhavJ97/job-alert-bot"
 JOB_PATTERNS = re.compile(
     r"(/jobs?/[^/\s]+|/career/[^/\s]+|/careers/[^/\s]+|"
     r"/karriere/[^/\s]+|/stelle/[^/\s]+|/stellen/[^/\s]+|"
+    r"/stellenanzeige/[^/\s]+|/stellenangebote/[^/\s]+|"
+    r"/angebote/[^/\s]*[?&]id=\d|"
     r"/position/[^/\s]+|/vacanc[^/\s]+|/openings/[^/\s]+|"
     r"/offers?/[^/\s]+|/jobdetail/|jobid=|/job_|"
     r"/recruiting/[^/\s]+|smartrecruiters\.com/.+/.+|"
