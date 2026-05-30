@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T20:32:42+00:00",
+  "updated_at": "2026-05-30T03:53:49+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170486/academic-researcher-fmd",
@@ -68,12 +68,6 @@
       "reasoning": "Unrelated field, no direct match with electronics and power supply management, strong mismatch in skills and domain."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170396/elektrotechnikerin-elektrotechniker-wmd",
-      "title": "Elektrotechnikerin / Elektrotechniker (w/m/d)",
-      "score": 12,
-      "reasoning": "Unrelated field, candidate's background is in geosciences and web development, not electrical engineering."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170114/fachkrafte-fur-schutz-und-sicherheit-wmd",
       "title": "Fachkräfte für Schutz und Sicherheit (w/m/d)",
       "score": 12,
@@ -114,12 +108,6 @@
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft zum Thema Intelligente Prozessregelung in komplexen Produktionsketten",
       "score": 42,
       "reasoning": "Some skill overlap in AI and data analysis, but role seems to require strong German fluency and senior experience in process control, which the candidate lacks."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170322/mitarbeiterin-mitarbeiter-in-der-alarmzentrale-wmd",
-      "title": "Mitarbeiterin / Mitarbeiter in der Alarmzentrale (w/m/d)",
-      "score": 22,
-      "reasoning": "No direct match with geosciences, AI, or web development skills, and German fluency is likely required for the role."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170465/mitarbeiterinmitarbeiter-in-der-wissenschaft-wmd-mit-sozialwissenschaftlichen-schwerpunkt-teilzeit-85",
@@ -174,12 +162,6 @@
       "title": "Research Fellow (f/m/d)",
       "score": 68,
       "reasoning": "Strong geosciences background and relevant master thesis, but Research Fellow role may require more seniority and experience, and German fluency could be a limitation."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170401/specialist-in-life-cycle-analysis-of-data-center-infrastructures-mfd",
-      "title": "Specialist in life cycle analysis of data center infrastructures (m/f/d)",
-      "score": 42,
-      "reasoning": "Some skill overlap in data analysis and geospatial skills, but life cycle analysis of data center infrastructures is a stretch, and senior experience is likely required."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170456/technikerin-techniker-wmd-der-fachrichtung-chemietechnik-vollzeit",
