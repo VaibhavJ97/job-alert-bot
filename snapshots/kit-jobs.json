@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T19:24:04+00:00",
+  "updated_at": "2026-06-01T04:46:54+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170486/academic-researcher-fmd",
@@ -38,12 +38,6 @@
       "reasoning": "Some skill overlap in geosciences and data analysis, but role title implies senior academic position requiring strong German fluency and significant experience, which the candidate lacks."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170422/assistentin-assistent-wmd-in-der-geschaftsstelle-der-kit-fakultat-bau-geo-umwelt",
-      "title": "Assistentin / Assistent (w/m/d) in der Geschäftsstelle der KIT-Fakultät Bau-Geo-Umwelt",
-      "score": 42,
-      "reasoning": "Some skill overlap in geosciences, but role seems administrative and requires strong German fluency, which is a significant mismatch."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170488/chemisch-technische-assistentin-chemisch-technischer-assistent-cta-wmd-vollzeit",
       "title": "Chemisch-technische Assistentin / Chemisch-technischer Assistent (CTA) (w/m/d)",
       "score": 22,
@@ -68,12 +62,6 @@
       "reasoning": "Unrelated field, no direct match with electronics and power supply management, strong mismatch in skills and domain."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170114/fachkrafte-fur-schutz-und-sicherheit-wmd",
-      "title": "Fachkräfte für Schutz und Sicherheit (w/m/d)",
-      "score": 12,
-      "reasoning": "No direct match, job title implies security expertise which is not present in the candidate's CV, and German fluency is likely required."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170455/mitarbeiterin-mitarbeiter-wmd-instandhaltung-vollzeit",
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) Instandhaltung",
       "score": 19,
@@ -86,28 +74,10 @@
       "reasoning": "Poor match due to lack of relevant skills and experience in office organization and community management."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170468/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft",
-      "score": 68,
-      "reasoning": "Good geosciences background, but job title implies a research-focused role which may require more seniority and stronger German fluency than the candidate possesses."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170332/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft",
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft",
       "score": 68,
       "reasoning": "Good geosciences background, but job title implies a research-focused role which may require more seniority and stronger German fluency than the candidate possesses."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170342/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft-fur-den-bereich-datenbasierte-experimentelle-validierung-elektrifizierter-antriebsstrange-mit-nasslaufenden-kupplungs-und-bremssystemen",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft für den Bereich Datenbasierte, experimentelle Validierung elektrifizierter Antriebsstränge mit nasslaufenden Kupplungs- und Bremssystemen",
-      "score": 22,
-      "reasoning": "Unrelated field, lacking senior experience and strong German fluency required for the role."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/169972/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft-zum-thema-intelligente-prozessregelung-in-komplexen-produktionsketten",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft zum Thema Intelligente Prozessregelung in komplexen Produktionsketten",
-      "score": 42,
-      "reasoning": "Some skill overlap in AI and data analysis, but role seems to require strong German fluency and senior experience in process control, which the candidate lacks."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170465/mitarbeiterinmitarbeiter-in-der-wissenschaft-wmd-mit-sozialwissenschaftlichen-schwerpunkt-teilzeit-85",
