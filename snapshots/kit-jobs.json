@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T10:45:28+00:00",
+  "updated_at": "2026-06-02T16:43:21+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -60,6 +60,18 @@
       "title": "Fachkräfte für Schutz und Sicherheit (w/m/d)",
       "score": 10,
       "reasoning": "No direct match in skills or domain; job requires security and safety expertise, German fluency, and specific certifications, which the candidate lacks."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170498/ingenieurin-maschinenbau-konstruktion-wmd",
+      "title": "Ingenieur/in Maschinenbau, Konstruktion (w/m/d)",
+      "score": 22,
+      "reasoning": "Poor match due to lack of mechanical engineering background and relevant work experience; German fluency is also below required level."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170526/internetredakteurin-internetredakteur-und-it-beauftragte-it-beauftragter-wmd-vollzeit",
+      "title": "Internetredakteurin / Internetredakteur und IT-Beauftragte / IT-Beauftragter (w/m/d)",
+      "score": 58,
+      "reasoning": "Some skill overlap in web development and IT, but role emphasizes IT coordination, server operation, and German fluency, which are not the candidate's strong suits; manageable learning curve, but not a direct fit."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170455/mitarbeiterin-mitarbeiter-wmd-instandhaltung-vollzeit",
@@ -132,18 +144,6 @@
       "title": "Technikerin/ Techniker (w/m/d) in einem naturwissenschaftlich-technischen Bereich oder Technische Assistentin / Technischer Assistent (w/m/d)",
       "score": 58,
       "reasoning": "Moderate geosciences background fit, but role seems to require more hands-on technical experience and stronger German fluency."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170498/ingenieurin-maschinenbau-konstruktion-wmd",
-      "title": "Ingenieur/in Maschinenbau, Konstruktion (w/m/d)",
-      "score": 22,
-      "reasoning": "Poor match due to lack of mechanical engineering background and relevant work experience; German fluency is also below required level."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170526/internetredakteurin-internetredakteur-und-it-beauftragte-it-beauftragter-wmd-vollzeit",
-      "title": "Internetredakteurin / Internetredakteur und IT-Beauftragte / IT-Beauftragter (w/m/d)",
-      "score": 58,
-      "reasoning": "Some skill overlap in web development and IT, but role emphasizes IT coordination, server operation, and German fluency, which are not the candidate's strong suits; manageable learning curve, but not a direct fit."
     }
   ]
 }
