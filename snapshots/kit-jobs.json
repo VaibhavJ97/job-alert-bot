@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T04:26:40+00:00",
+  "updated_at": "2026-06-02T10:45:28+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -56,6 +56,12 @@
       "reasoning": "Unrelated field, no direct match with electronics and power supply management, strong mismatch in skills and domain."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170527/fachkrafte-fur-schutz-und-sicherheit-wmd",
+      "title": "Fachkräfte für Schutz und Sicherheit (w/m/d)",
+      "score": 10,
+      "reasoning": "No direct match in skills or domain; job requires security and safety expertise, German fluency, and specific certifications, which the candidate lacks."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170455/mitarbeiterin-mitarbeiter-wmd-instandhaltung-vollzeit",
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) Instandhaltung",
       "score": 19,
@@ -104,12 +110,6 @@
       "reasoning": "Unrelated field, candidate's background is in geosciences, not physics or chemistry."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170374/physikerin-physiker-oder-chemikerin-chemiker-oder-mineralogin-mineraloge-oder-geowissenschaftlerin-geowissenschaftler-wmd-75-teilzeit",
-      "title": "Physikerin / Physiker oder Chemikerin / Chemiker oder Mineralogin / Mineraloge oder Geowissenschaftlerin / Geowissenschaftler (w/m/d)",
-      "score": 68,
-      "reasoning": "Strong geosciences background, but job title suggests a broader scope including physics, chemistry, and mineralogy, which may require additional knowledge."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170483/research-associate-fmd",
       "title": "Research Associate (f/m/d)",
       "score": 68,
@@ -134,10 +134,16 @@
       "reasoning": "Moderate geosciences background fit, but role seems to require more hands-on technical experience and stronger German fluency."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170527/fachkrafte-fur-schutz-und-sicherheit-wmd",
-      "title": "Fachkräfte für Schutz und Sicherheit (w/m/d)",
-      "score": 10,
-      "reasoning": "No direct match in skills or domain; job requires security and safety expertise, German fluency, and specific certifications, which the candidate lacks."
+      "url": "https://jobs.pse.kit.edu/en/jobs/170498/ingenieurin-maschinenbau-konstruktion-wmd",
+      "title": "Ingenieur/in Maschinenbau, Konstruktion (w/m/d)",
+      "score": 22,
+      "reasoning": "Poor match due to lack of mechanical engineering background and relevant work experience; German fluency is also below required level."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170526/internetredakteurin-internetredakteur-und-it-beauftragte-it-beauftragter-wmd-vollzeit",
+      "title": "Internetredakteurin / Internetredakteur und IT-Beauftragte / IT-Beauftragter (w/m/d)",
+      "score": 58,
+      "reasoning": "Some skill overlap in web development and IT, but role emphasizes IT coordination, server operation, and German fluency, which are not the candidate's strong suits; manageable learning curve, but not a direct fit."
     }
   ]
 }

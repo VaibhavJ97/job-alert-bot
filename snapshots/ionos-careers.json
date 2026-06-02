@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T04:26:27+00:00",
+  "updated_at": "2026-06-02T10:45:10+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -44,30 +44,6 @@
       "reasoning": "No specific job title provided for evaluation."
     },
     {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4847787101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
-      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)",
-      "score": 58,
-      "reasoning": "Some skill overlap in AI/ML and programming, but role seems to require more senior experience and strong operations focus, which is not prominent in the candidate's background."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4789659101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
-      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)",
-      "score": 58,
-      "reasoning": "Some skill overlap in AI/ML and web development, but DevOps role may require more senior experience and German fluency."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4851165101-data-engineer-python-kafka-in-development-romania-access-business-intelligence-team-hybrid",
-      "title": "Data Engineer (Python & Kafka) in Development Romania Access & Business Intelligence team (hybrid)",
-      "score": 68,
-      "reasoning": "Good Python skills, but Data Engineer role may require more specific experience with Kafka and data engineering, moderate fit."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4851194101-data-engineer-databricks-in-development-romania-access-business-intelligence-team-hybrid",
-      "title": "Data Engineer (Databricks) in Development Romania Access & Business Intelligence team (hybrid)",
-      "score": 68,
-      "reasoning": "Some skill overlap with data and programming, but role is more focused on Databricks and business intelligence, which is not a direct match with candidate's geosciences background and AI/ML focus."
-    },
-    {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4789603101-ai-developer-with-python-for-customer-care-ai-platform-team-hybrid",
       "title": "AI Developer with Python for Customer Care AI Platform team (hybrid)",
       "score": 78,
@@ -78,6 +54,30 @@
       "title": "Customer Retention and Telesales Specialist",
       "score": 12,
       "reasoning": "No direct match with customer retention and telesales; skills and experience are in geosciences, web development, and AI, with no relevant sales background."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4851194101-data-engineer-databricks-in-development-romania-access-business-intelligence-team-hybrid",
+      "title": "Data Engineer (Databricks) in Development Romania Access & Business Intelligence team (hybrid)",
+      "score": 68,
+      "reasoning": "Some skill overlap with data and programming, but role is more focused on Databricks and business intelligence, which is not a direct match with candidate's geosciences background and AI/ML focus."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4851165101-data-engineer-python-kafka-in-development-romania-access-business-intelligence-team-hybrid",
+      "title": "Data Engineer (Python & Kafka) in Development Romania Access & Business Intelligence team (hybrid)",
+      "score": 68,
+      "reasoning": "Good Python skills, but Data Engineer role may require more specific experience with Kafka and data engineering, moderate fit."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4789659101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
+      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)",
+      "score": 58,
+      "reasoning": "Some skill overlap in AI/ML and web development, but DevOps role may require more senior experience and German fluency."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4847787101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
+      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)",
+      "score": 58,
+      "reasoning": "Some skill overlap in AI/ML and programming, but role seems to require more senior experience and strong operations focus, which is not prominent in the candidate's background."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4835449101-devops-engineer-for-customer-care-ai-platform-team-fmd",
