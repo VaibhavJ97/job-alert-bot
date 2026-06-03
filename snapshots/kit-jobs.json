@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T20:55:54+00:00",
+  "updated_at": "2026-06-03T04:45:55+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -144,6 +144,18 @@
       "title": "Technikerin/ Techniker (w/m/d) in einem naturwissenschaftlich-technischen Bereich oder Technische Assistentin / Technischer Assistent (w/m/d)",
       "score": 58,
       "reasoning": "Moderate geosciences background fit, but role seems to require more hands-on technical experience and stronger German fluency."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170520/philosopher-fmd-part-time-75",
+      "title": "Philosopher (f/m/d)",
+      "score": 10,
+      "reasoning": "Unrelated field of philosophy, no match with geosciences, AI, or web development skills; strong English required but no issue, German A2 not a concern."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170539/research-software-engineer-fmd",
+      "title": "Research Software Engineer (f/m/d)",
+      "score": 78,
+      "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
     }
   ]
 }
