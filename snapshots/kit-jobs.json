@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T11:09:34+00:00",
+  "updated_at": "2026-06-03T17:00:02+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -66,6 +66,12 @@
       "title": "Ingenieur/in Maschinenbau, Konstruktion (w/m/d)",
       "score": 22,
       "reasoning": "Poor match due to lack of mechanical engineering background and relevant work experience; German fluency is also below required level."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170526/internetredakteurin-internetredakteur-und-it-beauftragte-it-beauftragter-wmd-teilzeit-75",
+      "title": "Internetredakteurin / Internetredakteur und IT-Beauftragte / IT-Beauftragter (w/m/d)",
+      "score": 59,
+      "reasoning": "Moderate fit due to partial skill overlap in web development and IT; however, role emphasizes IT coordination, server operation, and German fluency, which are not the candidate's strong suits."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170455/mitarbeiterin-mitarbeiter-wmd-instandhaltung-vollzeit",
@@ -150,12 +156,6 @@
       "title": "Technikerin/ Techniker (w/m/d) in einem naturwissenschaftlich-technischen Bereich oder Technische Assistentin / Technischer Assistent (w/m/d)",
       "score": 58,
       "reasoning": "Moderate geosciences background fit, but role seems to require more hands-on technical experience and stronger German fluency."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170526/internetredakteurin-internetredakteur-und-it-beauftragte-it-beauftragter-wmd-teilzeit-75",
-      "title": "Internetredakteurin / Internetredakteur und IT-Beauftragte / IT-Beauftragter (w/m/d)",
-      "score": 59,
-      "reasoning": "Moderate fit due to partial skill overlap in web development and IT; however, role emphasizes IT coordination, server operation, and German fluency, which are not the candidate's strong suits."
     }
   ]
 }
