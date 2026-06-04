@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T15:26:51+00:00",
+  "updated_at": "2026-06-04T20:11:11+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -32,14 +32,8 @@
       "reasoning": "Strong geospatial and programming skills, but senior roles may be a reach due to limited work experience in primary fields of interest."
     },
     {
-      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs",
-      "title": "DE",
-      "score": 32,
-      "reasoning": "Candidate lacks direct experience and fluency in German, which is crucial for a DE (Germany) job title, and role specifics are unclear."
-    },
-    {
       "url": "https://jobs.ionos.de/career/all-jobs?new-search=1",
-      "title": "Reset filter",
+      "title": "EN",
       "score": 50,
       "reasoning": "No specific job title provided for evaluation."
     },
