@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T20:11:19+00:00",
+  "updated_at": "2026-06-05T04:14:06+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -156,6 +156,12 @@
       "title": "Technikerin/ Techniker (w/m/d) in einem naturwissenschaftlich-technischen Bereich oder Technische Assistentin / Technischer Assistent (w/m/d)",
       "score": 58,
       "reasoning": "Moderate geosciences background fit, but role seems to require more hands-on technical experience and stronger German fluency."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170543/hpc-specialist-for-usage-analysis-user-support-and-software-licensing-fmd",
+      "title": "HPC Specialist for Usage Analysis, User Support and Software Licensing (f/m/d)",
+      "score": 58,
+      "reasoning": "Moderate fit due to some overlap in technical skills like Python and Linux; however, role requires strong HPC expertise and senior experience, which the candidate lacks."
     }
   ]
 }
