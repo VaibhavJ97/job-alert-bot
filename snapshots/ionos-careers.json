@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T10:01:13+00:00",
+  "updated_at": "2026-06-05T15:18:50+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -36,6 +36,12 @@
       "title": "Reset filter",
       "score": 50,
       "reasoning": "No specific job title provided for evaluation."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4679433101-specialist-system-engineer-for-dns-and-observability-team-hybrid",
+      "title": "Specialist System Engineer for DNS and Observability team (hybrid)",
+      "score": 67,
+      "reasoning": "Partial match due to working experience at IONOS and some relevant technical skills like Python and JavaScript; however, the role requires strong system engineering and observability expertise which is not the candidate's primary focus."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4789603101-ai-developer-with-python-for-customer-care-ai-platform-team-hybrid",
@@ -156,12 +162,6 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4679433101-specialist-system-engineer-for-dns-and-observability-team-hybrid",
-      "title": "Specialist System Engineer for DNS and Observability team (hybrid)",
-      "score": 67,
-      "reasoning": "Partial match due to working experience at IONOS and some relevant technical skills like Python and JavaScript; however, the role requires strong system engineering and observability expertise which is not the candidate's primary focus."
     }
   ]
 }
