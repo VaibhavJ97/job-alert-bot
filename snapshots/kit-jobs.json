@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T04:27:47+00:00",
+  "updated_at": "2026-06-08T11:06:58+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -128,6 +128,12 @@
       "reasoning": "Unrelated field, candidate's background is in geosciences, not physics or chemistry."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170540/physikerin-physiker-wmd-75-teilzeit",
+      "title": "Physikerin Physiker (w/m/d)",
+      "score": 39,
+      "reasoning": "Weak match due to different field of study (Physics vs Geosciences), lack of direct experience in particle physics, and insufficient seniority for a research-focused role."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170483/research-associate-fmd",
       "title": "Research Associate (f/m/d)",
       "score": 68,
@@ -150,12 +156,6 @@
       "title": "Technikerin / Techniker (w/m/d) der Fachrichtung Chemietechnik",
       "score": 22,
       "reasoning": "Unrelated field of study and work experience, strong mismatch in core skills and job requirements."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170540/physikerin-physiker-wmd-75-teilzeit",
-      "title": "Physikerin Physiker (w/m/d)",
-      "score": 39,
-      "reasoning": "Weak match due to different field of study (Physics vs Geosciences), lack of direct experience in particle physics, and insufficient seniority for a research-focused role."
     }
   ]
 }
