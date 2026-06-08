@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T16:03:13+00:00",
+  "updated_at": "2026-06-08T20:25:16+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -104,6 +104,12 @@
       "reasoning": "Poor fit due to social sciences focus, lacking relevant experience and skills in the field."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170550/phd-position-in-geophysics-fmd-part-time-75",
+      "title": "PhD Position in Geophysics (f/m/d)",
+      "score": 68,
+      "reasoning": "Strong geosciences background and relevant master thesis; however, PhD position typically requires more senior experience and a strong research focus, which is a stretch for the candidate."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170165/phd-position-on-elastocaloric-microcooling-for-photonic-systems-part-time-75",
       "title": "PhD Position on Elastocaloric Microcooling for Photonic Systems",
       "score": 22,
@@ -156,12 +162,6 @@
       "title": "Technikerin / Techniker (w/m/d) der Fachrichtung Chemietechnik",
       "score": 22,
       "reasoning": "Unrelated field of study and work experience, strong mismatch in core skills and job requirements."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170550/phd-position-in-geophysics-fmd-part-time-75",
-      "title": "PhD Position in Geophysics (f/m/d)",
-      "score": 68,
-      "reasoning": "Strong geosciences background and relevant master thesis; however, PhD position typically requires more senior experience and a strong research focus, which is a stretch for the candidate."
     }
   ]
 }
