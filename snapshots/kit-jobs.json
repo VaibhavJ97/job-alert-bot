@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T19:40:02+00:00",
+  "updated_at": "2026-06-08T04:27:47+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -110,12 +110,6 @@
       "reasoning": "Weak match due to lack of direct relevance to geosciences or AI/LLM experience, and requirement for PhD level expertise which candidate does not possess."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170411/phd-position-fmd-with-focus-on-generative-ai-methods-for-weather-radar-data-processing-75-part-time",
-      "title": "PhD position (f/m/d)",
-      "score": 39,
-      "reasoning": "Candidate lacks PhD, senior experience, and strong German fluency required for most PhD positions in Germany."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170520/philosopher-fmd-part-time-75",
       "title": "Philosopher (f/m/d)",
       "score": 10,
@@ -158,10 +152,10 @@
       "reasoning": "Unrelated field of study and work experience, strong mismatch in core skills and job requirements."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170439/technikerin-techniker-wmd-in-einem-naturwissenschaftlich-technischen-bereich-oder-technische-assistentin-technischer-assistent-wmd",
-      "title": "Technikerin/ Techniker (w/m/d) in einem naturwissenschaftlich-technischen Bereich oder Technische Assistentin / Technischer Assistent (w/m/d)",
-      "score": 58,
-      "reasoning": "Moderate geosciences background fit, but role seems to require more hands-on technical experience and stronger German fluency."
+      "url": "https://jobs.pse.kit.edu/en/jobs/170540/physikerin-physiker-wmd-75-teilzeit",
+      "title": "Physikerin Physiker (w/m/d)",
+      "score": 39,
+      "reasoning": "Weak match due to different field of study (Physics vs Geosciences), lack of direct experience in particle physics, and insufficient seniority for a research-focused role."
     }
   ]
 }
