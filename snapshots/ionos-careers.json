@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T11:06:50+00:00",
+  "updated_at": "2026-06-08T16:02:58+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -38,6 +38,12 @@
       "reasoning": "No specific job title provided for evaluation."
     },
     {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4847787101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
+      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)",
+      "score": 58,
+      "reasoning": "Some skill overlap in AI/ML and programming, but role seems to require more senior experience and strong operations focus, which is not prominent in the candidate's background."
+    },
+    {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4679433101-specialist-system-engineer-for-dns-and-observability-team-hybrid",
       "title": "Specialist System Engineer for DNS and Observability team (hybrid)",
       "score": 67,
@@ -72,24 +78,6 @@
       "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)",
       "score": 58,
       "reasoning": "Some skill overlap in AI/ML and web development, but DevOps role may require more senior experience and German fluency."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4847787101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
-      "title": "DevOps Engineer (f/m/d) Customer Care AI Platform Team (hybrid)",
-      "score": 58,
-      "reasoning": "Some skill overlap in AI/ML and programming, but role seems to require more senior experience and strong operations focus, which is not prominent in the candidate's background."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4835449101-devops-engineer-for-customer-care-ai-platform-team-fmd",
-      "title": "DevOps Engineer for Customer Care AI Platform Team (f/m/d)",
-      "score": 58,
-      "reasoning": "Some skill overlap in AI/ML and programming, but DevOps role may require more senior experience and specific expertise in cloud infrastructure, which is not highlighted in the candidate's CV."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4847123101-devops-engineer-for-customer-care-ai-platform-team-fmd",
-      "title": "DevOps Engineer for Customer Care AI Platform Team (f/m/d)",
-      "score": 58,
-      "reasoning": "Some skill overlap in AI/LLM and web development, but DevOps role may require more senior experience and specific expertise, which is not strongly evident in the candidate's background."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4606387101-devops-engineer-for-technology-bi-solutions-team-hybrid",
