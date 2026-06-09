@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T20:25:16+00:00",
+  "updated_at": "2026-06-09T03:59:52+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -156,12 +156,6 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170456/technikerin-techniker-wmd-der-fachrichtung-chemietechnik-vollzeit",
-      "title": "Technikerin / Techniker (w/m/d) der Fachrichtung Chemietechnik",
-      "score": 22,
-      "reasoning": "Unrelated field of study and work experience, strong mismatch in core skills and job requirements."
     }
   ]
 }
