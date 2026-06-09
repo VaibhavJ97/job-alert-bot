@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T09:54:59+00:00",
+  "updated_at": "2026-06-09T15:16:09+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -156,6 +156,18 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170551/mitarbeiterin-mitarbeiter-wmd-fur-digitale-prufungen-vollzeit",
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für digitale Prüfungen",
+      "score": 42,
+      "reasoning": "Moderate fit due to some skill overlap in technical areas; however, role requires expertise in digital assessments and media didactics, which is not directly mentioned in the candidate's CV, and strong German fluency is implied."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170552/mitarbeiterin-mitarbeiter-wmd-mit-schwerpunkt-medieninformatik-teilzeit-75",
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) mit Schwerpunkt Medieninformatik",
+      "score": 68,
+      "reasoning": "Good fit due to media informatics and web development aspects; however, role's strong focus on educational technology and partial German fluency requirement are drawbacks."
     }
   ]
 }
