@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T10:12:12+00:00",
+  "updated_at": "2026-06-10T15:49:43+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -36,6 +36,12 @@
       "title": "Reset filter",
       "score": 50,
       "reasoning": "No specific job title provided for evaluation."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4892086101-technical-support-representative",
+      "title": "Technical Support Representative",
+      "score": 40,
+      "reasoning": "Some skill overlap in web development and troubleshooting, but role is a stretch due to lack of direct sales or customer service experience and no clear connection to geosciences or AI engineering."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4847787101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
@@ -132,12 +138,6 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4892086101-technical-support-representative",
-      "title": "Technical Support Representative",
-      "score": 40,
-      "reasoning": "Some skill overlap in web development and troubleshooting, but role is a stretch due to lack of direct sales or customer service experience and no clear connection to geosciences or AI engineering."
     }
   ]
 }
