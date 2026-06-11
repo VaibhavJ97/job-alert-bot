@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T10:46:27+00:00",
+  "updated_at": "2026-06-11T20:27:36+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170491/academic-staff-member-fmd-group-leader-chemical-analysis",
@@ -80,6 +80,12 @@
       "reasoning": "Poor match due to lack of relevant skills and experience in office organization and community management."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170551/mitarbeiterin-mitarbeiter-wmd-fur-digitale-prufungen",
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für digitale Prüfungen",
+      "score": 42,
+      "reasoning": "Some skill overlap in technical aspects, but role focuses on digital examinations and educational technology, which is not a direct match for the candidate's geosciences or AI engineering background."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170332/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft",
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft",
       "score": 68,
@@ -150,12 +156,6 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170551/mitarbeiterin-mitarbeiter-wmd-fur-digitale-prufungen",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für digitale Prüfungen",
-      "score": 42,
-      "reasoning": "Some skill overlap in technical aspects, but role focuses on digital examinations and educational technology, which is not a direct match for the candidate's geosciences or AI engineering background."
     }
   ]
 }
