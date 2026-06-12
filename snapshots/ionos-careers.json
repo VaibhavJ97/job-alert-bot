@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T04:26:51+00:00",
+  "updated_at": "2026-06-12T10:22:07+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -36,6 +36,12 @@
       "title": "Reset filter",
       "score": 50,
       "reasoning": "No specific job title provided for evaluation."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4821918101-staff-network-solutions-architect-fmd",
+      "title": "Staff Network Solutions Architect (f/m/d)",
+      "score": 39,
+      "reasoning": "Some skill overlap in web development and AI/ML, but role seems to require strong senior experience and networking expertise, which is not evident in the candidate's CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4892086101-technical-support-representative",
@@ -120,12 +126,6 @@
       "title": "Software Engineer with C++ for IT Infrastructure Development Team (hybrid)",
       "score": 40,
       "reasoning": "Some skill overlap in web development, but C++ requirement and IT infrastructure focus are a significant departure from candidate's geosciences and AI/ML background."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4821918101-staff-network-solutions-architect-fmd",
-      "title": "Staff Network Solutions Architect (f/m/d)",
-      "score": 39,
-      "reasoning": "Some skill overlap in web development and AI/ML, but role seems to require strong senior experience and networking expertise, which is not evident in the candidate's CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4314656101-teleconseiller-fhd-niveau-1",
