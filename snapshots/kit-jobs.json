@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T04:57:53+00:00",
+  "updated_at": "2026-06-15T12:27:31+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -24,6 +24,12 @@
       "title": "Computer Scientist (f/m/d)",
       "score": 67,
       "reasoning": "Good technical skills, but job title is broad and lacks specific domain alignment, may require additional learning."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170562/doktorandin-doktorand-wmd-im-bereich-nichtlineare-dynamik-vollzeit",
+      "title": "Doktorandin / Doktorand (w/m/d) im Bereich Nichtlineare Dynamik",
+      "score": 39,
+      "reasoning": "Moderate match due to some overlap in analytical and scientific skills; however, role requires strong mechanical engineering background, high German fluency (C1), and experience in nonlinear dynamics, which the candidate lacks."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170079/elektronikerin-elektroniker-wmd-fur-gerate-und-systeme-vollzeit-oder-teilzeit-bis-50",
@@ -140,10 +146,10 @@
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170562/doktorandin-doktorand-wmd-im-bereich-nichtlineare-dynamik-vollzeit",
-      "title": "Doktorandin / Doktorand (w/m/d) im Bereich Nichtlineare Dynamik",
-      "score": 39,
-      "reasoning": "Moderate match due to some overlap in analytical and scientific skills; however, role requires strong mechanical engineering background, high German fluency (C1), and experience in nonlinear dynamics, which the candidate lacks."
+      "url": "https://jobs.pse.kit.edu/en/jobs/170549/referentin-referent-wmd-personalentwicklung",
+      "title": "Referentin / Referent (w/m/d) Personalentwicklung",
+      "score": 10,
+      "reasoning": "Poor match due to lack of relevant education and experience in psychology, pedagogy, or education; German fluency is also a significant requirement."
     }
   ]
 }
