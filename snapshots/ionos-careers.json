@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T12:27:09+00:00",
+  "updated_at": "2026-06-15T21:10:35+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -33,9 +33,15 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs?new-search=1",
-      "title": "Reset filter",
+      "title": "EN",
       "score": 50,
       "reasoning": "No specific job title provided for evaluation."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896142101-sr-advisor-ai-transformation-automation-e-commerce-fmd",
+      "title": "Sr. Advisor AI Transformation & Automation – E-Commerce (f/m/d)",
+      "score": 40,
+      "reasoning": "Some AI and automation skills align, but senior advisor role requires significant experience and seniority that candidate lacks; e-commerce domain is unrelated to candidate's geosciences background."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4821918101-staff-network-solutions-architect-fmd",
@@ -132,12 +138,6 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896142101-sr-advisor-ai-transformation-automation-e-commerce-fmd",
-      "title": "Sr. Advisor AI Transformation & Automation – E-Commerce (f/m/d)",
-      "score": 40,
-      "reasoning": "Some AI and automation skills align, but senior advisor role requires significant experience and seniority that candidate lacks; e-commerce domain is unrelated to candidate's geosciences background."
     }
   ]
 }

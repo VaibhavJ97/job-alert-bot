@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T12:27:31+00:00",
+  "updated_at": "2026-06-15T21:10:51+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -128,6 +128,12 @@
       "reasoning": "Weak match due to different field of study (Physics vs Geosciences), lack of direct experience in particle physics, and insufficient seniority for a research-focused role."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170549/referentin-referent-wmd-personalentwicklung",
+      "title": "Referentin / Referent (w/m/d) Personalentwicklung",
+      "score": 10,
+      "reasoning": "Poor match due to lack of relevant education and experience in psychology, pedagogy, or education; German fluency is also a significant requirement."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170483/research-associate-fmd",
       "title": "Research Associate (f/m/d)",
       "score": 68,
@@ -144,12 +150,6 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170549/referentin-referent-wmd-personalentwicklung",
-      "title": "Referentin / Referent (w/m/d) Personalentwicklung",
-      "score": 10,
-      "reasoning": "Poor match due to lack of relevant education and experience in psychology, pedagogy, or education; German fluency is also a significant requirement."
     }
   ]
 }
