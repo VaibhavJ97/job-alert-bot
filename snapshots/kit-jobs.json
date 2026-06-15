@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T19:43:47+00:00",
+  "updated_at": "2026-06-15T04:57:53+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -12,12 +12,6 @@
       "title": "Akademische Mitarbeiterin / Akademischer Mitarbeiter (w/m/d)",
       "score": 67,
       "reasoning": "Good geosciences and programming fit, but academic position may require more seniority and German fluency."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170485/akademische-mitarbeiterinakademischer-mitarbeiter-wmd-msc-physik-elektrotechnik-optik",
-      "title": "Akademische Mitarbeiterin/Akademischer Mitarbeiter (w/m/d)",
-      "score": 67,
-      "reasoning": "Good geosciences background and some relevant experience, but senior academic role may require more experience and stronger German fluency."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170286/akademische-ratin-akademischer-rat-wmd",
@@ -144,6 +138,12 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170562/doktorandin-doktorand-wmd-im-bereich-nichtlineare-dynamik-vollzeit",
+      "title": "Doktorandin / Doktorand (w/m/d) im Bereich Nichtlineare Dynamik",
+      "score": 39,
+      "reasoning": "Moderate match due to some overlap in analytical and scientific skills; however, role requires strong mechanical engineering background, high German fluency (C1), and experience in nonlinear dynamics, which the candidate lacks."
     }
   ]
 }
