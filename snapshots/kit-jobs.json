@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T04:56:48+00:00",
+  "updated_at": "2026-06-16T11:21:23+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -60,6 +60,12 @@
       "title": "Internetredakteurin / Internetredakteur und IT-Beauftragte / IT-Beauftragter (w/m/d)",
       "score": 59,
       "reasoning": "Moderate fit due to partial skill overlap in web development and IT; however, role emphasizes IT coordination, server operation, and German fluency, which are not the candidate's strong suits."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170573/msc-physics-chemistry-or-material-science-fmd-part-time-75",
+      "title": "M.Sc. physics, chemistry or material science (f/m/d)",
+      "score": 29,
+      "reasoning": "Weak match due to mismatch in field of study (geosciences vs physics/chemistry/material science) and lack of relevant experience with quantum sensors, x-ray spectrometers, and detector physics."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170473/mitarbeiterin-mitarbeiter-wmd-fur-buroorganisation-und-community-management",
@@ -138,12 +144,6 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170573/msc-physics-chemistry-or-material-science-fmd-part-time-75",
-      "title": "M.Sc. physics, chemistry or material science (f/m/d)",
-      "score": 29,
-      "reasoning": "Weak match due to mismatch in field of study (geosciences vs physics/chemistry/material science) and lack of relevant experience with quantum sensors, x-ray spectrometers, and detector physics."
     }
   ]
 }
