@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T17:04:55+00:00",
+  "updated_at": "2026-06-16T20:58:23+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -12,6 +12,12 @@
       "title": "Akademische Mitarbeiterin / Akademischer Mitarbeiter (w/m/d)",
       "score": 67,
       "reasoning": "Good geosciences and programming fit, but academic position may require more seniority and German fluency."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170068/akademische-mitarbeiterin-oder-akademischer-mitarbeiter-wmd-75-teilzeit-mit-der-moglichkeit-zur-berufsbegleitenden-promotion",
+      "title": "Akademische Mitarbeiterin oder Akademischer Mitarbeiter (w/m/d)",
+      "score": 40,
+      "reasoning": "Moderate match due to geosciences background, but role requires strong materials science and battery technology expertise, lacking in candidate's experience; also, strong German fluency is required, which candidate lacks."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170286/akademische-ratin-akademischer-rat-wmd",
@@ -134,6 +140,12 @@
       "reasoning": "Poor match due to lack of relevant education and experience in psychology, pedagogy, or education; German fluency is also a significant requirement."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170585/referentin-referent-fur-steuerrecht-tax-consultant-wmd-die-stelle-ist-unter-bestimmten-voraussetzungen-teilzeitgeeignet",
+      "title": "Referentin / Referent für Steuerrecht / Tax Consultant (w/m/d)",
+      "score": 10,
+      "reasoning": "No direct match in skills, domain, or seniority; candidate lacks tax law expertise and relevant experience."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170483/research-associate-fmd",
       "title": "Research Associate (f/m/d)",
       "score": 68,
@@ -144,18 +156,6 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170068/akademische-mitarbeiterin-oder-akademischer-mitarbeiter-wmd-75-teilzeit-mit-der-moglichkeit-zur-berufsbegleitenden-promotion",
-      "title": "Akademische Mitarbeiterin oder Akademischer Mitarbeiter (w/m/d)",
-      "score": 40,
-      "reasoning": "Moderate match due to geosciences background, but role requires strong materials science and battery technology expertise, lacking in candidate's experience; also, strong German fluency is required, which candidate lacks."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170585/referentin-referent-fur-steuerrecht-tax-consultant-wmd-die-stelle-ist-unter-bestimmten-voraussetzungen-teilzeitgeeignet",
-      "title": "Referentin / Referent für Steuerrecht / Tax Consultant (w/m/d)",
-      "score": 10,
-      "reasoning": "No direct match in skills, domain, or seniority; candidate lacks tax law expertise and relevant experience."
     }
   ]
 }
