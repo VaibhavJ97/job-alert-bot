@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T21:10:51+00:00",
+  "updated_at": "2026-06-16T04:56:48+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -18,12 +18,6 @@
       "title": "Akademische Rätin / Akademischer Rat (w/m/d)",
       "score": 42,
       "reasoning": "Some skill overlap in geosciences and data analysis, but role title implies senior academic position requiring strong German fluency and significant experience, which the candidate lacks."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170470/computer-scientist-fmd",
-      "title": "Computer Scientist (f/m/d)",
-      "score": 67,
-      "reasoning": "Good technical skills, but job title is broad and lacks specific domain alignment, may require additional learning."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170562/doktorandin-doktorand-wmd-im-bereich-nichtlineare-dynamik-vollzeit",
@@ -140,16 +134,16 @@
       "reasoning": "Good geosciences and Python fit, recent master's thesis relevant, but research associate role may require more senior experience and academic publications."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170452/research-fellow-fmd",
-      "title": "Research Fellow (f/m/d)",
-      "score": 68,
-      "reasoning": "Strong geosciences background and relevant master thesis, but Research Fellow role may require more seniority and experience, and German fluency could be a limitation."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170539/research-software-engineer-fmd",
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170573/msc-physics-chemistry-or-material-science-fmd-part-time-75",
+      "title": "M.Sc. physics, chemistry or material science (f/m/d)",
+      "score": 29,
+      "reasoning": "Weak match due to mismatch in field of study (geosciences vs physics/chemistry/material science) and lack of relevant experience with quantum sensors, x-ray spectrometers, and detector physics."
     }
   ]
 }
