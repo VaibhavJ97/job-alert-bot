@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T20:58:23+00:00",
+  "updated_at": "2026-06-17T04:43:57+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -156,6 +156,12 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170497/coordinator-fmd-research-infrastructure-kiaos",
+      "title": "Coordinator (f/m/d) Research Infrastructure “KIAOS”",
+      "score": 42,
+      "reasoning": "Some skill overlap in geosciences and data management; however, role requires PhD, senior experience, and strong project management skills, which the candidate lacks."
     }
   ]
 }
