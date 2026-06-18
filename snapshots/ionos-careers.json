@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T04:26:43+00:00",
+  "updated_at": "2026-06-18T10:38:13+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -33,7 +33,7 @@
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs?new-search=1",
-      "title": "EN",
+      "title": "Reset filter",
       "score": 50,
       "reasoning": "No specific job title provided for evaluation."
     },
