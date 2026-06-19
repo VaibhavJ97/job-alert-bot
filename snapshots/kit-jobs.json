@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T04:54:23+00:00",
+  "updated_at": "2026-06-19T10:46:04+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -150,6 +150,12 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-70",
+      "title": "Academic Research Assistant Position (PhD Candidate) (f/m/d) - Chair of Economic Policy",
+      "score": 39,
+      "reasoning": "Moderate skill overlap in data analysis and research; however, role requires strong economic and policy background, high-level research experience, and German fluency, which the candidate lacks."
     }
   ]
 }

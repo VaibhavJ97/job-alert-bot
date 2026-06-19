@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T04:54:07+00:00",
+  "updated_at": "2026-06-19T10:45:43+00:00",
   "jobs": [
     {
       "url": "https://www.enbw.com/karriere/unsere-mission",
@@ -18,12 +18,6 @@
       "title": "Alle Benefits",
       "score": 0,
       "reasoning": "Job title does not match any known job title or description, cannot evaluate candidate fit."
-    },
-    {
-      "url": "https://careers.enbw.com/de_DE/careers/SearchJobs/?3_35_3=%5B%22380%22%5D&_gl=1*iqcc71*_ga_TPZ0BQETE9*MTY5ODQwOTc3MS4zLjEuMTY5ODQwOTgyNy4wLjAuMA..",
-      "title": "FÃ¼hrungspositionen",
-      "score": 10,
-      "reasoning": "Job title 'FÃ¼hrungspositionen' translates to leadership positions, which requires senior experience the candidate lacks."
     },
     {
       "url": "https://www.enbw.com/karriere/einstiege-aufstiege/berufserfahrene-und-berufseinsteiger",
