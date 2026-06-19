@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-06-18T20:32:22+00:00",
+  "updated_at": "2026-06-19T04:54:23+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
       "title": "Academic employee (f/m/d)",
       "score": 68,
       "reasoning": "Strong geosciences background, but academic employee role may require senior experience and teaching skills not explicitly mentioned in the CV."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170337/akademische-mitarbeiterin-akademischer-mitarbeiter-wmd",
-      "title": "Akademische Mitarbeiterin / Akademischer Mitarbeiter (w/m/d)",
-      "score": 67,
-      "reasoning": "Good geosciences and programming fit, but academic position may require more seniority and German fluency."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170068/akademische-mitarbeiterin-oder-akademischer-mitarbeiter-wmd-75-teilzeit-mit-der-moglichkeit-zur-berufsbegleitenden-promotion",
@@ -66,12 +60,6 @@
       "title": "Ingenieur/in Maschinenbau, Konstruktion (w/m/d)",
       "score": 22,
       "reasoning": "Poor match due to lack of mechanical engineering background and relevant work experience; German fluency is also below required level."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170526/internetredakteurin-internetredakteur-und-it-beauftragte-it-beauftragter-wmd-teilzeit-75",
-      "title": "Internetredakteurin / Internetredakteur und IT-Beauftragte / IT-Beauftragter (w/m/d)",
-      "score": 59,
-      "reasoning": "Moderate fit due to partial skill overlap in web development and IT; however, role emphasizes IT coordination, server operation, and German fluency, which are not the candidate's strong suits."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170573/msc-physics-chemistry-or-material-science-fmd-part-time-75",

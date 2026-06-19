@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T20:32:05+00:00",
+  "updated_at": "2026-06-19T04:54:06+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -36,6 +36,12 @@
       "title": "Reset filter",
       "score": 50,
       "reasoning": "No specific job title provided for evaluation."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4703552101-site-reliability-engineer-fmd",
+      "title": "Site Reliability Engineer (f/m/d)",
+      "score": 42,
+      "reasoning": "Some skill overlap in Python and Git; however, role requires senior experience, strong infrastructure knowledge, and specific tools like Prometheus, Grafana, and Ansible, which are not mentioned in the candidate's CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896142101-sr-advisor-ai-transformation-automation-e-commerce-fmd",
@@ -138,12 +144,6 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4703552101-site-reliability-engineer-fmd",
-      "title": "Site Reliability Engineer (f/m/d)",
-      "score": 42,
-      "reasoning": "Some skill overlap in Python and Git; however, role requires senior experience, strong infrastructure knowledge, and specific tools like Prometheus, Grafana, and Ansible, which are not mentioned in the candidate's CV."
     }
   ]
 }
