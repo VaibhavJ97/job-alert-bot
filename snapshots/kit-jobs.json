@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-06-19T15:31:51+00:00",
+  "updated_at": "2026-06-19T19:55:23+00:00",
   "jobs": [
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
+      "title": "Academic Research Assistant Position (PhD Candidate) (f/m/d) - Chair of Economic Policy",
+      "score": 39,
+      "reasoning": "Moderate match due to some overlap in data analysis and research skills; however, role requires strong economic and policy background, and German fluency, which candidate lacks."
+    },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
       "title": "Academic employee (f/m/d)",
@@ -18,6 +24,12 @@
       "title": "Akademische Rätin / Akademischer Rat (w/m/d)",
       "score": 42,
       "reasoning": "Some skill overlap in geosciences and data analysis, but role title implies senior academic position requiring strong German fluency and significant experience, which the candidate lacks."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170598/chemisch-technische-assistenz-laborantin-laborant-wmd",
+      "title": "Chemisch-Technische Assistenz, Laborantin / Laborant (w/m/d)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct chemistry lab experience and required chemical-technical assistant training; some lab analysis background, but significant reskilling needed."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170497/coordinator-fmd-research-infrastructure-kiaos",
@@ -122,6 +134,12 @@
       "reasoning": "Unrelated field, candidate's background is in geosciences, not physics or chemistry."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170588/physikalisch-technische-assistentin-physikalisch-technischer-assistent-wmd",
+      "title": "Physikalisch Technische Assistentin / Physikalisch Technischer Assistent (w/m/d)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct experience in microstructure technology, nanofabrication, and required technical expertise; German fluency is also a concern."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170540/physikerin-physiker-wmd-75-teilzeit",
       "title": "Physikerin Physiker (w/m/d)",
       "score": 39,
@@ -150,24 +168,6 @@
       "title": "Research Software Engineer (f/m/d)",
       "score": 78,
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
-      "title": "Academic Research Assistant Position (PhD Candidate) (f/m/d) - Chair of Economic Policy",
-      "score": 39,
-      "reasoning": "Moderate match due to some overlap in data analysis and research skills; however, role requires strong economic and policy background, and German fluency, which candidate lacks."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170598/chemisch-technische-assistenz-laborantin-laborant-wmd",
-      "title": "Chemisch-Technische Assistenz, Laborantin / Laborant (w/m/d)",
-      "score": 22,
-      "reasoning": "Weak match due to lack of direct chemistry lab experience and required chemical-technical assistant training; some lab analysis background, but significant reskilling needed."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170588/physikalisch-technische-assistentin-physikalisch-technischer-assistent-wmd",
-      "title": "Physikalisch Technische Assistentin / Physikalisch Technischer Assistent (w/m/d)",
-      "score": 22,
-      "reasoning": "Weak match due to lack of direct experience in microstructure technology, nanofabrication, and required technical expertise; German fluency is also a concern."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170594/softwarearchitektin-oder-softwarearchitekt-wmd-fur-forschungsdaten-und-ki-infrastrukturen",
