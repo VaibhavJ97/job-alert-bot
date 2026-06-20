@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:55:23+00:00",
+  "updated_at": "2026-06-20T04:09:32+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -110,12 +110,6 @@
       "reasoning": "Strong geosciences background and relevant master thesis; however, PhD position typically requires more senior experience and a strong research focus, which is a stretch for the candidate."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170165/phd-position-on-elastocaloric-microcooling-for-photonic-systems-part-time-75",
-      "title": "PhD Position on Elastocaloric Microcooling for Photonic Systems",
-      "score": 22,
-      "reasoning": "Weak match due to lack of direct relevance to geosciences or AI/LLM experience, and requirement for PhD level expertise which candidate does not possess."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170520/philosopher-fmd-part-time-75",
       "title": "Philosopher (f/m/d)",
       "score": 10,
@@ -138,12 +132,6 @@
       "title": "Physikalisch Technische Assistentin / Physikalisch Technischer Assistent (w/m/d)",
       "score": 22,
       "reasoning": "Weak match due to lack of direct experience in microstructure technology, nanofabrication, and required technical expertise; German fluency is also a concern."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170540/physikerin-physiker-wmd-75-teilzeit",
-      "title": "Physikerin Physiker (w/m/d)",
-      "score": 39,
-      "reasoning": "Weak match due to different field of study (Physics vs Geosciences), lack of direct experience in particle physics, and insufficient seniority for a research-focused role."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170549/referentin-referent-wmd-personalentwicklung",
@@ -174,6 +162,12 @@
       "title": "Softwarearchitektin oder Softwarearchitekt (w/m/d)",
       "score": 73,
       "reasoning": "Strong AI and geospatial skills match; experience with KI and data management aligns with job tasks; however, seniority and German fluency may be a concern."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170582/strahlenschutzingenieurin-strahlenschutzingenieurwmd",
+      "title": "Strahlenschutzingenieurin / Strahlenschutzingenieur (w/m/d)",
+      "score": 22,
+      "reasoning": "Poor match due to lack of direct experience in Strahlenschutz and limited German fluency; role requires strong understanding of atom- and strahlenschutzrechtliche Vorgaben."
     }
   ]
 }
