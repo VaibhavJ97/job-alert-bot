@@ -1,45 +1,47 @@
 {
-  "_comment": "Edit this file to add or remove career-site URLs. The scraper handles failures gracefully - one broken URL never stops the others. To temporarily disable a site without deleting it, set enabled=false. Avoid aggregator sites like Stepstone - they serve navigation links as if they were jobs and waste AI scoring quota.",
+  "_comment": "Edit this file to add or remove career-site URLs. The scraper handles failures gracefully - one broken URL never stops the others. To temporarily disable a site without deleting it, set enabled=false. Avoid aggregator sites like Stepstone/Arbeitsagentur - they serve navigation links as if they were jobs and waste AI scoring quota. Prefer ATS-hosted pages (Personio, Lever, Ashby, softgarden) - they expose real job links in static HTML. JS-rendered SPA career portals (Workday, Phenom 'search-results' pages, SuccessFactors) often return nothing in static HTML.",
   "sites": [
-    {
-      "name": "IONOS Careers",
-      "url": "https://jobs.ionos.de/career/all-jobs",
-      "enabled": true
-    },
-    {
-      "name": "EnBW Karriere",
-      "url": "https://www.enbw.com/karriere/",
-      "enabled": true
-    },
-    {
-      "name": "CAS Software",
-      "url": "https://www.cas-mitgestalter.de/jobs/",
-      "enabled": true
-    },
-    {
-      "name": "Greenlyte",
-      "url": "https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/",
-      "enabled": true
-    },
-    {
-      "name": "Spatial",
-      "url": "https://spaitial.ai/careers",
-      "enabled": true
-    },
-    {
-      "name": "Greenjobs",
-      "url": "https://www.greenjobs.de/angebote/index.html?z=alle",
-      "enabled": true
-    },
-    {
-      "name": "braun-management",
-      "url": "https://braun-management.now-remote.com/",
-      "enabled": true
-    },
-    {
-      "name": "KIT Jobs",
-      "url": "https://jobs.pse.kit.edu/",
-      "enabled": true
-    }
+    { "name": "IONOS Careers", "url": "https://jobs.ionos.de/career/all-jobs", "enabled": true },
+    { "name": "EnBW Karriere", "url": "https://www.enbw.com/karriere/", "enabled": true },
+    { "name": "CAS Software", "url": "https://www.cas-mitgestalter.de/jobs/", "enabled": true },
+    { "name": "Greenlyte", "url": "https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/", "enabled": true },
+    { "name": "Spatial", "url": "https://spaitial.ai/careers", "enabled": true },
+    { "name": "Greenjobs", "url": "https://www.greenjobs.de/angebote/index.html?z=alle", "enabled": true },
+    { "name": "braun-management", "url": "https://braun-management.now-remote.com/", "enabled": true },
+    { "name": "KIT Jobs", "url": "https://jobs.pse.kit.edu/", "enabled": true },
+    { "name": "inovex Stellenangebote", "url": "https://www.inovex.de/de/karriere/stellenangebote/", "enabled": true },
+    { "name": "Vulcan Energy", "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/", "enabled": true },
+    { "name": "INERATEC", "url": "https://ineratec-gmbh-1.jobs.personio.de/", "enabled": true },
+    { "name": "Aleph Alpha", "url": "https://alephalpha.jobs.personio.de/", "enabled": true },
+    { "name": "KIT Career Service Jobboerse", "url": "https://www.careerservice.kit.edu/en/studierende/jobboerse/", "enabled": true },
+    { "name": "Disy Informationssysteme", "url": "https://www.disy.net/de/karriere/jobs/", "enabled": true },
+    { "name": "EnBW Careers (Global)", "url": "https://careers.enbw.com/global/en/search-results", "enabled": true },
+    { "name": "VINCI Energies Building Solutions", "url": "https://jobs-vinci-energies-deutschland-building-solutions-gmbh.career.softgarden.de/", "enabled": true },
+    { "name": "EIFER (EN)", "url": "https://eiferkit.softgarden.io/en/vacancies", "enabled": true },
+    { "name": "EIFER (DE)", "url": "https://eiferkit.softgarden.io/de/vacancies", "enabled": true },
+    { "name": "GBM Baugrundinstitut", "url": "https://gbm-baugrundinstitut.de/karriere/", "enabled": true },
+    { "name": "Deutsche Erdwaerme", "url": "https://deutsche-erdwaerme-gmbh-co-kg.jobs.personio.de/", "enabled": true },
+    { "name": "Solexperts", "url": "https://www.solexperts.com/de/karriere/offene-stellen", "enabled": true },
+    { "name": "atmosfair", "url": "https://atmosfair.jobs.personio.de/?language=en", "enabled": true },
+    { "name": "Frequentis (DE)", "url": "https://jobs.frequentis.com/karriere", "enabled": true },
+    { "name": "Frequentis (EN)", "url": "https://jobs.frequentis.com/careers", "enabled": true },
+    { "name": "Amadeus Fire", "url": "https://www.amadeus-fire.de/jobsuche", "enabled": true },
+    { "name": "Impossible Cloud", "url": "https://jobs.lever.co/impossiblecloud", "enabled": true },
+    { "name": "ENGIE", "url": "https://jobs.engie.com/search/?q=&locationsearch=&searchResultView=LIST", "enabled": true },
+    { "name": "Allianz Careers (DE)", "url": "https://careers.allianz.com/de/de/search-results?p=ChIJa76xwh5ymkcRW-WRjmtd6HU&location=Germany", "enabled": true },
+    { "name": "Allianz Careers (Global)", "url": "https://careers.allianz.com/global/en/search-results?p=ChIJa76xwh5ymkcRW-WRjmtd6HU&location=Germany", "enabled": true },
+    { "name": "TYPO3", "url": "https://typo3.jobs.personio.com/", "enabled": true },
+    { "name": "Bundesagentur fuer Arbeit", "url": "https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=1&beruf=Fachinformatiker%2Fin%20-%20Systemintegration;Informatiker%2Fin;Softwareentwickler%2Fin&arbeitszeit=vz;tz&veroeffentlichtseit=14", "enabled": true },
+    { "name": "Empfehlungsbund", "url": "https://www.empfehlungsbund.de/jobs/search", "enabled": true },
+    { "name": "Jobs4Internationals", "url": "https://jobs4internationals.de/", "enabled": true },
+    { "name": "Publicis Groupe", "url": "https://careers.publicisgroupe.com/jobs?lang=de-DE&keywords=english&sortBy=relevance&page=1&location=Deutschland&woe=12&regionCode=DE&stretchUnit=KILOMETERS&stretch=10&limit=100", "enabled": true },
+    { "name": "GOLDBECK", "url": "https://goldbeck.wd103.myworkdayjobs.com/en-GB/goldbeck-jobs?q=english&locationCountry=dcc5b7608d8644b3a93716604e78e995", "enabled": true },
+    { "name": "Neoen", "url": "https://careers.neoen.com/fr/annonces?bottom_right_lat=47.27011395706102&bottom_right_lon=15.04189619759281&top_left_lat=55.08149999602162&top_left_lon=5.86634248758437&place_label=Germany&place_type=country", "enabled": true },
+    { "name": "Ostrom", "url": "https://www.ostrom.de/careers", "enabled": true },
+    { "name": "NTT Data", "url": "https://de.nttdata.com/stellenangebote", "enabled": true },
+    { "name": "ZeroEx", "url": "https://zeroex.jobs.personio.de/?language=de", "enabled": true },
+    { "name": "FZ Juelich (Professionals)", "url": "https://www.fz-juelich.de/en/careers/jobs?targetGroup=professionals", "enabled": true },
+    { "name": "FZ Juelich (PhD)", "url": "https://www.fz-juelich.de/en/careers/jobs?targetGroup=promovierende", "enabled": true },
+    { "name": "Reonic", "url": "https://jobs.ashbyhq.com/reonic", "enabled": true }
   ]
 }
