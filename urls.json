@@ -345,6 +345,281 @@
       "name": "DEKRA (Germany)",
       "url": "https://careers.dekra.com/search/?searchby=distance&createNewAlert=false&q=&geolocation=&d=2&lat=&lon=&optionsFacetsDD_country=DE&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield5=",
       "enabled": true
+    },
+    {
+      "name": "Vattenfall",
+      "url": "https://careers.vattenfall.com/jobs?options=407%2C638&page=1",
+      "enabled": false
+    },
+    {
+      "name": "widas",
+      "url": "https://widas.jobs.personio.de/?language=de",
+      "enabled": true
+    },
+    {
+      "name": "TotalEnergies",
+      "url": "https://jobs.totalenergies.com/en_US/careers/SearchJobs/?3834=%5B41661%5D&3834_format=3639&708=%5B13955204%2C42262%5D&708_format=7920&9205=%5B41966%5D&9205_format=6643&listFilterMode=1&jobRecordsPerPage=20&",
+      "enabled": false
+    },
+    {
+      "name": "JetBrains (Greenhouse)",
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains?offices%5B%5D=4029430101&page=1",
+      "enabled": true
+    },
+    {
+      "name": "Dataiku (Greenhouse)",
+      "url": "https://job-boards.greenhouse.io/dataiku?keyword=germany",
+      "enabled": true
+    },
+    {
+      "name": "Jupus (Ashby)",
+      "url": "https://jobs.ashbyhq.com/jupus?utm_source=Jobgether&utm_content=6a26e03ef4c10b4493240708-staff-fullstack-engineer&utm_campaign=search&utm_medium=website",
+      "enabled": false
+    },
+    {
+      "name": "Reflow (Ashby)",
+      "url": "https://jobs.ashbyhq.com/reflow",
+      "enabled": false
+    },
+    {
+      "name": "Anyone AI (Ashby)",
+      "url": "https://jobs.ashbyhq.com/anyone-ai",
+      "enabled": false
+    },
+    {
+      "name": "Emidat (Ashby)",
+      "url": "https://jobs.ashbyhq.com/emidat",
+      "enabled": false
+    },
+    {
+      "name": "Owkin (Ashby)",
+      "url": "https://jobs.ashbyhq.com/owkin",
+      "enabled": false
+    },
+    {
+      "name": "Rakuten Kobo (Workday)",
+      "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/Kobo",
+      "enabled": false
+    },
+    {
+      "name": "HiveMQ",
+      "url": "https://www.hivemq.com/company/careers/#open-positions",
+      "enabled": false
+    },
+    {
+      "name": "Cloudera (Workday)",
+      "url": "https://cloudera.wd5.myworkdayjobs.com/en-US/External_Career",
+      "enabled": false
+    },
+    {
+      "name": "PhotoRoom (Ashby)",
+      "url": "https://jobs.ashbyhq.com/photoroom",
+      "enabled": false
+    },
+    {
+      "name": "tonies",
+      "url": "https://tonies.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Netlution",
+      "url": "https://netlution.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Datadog",
+      "url": "https://careers.datadoghq.com/all-jobs/?remote%5B0%5D=Remote&location_EMEA%5B0%5D=Germany",
+      "enabled": false
+    },
+    {
+      "name": "Enfuce (Teamtailor)",
+      "url": "https://enfuceoy.teamtailor.com/jobs?split_view=true&location=Germany+%28Remote%29",
+      "enabled": true
+    },
+    {
+      "name": "Natsana",
+      "url": "https://natsana.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "envelio",
+      "url": "https://envelio.jobs.personio.de/?language=en",
+      "enabled": true
+    },
+    {
+      "name": "Jimdo (Ashby)",
+      "url": "https://jobs.ashbyhq.com/jimdo.com?locationId=c6965a78-52c9-4fef-abd1-130cea91538c",
+      "enabled": false
+    },
+    {
+      "name": "OpenProject",
+      "url": "https://www.openproject.org/careers/#vacancies",
+      "enabled": true
+    },
+    {
+      "name": "The Audio Programmer (Zoho)",
+      "url": "https://theaudioprogrammer.zohorecruit.eu/jobs/Careers",
+      "enabled": false
+    },
+    {
+      "name": "topi",
+      "url": "https://topi.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Coralogix (Comeet)",
+      "url": "https://www.comeet.com/jobs/coralogix/06.004?location=Remote,%20Europe",
+      "enabled": false
+    },
+    {
+      "name": "1NCE",
+      "url": "https://www.1nce.com/en-eu/about/careers",
+      "enabled": true
+    },
+    {
+      "name": "Bikeleasing",
+      "url": "https://bikeleasing.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Eraneos",
+      "url": "https://eraneos.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Pink University",
+      "url": "https://pink-university-gmbh.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Jedox",
+      "url": "https://jedox.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Velio",
+      "url": "https://velio.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Saphir Deutschland",
+      "url": "https://saphir-deutschland.de/en/stellenangebote/?_job_keywords=english",
+      "enabled": true
+    },
+    {
+      "name": "LichtBlick",
+      "url": "https://www.lichtblick.de/karriere/jobs/?erfahrung=Berufserfahrene",
+      "enabled": true
+    },
+    {
+      "name": "Ferchau",
+      "url": "https://touch.ferchau.com/de/en?type=3&searchTerm=english&sortingType=relevance&sortingDirection=DESC",
+      "enabled": false
+    },
+    {
+      "name": "Earlybird (Getro)",
+      "url": "https://jobs.earlybird.com/jobs?filter=eyJzZWFyY2hhYmxlX2xvY2F0aW9ucyI6WyJHZXJtYW55Il0sInNlbmlvcml0eSI6WyJlbnRyeV9sZXZlbCIsImFzc29jaWF0ZSIsIm1pZF9zZW5pb3IiXX0%3D",
+      "enabled": false
+    },
+    {
+      "name": "conxai",
+      "url": "https://www.conxai.com/company/careers#open-positions",
+      "enabled": false
+    },
+    {
+      "name": "Cherry VC (Getro)",
+      "url": "https://talent.cherry.vc/jobs?filter=eyJzZW5pb3JpdHkiOlsiZW50cnlfbGV2ZWwiLCJhc3NvY2lhdGUiLCJtaWRfc2VuaW9yIl0sInNlYXJjaGFibGVfbG9jYXRpb25zIjpbIkdlcm1hbnkiXX0%3D",
+      "enabled": false
+    },
+    {
+      "name": "HV Capital (Getro)",
+      "url": "https://hv.getro.com/jobs?filter=eyJzZW5pb3JpdHkiOlsiZW50cnlfbGV2ZWwiLCJhc3NvY2lhdGUiLCJtaWRfc2VuaW9yIl0sInNlYXJjaGFibGVfbG9jYXRpb25zIjpbIkdlcm1hbnkiXX0%3D",
+      "enabled": false
+    },
+    {
+      "name": "Speedinvest (Getro)",
+      "url": "https://careers.speedinvest.com/jobs?filter=eyJzZW5pb3JpdHkiOlsiZW50cnlfbGV2ZWwiLCJhc3NvY2lhdGUiLCJtaWRfc2VuaW9yIl0sInNlYXJjaGFibGVfbG9jYXRpb25zIjpbIkdlcm1hbnkiXX0%3D",
+      "enabled": false
+    },
+    {
+      "name": "UnternehmerTUM",
+      "url": "https://www.unternehmertum.de/jobs",
+      "enabled": true
+    },
+    {
+      "name": "Plug and Play (Getro)",
+      "url": "https://jobs.pnptc.com/jobs?filter=eyJzZW5pb3JpdHkiOlsiZW50cnlfbGV2ZWwiLCJhc3NvY2lhdGUiLCJtaWRfc2VuaW9yIl0sInNlYXJjaGFibGVfbG9jYXRpb25zIjpbIkdlcm1hbnkiXX0%3D",
+      "enabled": false
+    },
+    {
+      "name": "Berlin Startup Jobs",
+      "url": "https://berlinstartupjobs.com/engineering/",
+      "enabled": true
+    },
+    {
+      "name": "Enpal",
+      "url": "https://www.jobs.enpal.com/jobs",
+      "enabled": true
+    },
+    {
+      "name": "osapiens",
+      "url": "https://careers.osapiens.com/#js-careers-jobs-block",
+      "enabled": false
+    },
+    {
+      "name": "Qonto (Lever)",
+      "url": "https://jobs.lever.co/qonto",
+      "enabled": true
+    },
+    {
+      "name": "Intersnack (Recruitee)",
+      "url": "https://intersnackitkg.recruitee.com/",
+      "enabled": true
+    },
+    {
+      "name": "Moonfare",
+      "url": "https://www.moonfare.com/current-openings",
+      "enabled": false
+    },
+    {
+      "name": "Circula",
+      "url": "https://circula.jobs.personio.de/?language=de",
+      "enabled": true
+    },
+    {
+      "name": "Reltix",
+      "url": "https://reltix.jobs.personio.com/?language=en",
+      "enabled": true
+    },
+    {
+      "name": "Omnipeak",
+      "url": "https://www.omnipeak.ai/en/karriere",
+      "enabled": true
+    },
+    {
+      "name": "Greenjobs (English)",
+      "url": "https://www.greenjobs.de/angebote/index.html?s=english&loc=&countrycode=de&dist=10&lng=&lat=",
+      "enabled": true
+    },
+    {
+      "name": "eejobs",
+      "url": "https://www.eejobs.de/angebote/index.html?s=english&loc=&countrycode=de&dist=10&lng=&lat=",
+      "enabled": true
+    },
+    {
+      "name": "SPORTFIVE",
+      "url": "https://jobs.sportfive.com/",
+      "enabled": true
+    },
+    {
+      "name": "Luka Global (Zoho)",
+      "url": "https://careers.lukaglobal.com/jobs/Careers",
+      "enabled": false
+    },
+    {
+      "name": "devjobs.de",
+      "url": "https://devjobs.de/jobs/search?jobLevel=erfahren-job-level&jobLevel=junior-job-level&englishOnly=on&sort=relevance",
+      "enabled": false
     }
   ]
 }
