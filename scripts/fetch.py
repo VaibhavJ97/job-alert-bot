@@ -107,11 +107,15 @@ GROQ_DELAY_SECONDS = 3.0
 GROQ_BACKOFF_SECONDS = 15
 GROQ_MAX_ATTEMPTS = 3
 
+# Circuit breaker: a sentinel score_job returns when the Groq daily quota is
+# exhausted (429 even after all retries). After this many such results in a
+# row, the run stops calling Groq entirely and emails the rest unscored,
+# instead of sleeping ~3 min per remaining job.
+RATE_LIMITED = "RATE_LIMITED"
+QUOTA_GIVEUP_THRESHOLD = 2
+
 DESCRIPTION_MAX_CHARS = 2000          # truncation before sending to AI
 DESCRIPTION_FETCH_DELAY = 1.0         # pause between job-page fetches
-
-LISTING_PAGE_DELAY = 1.0              # pause between listing-page fetches
-MAX_LISTING_PAGES = 10               # safety cap on pagination depth per site
 
 
 # ----------------------------------------------------------------------
@@ -230,82 +234,6 @@ def extract_job_links(base_url: str, html: str) -> list[dict]:
         title = re.sub(r"\s+", " ", title)[:250]
         jobs.append({"url": full, "title": title})
     return jobs
-
-
-NEXT_PAGE_TEXT = re.compile(
-    r"^\s*(next|next page|weiter|n\u00e4chste|naechste|n\u00e4chste seite|"
-    r"more|mehr|older|\u00e4lter|aelter|\u203a|\u00bb|>|>>|\u2192)\s*$",
-    re.IGNORECASE,
-)
-
-
-def find_next_page(base_url: str, soup: "BeautifulSoup", visited: set[str]) -> str | None:
-    """Best-effort discovery of a 'next page' link in server-rendered pagination.
-
-    Checks rel=next, then an aria-label hinting 'next', then any anchor whose
-    visible text IS a next indicator. Returns an absolute URL or None.
-    JS-paginated sites expose no such link, so we simply stop at page 1.
-    """
-    tag = soup.find(attrs={"rel": "next"})
-    if tag and tag.get("href"):
-        cand = urljoin(base_url, tag["href"]).split("#", 1)[0].rstrip("/")
-        if cand and cand not in visited:
-            return cand
-
-    a = soup.find(
-        "a",
-        attrs={"aria-label": re.compile(r"(next|weiter|n\u00e4chste|naechste)", re.I)},
-        href=True,
-    )
-    if a and a.get("href"):
-        cand = urljoin(base_url, a["href"]).split("#", 1)[0].rstrip("/")
-        if cand and cand not in visited:
-            return cand
-
-    for a in soup.find_all("a", href=True):
-        txt = a.get_text(" ", strip=True)
-        if txt and NEXT_PAGE_TEXT.match(txt):
-            cand = urljoin(base_url, a["href"]).split("#", 1)[0].rstrip("/")
-            if cand and cand not in visited:
-                return cand
-    return None
-
-
-def crawl_listing(start_url: str) -> tuple[list[dict], bool]:
-    """Fetch a career listing and follow pagination across ALL pages.
-
-    Returns (jobs, fetch_failed). fetch_failed is True only when the very
-    first page cannot be fetched. Job links are de-duplicated across pages.
-    Pagination is capped at MAX_LISTING_PAGES to avoid runaway loops.
-    """
-    jobs_by_url: dict[str, dict] = {}
-    visited: set[str] = set()
-    next_url: str | None = start_url
-    pages = 0
-    first_ok = False
-
-    while next_url and pages < MAX_LISTING_PAGES:
-        nu = next_url.split("#", 1)[0].rstrip("/")
-        if nu in visited:
-            break
-        visited.add(nu)
-        html = fetch_html(nu)
-        pages += 1
-        if html is None:
-            break
-        first_ok = True
-        for j in extract_job_links(nu, html):
-            jobs_by_url.setdefault(j["url"], j)
-        soup = BeautifulSoup(html, "lxml")
-        nxt = find_next_page(nu, soup, visited)
-        if nxt:
-            print(f"  page {pages}: {len(jobs_by_url)} links so far, following next page")
-            time.sleep(LISTING_PAGE_DELAY)
-            next_url = nxt
-        else:
-            next_url = None
-
-    return list(jobs_by_url.values()), (not first_ok)
 
 
 def fetch_job_description(url: str) -> str | None:
@@ -453,7 +381,7 @@ def score_job(title: str, description: str | None = None) -> dict | None:
                     f"  score fail for '{title[:60]}': rate limit exhausted "
                     f"after {GROQ_MAX_ATTEMPTS} attempts"
                 )
-                return None
+                return RATE_LIMITED
 
             r.raise_for_status()
             content = r.json()["choices"][0]["message"]["content"]
@@ -605,18 +533,15 @@ def main() -> int:
     digest_lines = [f"# Job Alert Digest - {today}", ""]
     total_new = 0
     total_scored_now = 0
-    total_pending = 0
+    quota_exhausted = False          # circuit breaker: stop scoring once tripped
+    consecutive_rate_limited = 0
     total_failed = 0
     total_seeded = 0
     total_title_filtered = 0
     total_desc_filtered = 0
     total_desc_fetched = 0
     total_desc_missing = 0
-
-    # Every job we will report in THIS run, across all sites. No caps -
-    # the full list goes into the digest/email, scored first then unscored.
-    all_report_jobs: list[dict] = []
-    site_status: list[str] = []
+    new_jobs_for_top_list: list[dict] = []
 
     for site in sites:
         name = site["name"]
@@ -624,15 +549,18 @@ def main() -> int:
         slug = slugify(name)
         print(f"\n[{name}] {url}")
 
-        # ---- Stage 0: crawl ALL listing pages for this site ----
-        current_jobs, fetch_failed = crawl_listing(url)
-        if fetch_failed:
+        html = fetch_html(url)
+        if html is None:
             total_failed += 1
-            site_status.append(f"- **{name}**: fetch failed (will retry next run)")
+            digest_lines.append(f"## {name}")
+            digest_lines.append("")
+            digest_lines.append("FETCH FAILED. Will retry next run.")
+            digest_lines.append("")
             continue
 
+        current_jobs = extract_job_links(url, html)
         had_snapshot, prev_by_url = load_snapshot(slug)
-        print(f"  found {len(current_jobs)} job-like links across all pages")
+        print(f"  found {len(current_jobs)} job-like links")
 
         # ---- Stage 1: title filter ----
         title_passing: list[dict] = []
@@ -648,12 +576,13 @@ def main() -> int:
             print(f"  title filter dropped {title_filtered_count}, "
                   f"{len(title_passing)} survive")
 
-        # Keep already-scored URLs cached (don't re-report); collect new URLs.
+        # Build merged list: keep cached entries, identify new URLs
         merged: list[dict] = []
         new_jobs: list[dict] = []
         for j in title_passing:
             prev = prev_by_url.get(j["url"])
             if prev and "score" in prev:
+                # Already scored, keep cached
                 merged.append({
                     "url": j["url"],
                     "title": j["title"],
@@ -661,9 +590,10 @@ def main() -> int:
                     "reasoning": prev.get("reasoning", ""),
                 })
             else:
+                # Brand-new URL - needs description fetch + filter + scoring
                 new_jobs.append(j)
 
-        # ---- Stage 2: description fetch + keyword filter (new URLs only) ----
+        # ---- Stage 2: description fetch + filter (only for new URLs) ----
         desc_passing: list[dict] = []
         desc_filtered_this_site = 0
         if new_jobs:
@@ -686,102 +616,127 @@ def main() -> int:
             print(f"  description filter dropped {desc_filtered_this_site}, "
                   f"{len(desc_passing)} survive")
 
-        # desc_passing is now the EMAIL-READY set for this site: everything
-        # that cleared the title + description filters. Scoring below is
-        # best-effort enrichment only - it never adds or removes a job.
-
-        # ---- Stage 3: AI scoring (optional, best-effort) ----
-        scored_now_site = 0
-        if desc_passing and scoring_enabled:
+        # ---- Stage 3: AI scoring (optional, with quota circuit breaker) ----
+        if desc_passing and scoring_enabled and not quota_exhausted:
             print(f"  scoring {len(desc_passing)} job(s)...")
             for j in desc_passing:
                 result = score_job(j["title"], j.get("description"))
-                if result is not None:
+                if result == RATE_LIMITED:
+                    consecutive_rate_limited += 1
+                    if consecutive_rate_limited >= QUOTA_GIVEUP_THRESHOLD:
+                        quota_exhausted = True
+                        print(
+                            f"  Groq quota looks exhausted "
+                            f"({consecutive_rate_limited} rate-limited in a row); "
+                            "skipping scoring for the rest of this run. Remaining "
+                            "jobs are kept unscored and scored on a later run."
+                        )
+                        break
+                elif result is not None:
                     j["score"] = result["score"]
                     j["reasoning"] = result["reasoning"]
                     total_scored_now += 1
-                    scored_now_site += 1
-                j.pop("description", None)  # never persisted in snapshot
+                    consecutive_rate_limited = 0
                 time.sleep(GROQ_DELAY_SECONDS)
-        else:
-            for j in desc_passing:
-                j.pop("description", None)
+        elif quota_exhausted and desc_passing:
+            print(f"  skipping scoring for {len(desc_passing)} job(s) "
+                  "(Groq quota exhausted earlier this run)")
 
-        # All filter-passing new jobs join merged (scored or not). Unscored
-        # ones are saved WITHOUT a score, so the next run re-detects them as
-        # new and retries scoring - no fake placeholder score is ever cached.
+        # Never persist the description payload in the snapshot.
+        for j in desc_passing:
+            j.pop("description", None)
+
+        # Add new jobs to merged + mark as new (scored or not).
+        new_urls_added: list[str] = []
         for j in desc_passing:
             merged.append(j)
+            new_urls_added.append(j["url"])
 
-        pending_site = sum(1 for j in desc_passing if "score" not in j)
-        total_pending += pending_site
-
-        # ---- Decide what to report in the email for this site ----
+        # ---- Digest output for this site ----
         if not had_snapshot:
             total_seeded += 1
-            report = list(desc_passing)
-            site_status.append(
-                f"- **{name}**: seeded {len(report)} matches "
-                f"({scored_now_site} scored, {pending_site} pending), "
-                f"{title_filtered_count} title-filtered, "
-                f"{desc_filtered_this_site} desc-filtered"
+            digest_lines.append(f"## {name}")
+            digest_lines.append("")
+            digest_lines.append(
+                f"First run. Seeded {len(merged)} matching postings. "
+                f"{title_filtered_count} dropped by title filter, "
+                f"{desc_filtered_this_site} dropped by description filter. "
+                "New postings will be flagged as NEW from next run on."
             )
+            digest_lines.append("")
+            scored = [j for j in merged if "score" in j]
+            if scored:
+                top_seeded = sorted(scored, key=lambda x: x["score"], reverse=True)[:5]
+                digest_lines.append("Top matches found at this site:")
+                for j in top_seeded:
+                    sc = j["score"]
+                    why = j.get("reasoning") or ""
+                    digest_lines.append(
+                        f"- **{sc}/100** [{score_badge(sc)}] [{j['title']}]({j['url']})"
+                    )
+                    if why:
+                        digest_lines.append(f"    {why}")
+                digest_lines.append("")
         else:
-            report = list(desc_passing)
-            total_new += len(report)
-            site_status.append(
-                f"- **{name}**: {len(report)} new "
-                f"({scored_now_site} scored, {pending_site} pending)"
-            )
-
-        for j in report:
-            all_report_jobs.append({**j, "site_name": name})
+            new_scored = [j for j in merged if j["url"] in new_urls_added]
+            if new_scored:
+                total_new += len(new_scored)
+                new_jobs_for_top_list.extend(
+                    [{**j, "site_name": name} for j in new_scored]
+                )
+                digest_lines.append(f"## {name} - {len(new_scored)} new")
+                digest_lines.append("")
+                new_sorted = sorted(
+                    new_scored,
+                    key=lambda x: x.get("score", -1),
+                    reverse=True,
+                )
+                for j in new_sorted:
+                    sc = j.get("score")
+                    if sc is not None:
+                        badge = score_badge(sc)
+                        why = j.get("reasoning") or ""
+                        digest_lines.append(
+                            f"- **{sc}/100** [{badge}] [{j['title']}]({j['url']})"
+                        )
+                        if why:
+                            digest_lines.append(f"    {why}")
+                    else:
+                        digest_lines.append(f"- [{j['title']}]({j['url']})")
+                digest_lines.append("")
 
         save_snapshot(slug, merged)
 
-    # ------------------------------------------------------------------
-    # ONE complete, uncapped list: scored first (best -> worst), then every
-    # unscored job. Nothing is truncated to a top-N.
-    # ------------------------------------------------------------------
-    scored_jobs = [j for j in all_report_jobs if j.get("score") is not None]
-    unscored_jobs = [j for j in all_report_jobs if j.get("score") is None]
-    scored_jobs.sort(key=lambda x: x["score"], reverse=True)
-
-    if scored_jobs or unscored_jobs:
-        digest_lines.append(f"## All matches ({len(all_report_jobs)}) - best first")
-        digest_lines.append("")
-        for j in scored_jobs:
-            sc = j["score"]
+    # Top-of-digest section across all sites
+    if new_jobs_for_top_list:
+        new_jobs_for_top_list.sort(
+            key=lambda x: x.get("score", -1),
+            reverse=True,
+        )
+        top_n = new_jobs_for_top_list[:10]
+        top_block = ["## Top new matches across all sites", ""]
+        for j in top_n:
+            sc = j.get("score")
+            if sc is None:
+                continue
             why = j.get("reasoning") or ""
-            digest_lines.append(
+            top_block.append(
                 f"- **{sc}/100** [{score_badge(sc)}] **{j['site_name']}**: "
                 f"[{j['title']}]({j['url']})"
             )
             if why:
-                digest_lines.append(f"    {why}")
-        for j in unscored_jobs:
-            digest_lines.append(
-                f"- **[unscored]** **{j['site_name']}**: "
-                f"[{j['title']}]({j['url']}) "
-                "- not yet scored; scored on a later run"
-            )
-        digest_lines.append("")
-
-    # Per-site status footer (counts + fetch failures)
-    if site_status:
-        digest_lines.append("## Sites")
-        digest_lines.append("")
-        digest_lines.extend(site_status)
-        digest_lines.append("")
+                top_block.append(f"    {why}")
+        top_block.append("")
+        digest_lines[2:2] = top_block
 
     summary = (
-        f"**Summary:** {len(all_report_jobs)} jobs in this email | "
-        f"{total_new} new | {total_seeded} seeded | "
+        f"**Summary:** {total_new} new | "
         f"{total_scored_now} scored | "
-        f"{total_pending} pending (filter-matched, unscored) | "
         f"{total_title_filtered} title-filtered | "
         f"{total_desc_filtered} desc-filtered | "
-        f"{total_desc_fetched} desc fetches ({total_desc_missing} unavailable) | "
+        f"{total_desc_fetched} desc fetches "
+        f"({total_desc_missing} unavailable) | "
+        f"{total_seeded} seeded | "
         f"{total_failed} fetch failures"
     )
     digest_lines.insert(2, summary)
@@ -798,19 +753,20 @@ def main() -> int:
 
     # ---- Email delivery ----
     if email_enabled:
-        have_jobs = len(all_report_jobs) > 0
-        should_send = FORCE_EMAIL or have_jobs
+        should_send = FORCE_EMAIL or total_new > 0 or total_seeded > 0
         if should_send:
-            n = len(all_report_jobs)
-            if n > 0:
-                plural = "es" if n != 1 else ""
-                subject = f"Job Alerts: {n} match{plural} - {today}"
-            else:
-                subject = f"Job Alerts: test - {today}"
+            subj_parts = []
+            if total_new > 0:
+                subj_parts.append(f"{total_new} new")
+            if total_seeded > 0:
+                subj_parts.append(f"{total_seeded} sites seeded")
+            if not subj_parts:
+                subj_parts.append("test")
+            subject = f"Job Alerts: {', '.join(subj_parts)} - {today}"
             html_body = markdown_to_html_email(digest_md)
             send_email_digest(subject, html_body, digest_md)
         else:
-            print("Email skipped: no matching jobs to report")
+            print("Email skipped: no new jobs to report")
 
     return 0
 
