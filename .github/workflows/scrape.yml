@@ -20,6 +20,13 @@ on:
     branches:
       - main
 
+# Only one scrape can run at a time. A new run waits for the current one to
+# finish instead of overlapping it - this is what prevents the "fetch first"
+# push rejection when several urls.json commits land close together.
+concurrency:
+  group: job-alert-scraper
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -55,7 +62,20 @@ jobs:
           git add snapshots/ digest/
           if git diff --staged --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "Auto: update snapshots and digest [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "Auto: update snapshots and digest [skip ci]"
+          # A scrape can take a long time, so main may have moved on while it ran
+          # (a urls.json edit, or another run). Rebase our snapshot/digest commit
+          # onto the latest main and retry the push a few times before failing.
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" \
+               && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "Pushed on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push attempt ${attempt} failed; retrying in 5s..."
+            sleep 5
+          done
+          echo "Could not push after multiple attempts."
+          exit 1
