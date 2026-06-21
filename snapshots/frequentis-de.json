@@ -1,0 +1,41 @@
+{
+  "updated_at": "2026-06-21T16:20:04+00:00",
+  "jobs": [
+    {
+      "url": "https://jobs.frequentis.com/karriere/SearchJobs",
+      "title": "JOBBÖRSE"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/Login",
+      "title": "EINLOGGEN"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Junior-System-Engineer-Hochverf-gbare-IT-L-sungen-f-r-Helden-des-Alltags-all-genders/3339",
+      "title": "(Junior) System Engineer – Hochverfügbare IT-Lösungen für Helden des Alltags! (all genders)"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Group-IT-Application-Support-Specialist-3rd-Level-all-genders/3400",
+      "title": "Group IT Application Support Specialist - 3rd Level (all genders)"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-IT-Procurement-Contract-Specialist-all-genders/3485",
+      "title": "IT Procurement – Contract Specialist (all genders)"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Managed-Services-Sales-Expert/3475",
+      "title": "Managed Service Sales Expert (all genders)"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=0",
+      "title": "1"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=20",
+      "title": "2"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=40",
+      "title": "3"
+    }
+  ]
+}
