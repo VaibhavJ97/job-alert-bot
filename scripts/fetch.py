@@ -215,6 +215,63 @@ def fetch_html(url: str) -> str | None:
         return None
 
 
+JUNK_TITLE_WORDS = {
+    "apply", "apply now", "apply here", "bewerben", "jetzt bewerben",
+    "mehr", "more", "read more", "learn more", "details", "view", "view job",
+    "view details", "weiterlesen", "ansehen", "zur stelle", "zum job",
+    "jobboerse", "jobborse", "open", "oeffnen", "next", "previous",
+    "weiter", "zurueck", "ende", "show more", "see more",
+}
+
+
+def _clean_title(text: str) -> str:
+    """Normalise anchor/heading text into a usable job title."""
+    t = re.sub(r"\s+", " ", text or "").strip()
+    # strip leading menu arrows / bullets (e.g. the FZ Juelich "> Science")
+    t = re.sub(r"^[\u25b8\u25be\u25b6\u25bc\u2023\u203a\u00bb>\u2013\u2022\s\-]+", "", t)
+    # strip search-result counters like "6. Ergebnis:" / "12. Result:"
+    t = re.sub(r"^\d+\.\s*(Ergebnis|Result)\s*:\s*", "", t, flags=re.IGNORECASE)
+    return t.strip()
+
+
+def _is_junk_title(t: str) -> bool:
+    if not t:
+        return True
+    low = t.lower().strip(" .:-")
+    if low in JUNK_TITLE_WORDS:
+        return True
+    if len(t) < 3:                       # "1", "Se"
+        return True
+    if not re.search(r"[A-Za-z\u00C0-\u017F]", t):   # no letters at all
+        return True
+    return False
+
+
+def _recover_title(a) -> str:
+    """When an anchor's own text is junk (e.g. an 'Apply' button), find the real
+    job title nearby: a title/aria-label attribute, or a heading / title-class
+    element inside the same posting block."""
+    for attr in ("aria-label", "title"):
+        cand = _clean_title(a.get(attr, ""))
+        if not _is_junk_title(cand):
+            return cand
+    node = a
+    for _ in range(4):
+        node = node.parent
+        if node is None:
+            break
+        target = (
+            node.find(["h1", "h2", "h3", "h4", "h5"])
+            or node.find(attrs={"data-qa": re.compile(r"(name|title)", re.I)})
+            or node.find(attrs={"class": re.compile(r"(title|name|posting)", re.I)})
+        )
+        if target is not None:
+            cand = _clean_title(target.get_text(" ", strip=True))
+            if not _is_junk_title(cand):
+                return cand
+    return ""
+
+
 def extract_job_links(base_url: str, html: str) -> list[dict]:
     soup = BeautifulSoup(html, "lxml")
     jobs: list[dict] = []
@@ -225,14 +282,25 @@ def extract_job_links(base_url: str, html: str) -> list[dict]:
         if not href:
             continue
         full = urljoin(base_url, href).split("#", 1)[0].rstrip("/")
+        # Treat ".../apply" as the posting itself, so an Apply button and the
+        # title link de-duplicate to a single entry pointing at the posting.
+        if full.endswith("/apply"):
+            full = full[: -len("/apply")]
         if not full or full in seen:
             continue
         if EXCLUDE_LINK_PATTERNS.search(full) or not JOB_PATTERNS.search(full):
             continue
         seen.add(full)
-        title = a.get_text(" ", strip=True) or "(no title)"
-        title = re.sub(r"\s+", " ", title)[:250]
-        jobs.append({"url": full, "title": title})
+        heading = (a.find(["h1", "h2", "h3", "h4", "h5"])
+                   or a.find(attrs={"data-qa": re.compile(r"(name|title)", re.I)}))
+        raw = heading.get_text(" ", strip=True) if heading else a.get_text(" ", strip=True)
+        title = _clean_title(raw)
+        if _is_junk_title(title):
+            recovered = _recover_title(a)
+            title = recovered or (title if title else "(no title)")
+            if _is_junk_title(title):
+                title = "(no title)"
+        jobs.append({"url": full, "title": title[:250]})
     return jobs
 
 
@@ -541,7 +609,8 @@ def main() -> int:
     total_desc_filtered = 0
     total_desc_fetched = 0
     total_desc_missing = 0
-    new_jobs_for_top_list: list[dict] = []
+    all_report: list[dict] = []
+    failed_sites: list[str] = []
 
     for site in sites:
         name = site["name"]
@@ -552,10 +621,7 @@ def main() -> int:
         html = fetch_html(url)
         if html is None:
             total_failed += 1
-            digest_lines.append(f"## {name}")
-            digest_lines.append("")
-            digest_lines.append("FETCH FAILED. Will retry next run.")
-            digest_lines.append("")
+            failed_sites.append(name)
             continue
 
         current_jobs = extract_job_links(url, html)
@@ -652,91 +718,62 @@ def main() -> int:
             merged.append(j)
             new_urls_added.append(j["url"])
 
-        # ---- Digest output for this site ----
+        # ---- Collect what to report for this site ----
+        # desc_passing = the jobs that cleared title + description filters this
+        # run (scored or not). On a first run we report all of them (seed); on
+        # later runs these are exactly the new postings.
         if not had_snapshot:
             total_seeded += 1
-            digest_lines.append(f"## {name}")
-            digest_lines.append("")
-            digest_lines.append(
-                f"First run. Seeded {len(merged)} matching postings. "
-                f"{title_filtered_count} dropped by title filter, "
-                f"{desc_filtered_this_site} dropped by description filter. "
-                "New postings will be flagged as NEW from next run on."
-            )
-            digest_lines.append("")
-            scored = [j for j in merged if "score" in j]
-            if scored:
-                top_seeded = sorted(scored, key=lambda x: x["score"], reverse=True)[:5]
-                digest_lines.append("Top matches found at this site:")
-                for j in top_seeded:
-                    sc = j["score"]
-                    why = j.get("reasoning") or ""
-                    digest_lines.append(
-                        f"- **{sc}/100** [{score_badge(sc)}] [{j['title']}]({j['url']})"
-                    )
-                    if why:
-                        digest_lines.append(f"    {why}")
-                digest_lines.append("")
         else:
-            new_scored = [j for j in merged if j["url"] in new_urls_added]
-            if new_scored:
-                total_new += len(new_scored)
-                new_jobs_for_top_list.extend(
-                    [{**j, "site_name": name} for j in new_scored]
-                )
-                digest_lines.append(f"## {name} - {len(new_scored)} new")
-                digest_lines.append("")
-                new_sorted = sorted(
-                    new_scored,
-                    key=lambda x: x.get("score", -1),
-                    reverse=True,
-                )
-                for j in new_sorted:
-                    sc = j.get("score")
-                    if sc is not None:
-                        badge = score_badge(sc)
-                        why = j.get("reasoning") or ""
-                        digest_lines.append(
-                            f"- **{sc}/100** [{badge}] [{j['title']}]({j['url']})"
-                        )
-                        if why:
-                            digest_lines.append(f"    {why}")
-                    else:
-                        digest_lines.append(f"- [{j['title']}]({j['url']})")
-                digest_lines.append("")
+            total_new += len(desc_passing)
+        for j in desc_passing:
+            all_report.append({
+                "site_name": name,
+                "title": j.get("title", "(no title)"),
+                "url": j["url"],
+                "score": j.get("score"),
+            })
 
         save_snapshot(slug, merged)
 
-    # Top-of-digest section across all sites
-    if new_jobs_for_top_list:
-        new_jobs_for_top_list.sort(
-            key=lambda x: x.get("score", -1),
-            reverse=True,
-        )
-        top_n = new_jobs_for_top_list[:10]
-        top_block = ["## Top new matches across all sites", ""]
-        for j in top_n:
+    # ------------------------------------------------------------------
+    # Build the email: one block per company, jobs sorted best-first, showing
+    # only the score - no AI reasoning. Companies with no matches are omitted.
+    # ------------------------------------------------------------------
+    by_company: dict[str, list[dict]] = {}
+    for j in all_report:
+        by_company.setdefault(j["site_name"], []).append(j)
+
+    def _job_key(j):
+        sc = j.get("score")
+        return (0, -sc) if sc is not None else (1, 0)
+
+    def _company_key(item):
+        _name, jobs_ = item
+        scored = [x["score"] for x in jobs_ if x.get("score") is not None]
+        return (0, -max(scored)) if scored else (1, _name.lower())
+
+    for company, jobs_ in sorted(by_company.items(), key=_company_key):
+        jobs_.sort(key=_job_key)
+        digest_lines.append(f"## {company}")
+        digest_lines.append("")
+        for i, j in enumerate(jobs_, 1):
             sc = j.get("score")
-            if sc is None:
-                continue
-            why = j.get("reasoning") or ""
-            top_block.append(
-                f"- **{sc}/100** [{score_badge(sc)}] **{j['site_name']}**: "
-                f"[{j['title']}]({j['url']})"
-            )
-            if why:
-                top_block.append(f"    {why}")
-        top_block.append("")
-        digest_lines[2:2] = top_block
+            rating = f"{sc}/100" if sc is not None else "unscored"
+            digest_lines.append(f"{i}. [{j['title']}]({j['url']}): **{rating}**")
+        digest_lines.append("")
+
+    if failed_sites:
+        digest_lines.append("## Could not fetch (will retry next run)")
+        digest_lines.append("")
+        digest_lines.append(", ".join(failed_sites))
+        digest_lines.append("")
 
     summary = (
-        f"**Summary:** {total_new} new | "
-        f"{total_scored_now} scored | "
+        f"**Summary:** {len(all_report)} jobs | {total_new} new | "
+        f"{total_seeded} seeded | {total_scored_now} scored | "
         f"{total_title_filtered} title-filtered | "
         f"{total_desc_filtered} desc-filtered | "
-        f"{total_desc_fetched} desc fetches "
-        f"({total_desc_missing} unavailable) | "
-        f"{total_seeded} seeded | "
         f"{total_failed} fetch failures"
     )
     digest_lines.insert(2, summary)
@@ -753,20 +790,17 @@ def main() -> int:
 
     # ---- Email delivery ----
     if email_enabled:
-        should_send = FORCE_EMAIL or total_new > 0 or total_seeded > 0
+        should_send = FORCE_EMAIL or len(all_report) > 0 or total_seeded > 0
         if should_send:
-            subj_parts = []
-            if total_new > 0:
-                subj_parts.append(f"{total_new} new")
-            if total_seeded > 0:
-                subj_parts.append(f"{total_seeded} sites seeded")
-            if not subj_parts:
-                subj_parts.append("test")
-            subject = f"Job Alerts: {', '.join(subj_parts)} - {today}"
+            n = len(all_report)
+            if n > 0:
+                subject = f"Job Alerts: {n} match{'es' if n != 1 else ''} - {today}"
+            else:
+                subject = f"Job Alerts: test - {today}"
             html_body = markdown_to_html_email(digest_md)
             send_email_digest(subject, html_body, digest_md)
         else:
-            print("Email skipped: no new jobs to report")
+            print("Email skipped: no matching jobs to report")
 
     return 0
 
