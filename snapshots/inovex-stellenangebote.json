@@ -1,4 +1,41 @@
 {
-  "updated_at": "2026-06-21T16:13:42+00:00",
-  "jobs": []
+  "updated_at": "2026-06-21T18:54:26+00:00",
+  "jobs": [
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/bi-specialist-analytics-engineer",
+      "title": "BI Specialist* / Analytics Engineer*"
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/information-security-consultant",
+      "title": "Information Security Consultant*"
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/data-engineer-machine-learning-engineer",
+      "title": "Data Engineer* / Machine Learning Engineer*"
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/software-engineer-datenprojekte",
+      "title": "Software Engineer* für Datenprojekte"
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/devops-engineer-linux",
+      "title": "DevOps Engineer* Linux"
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/cloud-platform-kubernetes-engineer",
+      "title": "Cloud Platform / Kubernetes Engineer*"
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/software-developer-cloudtechnologien",
+      "title": "Software Developer* Cloud-Technologien"
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/cloud-architect-aws-azure-gcp",
+      "title": "Cloud Architect* (AWS, Azure, GCP, private Cloud)"
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/security-specialist-kubernetes-cloud",
+      "title": "Security Specialist* (Kubernetes, Cloud)"
+    }
+  ]
 }

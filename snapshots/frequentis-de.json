@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T16:20:04+00:00",
+  "updated_at": "2026-06-21T18:57:00+00:00",
   "jobs": [
     {
       "url": "https://jobs.frequentis.com/karriere/SearchJobs",
@@ -27,15 +27,15 @@
     },
     {
       "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=0",
-      "title": "1"
+      "title": "Search by keyword"
     },
     {
       "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=20",
-      "title": "2"
+      "title": "Search by keyword"
     },
     {
       "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=40",
-      "title": "3"
+      "title": "Search by keyword"
     }
   ]
 }
