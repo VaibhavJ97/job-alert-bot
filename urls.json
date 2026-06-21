@@ -1,47 +1,350 @@
 {
   "_comment": "Edit this file to add or remove career-site URLs. The scraper handles failures gracefully - one broken URL never stops the others. To temporarily disable a site without deleting it, set enabled=false. Avoid aggregator sites like Stepstone/Arbeitsagentur - they serve navigation links as if they were jobs and waste AI scoring quota. Prefer ATS-hosted pages (Personio, Lever, Ashby, softgarden) - they expose real job links in static HTML. JS-rendered SPA career portals (Workday, Phenom 'search-results' pages, SuccessFactors) often return nothing in static HTML.",
   "sites": [
-    { "name": "IONOS Careers", "url": "https://jobs.ionos.de/career/all-jobs", "enabled": true },
-    { "name": "EnBW Karriere", "url": "https://www.enbw.com/karriere/", "enabled": true },
-    { "name": "CAS Software", "url": "https://www.cas-mitgestalter.de/jobs/", "enabled": true },
-    { "name": "Greenlyte", "url": "https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/", "enabled": true },
-    { "name": "Spatial", "url": "https://spaitial.ai/careers", "enabled": true },
-    { "name": "Greenjobs", "url": "https://www.greenjobs.de/angebote/index.html?z=alle", "enabled": true },
-    { "name": "braun-management", "url": "https://braun-management.now-remote.com/", "enabled": true },
-    { "name": "KIT Jobs", "url": "https://jobs.pse.kit.edu/", "enabled": true },
-    { "name": "inovex Stellenangebote", "url": "https://www.inovex.de/de/karriere/stellenangebote/", "enabled": true },
-    { "name": "Vulcan Energy", "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/", "enabled": true },
-    { "name": "INERATEC", "url": "https://ineratec-gmbh-1.jobs.personio.de/", "enabled": true },
-    { "name": "Aleph Alpha", "url": "https://alephalpha.jobs.personio.de/", "enabled": true },
-    { "name": "KIT Career Service Jobboerse", "url": "https://www.careerservice.kit.edu/en/studierende/jobboerse/", "enabled": true },
-    { "name": "Disy Informationssysteme", "url": "https://www.disy.net/de/karriere/jobs/", "enabled": true },
-    { "name": "EnBW Careers (Global)", "url": "https://careers.enbw.com/global/en/search-results", "enabled": true },
-    { "name": "VINCI Energies Building Solutions", "url": "https://jobs-vinci-energies-deutschland-building-solutions-gmbh.career.softgarden.de/", "enabled": true },
-    { "name": "EIFER (EN)", "url": "https://eiferkit.softgarden.io/en/vacancies", "enabled": true },
-    { "name": "EIFER (DE)", "url": "https://eiferkit.softgarden.io/de/vacancies", "enabled": true },
-    { "name": "GBM Baugrundinstitut", "url": "https://gbm-baugrundinstitut.de/karriere/", "enabled": true },
-    { "name": "Deutsche Erdwaerme", "url": "https://deutsche-erdwaerme-gmbh-co-kg.jobs.personio.de/", "enabled": true },
-    { "name": "Solexperts", "url": "https://www.solexperts.com/de/karriere/offene-stellen", "enabled": true },
-    { "name": "atmosfair", "url": "https://atmosfair.jobs.personio.de/?language=en", "enabled": true },
-    { "name": "Frequentis (DE)", "url": "https://jobs.frequentis.com/karriere", "enabled": true },
-    { "name": "Frequentis (EN)", "url": "https://jobs.frequentis.com/careers", "enabled": true },
-    { "name": "Amadeus Fire", "url": "https://www.amadeus-fire.de/jobsuche", "enabled": true },
-    { "name": "Impossible Cloud", "url": "https://jobs.lever.co/impossiblecloud", "enabled": true },
-    { "name": "ENGIE", "url": "https://jobs.engie.com/search/?q=&locationsearch=&searchResultView=LIST", "enabled": true },
-    { "name": "Allianz Careers (DE)", "url": "https://careers.allianz.com/de/de/search-results?p=ChIJa76xwh5ymkcRW-WRjmtd6HU&location=Germany", "enabled": true },
-    { "name": "Allianz Careers (Global)", "url": "https://careers.allianz.com/global/en/search-results?p=ChIJa76xwh5ymkcRW-WRjmtd6HU&location=Germany", "enabled": true },
-    { "name": "TYPO3", "url": "https://typo3.jobs.personio.com/", "enabled": true },
-    { "name": "Bundesagentur fuer Arbeit", "url": "https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=1&beruf=Fachinformatiker%2Fin%20-%20Systemintegration;Informatiker%2Fin;Softwareentwickler%2Fin&arbeitszeit=vz;tz&veroeffentlichtseit=14", "enabled": true },
-    { "name": "Empfehlungsbund", "url": "https://www.empfehlungsbund.de/jobs/search", "enabled": true },
-    { "name": "Jobs4Internationals", "url": "https://jobs4internationals.de/", "enabled": true },
-    { "name": "Publicis Groupe", "url": "https://careers.publicisgroupe.com/jobs?lang=de-DE&keywords=english&sortBy=relevance&page=1&location=Deutschland&woe=12&regionCode=DE&stretchUnit=KILOMETERS&stretch=10&limit=100", "enabled": true },
-    { "name": "GOLDBECK", "url": "https://goldbeck.wd103.myworkdayjobs.com/en-GB/goldbeck-jobs?q=english&locationCountry=dcc5b7608d8644b3a93716604e78e995", "enabled": true },
-    { "name": "Neoen", "url": "https://careers.neoen.com/fr/annonces?bottom_right_lat=47.27011395706102&bottom_right_lon=15.04189619759281&top_left_lat=55.08149999602162&top_left_lon=5.86634248758437&place_label=Germany&place_type=country", "enabled": true },
-    { "name": "Ostrom", "url": "https://www.ostrom.de/careers", "enabled": true },
-    { "name": "NTT Data", "url": "https://de.nttdata.com/stellenangebote", "enabled": true },
-    { "name": "ZeroEx", "url": "https://zeroex.jobs.personio.de/?language=de", "enabled": true },
-    { "name": "FZ Juelich (Professionals)", "url": "https://www.fz-juelich.de/en/careers/jobs?targetGroup=professionals", "enabled": true },
-    { "name": "FZ Juelich (PhD)", "url": "https://www.fz-juelich.de/en/careers/jobs?targetGroup=promovierende", "enabled": true },
-    { "name": "Reonic", "url": "https://jobs.ashbyhq.com/reonic", "enabled": true }
+    {
+      "name": "IONOS Careers",
+      "url": "https://jobs.ionos.de/career/all-jobs",
+      "enabled": true
+    },
+    {
+      "name": "EnBW Karriere",
+      "url": "https://www.enbw.com/karriere/",
+      "enabled": true
+    },
+    {
+      "name": "CAS Software",
+      "url": "https://www.cas-mitgestalter.de/jobs/",
+      "enabled": true
+    },
+    {
+      "name": "Greenlyte",
+      "url": "https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Spatial",
+      "url": "https://spaitial.ai/careers",
+      "enabled": true
+    },
+    {
+      "name": "Greenjobs",
+      "url": "https://www.greenjobs.de/angebote/index.html?z=alle",
+      "enabled": true
+    },
+    {
+      "name": "braun-management",
+      "url": "https://braun-management.now-remote.com/",
+      "enabled": true
+    },
+    {
+      "name": "KIT Jobs",
+      "url": "https://jobs.pse.kit.edu/",
+      "enabled": true
+    },
+    {
+      "name": "inovex Stellenangebote",
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/",
+      "enabled": true
+    },
+    {
+      "name": "Vulcan Energy",
+      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "INERATEC",
+      "url": "https://ineratec-gmbh-1.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Aleph Alpha",
+      "url": "https://alephalpha.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "KIT Career Service Jobboerse",
+      "url": "https://www.careerservice.kit.edu/en/studierende/jobboerse/",
+      "enabled": true
+    },
+    {
+      "name": "Disy Informationssysteme",
+      "url": "https://www.disy.net/de/karriere/jobs/",
+      "enabled": true
+    },
+    {
+      "name": "EnBW Careers (Global)",
+      "url": "https://careers.enbw.com/global/en/search-results",
+      "enabled": false
+    },
+    {
+      "name": "VINCI Energies Building Solutions",
+      "url": "https://jobs-vinci-energies-deutschland-building-solutions-gmbh.career.softgarden.de/",
+      "enabled": false
+    },
+    {
+      "name": "EIFER (EN)",
+      "url": "https://eiferkit.softgarden.io/en/vacancies",
+      "enabled": false
+    },
+    {
+      "name": "EIFER (DE)",
+      "url": "https://eiferkit.softgarden.io/de/vacancies",
+      "enabled": false
+    },
+    {
+      "name": "GBM Baugrundinstitut",
+      "url": "https://gbm-baugrundinstitut.de/karriere/",
+      "enabled": true
+    },
+    {
+      "name": "Deutsche Erdwaerme",
+      "url": "https://deutsche-erdwaerme-gmbh-co-kg.jobs.personio.de/",
+      "enabled": true
+    },
+    {
+      "name": "Solexperts",
+      "url": "https://www.solexperts.com/de/karriere/offene-stellen",
+      "enabled": true
+    },
+    {
+      "name": "atmosfair",
+      "url": "https://atmosfair.jobs.personio.de/?language=en",
+      "enabled": true
+    },
+    {
+      "name": "Frequentis (DE)",
+      "url": "https://jobs.frequentis.com/karriere",
+      "enabled": true
+    },
+    {
+      "name": "Frequentis (EN)",
+      "url": "https://jobs.frequentis.com/careers",
+      "enabled": true
+    },
+    {
+      "name": "Amadeus Fire",
+      "url": "https://www.amadeus-fire.de/jobsuche",
+      "enabled": false
+    },
+    {
+      "name": "Impossible Cloud",
+      "url": "https://jobs.lever.co/impossiblecloud",
+      "enabled": true
+    },
+    {
+      "name": "ENGIE",
+      "url": "https://jobs.engie.com/search/?q=&locationsearch=&searchResultView=LIST",
+      "enabled": false
+    },
+    {
+      "name": "Allianz Careers (DE)",
+      "url": "https://careers.allianz.com/de/de/search-results?p=ChIJa76xwh5ymkcRW-WRjmtd6HU&location=Germany",
+      "enabled": false
+    },
+    {
+      "name": "Allianz Careers (Global)",
+      "url": "https://careers.allianz.com/global/en/search-results?p=ChIJa76xwh5ymkcRW-WRjmtd6HU&location=Germany",
+      "enabled": false
+    },
+    {
+      "name": "TYPO3",
+      "url": "https://typo3.jobs.personio.com/",
+      "enabled": true
+    },
+    {
+      "name": "Bundesagentur fuer Arbeit",
+      "url": "https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=1&beruf=Fachinformatiker%2Fin%20-%20Systemintegration;Informatiker%2Fin;Softwareentwickler%2Fin&arbeitszeit=vz;tz&veroeffentlichtseit=14",
+      "enabled": false
+    },
+    {
+      "name": "Empfehlungsbund",
+      "url": "https://www.empfehlungsbund.de/jobs/search",
+      "enabled": false
+    },
+    {
+      "name": "Jobs4Internationals",
+      "url": "https://jobs4internationals.de/",
+      "enabled": false
+    },
+    {
+      "name": "Publicis Groupe",
+      "url": "https://careers.publicisgroupe.com/jobs?lang=de-DE&keywords=english&sortBy=relevance&page=1&location=Deutschland&woe=12&regionCode=DE&stretchUnit=KILOMETERS&stretch=10&limit=100",
+      "enabled": false
+    },
+    {
+      "name": "GOLDBECK",
+      "url": "https://goldbeck.wd103.myworkdayjobs.com/en-GB/goldbeck-jobs?q=english&locationCountry=dcc5b7608d8644b3a93716604e78e995",
+      "enabled": false
+    },
+    {
+      "name": "Neoen",
+      "url": "https://careers.neoen.com/fr/annonces?bottom_right_lat=47.27011395706102&bottom_right_lon=15.04189619759281&top_left_lat=55.08149999602162&top_left_lon=5.86634248758437&place_label=Germany&place_type=country",
+      "enabled": false
+    },
+    {
+      "name": "Ostrom",
+      "url": "https://www.ostrom.de/careers",
+      "enabled": true
+    },
+    {
+      "name": "NTT Data",
+      "url": "https://de.nttdata.com/stellenangebote",
+      "enabled": true
+    },
+    {
+      "name": "ZeroEx",
+      "url": "https://zeroex.jobs.personio.de/?language=de",
+      "enabled": true
+    },
+    {
+      "name": "FZ Juelich (Professionals)",
+      "url": "https://www.fz-juelich.de/en/careers/jobs?targetGroup=professionals",
+      "enabled": false
+    },
+    {
+      "name": "FZ Juelich (PhD)",
+      "url": "https://www.fz-juelich.de/en/careers/jobs?targetGroup=promovierende",
+      "enabled": false
+    },
+    {
+      "name": "Reonic",
+      "url": "https://jobs.ashbyhq.com/reonic",
+      "enabled": true
+    },
+    {
+      "name": "init SE",
+      "url": "https://www.initse.com/dede/jobs/job-offers",
+      "enabled": true
+    },
+    {
+      "name": "Heidelberg Materials (Search)",
+      "url": "https://career.heidelbergmaterials.com/search?utm_source=corporate-en&utm_medium=topnavi",
+      "enabled": true
+    },
+    {
+      "name": "Heidelberg Materials (Workday)",
+      "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/Global_HM_Career_Site?locationCountry=dcc5b7608d8644b3a93716604e78e995",
+      "enabled": true
+    },
+    {
+      "name": "Arcadis (Early Careers)",
+      "url": "https://jobs.arcadis.com/careers?domain=arcadis.com&start=0&location=germany&pid=563671530943584&sort_by=distance&filter_include_remote=1&filter_seniority=early+careers",
+      "enabled": true
+    },
+    {
+      "name": "Arcadis (Professional)",
+      "url": "https://jobs.arcadis.com/careers?domain=arcadis.com&start=0&location=germany&pid=563671531118009&sort_by=distance&filter_include_remote=1&filter_seniority=professional",
+      "enabled": true
+    },
+    {
+      "name": "Bruker",
+      "url": "https://worldwidecareers-bruker.icims.com/jobs/search?ss=1&searchLocation=13183--",
+      "enabled": true
+    },
+    {
+      "name": "Fichtner",
+      "url": "https://www.karriere.fichtner.de/stellenportal?filter[countries]=24&filter[contractTypes]=1",
+      "enabled": true
+    },
+    {
+      "name": "CONET",
+      "url": "https://www.conet.de/de/karriere/stellenangebote/",
+      "enabled": true
+    },
+    {
+      "name": "sovanta",
+      "url": "https://sovanta.com/karriere/",
+      "enabled": true
+    },
+    {
+      "name": "Bureau Veritas",
+      "url": "https://jobs.bureauveritas.com/de/de/search-results?s=1",
+      "enabled": true
+    },
+    {
+      "name": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs?locations.countries=Germany",
+      "enabled": true
+    },
+    {
+      "name": "GoGeoGo",
+      "url": "https://www.gogeogo.com/de#Main-Suche",
+      "enabled": true
+    },
+    {
+      "name": "Turn2X",
+      "url": "https://turn2x.jobs.personio.com/",
+      "enabled": true
+    },
+    {
+      "name": "ITS Gruppe",
+      "url": "https://its-gruppe.jobs.personio.de/?filters=eyJlbXBsb3ltZW50X3R5cGUiOlsicGVybWFuZW50Il19",
+      "enabled": true
+    },
+    {
+      "name": "K+S",
+      "url": "https://www.kpluss.com/en-us/career/job-market/?reloaded&facet_workerType=Professionals&facet_workerType=Graduates&facet_locations=JP_LOC_Kassel&facet_locations=JP_LOC_Zielitz&facet_locations=JP_LOC_Philippsthal&facet_locations=JP_LOC_Bernburg&facet_locations=JP_LOC_Hamburg&facet_locations=JP_LOC_Neuhof&facet_locations=JP_LOC_Rheinberg&facet_locations=JP_LOC_Sehnde&page=1&sort=releasedate.desc",
+      "enabled": true
+    },
+    {
+      "name": "GKW Consult",
+      "url": "https://www.gkw-consult.com/en/jobs-career/",
+      "enabled": true
+    },
+    {
+      "name": "Unique Land Use",
+      "url": "https://www.unique-landuse.de/en/about-us/join/",
+      "enabled": true
+    },
+    {
+      "name": "Unique Land Use (Personio)",
+      "url": "https://uniquelanduse.jobs.personio.com/?language=de",
+      "enabled": true
+    },
+    {
+      "name": "Atmen",
+      "url": "https://atmen-cert.notion.site/Atmen-Open-Positions-3e4679c54fe649c5b5f12bffb61c4794",
+      "enabled": true
+    },
+    {
+      "name": "Ecoplanet",
+      "url": "https://ecoplanet-green-operations-gmbh.jobs.personio.de/?language=de",
+      "enabled": true
+    },
+    {
+      "name": "Proxima Fusion",
+      "url": "https://jobs.ashbyhq.com/proxima-fusion?locationId=840bc84b-19df-4cac-aba7-97bb9f214d8f",
+      "enabled": true
+    },
+    {
+      "name": "DigiFarm",
+      "url": "https://digifarm.io/careers#positions",
+      "enabled": true
+    },
+    {
+      "name": "Feld Energy",
+      "url": "https://feld-energy.jobs.personio.com/",
+      "enabled": true
+    },
+    {
+      "name": "Herrenknecht (DE)",
+      "url": "https://jobs.herrenknecht.com/de",
+      "enabled": true
+    },
+    {
+      "name": "Herrenknecht (EN)",
+      "url": "https://jobs.herrenknecht.com/eng",
+      "enabled": true
+    },
+    {
+      "name": "DEKRA (IT-Sicherheit)",
+      "url": "https://careers.dekra.com/search/?searchby=distance&createNewAlert=false&q=&geolocation=&d=15&lat=&lon=&optionsFacetsDD_country=&optionsFacetsDD_facility=IT+%26+IT-Sicherheit&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield5=",
+      "enabled": true
+    },
+    {
+      "name": "DEKRA (Germany)",
+      "url": "https://careers.dekra.com/search/?searchby=distance&createNewAlert=false&q=&geolocation=&d=2&lat=&lon=&optionsFacetsDD_country=DE&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield5=",
+      "enabled": true
+    }
   ]
 }
