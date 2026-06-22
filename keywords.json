@@ -4,49 +4,39 @@
   "exclude": [
     "internship", "praktikum", "praktikant", "praktikantin",
     "minijob", "mini-job", "450-euro-job", "520-euro-job", "geringfügig",
-
     "thesis", "master-thesis", "bachelor-thesis",
     "master thesis", "bachelor thesis",
     "abschlussarbeit", "masterarbeit", "bachelorarbeit", "diplomarbeit",
-
     "ausbildung", "auszubildende", "azubi",
     "apprenticeship", "apprentice",
-
     "student", "studentin", "studierende",
     "werkstudent", "working student",
-
     "school internship", "schülerpraktikum",
     "pupil", "schüler", "schülerin",
-
     "senior", "leitende", "leitender",
     "manager", "leiter", "leiterin", "leitung",
-    "team leader", "team lead",
+    "team leader", "team lead", "lead",
     "teamleiter", "teamleiterin", "teamleitung",
     "gruppenleiter", "gruppenleiterin",
-
     "professor", "professorship", "tenure", "tenure-track",
     "vorstand", "geschäftsführer", "ceo", "cfo", "cto",
     "vp of", "head of", "chief", "director", "vice president",
     "principal architect",
     "10+ years", "15+ years", "20+ years",
-
     "buchhalter", "buchhaltung", "accountant",
     "verkauf", "vertrieb", "sales executive", "account executive",
     "personalreferent", "recruiter", "talent acquisition",
-
     "pflege", "krankenschwester", "facharzt", "ärztin", "arbeitsmedizin",
     "radiologisch", "radiologie",
-
     "elektriker", "mechaniker", "facility", "reinigung",
+    "driver", "truck", "vehicle",
     "rechtsanwalt", "jurist", "legal counsel"
   ],
-
   "_comment_description": "DESCRIPTION FILTER for English-friendly jobs only. A job survives ONLY IF its description mentions English (in EN or DE) somewhere. Pure German-only jobs almost never mention English, so this filters them out. JS-rendered pages where description can't be fetched still pass through with title-only AI scoring.",
   "description_include": [
     "english",
     "fluent english",
     "good english",
-    "verygood english",
     "very good english",
     "excellent english",
     "b2 english",
@@ -54,7 +44,6 @@
     "c2 english",
     "native english",
     "mother tongue english",
-
     "englisch",
     "englischkenntnisse",
     "fließendes englisch",
