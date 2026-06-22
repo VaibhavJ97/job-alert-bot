@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T12:21:42+00:00",
+  "updated_at": "2026-06-22T20:56:10+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/bd8c4495-ce51-46c1-90f1-750b2b647021",
@@ -250,36 +250,12 @@
       "title": "Quant Finance Expert (Italy)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b4247f64-1bb1-42aa-b632-d7ec84538d85",
-      "title": "Software Engineering AI Trainer (Brazil)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/8555c9f5-c51d-44bc-bd4a-56f2a7cf86c5",
-      "title": "Software Engineering AI Trainer (Ecuador)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/cb040f9d-3a64-4793-ab34-04b20c3d9273",
-      "title": "Software Engineering AI Trainer (Chile)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/b17e9c90-7dc2-4e74-8181-5c1096781f91",
       "title": "Software Engineering AI Trainer (Germany)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/9615ca1f-da2f-423c-b1e1-92e9e0490d36",
-      "title": "Software Engineering AI Trainer (Mexico)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/221ee0d2-520f-4a6c-a447-f01afe435654",
       "title": "Software Engineering AI Trainer (Netherlands)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/034d09ae-b23b-4c49-b149-c5c221f84126",
-      "title": "Software Engineering AI Trainer (Paraguay)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/43791f02-d01c-44ac-bf19-142742c7c84c",
-      "title": "Software Engineering AI Trainer (Peru)"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/ff8ca326-87f6-4f86-9c10-c5a288bf8169",
@@ -292,18 +268,6 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/0b7a5074-cb4b-4ffe-9ff1-71bb3d60b705",
       "title": "Software Engineering AI Trainer (UK)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/f9dbbe49-dd66-445f-89f4-aade1186f3d3",
-      "title": "Software Engineering AI Trainer (Uruguay)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0f3f5782-321d-49fe-9c33-b8aeac335132",
-      "title": "Software Engineering AI Trainer (Colombia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/6f89ee81-0999-4a45-837c-09d9cf061572",
-      "title": "Software Engineering AI Trainer (Argentina)"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/a098e8d8-ff22-43d5-8bc9-8975c5bbca97",
@@ -720,6 +684,60 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/481887ac-571f-4498-973a-ac5b3aded0a6",
       "title": "Mathematics Expert - (Chile)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ff43d415-ee90-4185-8f7b-82427305aac7",
+      "title": "Software Engineering AI Trainer (Argentina)",
+      "score": 40,
+      "reasoning": "Some skill overlap in Python and JavaScript, but role requires 3-7 years of professional software engineering experience and strong proficiency in multiple programming languages, which the candidate lacks; additionally, location and language requirements do not match."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9f908cf0-0658-4e34-8910-f59e75805881",
+      "title": "Software Engineering AI Trainer (Brazil)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/27e1a0fd-e7e5-4efd-a8e5-7dd8e1010e08",
+      "title": "Software Engineering AI Trainer (Chile)",
+      "score": 68,
+      "reasoning": "Good fit due to Python and JavaScript skills; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which is a stretch for the candidate."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/d0507253-5316-4d52-b93f-8c5edd41d66d",
+      "title": "Software Engineering AI Trainer (Colombia)",
+      "score": 40,
+      "reasoning": "Moderate Python and JavaScript skills match, but lacks required 3-7 years of professional software engineering experience and strong proficiency in Java, C#, or Go; also, location and language requirements are not met."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/4fceea7e-64b2-4696-a30e-92d6923232ff",
+      "title": "Software Engineering AI Trainer (Ecuador)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/8a764c00-121b-464c-b67d-5675c38c7c11",
+      "title": "Software Engineering AI Trainer (Mexico)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience, which candidate lacks, and strong proficiency in English is met but German is not required."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/fca00915-a638-4d54-98b4-691ab7a8ef0f",
+      "title": "Software Engineering AI Trainer (Paraguay)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ec2c543a-1629-4a6f-8662-06f2b1b1e474",
+      "title": "Software Engineering AI Trainer (Peru)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/20dc8074-e69e-4a95-83a2-12436ab5c218",
+      "title": "Software Engineering AI Trainer (Uruguay)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds the candidate's current level."
     }
   ]
 }

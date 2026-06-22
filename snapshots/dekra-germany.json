@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T12:21:38+00:00",
+  "updated_at": "2026-06-22T20:55:34+00:00",
   "jobs": [
     {
       "url": "https://careers.dekra.com/job/Stuttgart-Azure-Network-Engineer-%28mfd%29-70565/1349309455",
@@ -8,6 +8,12 @@
     {
       "url": "https://careers.dekra.com/job/Stuttgart-SAP-Solution-Architect-%28mfd%29-70565/1327368355",
       "title": "SAP Solution Architect (m/f/d)"
+    },
+    {
+      "url": "https://careers.dekra.com/job/Stuttgart-Salesforce-Platform-Architect-%28mfd%29-70565/1356204655",
+      "title": "Salesforce Platform Architect (m/f/d)",
+      "score": 22,
+      "reasoning": "Unrelated job title and description; no direct geosciences, GIS, or AI engineering skills match; strong Salesforce expertise required, which is not present in the candidate's CV."
     }
   ]
 }

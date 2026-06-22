@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T12:14:17+00:00",
+  "updated_at": "2026-06-22T20:54:09+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -59,6 +59,12 @@
       "title": "Site Reliability Engineer (f/m/d) - Defense Products",
       "score": 22,
       "reasoning": "Unrelated role with no direct geosciences or AI/LLM application, and strong senior experience expected in site reliability engineering."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4892086101-representative-customer-service",
+      "title": "Representative Customer Service",
+      "score": 20,
+      "reasoning": "Poor fit due to lack of customer service experience and required skills; candidate's technical background in geosciences and web development does not align with the role."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4703552101-site-reliability-engineer-fmd",
@@ -129,22 +135,10 @@
       "reasoning": "Some skill overlap in web development and data analysis, but DevOps role may require more senior experience and specific expertise, which is not strongly evident in the candidate's background."
     },
     {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4741977101-hr-admin-partner",
-      "title": "HR Admin Partner",
-      "score": 10,
-      "reasoning": "No relevant skills or experience for HR Admin role, strong mismatch in domain and required skills."
-    },
-    {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4684000101-site-reliability-engineer-fmd",
       "title": "Site Reliability Engineer (f/m/d)",
       "score": 39,
       "reasoning": "Some skill overlap in programming and web development, but role requires senior experience and strong system reliability skills, which are not evident in the candidate's CV."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4383943101-software-developer-go-python-for-ai-cloud-platform-in-ai-ml-products-team-hybrid",
-      "title": "Software Developer (GO / Python) for AI Cloud Platform in AI & ML Products team (hybrid)",
-      "score": 68,
-      "reasoning": "Good technical fit with Python and AI/ML skills, but role may require more senior experience and strong team collaboration, which is not clearly demonstrated in the CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4750929101-software-engineer-with-c-for-it-infrastructure-development-team-hybrid",
@@ -163,12 +157,6 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4892086101-representative-customer-service",
-      "title": "Representative Customer Service",
-      "score": 20,
-      "reasoning": "Poor fit due to lack of customer service experience and required skills; candidate's technical background in geosciences and web development does not align with the role."
     }
   ]
 }

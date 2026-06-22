@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T12:20:27+00:00",
+  "updated_at": "2026-06-22T20:54:50+00:00",
   "jobs": [
     {
       "url": "https://www.inovex.de/de/karriere/stellenangebote",
@@ -7,20 +7,15 @@
       "filtered": true
     },
     {
-      "url": "https://www.inovex.de/de/karriere/teams-und-projekte",
-      "title": "Teams & Projekte",
-      "filtered": true
-    },
-    {
-      "url": "https://www.inovex.de/de/karriere/stellenangebote/initiativbewerbung",
-      "title": "Initiativbewerbung",
-      "filtered": true
-    },
-    {
       "url": "https://www.inovex.de/de/karriere/das-inovex-package-fuer-mitarbeiterinnen",
       "title": "inovex package",
       "score": 20,
       "reasoning": "Unclear job title 'inovex package' offers no direct skill or domain match; insufficient information to assess fit."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/teams-und-projekte",
+      "title": "Teams & Projekte",
+      "filtered": true
     },
     {
       "url": "https://www.inovex.de/de/karriere/stellenangebote/bi-specialist-analytics-engineer",
@@ -73,6 +68,11 @@
     {
       "url": "https://www.inovex.de/de/karriere/stellenangebote/security-specialist-kubernetes-cloud",
       "title": "Security Specialist* (Kubernetes, Cloud)"
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/initiativbewerbung",
+      "title": "Initiativbewerbung",
+      "filtered": true
     }
   ]
 }

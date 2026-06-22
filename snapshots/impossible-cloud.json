@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T12:21:07+00:00",
+  "updated_at": "2026-06-22T20:55:02+00:00",
   "jobs": [
     {
       "url": "https://jobs.lever.co/impossiblecloud/77bb8ac2-befd-4799-ac81-91c469096d84",
@@ -16,10 +16,6 @@
     {
       "url": "https://jobs.lever.co/impossiblecloud/e2e85431-cdac-4765-a82e-24c310b84f3d",
       "title": "Commercial High Potential Program (UK&I)"
-    },
-    {
-      "url": "https://jobs.lever.co/impossiblecloud/d3303c0f-02e8-459c-9ab9-9fa4436bd82e",
-      "title": "DevOps Engineer - Infrastructure"
     },
     {
       "url": "https://jobs.lever.co/impossiblecloud/74d953aa-6e78-41b8-a1f0-49e64691a45d",
@@ -44,10 +40,6 @@
     {
       "url": "https://jobs.lever.co/impossiblecloud/f49aedf8-d78b-476c-9e78-5151e315c4f7",
       "title": "Platform Engineer - Distributed Systems / Decentralise Cloud"
-    },
-    {
-      "url": "https://jobs.lever.co/impossiblecloud/4fd0946c-0b2f-4305-bcea-c57019c5cfe0",
-      "title": "Platform Engineer (Bare Metal) - Entry to Mid-level"
     }
   ]
 }

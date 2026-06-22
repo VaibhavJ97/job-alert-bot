@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T12:14:52+00:00",
+  "updated_at": "2026-06-22T20:54:48+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -204,10 +204,16 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170600/sachbearbeiterin-sachbearbeiter-wmd-in-der-abteilung-haushalt-und-budgetierung-der-de-haushalt-und-finanzen-stelle-in-vollzeit-zu-besetzen-teilzeit-ab-50-moglich",
-      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) in der Abteilung „Haushalt und Budgetierung“ der DE „Haushalt und Finanzen“",
+      "url": "https://jobs.pse.kit.edu/en/jobs/170600/sachbearbeiterin-sachbearbeiter-wmd-in-der-abteilung-haushalt-und-budgetierung-stelle-in-vollzeit-zu-besetzen-teilzeit-ab-50-moglich",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) in der Abteilung „Haushalt und Budgetierung“",
+      "score": 10,
+      "reasoning": "Poor match due to lack of relevant experience in public administration, finance, and controlling; strong German fluency required but candidate is only A2."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170601/sachbearbeiterinnen-sachbearbeiter-wmd-drittmittelverwaltung",
+      "title": "Sachbearbeiterinnen / Sachbearbeiter (w/m/d) Drittmittelverwaltung",
       "score": 22,
-      "reasoning": "Weak match due to lack of relevant experience in finance, budgeting, and public administration; strong German fluency required but candidate is only A2."
+      "reasoning": "Poor match due to lack of relevant experience in budgeting, finances, and administrative tasks; strong German fluency required but candidate only has A2 level."
     }
   ]
 }

@@ -1,14 +1,57 @@
 {
-  "updated_at": "2026-06-22T12:14:45+00:00",
+  "updated_at": "2026-06-22T20:54:36+00:00",
   "jobs": [
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153445&anz=html&bl=gj",
+      "title": "Projektentwickler Umweltplanung (w/m/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/verkaeufer-im-innendienst-fuer-naturbaustoffe-und-wassertechnik-in-teilzeit--100153444",
+      "title": "Verkäufer*in im Innendienst für Naturbaustoffe und Wassertechnik - in Teilzeit",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct skills alignment; sales role with German fluency requirement does not fit candidate's technical background or language proficiency."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/referentin-referent-berufsbildung--100153437",
+      "title": "Referentin / Referent Berufsbildung (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/personalsachbearbeiter-personalsachbearbeiterin--100153436",
+      "title": "Personalsachbearbeiter / Personalsachbearbeiterin (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/umwelttechnologin-umwelttechnologe-fuer-abwasserbewirtschaftung-ehemals-fachkraft-fuer-abwassertechnik-ver-und-entsorger-der-fachrichtung-abwasser--100153440",
+      "title": "Umwelttechnologin / Umwelttechnologe für Abwasserbewirtschaftung (ehemals Fachkraft für Abwassertechnik / Ver- und Entsorger der Fachrichtung Abwasser) (w/m/d)",
+      "score": 40,
+      "reasoning": "Moderate environmental technology match; however, wastewater management is a stretch from geosciences and geothermal background."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftlerin-geowissenschaftler-fuer-den-bereich-grundwassermonitoring-hydrogeologie--100153442",
+      "title": "Geowissenschaftlerin / Geowissenschaftler (w/m/d) für den Bereich Grundwassermonitoring, Hydrogeologie",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftlerin-geowissenschaftler-fuer-den-bereich-strukturgeologie-und-regionalgeologie--100153213",
       "title": "Geowissenschaftlerin / Geowissenschaftler (w/m/d) für den Bereich Strukturgeologie und Regionalgeologie"
     },
     {
+      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftlicher-mitarbeiter-fachrichtung-fischoekologie-gewaesseroekologie-landschaftsplanung-oekologie--100152635",
+      "title": "Wissenschaftlicher Mitarbeiter (m/w/d) - Fachrichtung: Fischökologie, Gewässerökologie, Landschaftsplanung/-ökologie",
+      "filtered": true
+    },
+    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152730&anz=html&bl=gj",
       "title": "Fachplaner Elektrotechnik (m/w/d)",
       "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-abteilung-6-biodiversitaet-und-naturschutz--100153435",
+      "title": "Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (w/m/d) Abteilung 6 „Biodiversität und Naturschutz“",
+      "score": 39,
+      "reasoning": "Moderate fit due to some ecological and data analysis skills; however, role requires strong background in forestry, biology, or related field, and extensive experience with field ecological methods, which the candidate lacks."
     },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100150926&anz=html&bl=gj",
@@ -454,10 +497,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/erzieher-im-naturkindergarten--100153290",
       "title": "Erzieher:in (m/w/d) im Naturkindergarten",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/analyst-consultant-in-the-field-of-biodiversity-restoration-water--100153293",
-      "title": "Analyst/Consultant (d/f/m) in the field of Biodiversity/Restoration/Water"
     },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153289&anz=html&bl=gj",
@@ -1725,10 +1764,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/teamassistenz-im-bereich-anlagensicherheit-siegen--100152103",
-      "title": "Teamassistenz im Bereich Anlagensicherheit Siegen (m/w/d)"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-als-sachverstaendiger-signaltechnik--100151934",
       "title": "Ingenieur als Sachverständiger Signaltechnik (w/m/d)"
     },
@@ -2060,47 +2095,57 @@
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153445&anz=html&bl=gj",
-      "title": "Projektentwickler Umweltplanung (w/m/d)",
+      "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrende-vorstaend-strategische-netzwerke-gesellschaftliche-wirksamkeit-und-repraesentation--100153458",
+      "title": "Geschäftsführende:r Vorständ:in (m/w/d) Strategische Netzwerke, gesellschaftliche Wirksamkeit und Repräsentation",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/referentin-referent-berufsbildung--100153437",
-      "title": "Referentin / Referent Berufsbildung (m/w/d)",
+      "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrende-vorstaend-politik--100153457",
+      "title": "Geschäftsführende:r Vorständ:in Politik (m/w/d)",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/personalsachbearbeiter-personalsachbearbeiterin--100153436",
-      "title": "Personalsachbearbeiter / Personalsachbearbeiterin (m/w/d)",
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153455&anz=html&bl=gj",
+      "title": "Logistiker (w/m/d) für operative Arbeit in interessanter Arbeitsumgebung",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftlerin-geowissenschaftler-fuer-den-bereich-grundwassermonitoring-hydrogeologie--100153442",
-      "title": "Geowissenschaftlerin / Geowissenschaftler (w/m/d) für den Bereich Grundwassermonitoring, Hydrogeologie",
+      "url": "https://www.greenjobs.de/stellenanzeige/projektmitarbeiter-nahp-waldfledermaeuse-und-hufeisennase--100153450",
+      "title": "Projektmitarbeiter*in - „nAHP Waldfledermäuse“ und „Hufeisennase“",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftlicher-mitarbeiter-fachrichtung-fischoekologie-gewaesseroekologie-landschaftsplanung-oekologie--100152635",
-      "title": "Wissenschaftlicher Mitarbeiter (m/w/d) - Fachrichtung: Fischökologie, Gewässerökologie, Landschaftsplanung/-ökologie",
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-im-referat-hochwasserrisikomanagement-hydrologie-klimawandel-in-der-wasserwirtschaft-und-kompetenzzentrum-hochwasservorsorge-fuer-das-kompetenzzentrum-hochwasservorsorge-und-hochwasserrisikomanage--100153452",
+      "title": "Sachbearbeitung (m/w/d) im Referat „Hochwasserrisikomanagement, Hydrologie, Klimawandel in der Wasserwirtschaft und Kompetenzzentrum Hochwasservorsorge“ für das Kompetenzzentrum Hochwasservorsorge und Hochwasserrisikomanagement (KHH)“",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/verkaeufer-im-innendienst-fuer-naturbaustoffe-und-wassertechnik-in-teilzeit--100153444",
-      "title": "Verkäufer*in im Innendienst für Naturbaustoffe und Wassertechnik - in Teilzeit",
-      "score": 22,
-      "reasoning": "Weak match due to lack of direct skills alignment; sales role with German fluency requirement does not fit candidate's technical background or language proficiency."
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-im-referat-hochwasserrisikomanagement-hydrologie-klimawandel-in-der-wasserwirtschaft-und-kompetenzzentrum-hochwasservorsorge-fuer-das-kompetenzzentrum-hochwasservorsorge-und-hochwasserrisikomanage--100153446",
+      "title": "Sachbearbeitung (m/w/d) im Referat „Hochwasserrisikomanagement, Hydrologie, Klimawandel in der Wasserwirtschaft und Kompetenzzentrum Hochwasservorsorge“ für das Kompetenzzentrum Hochwasservorsorge und Hochwasserrisikomanagement (KHH)",
+      "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/umwelttechnologin-umwelttechnologe-fuer-abwasserbewirtschaftung-ehemals-fachkraft-fuer-abwassertechnik-ver-und-entsorger-der-fachrichtung-abwasser--100153440",
-      "title": "Umwelttechnologin / Umwelttechnologe für Abwasserbewirtschaftung (ehemals Fachkraft für Abwassertechnik / Ver- und Entsorger der Fachrichtung Abwasser) (w/m/d)",
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153055&anz=html&bl=gj",
+      "title": "Wissenschaftsjournalist:in (w/m/d) im Bereich angewandte Energieforschung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/logistik-koordinator-fuer-die-sicherstellung-eines-reibungslosen-materialflusses--100153449",
+      "title": "Logistik-Koordinator (w/m/d) für die Sicherstellung eines reibungslosen Materialflusses",
+      "score": 0,
+      "reasoning": "No direct match; title implies logistics role unrelated to candidate's skills and experience."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/gaertner--100153149",
+      "title": "Gärtner:in (w/m/d)",
+      "score": 0,
+      "reasoning": "No apparent connection between candidate's skills and Gärtner:in (gardener) role."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/projekt-mitarbeiter-im-projekt-umwelt-oekologische-nachhaltigkeit-und-klimaschutz-in-der-aus-und-fortbildung-der-gruenen-berufe--100152958",
+      "title": "Projekt­mitarbeiter/in (m/w/d) im Projekt „Umwelt, Ökologische Nachhaltigkeit und Klimaschutz in der Aus- und Fortbildung der Grünen Berufe\"",
       "score": 40,
-      "reasoning": "Moderate environmental technology match; however, wastewater management is a stretch from geosciences and geothermal background."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-abteilung-6-biodiversitaet-und-naturschutz--100153435",
-      "title": "Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (w/m/d) Abteilung 6 „Biodiversität und Naturschutz“",
-      "score": 39,
-      "reasoning": "Moderate fit due to some ecological and data analysis skills; however, role requires strong background in forestry, biology, or related field, and extensive experience with field ecological methods, which the candidate lacks."
+      "reasoning": "Partial domain match via 'Umwelt' and 'Klimaschutz'; however, title implies senior or specific expertise in sustainability and education, lacking in candidate's experience."
     }
   ]
 }
