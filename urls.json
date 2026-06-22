@@ -374,27 +374,27 @@
     {
       "name": "Jupus (Ashby)",
       "url": "https://jobs.ashbyhq.com/jupus?utm_source=Jobgether&utm_content=6a26e03ef4c10b4493240708-staff-fullstack-engineer&utm_campaign=search&utm_medium=website",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Reflow (Ashby)",
       "url": "https://jobs.ashbyhq.com/reflow",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Anyone AI (Ashby)",
       "url": "https://jobs.ashbyhq.com/anyone-ai",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Emidat (Ashby)",
       "url": "https://jobs.ashbyhq.com/emidat",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Owkin (Ashby)",
       "url": "https://jobs.ashbyhq.com/owkin",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Rakuten Kobo (Workday)",
@@ -414,7 +414,7 @@
     {
       "name": "PhotoRoom (Ashby)",
       "url": "https://jobs.ashbyhq.com/photoroom",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "tonies",
@@ -449,7 +449,7 @@
     {
       "name": "Jimdo (Ashby)",
       "url": "https://jobs.ashbyhq.com/jimdo.com?locationId=c6965a78-52c9-4fef-abd1-130cea91538c",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "OpenProject",
