@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T08:00:03+00:00",
+  "updated_at": "2026-06-22T12:14:17+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -43,6 +43,24 @@
       "reasoning": "No specific job title provided for evaluation."
     },
     {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896142101-sr-advisor-ai-transformation-automation-e-commerce-fmd",
+      "title": "Sr. Advisor AI Transformation & Automation – E-Commerce (f/m/d)",
+      "score": 40,
+      "reasoning": "Some AI and automation skills align, but senior advisor role requires significant experience and seniority that candidate lacks; e-commerce domain is unrelated to candidate's geosciences background."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4821918101-staff-network-solutions-architect-fmd",
+      "title": "Staff Network Solutions Architect (f/m/d)",
+      "score": 39,
+      "reasoning": "Some skill overlap in web development and AI/ML, but role seems to require strong senior experience and networking expertise, which is not evident in the candidate's CV."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4766128101-site-reliability-engineer-fmd-defense-products",
+      "title": "Site Reliability Engineer (f/m/d) - Defense Products",
+      "score": 22,
+      "reasoning": "Unrelated role with no direct geosciences or AI/LLM application, and strong senior experience expected in site reliability engineering."
+    },
+    {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4703552101-site-reliability-engineer-fmd",
       "title": "Site Reliability Engineer (f/m/d)",
       "score": 42,
@@ -52,12 +70,6 @@
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4659163101-specialist-software-engineer-fmd-managed-kubernetes",
       "title": "Specialist Software Engineer (f/m/d) Managed Kubernetes",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896142101-sr-advisor-ai-transformation-automation-e-commerce-fmd",
-      "title": "Sr. Advisor AI Transformation & Automation – E-Commerce (f/m/d)",
-      "score": 40,
-      "reasoning": "Some AI and automation skills align, but senior advisor role requires significant experience and seniority that candidate lacks; e-commerce domain is unrelated to candidate's geosciences background."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896175101-data-analytics-engineer-ai-platform-team-hybrid",
@@ -70,21 +82,9 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4821918101-staff-network-solutions-architect-fmd",
-      "title": "Staff Network Solutions Architect (f/m/d)",
-      "score": 39,
-      "reasoning": "Some skill overlap in web development and AI/ML, but role seems to require strong senior experience and networking expertise, which is not evident in the candidate's CV."
-    },
-    {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4803342101-server-support-representative",
       "title": "Server Support Representative",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4892086101-technical-support-representative",
-      "title": "Technical Support Representative",
-      "score": 40,
-      "reasoning": "Some skill overlap in web development and troubleshooting, but role is a stretch due to lack of direct sales or customer service experience and no clear connection to geosciences or AI engineering."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4847787101-devops-engineer-fmd-customer-care-ai-platform-team-hybrid",
@@ -141,12 +141,6 @@
       "reasoning": "Some skill overlap in programming and web development, but role requires senior experience and strong system reliability skills, which are not evident in the candidate's CV."
     },
     {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4766128101-site-reliability-engineer-fmd-defense-products",
-      "title": "Site Reliability Engineer (f/m/d) - Defense Products",
-      "score": 22,
-      "reasoning": "Unrelated role with no direct geosciences or AI/LLM application, and strong senior experience expected in site reliability engineering."
-    },
-    {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4383943101-software-developer-go-python-for-ai-cloud-platform-in-ai-ml-products-team-hybrid",
       "title": "Software Developer (GO / Python) for AI Cloud Platform in AI & ML Products team (hybrid)",
       "score": 68,
@@ -169,6 +163,12 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4892086101-representative-customer-service",
+      "title": "Representative Customer Service",
+      "score": 20,
+      "reasoning": "Poor fit due to lack of customer service experience and required skills; candidate's technical background in geosciences and web development does not align with the role."
     }
   ]
 }

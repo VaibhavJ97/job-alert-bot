@@ -1,10 +1,14 @@
 {
-  "updated_at": "2026-06-22T08:18:25+00:00",
+  "updated_at": "2026-06-22T12:21:22+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0030746-technical-architect-geotechnical-applications",
       "title": "Technical Architect – Geotechnical Applications",
       "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031589-offshore-planning-coordinator",
+      "title": "Offshore Planning Coordinator"
     },
     {
       "url": "https://www.fugro.com/careers/jobs/R0031477-travel-coordinator",
@@ -27,6 +31,10 @@
       "filtered": true
     },
     {
+      "url": "https://www.fugro.com/careers/jobs/R0029879-geophysics-workshop-technician",
+      "title": "Geophysics Workshop Technician"
+    },
+    {
       "url": "https://www.fugro.com/careers/jobs/R0031544-navigation-engineer",
       "title": "Navigation Engineer",
       "filtered": true
@@ -42,30 +50,22 @@
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0030598-offshore-surveyor-marine",
-      "title": "Offshore Surveyor - Marine",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0029969-rov-pilot",
-      "title": "ROV Pilot",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031589-offshore-planning-coordinator",
-      "title": "Offshore Planning Coordinator"
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0029879-geophysics-workshop-technician",
-      "title": "Geophysics Workshop Technician"
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0030010-qhsse-project-advisor-marine-m-w-d",
-      "title": "QHSSE Project Advisor Marine (m/w/d)"
-    },
-    {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031609-project-cost-controller",
+      "title": "Project Cost Controller",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031284-saso-admin-support",
+      "title": "SASO Admin Support",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031526-credit-controller-geo-preferred",
+      "title": "Credit Controller (Geo Preferred)"
     }
   ]
 }

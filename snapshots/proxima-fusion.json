@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T08:18:31+00:00",
+  "updated_at": "2026-06-22T12:21:31+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/07a5d7c6-c22b-49c1-bd8e-589b23200e2e",
@@ -67,6 +67,10 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/e8e6463c-9890-49dd-903c-dc3006d18dce",
+      "title": "Engineering Program Associate"
+    },
+    {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/737a20f6-2325-4d3c-886c-00ea53c2e27c",
       "title": "Plasma Material Interaction Engineer",
       "filtered": true
@@ -87,27 +91,13 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/af604395-078a-4f44-8a57-83cc4820babc",
+      "title": "German Policy Specialist"
+    },
+    {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/18456d3d-23cf-4bf2-becc-f180a8f65705",
       "title": "Magnet Prototyping Engineer",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/186e4b2e-c2d9-455a-acc1-6550c65427fc",
-      "title": "Intern Enterprise AI Team",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/66a241fd-808d-4206-a308-29797ef39690",
-      "title": "Burning Plasma Physicist",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/e8e6463c-9890-49dd-903c-dc3006d18dce",
-      "title": "Engineering Program Associate"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/af604395-078a-4f44-8a57-83cc4820babc",
-      "title": "German Policy Specialist"
     },
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/a6f8bf5a-d7dd-4b49-bcf6-8fdccccdd0cb",
@@ -122,8 +112,18 @@
       "title": "Procurement Specialist"
     },
     {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/186e4b2e-c2d9-455a-acc1-6550c65427fc",
+      "title": "Intern Enterprise AI Team",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/64390ed3-68d5-4c2f-be13-d27a06432c6c",
       "title": "German Policy Specialist (Bavaria)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/66a241fd-808d-4206-a308-29797ef39690",
+      "title": "Burning Plasma Physicist",
+      "filtered": true
     },
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/f48e607d-3209-469c-a471-741e0eff5273",

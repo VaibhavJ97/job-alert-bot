@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:16:51+00:00",
+  "updated_at": "2026-06-22T12:22:09+00:00",
   "jobs": [
     {
       "url": "https://saphir-deutschland.de/job/permanent-position-project-sales-engineer-m-f-d-aprovis-230350",
@@ -8,14 +8,6 @@
     {
       "url": "https://saphir-deutschland.de/en/job/permanent-position-project-sales-engineer-m-f-d-aprovis-230350",
       "title": "Permanent position: Project / Sales Engineer (m/f/d) APROVIS View job"
-    },
-    {
-      "url": "https://saphir-deutschland.de/job/dual-master-junior-project-lead-m-f-d-corporate-social-responsibility-zeiss-230363",
-      "title": "Dual Master: Junior Project Lead (m/f/d) Corporate Social Responsibility, ZEISS"
-    },
-    {
-      "url": "https://saphir-deutschland.de/en/job/dual-master-junior-project-lead-m-f-d-corporate-social-responsibility-zeiss-230363",
-      "title": "Dual Master's Degree: Junior Project Lead (m/f/d) Corporate Social Responsibility, ZEISS View job"
     },
     {
       "url": "https://saphir-deutschland.de/job/dual-master-junior-it-economics-m-f-d-in-group-technology-data-it-economics-allianz-230378",
@@ -32,6 +24,16 @@
     {
       "url": "https://saphir-deutschland.de/en/job/dualer-master-initiativbewerbung-230286",
       "title": "(no title)"
+    },
+    {
+      "url": "https://saphir-deutschland.de/en/stellenangebote/?_job_keywords=english",
+      "title": "Skip to search and filters",
+      "filtered": true
+    },
+    {
+      "url": "https://saphir-deutschland.de/stellenangebote/?wg-choose-original=true&_job_keywords=english",
+      "title": "Language switcher : German",
+      "filtered": true
     }
   ]
 }

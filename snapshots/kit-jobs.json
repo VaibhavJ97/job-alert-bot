@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T08:17:44+00:00",
+  "updated_at": "2026-06-22T12:14:52+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -202,6 +202,12 @@
       "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
       "title": "Technikerin / Techniker (w/m/d)",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170600/sachbearbeiterin-sachbearbeiter-wmd-in-der-abteilung-haushalt-und-budgetierung-der-de-haushalt-und-finanzen-stelle-in-vollzeit-zu-besetzen-teilzeit-ab-50-moglich",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) in der Abteilung „Haushalt und Budgetierung“ der DE „Haushalt und Finanzen“",
+      "score": 22,
+      "reasoning": "Weak match due to lack of relevant experience in finance, budgeting, and public administration; strong German fluency required but candidate is only A2."
     }
   ]
 }

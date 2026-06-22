@@ -1,14 +1,9 @@
 {
-  "updated_at": "2026-06-22T08:18:38+00:00",
+  "updated_at": "2026-06-22T12:21:39+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/jupus/63921247-8f21-45f9-9c29-80930d8e4e07",
       "title": "Staff Fullstack Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/jupus/1eda5482-7778-480e-bc86-77e074ea6a4b",
-      "title": "Founder's Associate (m/w/d) @ JUPUS",
       "filtered": true
     },
     {
@@ -22,6 +17,11 @@
     {
       "url": "https://jobs.ashbyhq.com/jupus/5cdaf0eb-83b1-4d9c-afa1-11de589ee3c6",
       "title": "Outbound Growth Associate (m/w/d) | Entry Level SaaS Sales - ohne Vorerfahrung möglich"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/jupus/1eda5482-7778-480e-bc86-77e074ea6a4b",
+      "title": "Founder's Associate (m/w/d) @ JUPUS",
+      "filtered": true
     }
   ]
 }
