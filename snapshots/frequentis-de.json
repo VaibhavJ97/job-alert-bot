@@ -1,41 +1,9 @@
 {
-  "updated_at": "2026-06-22T07:38:18+00:00",
+  "updated_at": "2026-06-22T08:17:55+00:00",
   "jobs": [
     {
       "url": "https://jobs.frequentis.com/karriere/SearchJobs",
       "title": "JOBBÖRSE"
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/Login",
-      "title": "EINLOGGEN"
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Junior-System-Engineer-Hochverf-gbare-IT-L-sungen-f-r-Helden-des-Alltags-all-genders/3339",
-      "title": "(Junior) System Engineer – Hochverfügbare IT-Lösungen für Helden des Alltags! (all genders)"
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Group-IT-Application-Support-Specialist-3rd-Level-all-genders/3400",
-      "title": "Group IT Application Support Specialist - 3rd Level (all genders)"
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-IT-Procurement-Contract-Specialist-all-genders/3485",
-      "title": "IT Procurement – Contract Specialist (all genders)"
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Managed-Services-Sales-Expert/3475",
-      "title": "Managed Service Sales Expert (all genders)"
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=0",
-      "title": "Search by keyword"
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=20",
-      "title": "Search by keyword"
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=40",
-      "title": "Search by keyword"
     },
     {
       "url": "https://jobs.frequentis.com/karriere/RegistrationMethods",
@@ -48,9 +16,17 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.frequentis.com/karriere/Login",
+      "title": "EINLOGGEN"
+    },
+    {
       "url": "https://jobs.frequentis.com/careers/AlternateJobs",
       "title": "JOBS (EN)",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Junior-System-Engineer-Hochverf-gbare-IT-L-sungen-f-r-Helden-des-Alltags-all-genders/3339",
+      "title": "(Junior) System Engineer – Hochverfügbare IT-Lösungen für Helden des Alltags! (all genders)"
     },
     {
       "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3339",
@@ -58,9 +34,17 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Group-IT-Application-Support-Specialist-3rd-Level-all-genders/3400",
+      "title": "Group IT Application Support Specialist - 3rd Level (all genders)"
+    },
+    {
       "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3400",
       "title": "Bewerben für Group IT Application Support Specialist - 3rd Level (all genders)",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-IT-Procurement-Contract-Specialist-all-genders/3485",
+      "title": "IT Procurement – Contract Specialist (all genders)"
     },
     {
       "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3485",
@@ -98,24 +82,8 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.frequentis.com/karriere/JobDetail/ELARA-Lead-System-Engineer/3145",
-      "title": "Lead System Engineer (all genders)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3145",
-      "title": "Bewerben für Lead System Engineer (all genders)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Lead-Systems-Engineer-Mission-Critical-Infrastructure-all-genders/3404",
-      "title": "Lead Systems Engineer – Mission-Critical Infrastructure (all genders)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3404",
-      "title": "Bewerben für Lead Systems Engineer – Mission-Critical Infrastructure (all genders)",
-      "filtered": true
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Managed-Services-Sales-Expert/3475",
+      "title": "Managed Service Sales Expert (all genders)"
     },
     {
       "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3475",
@@ -131,6 +99,18 @@
       "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3059",
       "title": "Bewerben für Mission Critical System Engineer – Sicher vernetzt für die Bundeswehr - Teilzeit oder Vollzeit (all genders)",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=0",
+      "title": "Search by keyword"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=20",
+      "title": "Search by keyword"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=40",
+      "title": "Search by keyword"
     },
     {
       "url": "https://www.frequentis.com/de/jobs/recruiting-team",

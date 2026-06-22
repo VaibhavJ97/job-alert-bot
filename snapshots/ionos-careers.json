@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T07:36:37+00:00",
+  "updated_at": "2026-06-22T08:00:03+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -32,6 +32,11 @@
       "reasoning": "Strong geospatial and programming skills, but senior roles may be a reach due to limited work experience in primary fields of interest."
     },
     {
+      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs",
+      "title": "(no title)",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.ionos.de/career/all-jobs?new-search=1",
       "title": "Reset filter",
       "score": 50,
@@ -44,16 +49,36 @@
       "reasoning": "Some skill overlap in Python and Git; however, role requires senior experience, strong infrastructure knowledge, and specific tools like Prometheus, Grafana, and Ansible, which are not mentioned in the candidate's CV."
     },
     {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4659163101-specialist-software-engineer-fmd-managed-kubernetes",
+      "title": "Specialist Software Engineer (f/m/d) Managed Kubernetes",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896142101-sr-advisor-ai-transformation-automation-e-commerce-fmd",
       "title": "Sr. Advisor AI Transformation & Automation – E-Commerce (f/m/d)",
       "score": 40,
       "reasoning": "Some AI and automation skills align, but senior advisor role requires significant experience and seniority that candidate lacks; e-commerce domain is unrelated to candidate's geosciences background."
     },
     {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896175101-data-analytics-engineer-ai-platform-team-hybrid",
+      "title": "Data & Analytics Engineer - AI Platform team (Hybrid)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896174101-data-analytics-engineer-ai-platform-team-hybrid",
+      "title": "Data & Analytics Engineer - AI Platform team (Hybrid)",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4821918101-staff-network-solutions-architect-fmd",
       "title": "Staff Network Solutions Architect (f/m/d)",
       "score": 39,
       "reasoning": "Some skill overlap in web development and AI/ML, but role seems to require strong senior experience and networking expertise, which is not evident in the candidate's CV."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4803342101-server-support-representative",
+      "title": "Server Support Representative",
+      "filtered": true
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4892086101-technical-support-representative",
@@ -144,31 +169,6 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
-    },
-    {
-      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs",
-      "title": "(no title)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4659163101-specialist-software-engineer-fmd-managed-kubernetes",
-      "title": "Specialist Software Engineer (f/m/d) Managed Kubernetes",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896175101-data-analytics-engineer-ai-platform-team-hybrid",
-      "title": "Data & Analytics Engineer - AI Platform team (Hybrid)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896174101-data-analytics-engineer-ai-platform-team-hybrid",
-      "title": "Data & Analytics Engineer - AI Platform team (Hybrid)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4803342101-server-support-representative",
-      "title": "Server Support Representative",
-      "filtered": true
     }
   ]
 }

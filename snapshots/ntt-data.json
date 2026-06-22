@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-06-22T07:39:36+00:00",
+  "updated_at": "2026-06-22T08:18:00+00:00",
   "jobs": [
-    {
-      "url": "https://de.nttdata.com/jobs/21931--slbc21931ar--portfolio-partner-business-consulting--automotive--automotive-supplier-dach-wmx",
-      "title": "Portfolio Partner Business Consulting - Automotive & Automotive Supplier DACH (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, deutschlandweit, Frankfurt a. M., Köln, München, Berlin, Rosenheim Business Consulting"
-    },
-    {
-      "url": "https://de.nttdata.com/jobs/21950--bucn21950ds--lead-consultant-ai--cloud-development-wmx",
-      "title": "Lead Consultant AI & Cloud Development (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, deutschlandweit, Frankfurt a. M., Köln, München, Berlin, Rosenheim Technical Development, IT Architecture"
-    },
-    {
-      "url": "https://de.nttdata.com/jobs/21915--bucn21915ds--lead-cloud-software-architect--pharma-solutions-wmx",
-      "title": "Lead Cloud Software Architect - Pharma Solutions (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, deutschlandweit, Frankfurt a. M., Köln, München, Berlin, Rosenheim Technical Development, Technical Consulting, IT Architecture"
-    },
-    {
-      "url": "https://de.nttdata.com/jobs/19812--slcs19812ht--architect-cloud-security-wmx",
-      "title": "Architect Cloud Security (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, Frankfurt a. M., Köln, München, Berlin, Rosenheim, Wien, Graz, Innsbruck, österreichweit Cyber Security"
-    },
-    {
-      "url": "https://de.nttdata.com/jobs/21880--bucn21880ds--lead-cloud-software-architect--defense-solutions-wmx",
-      "title": "Lead Cloud Software Architect - Defense Solutions (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, deutschlandweit, Frankfurt a. M., Köln, München, Berlin, Rosenheim Technical Development, Technical Consulting, IT Architecture"
-    },
-    {
-      "url": "https://de.nttdata.com/jobs/21444--busap21444vcw--lead-consultant-sap-s4hana-ewmtm-wmx",
-      "title": "Lead Consultant SAP S/4HANA EWM/TM (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, Frankfurt a. M., Köln, München, Rosenheim SAP Analytics Technisch Funktional, Business Consulting"
-    },
-    {
-      "url": "https://de.nttdata.com/jobs/21447--busap21447vcw--lead-consultant-sap-s4hana-instandhaltung-eampmiam-wmx",
-      "title": "Lead Consultant SAP S/4HANA Instandhaltung (EAM/PM/IAM) (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, deutschlandweit, Frankfurt a. M., Köln, München, Berlin, Rosenheim, Wien, Graz, Innsbruck, österreichweit SAP Analytics Technisch Funkti"
-    },
-    {
-      "url": "https://de.nttdata.com/jobs/21445--sapbu21445vcw--lead-consultant-sap-s4hana-manufacturing-wmx",
-      "title": "Lead Consultant SAP S/4HANA Manufacturing (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, deutschlandweit, Frankfurt a. M., Köln, München, Berlin, Rosenheim, Bern, Zürich, Wien, Graz, Innsbruck, österreichweit SAP Analytics Technisch Funkti"
-    },
-    {
-      "url": "https://de.nttdata.com/jobs/21811--busap21452vcw--lead-consultant-sap-s4hana-procurement-wmx",
-      "title": "Lead Consultant SAP S/4HANA Procurement (w/m/x) Ettlingen, Hamburg, Stuttgart, Frankfurt a. M., Köln, München, Berlin, Wien, Innsbruck Business Consulting"
-    },
     {
       "url": "https://de.nttdata.com/karriere/unsere-kultur",
       "title": "Unsere Kultur",
@@ -51,6 +15,14 @@
       "url": "https://de.nttdata.com/karriere/benefits",
       "title": "Benefits",
       "filtered": true
+    },
+    {
+      "url": "https://de.nttdata.com/jobs/21931--slbc21931ar--portfolio-partner-business-consulting--automotive--automotive-supplier-dach-wmx",
+      "title": "Portfolio Partner Business Consulting - Automotive & Automotive Supplier DACH (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, deutschlandweit, Frankfurt a. M., Köln, München, Berlin, Rosenheim Business Consulting"
+    },
+    {
+      "url": "https://de.nttdata.com/jobs/19812--slcs19812ht--architect-cloud-security-wmx",
+      "title": "Architect Cloud Security (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, Frankfurt a. M., Köln, München, Berlin, Rosenheim, Wien, Graz, Innsbruck, österreichweit Cyber Security"
     },
     {
       "url": "https://de.nttdata.com/stellenangebote/page/2",

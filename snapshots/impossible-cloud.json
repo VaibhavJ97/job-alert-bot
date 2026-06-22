@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T07:39:26+00:00",
+  "updated_at": "2026-06-22T08:17:58+00:00",
   "jobs": [
     {
       "url": "https://jobs.lever.co/impossiblecloud/77bb8ac2-befd-4799-ac81-91c469096d84",
@@ -48,10 +48,6 @@
     {
       "url": "https://jobs.lever.co/impossiblecloud/4fd0946c-0b2f-4305-bcea-c57019c5cfe0",
       "title": "Platform Engineer (Bare Metal) - Entry to Mid-level"
-    },
-    {
-      "url": "https://jobs.lever.co/impossiblecloud/554f679c-fcc5-44b7-a574-1b28c151b3f0",
-      "title": "Product Specialist (GPU & Distributed Compute)"
     }
   ]
 }

@@ -1,23 +1,14 @@
 {
-  "updated_at": "2026-06-22T07:46:47+00:00",
+  "updated_at": "2026-06-22T08:18:46+00:00",
   "jobs": [
-    {
-      "url": "https://bikeleasing.jobs.personio.de/job/2644619",
-      "title": "Product Owner (gn)"
-    },
-    {
-      "url": "https://bikeleasing.jobs.personio.de/job/2618372",
-      "title": "Teamlead Software Development (gn)"
-    },
     {
       "url": "https://bikeleasing.jobs.personio.de/job/1601228",
       "title": "General Talent (gn)",
       "filtered": true
     },
     {
-      "url": "https://bikeleasing.jobs.personio.de/job/2651340",
-      "title": "Teamlead QA (gn)",
-      "filtered": true
+      "url": "https://bikeleasing.jobs.personio.de/job/2644619",
+      "title": "Product Owner (gn)"
     }
   ]
 }

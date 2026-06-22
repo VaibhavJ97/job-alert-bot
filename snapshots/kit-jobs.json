@@ -1,11 +1,16 @@
 {
-  "updated_at": "2026-06-22T07:36:53+00:00",
+  "updated_at": "2026-06-22T08:17:44+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
       "title": "Academic Research Assistant Position (PhD Candidate) (f/m/d) - Chair of Economic Policy",
       "score": 39,
       "reasoning": "Moderate match due to some overlap in data analysis and research skills; however, role requires strong economic and policy background, and German fluency, which candidate lacks."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170534/academic-researcher-fmd",
+      "title": "Academic Researcher (f/m/d)",
+      "filtered": true
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
@@ -44,6 +49,16 @@
       "reasoning": "Moderate match due to some overlap in analytical and scientific skills; however, role requires strong mechanical engineering background, high German fluency (C1), and experience in nonlinear dynamics, which the candidate lacks."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170565/doktorandin-doktorand-wmd-wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-wmd-im-bereich-kernspinresonanzspektroskopie-nmr-intelligente-miniaturisierte-shim-systeme-fur-die-nmr-spektroskopie-msc-in-elektrotechnik-mikrosystemtechnik-mechatronik-oder-physik",
+      "title": "Doktorandin / Doktorand (w/m/d), Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (w/m/d) im Bereich Kernspinresonanzspektroskopie (NMR): Intelligente miniaturisierte Shim-Systeme für die NMR-Spektroskopie",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170559/elektronikerin-fur-gerate-und-systeme-mwd",
+      "title": "Elektroniker/in für Geräte und Systeme (m/w/d)",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170079/elektronikerin-elektroniker-wmd-fur-gerate-und-systeme-vollzeit-oder-teilzeit-bis-50",
       "title": "Elektronikerin / Elektroniker (w/m/d) für Geräte und Systeme",
       "score": 10,
@@ -74,6 +89,11 @@
       "reasoning": "Weak match due to mismatch in field of study (geosciences vs physics/chemistry/material science) and lack of relevant experience with quantum sensors, x-ray spectrometers, and detector physics."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170455/mitarbeiterin-mitarbeiter-wmd-instandhaltung",
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) Instandhaltung",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170473/mitarbeiterin-mitarbeiter-wmd-fur-buroorganisation-und-community-management",
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für Büroorganisation und Community-Management",
       "score": 22,
@@ -96,6 +116,11 @@
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) mit Schwerpunkt Medieninformatik",
       "score": 68,
       "reasoning": "Good fit due to media informatics and web development aspects; however, role's strong focus on educational technology and partial German fluency requirement are drawbacks."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170524/mitarbeiterin-mitarbeiter-genehmigungsverfahren-wmd-strahlenschutz",
+      "title": "Mitarbeiterin / Mitarbeiter Genehmigungsverfahren (w/m/d)",
+      "filtered": true
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170550/phd-position-in-geophysics-fmd-part-time-75",
@@ -126,6 +151,16 @@
       "title": "Physikalisch Technische Assistentin / Physikalisch Technischer Assistent (w/m/d)",
       "score": 22,
       "reasoning": "Weak match due to lack of direct experience in microstructure technology, nanofabrication, and required technical expertise; German fluency is also a concern."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170563/projektingenieurin-projektingenieur-wmd-der-technischen-gebaudeausrustung",
+      "title": "Projektingenieurin / Projektingenieur (w/m/d) der Technischen Gebäudeausrüstung",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170564/projektingenieurin-projektingenieur-wmd-der-technischen-gebaudeausrustung-elektrotechnik",
+      "title": "Projektingenieurin/ Projektingenieur (w/m/d) der Technischen Gebäudeausrüstung - Elektrotechnik",
+      "filtered": true
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170549/referentin-referent-wmd-personalentwicklung",
@@ -162,41 +197,6 @@
       "title": "Strahlenschutzingenieurin / Strahlenschutzingenieur (w/m/d)",
       "score": 22,
       "reasoning": "Poor match due to lack of direct experience in Strahlenschutz and limited German fluency; role requires strong understanding of atom- and strahlenschutzrechtliche Vorgaben."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170534/academic-researcher-fmd",
-      "title": "Academic Researcher (f/m/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170565/doktorandin-doktorand-wmd-wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-wmd-im-bereich-kernspinresonanzspektroskopie-nmr-intelligente-miniaturisierte-shim-systeme-fur-die-nmr-spektroskopie-msc-in-elektrotechnik-mikrosystemtechnik-mechatronik-oder-physik",
-      "title": "Doktorandin / Doktorand (w/m/d), Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (w/m/d) im Bereich Kernspinresonanzspektroskopie (NMR): Intelligente miniaturisierte Shim-Systeme für die NMR-Spektroskopie",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170559/elektronikerin-fur-gerate-und-systeme-mwd",
-      "title": "Elektroniker/in für Geräte und Systeme (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170455/mitarbeiterin-mitarbeiter-wmd-instandhaltung",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) Instandhaltung",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170524/mitarbeiterin-mitarbeiter-genehmigungsverfahren-wmd-strahlenschutz",
-      "title": "Mitarbeiterin / Mitarbeiter Genehmigungsverfahren (w/m/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170563/projektingenieurin-projektingenieur-wmd-der-technischen-gebaudeausrustung",
-      "title": "Projektingenieurin / Projektingenieur (w/m/d) der Technischen Gebäudeausrüstung",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170564/projektingenieurin-projektingenieur-wmd-der-technischen-gebaudeausrustung-elektrotechnik",
-      "title": "Projektingenieurin/ Projektingenieur (w/m/d) der Technischen Gebäudeausrüstung - Elektrotechnik",
-      "filtered": true
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",

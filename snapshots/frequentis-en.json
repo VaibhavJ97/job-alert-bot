@@ -1,38 +1,6 @@
 {
-  "updated_at": "2026-06-22T07:39:25+00:00",
+  "updated_at": "2026-06-22T08:17:57+00:00",
   "jobs": [
-    {
-      "url": "https://jobs.frequentis.com/careers/Login",
-      "title": "Log in"
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/JobDetail/ROU-DevOps-Engineer-MosaiX/3319",
-      "title": "DevOps Engineer - MosaiX"
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-Group-IT-Application-Support-Specialist-3rd-Level-all-genders/3400",
-      "title": "Group IT Application Support Specialist - 3rd Level (all genders)"
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-IT-Procurement-Contract-Specialist-all-genders/3485",
-      "title": "IT Procurement – Contract Specialist (all genders)"
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/JobDetail/ROU-IT-Systems-Engineer/3514",
-      "title": "IT Systems Engineer"
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/JobDetail/ROU-Linux-Platform-Engineer-MosaiX/3323",
-      "title": "Linux Platform Engineer - MosaiX"
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/JobDetail/FSS-Linux-System-Engineer-RDT/3209",
-      "title": "Linux System Engineer for RDT solutions"
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-Managed-Services-Sales-Expert/3475",
-      "title": "Managed Services Sales Expert (all genders)"
-    },
     {
       "url": "https://jobs.frequentis.com/careers/SearchJobs",
       "title": "Job board",
@@ -47,6 +15,10 @@
       "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=45",
       "title": "JOIN OUR TALENT NETWORK",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/Login",
+      "title": "Log in"
     },
     {
       "url": "https://jobs.frequentis.com/karriere/AlternateJobs",
@@ -74,6 +46,10 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/ROU-DevOps-Engineer-MosaiX/3319",
+      "title": "DevOps Engineer - MosaiX"
+    },
+    {
       "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3319",
       "title": "Apply to DevOps Engineer - MosaiX",
       "filtered": true
@@ -99,6 +75,10 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-Group-IT-Application-Support-Specialist-3rd-Level-all-genders/3400",
+      "title": "Group IT Application Support Specialist - 3rd Level (all genders)"
+    },
+    {
       "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3400",
       "title": "Apply to Group IT Application Support Specialist - 3rd Level (all genders)",
       "filtered": true
@@ -114,9 +94,17 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-IT-Procurement-Contract-Specialist-all-genders/3485",
+      "title": "IT Procurement – Contract Specialist (all genders)"
+    },
+    {
       "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3485",
       "title": "Apply to IT Procurement – Contract Specialist (all genders)",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/ROU-IT-Systems-Engineer/3514",
+      "title": "IT Systems Engineer"
     },
     {
       "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3514",
@@ -124,14 +112,8 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.frequentis.com/careers/JobDetail/FUSA-Lead-Systems-Engineer/3268",
-      "title": "Lead Systems Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3268",
-      "title": "Apply to Lead Systems Engineer",
-      "filtered": true
+      "url": "https://jobs.frequentis.com/careers/JobDetail/ROU-Linux-Platform-Engineer-MosaiX/3323",
+      "title": "Linux Platform Engineer - MosaiX"
     },
     {
       "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3323",
@@ -139,9 +121,17 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/FSS-Linux-System-Engineer-RDT/3209",
+      "title": "Linux System Engineer for RDT solutions"
+    },
+    {
       "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3209",
       "title": "Apply to Linux System Engineer for RDT solutions",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-Managed-Services-Sales-Expert/3475",
+      "title": "Managed Services Sales Expert (all genders)"
     },
     {
       "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3475",

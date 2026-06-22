@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-22T07:37:04+00:00",
+  "updated_at": "2026-06-22T08:17:46+00:00",
   "jobs": [
+    {
+      "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2518313",
+      "title": "Betriebstechniker (m/w/d) Instandhaltung und Elektrotechnik",
+      "filtered": true
+    },
     {
       "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2625540",
       "title": "Experte (m/w/d) Kraftstofftechnik & Produktzertifizierung für e-Fuels",
@@ -8,10 +13,9 @@
       "reasoning": "Weak match due to lack of direct experience in fuel technology, petrochemistry, or related fields; candidate's background in geosciences and AI/LLM does not align with job requirements, and strong German fluency is required."
     },
     {
-      "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2626275",
-      "title": "Lead Piping Engineer (m/w/d) e-Fuels und PtX-Anlagen",
-      "score": 22,
-      "reasoning": "Weak match due to lack of experience in piping engineering, Rohrleitungsbau, and required software like Plant3D or Inventor; candidate's geosciences background and AI/ML skills are not directly applicable to the role."
+      "url": "https://ineratec-gmbh-1.jobs.personio.de/job/480651",
+      "title": "Initiativbewerbung",
+      "filtered": true
     },
     {
       "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2538755",
@@ -24,16 +28,6 @@
       "title": "Verfahrensingenieur R&D (m/w/d) Technologie und Prozessimplementierung",
       "score": 22,
       "reasoning": "Weak match due to lack of senior experience and strong German fluency; candidate's geosciences background doesn't align with chemical engineering requirements."
-    },
-    {
-      "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2518313",
-      "title": "Betriebstechniker (m/w/d) Instandhaltung und Elektrotechnik",
-      "filtered": true
-    },
-    {
-      "url": "https://ineratec-gmbh-1.jobs.personio.de/job/480651",
-      "title": "Initiativbewerbung",
-      "filtered": true
     }
   ]
 }

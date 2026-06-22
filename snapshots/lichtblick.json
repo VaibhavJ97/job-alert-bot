@@ -1,4 +1,57 @@
 {
-  "updated_at": "2026-06-22T07:47:18+00:00",
-  "jobs": []
+  "updated_at": "2026-06-22T08:19:39+00:00",
+  "jobs": [
+    {
+      "url": "https://www.lichtblick.de/karriere/jobs/?erfahrung=Berufserfahrene",
+      "title": "Zum Hauptinhalt springen",
+      "filtered": true
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/arbeiten-bei-lichtblick",
+      "title": "Arbeiten bei LichtBlick",
+      "filtered": true
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/gleichstellung",
+      "title": "Gleichstellung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/karrierestarter",
+      "title": "Karrierestart",
+      "filtered": true
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/jobs/specialist-gn-workforce-partnermanagement",
+      "title": "Specialist (gn) Workforce- & Partnermanagement Operations | Berufserfahrene | vom 12.06.2026 Hamburg"
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/jobs/specialist-gn-workforce-management-am-standort-chemnitz",
+      "title": "Specialist (gn) Workforce Management am Standort Chemnitz Operations | Berufserfahrene | vom 10.06.2026 Hamburg, Full Remote (Deutschlandweit)"
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/jobs/elektroingenieur-in-gn-bess-projekte",
+      "title": "Elektroingenieur*in (gn) BESS-Projekte Asset Management | Berufserfahrene | vom 08.06.2026 Hamburg"
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/jobs/bauingenieur-in-gn-grossbatteriespeicher-energieanlagen",
+      "title": "Bauingenieur*in (gn) – Großbatteriespeicher / Energieanlagen Asset Management | Berufserfahrene | vom 08.06.2026 Hamburg"
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/jobs/generative-visual-designer-gn-b2c",
+      "title": "Generative Visual Designer (gn) B2C Marketing & B2C | Berufserfahrene | vom 04.05.2026 Hamburg"
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/jobs/-junior-portfolio-analyst-gn-",
+      "title": "(Junior) Portfolio Analyst (gn) Green Energy Markets | Berufserfahrene | vom 04.05.2026 Hamburg"
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/jobs/analytics-engineer-gn-b2b-befristet-",
+      "title": "Analytics Engineer (gn) B2B (befristet) Sales | Berufserfahrene | vom 04.05.2026 Hamburg"
+    },
+    {
+      "url": "https://www.lichtblick.de/karriere/jobs/it-audit-compliance-specialist-gn-",
+      "title": "IT Audit & Compliance Specialist (gn) IT | Berufserfahrene | vom 15.04.2026 Full Remote (Deutschlandweit), Hamburg"
+    }
+  ]
 }

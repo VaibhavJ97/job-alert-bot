@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-22T07:47:31+00:00",
+  "updated_at": "2026-06-22T08:19:43+00:00",
   "jobs": [
+    {
+      "url": "https://reltix.jobs.personio.com/job/2601565?language=en",
+      "title": "Finance Intern (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://reltix.jobs.personio.com/job/2602503?language=en",
+      "title": "Founders Associate Intern (m/w/d)",
+      "filtered": true
+    },
     {
       "url": "https://reltix.jobs.personio.com/job/2662102?language=en",
       "title": "Data & Automation Engineer"
@@ -12,16 +22,6 @@
     {
       "url": "https://reltix.jobs.personio.com/job/2662101?language=en",
       "title": "Software Engineer (m/w/d)"
-    },
-    {
-      "url": "https://reltix.jobs.personio.com/job/2601565?language=en",
-      "title": "Finance Intern (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://reltix.jobs.personio.com/job/2602503?language=en",
-      "title": "Founders Associate Intern (m/w/d)",
-      "filtered": true
     }
   ]
 }

@@ -1,13 +1,23 @@
 {
-  "updated_at": "2026-06-22T07:47:23+00:00",
+  "updated_at": "2026-06-22T08:19:39+00:00",
   "jobs": [
     {
       "url": "https://www.unternehmertum.de/jobs/2679410",
       "title": "Controller – KI-Transformation im Controlling (m/w/d) Garching Vollzeit"
     },
     {
+      "url": "https://www.unternehmertum.de/jobs/2631830",
+      "title": "Werkstattmitarbeiter Schwerpunkt Metalltechnik (m/w/d) Garching Vollzeit",
+      "filtered": true
+    },
+    {
       "url": "https://www.unternehmertum.de/jobs/2550194",
       "title": "Initiativbewerbung (m/w/d) Garching & München Voll- oder Teilzeit"
+    },
+    {
+      "url": "https://www.unternehmertum.de/jobs/2520433",
+      "title": "Investment Analyst/Associate Venture Capital (m/f/x) München Kreativquartier Vollzeit",
+      "filtered": true
     },
     {
       "url": "https://www.unternehmertum.de/jobs/2420405",
@@ -20,16 +30,6 @@
     {
       "url": "https://www.unternehmertum.de/jobs/2570366",
       "title": "Program Coordinator – Entrepreneurship & Innovation Education (m/f/d) München Kreativquartier Vollzeit"
-    },
-    {
-      "url": "https://www.unternehmertum.de/jobs/2631830",
-      "title": "Werkstattmitarbeiter Schwerpunkt Metalltechnik (m/w/d) Garching Vollzeit",
-      "filtered": true
-    },
-    {
-      "url": "https://www.unternehmertum.de/jobs/2520433",
-      "title": "Investment Analyst/Associate Venture Capital (m/f/x) München Kreativquartier Vollzeit",
-      "filtered": true
     }
   ]
 }

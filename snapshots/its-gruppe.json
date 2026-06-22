@@ -1,37 +1,9 @@
 {
-  "updated_at": "2026-06-22T07:41:30+00:00",
+  "updated_at": "2026-06-22T08:18:27+00:00",
   "jobs": [
     {
       "url": "https://its-gruppe.jobs.personio.de/job/2262577",
       "title": "Duales Studium Angewandte Informatik (B.Sc.) ab 1. Oktober 2026 (m/w/d)"
-    },
-    {
-      "url": "https://its-gruppe.jobs.personio.de/job/2644264",
-      "title": "Deployment Engineer / Installationsspezialist*in in Kundenprojekten (m/w/d)"
-    },
-    {
-      "url": "https://its-gruppe.jobs.personio.de/job/2647417",
-      "title": "Softwaretester*in (m/w/d)"
-    },
-    {
-      "url": "https://its-gruppe.jobs.personio.de/job/2608069",
-      "title": "Applikations- und Softwarebetreuer*in (m/w/d) – Lovion BIS"
-    },
-    {
-      "url": "https://its-gruppe.jobs.personio.de/job/2644249",
-      "title": "Softwareentwickler*in für Smallworld GIS (m/w/d)"
-    },
-    {
-      "url": "https://its-gruppe.jobs.personio.de/job/2603605",
-      "title": "Softwarekonfigurator*in / Softwareentwickler*in in Kundenprojekten (m/w/d)"
-    },
-    {
-      "url": "https://its-gruppe.jobs.personio.de/job/2644380",
-      "title": "Support Engineer / Anwendungsbetreuer*in in Kundenprojekten (m/w/d)"
-    },
-    {
-      "url": "https://its-gruppe.jobs.personio.de/job/2426141",
-      "title": "Mitarbeiter*in (m/w/d) - visuelle Kontrolle von Geoinformationsdaten"
     },
     {
       "url": "https://its-gruppe.jobs.personio.de/job/2243388",
@@ -64,6 +36,10 @@
       "filtered": true
     },
     {
+      "url": "https://its-gruppe.jobs.personio.de/job/2644264",
+      "title": "Deployment Engineer / Installationsspezialist*in in Kundenprojekten (m/w/d)"
+    },
+    {
       "url": "https://its-gruppe.jobs.personio.de/job/714608",
       "title": "Initiativ",
       "filtered": true
@@ -79,9 +55,17 @@
       "filtered": true
     },
     {
+      "url": "https://its-gruppe.jobs.personio.de/job/2647417",
+      "title": "Softwaretester*in (m/w/d)"
+    },
+    {
       "url": "https://its-gruppe.jobs.personio.de/job/2568429",
       "title": "AI Solution Consultant (m/w/d)",
       "filtered": true
+    },
+    {
+      "url": "https://its-gruppe.jobs.personio.de/job/2608069",
+      "title": "Applikations- und Softwarebetreuer*in (m/w/d) – Lovion BIS"
     },
     {
       "url": "https://its-gruppe.jobs.personio.de/job/714610",
@@ -94,9 +78,25 @@
       "filtered": true
     },
     {
+      "url": "https://its-gruppe.jobs.personio.de/job/2644249",
+      "title": "Softwareentwickler*in für Smallworld GIS (m/w/d)"
+    },
+    {
+      "url": "https://its-gruppe.jobs.personio.de/job/2603605",
+      "title": "Softwarekonfigurator*in / Softwareentwickler*in in Kundenprojekten (m/w/d)"
+    },
+    {
+      "url": "https://its-gruppe.jobs.personio.de/job/2644380",
+      "title": "Support Engineer / Anwendungsbetreuer*in in Kundenprojekten (m/w/d)"
+    },
+    {
       "url": "https://its-gruppe.jobs.personio.de/job/2651843",
       "title": "Trainer*in für GIS / QGIS (m/w/d)",
       "filtered": true
+    },
+    {
+      "url": "https://its-gruppe.jobs.personio.de/job/2426141",
+      "title": "Mitarbeiter*in (m/w/d) - visuelle Kontrolle von Geoinformationsdaten"
     },
     {
       "url": "https://its-gruppe.jobs.personio.de/job/2373905",

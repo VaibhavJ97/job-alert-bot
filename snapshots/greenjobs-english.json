@@ -1,4 +1,41 @@
 {
-  "updated_at": "2026-06-22T07:47:32+00:00",
-  "jobs": []
+  "updated_at": "2026-06-22T08:19:56+00:00",
+  "jobs": [
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?s=english&id=100150926&anz=html&bl=gj",
+      "title": "Hydropower Planning Expert (m/f/d)"
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?s=english&id=100150925&anz=html&bl=gj",
+      "title": "Hydraulic Engineer (m/f/d)"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/analyst-consultant-in-the-field-of-biodiversity-restoration-water--100153293/?s=english",
+      "title": "Analyst/Consultant (d/f/m) in the field of Biodiversity/Restoration/Water"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/phd-candidate-in-soil-science-agroforestry-all-genders-welcome-project-climate-impact-of-agroforestry-systems-of-different-complexity-in-the-humid-tropics-of-java-indonesia--100153140/?s=english",
+      "title": "PhD candidate in soil science / agroforestry (all genders welcome) - project: Climate impact of agroforestry systems of different complexity in the humid tropics of Java, Indonesia"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/stelle-im-wissenschaftlichen-dienst-im-bereich-waldoekologie-qualifikationsstelle-phd--100153102/?s=english",
+      "title": "Stelle im Wissenschaftlichen Dienst (m/w/d) im Bereich Waldökologie - Qualifikationsstelle (PhD)"
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?s=english&id=100150256&anz=html&bl=gj",
+      "title": "Electrical Engineer (m/f/d)"
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?s=english&id=100150258&anz=html&bl=gj",
+      "title": "Geotechnical Engineer (m/f/d)"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/consultant-in-the-field-of-sustainable-finance--100152871/?s=english",
+      "title": "Consultant (m/f/d) In the field of Sustainable Finance"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/earlier-career-researcher-agroecological-systems-part-time-position--100152654/?s=english",
+      "title": "Earlier Career Researcher - Agroecological Systems (f/m/d) - part-time position"
+    }
+  ]
 }
