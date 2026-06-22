@@ -1,69 +1,101 @@
 {
-  "updated_at": "2026-06-21T19:55:27+00:00",
+  "updated_at": "2026-06-22T05:00:38+00:00",
   "jobs": [
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2668594",
-      "title": "Drilling & Well QAQC Supervisor (m/f/d)"
+      "title": "Drilling & Well QAQC Supervisor (m/f/d)",
+      "score": 39,
+      "reasoning": "Some skill overlap in geothermal energy, but role requires strong QAQC experience and senior leadership, which candidate lacks; German fluency may also be a challenge."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2599476",
-      "title": "HSE-Advisor (m/w/d)"
+      "title": "HSE-Advisor (m/w/d)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct HSE experience and required seniority; geothermal context is the only overlap."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2071306",
-      "title": "Bauprojektkoordinator mit Schwerpunkt Stakeholder Management (m/w/d)"
+      "title": "Bauprojektkoordinator mit Schwerpunkt Stakeholder Management (m/w/d)",
+      "score": 39,
+      "reasoning": "Moderate match due to geosciences background; however, role requires strong stakeholder management and construction project coordination experience, which is not evident in the candidate's CV, and German fluency is likely a significant requirement."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/1597026",
-      "title": "Chemikant/Operator für Lithium-Elektrolyse-Anlage (m/w/d)"
+      "title": "Chemikant/Operator für Lithium-Elektrolyse-Anlage (m/w/d)",
+      "score": 32,
+      "reasoning": "Some overlap in lithium extraction experience; however, role requires strong chemistry background, industrial plant operation experience, and good German fluency, which are not well-matched with the candidate's profile."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2667429",
-      "title": "Document Controller (m/w/d)"
+      "title": "Document Controller (m/w/d)",
+      "score": 20,
+      "reasoning": "Weak match due to lack of direct relevance between candidate's skills and document controller role; candidate's experience and education focus on geosciences, AI, and web development, whereas the job requires document management expertise."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2447529",
-      "title": "E&I Technician (m/w/d)"
+      "title": "E&I Technician (m/w/d)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct experience in E&I maintenance, insufficient seniority, and strong German fluency requirement."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2580188",
-      "title": "Field Permitting and Land Acquisition Settlement & Seismik Monitoring (m/w/d)"
+      "title": "Field Permitting and Land Acquisition Settlement & Seismik Monitoring (m/w/d)",
+      "score": 58,
+      "reasoning": "Moderate geosciences fit; relevant experience in geothermal energy, but role requires strong administrative and negotiation skills, and senior experience in land acquisition, which the candidate lacks; German fluency is also a concern."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/812334",
-      "title": "Initiativbewerbung"
+      "title": "Initiativbewerbung",
+      "score": 40,
+      "reasoning": "Moderate geosciences and energy overlap; however, strong German fluency is required, and senior experience is implied, which the candidate lacks."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2679111",
-      "title": "IT-Systemintegration Support (m/w/d)"
+      "title": "IT-Systemintegration Support (m/w/d)",
+      "score": 40,
+      "reasoning": "Moderate IT skills overlap, but role requires strong IT support experience and German fluency, which candidate lacks; geosciences background is not utilized."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2645144",
-      "title": "Lab Technician (m/w/d)"
+      "title": "Lab Technician (m/w/d)",
+      "score": 39,
+      "reasoning": "Moderate skill overlap in lab analysis and geosciences, but role requires 5-8 years of experience and strong German fluency, which the candidate lacks."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2462348",
-      "title": "Lead Static Equipment Engineer (m/w/d)"
+      "title": "Lead Static Equipment Engineer (m/w/d)",
+      "score": 20,
+      "reasoning": "Weak match due to lack of mechanical engineering background and insufficient senior experience; German fluency is also a concern."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2620173",
-      "title": "Procurement Specialist Projects (m/f/d)"
+      "title": "Procurement Specialist Projects (m/f/d)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of procurement experience and required skills; candidate's background in geosciences and AI/LLM is not directly applicable to procurement specialist role."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2578249",
-      "title": "Projektingenieur für bergrechtliche Genehmigungsverfahren (m/w/d)"
+      "title": "Projektingenieur für bergrechtliche Genehmigungsverfahren (m/w/d)",
+      "score": 58,
+      "reasoning": "Moderate fit due to geosciences background and some relevant experience; however, role requires strong technical expertise in bergrechtliche Genehmigungsverfahren and senior experience, which the candidate lacks."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2464819",
-      "title": "Projektingenieur für Elektrotechnik, Messtechnik und Steuerungstechnik (m/w/d)"
+      "title": "Projektingenieur für Elektrotechnik, Messtechnik und Steuerungstechnik (m/w/d)",
+      "score": 22,
+      "reasoning": "Weak electrical engineering focus in job; candidate lacks direct experience in E&IC system design, electrical networks, and automation systems; German fluency is a significant requirement."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2591048",
-      "title": "Teamlead IT – Datacenter & Infrastructure (m/w/d)"
+      "title": "Teamlead IT – Datacenter & Infrastructure (m/w/d)",
+      "score": 39,
+      "reasoning": "Moderate IT infrastructure management skills, but lacking senior experience and strong German fluency; role is a stretch due to mismatch in domain expertise and required leadership experience."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2578244",
-      "title": "Umweltingenieur Genehmigungsmanagement (m/w/d)"
+      "title": "Umweltingenieur Genehmigungsmanagement (m/w/d)",
+      "score": 42,
+      "reasoning": "Moderate environmental engineering and geosciences overlap; however, role requires senior experience and strong German fluency, which candidate lacks."
     }
   ]
 }
