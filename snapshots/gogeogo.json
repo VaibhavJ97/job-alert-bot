@@ -1,4 +1,290 @@
 {
-  "updated_at": "2026-06-22T05:12:43+00:00",
-  "jobs": []
+  "updated_at": "2026-06-22T07:41:06+00:00",
+  "jobs": [
+    {
+      "url": "https://www.gogeogo.com/de/job/vermessungstechniker-m-w-d-im-innen--und-aussendienst",
+      "title": "Vermessungstechniker (m/w/d) im Innen- und Außendienst",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/geologe-geowissenschaftler-m-w-d-gelandearbeiten-umweltuntersuchungen",
+      "title": "Geologe / Geowissenschaftler (m/w/d) Geländearbeiten & Umweltuntersuchungen",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/qgis-trainer-in-2",
+      "title": "QGIS-Trainer:in",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/umweltingenieur--in-geologe--in-o-a-in-vollzeit-m-w-d",
+      "title": "Umweltingenieur/-in | Geologe/-in o.ä. in Vollzeit (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/geoinformatiker-m-w-d",
+      "title": "Geoinformatiker (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/sachbearbeitung-geoinformationen-techn-im-amt-fur-umwelt-und-landlichen-raum",
+      "title": "Sachbearbeitung Geoinformationen (techn.) im Amt für Umwelt und ländlichen Raum",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/geologe-m-w-d-am-standort-hahnstatten",
+      "title": "Geologe (m/w/d)am Standort Hahnstätten",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/fachplaner-in-ingenieurvermessung",
+      "title": "Fachplaner:in Ingenieurvermessung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/teamlead-m-w-d-geo-intelligence",
+      "title": "Teamlead (m/w/d) Geo-Intelligence",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/kundenberater-in-geoinformationssysteme-gis-m-w-d",
+      "title": "Kundenberater/in Geoinformationssysteme (GIS) (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/spezialistin-geoinformatik-linzag-linz",
+      "title": "Spezialist*in Geoinformatik",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/vermessungstechniker-innendienst-afry-mainz",
+      "title": "Vermessungstechniker für den vermessungstechnischen Innendienst (Mensch*)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/umweltplaner-planungsbuero-fischer-wettenberg",
+      "title": "Umweltplaner (gn*)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/projektentwickler-wind-uka-magdeburg",
+      "title": "Projektentwickler (m/w/d) Wind",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/landschaftsplanerin-umweltplanerin-mep-plan-dresden",
+      "title": "Landschaftsplaner:in / Umweltplaner:in (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/projektbearbeiter-umweltplanung-naturschutz-buero-knoblich-erkner",
+      "title": "Projektbearbeiter Umweltplanung (m/w/d) Schwerpunkt Naturschutz & Genehmigungsverfahren",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/genehmigungsplaner-erneuerbare-energien-uka-rostock-hannover-luebeck",
+      "title": "Genehmigungsplaner (m/w/d) im Bereich erneuerbare Energien",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/aachen",
+      "title": "Jobs in Aachen",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/augsburg",
+      "title": "Jobs in Augsburg",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/basel",
+      "title": "Jobs in Basel",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/berlin",
+      "title": "Jobs in Berlin",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/bern",
+      "title": "Jobs in Bern",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/bielefeld",
+      "title": "Jobs in Bielefeld",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/bochum",
+      "title": "Jobs in Bochum",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/bonn",
+      "title": "Jobs in Bonn",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/braunschweig",
+      "title": "Jobs in Braunschweig",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/bremen",
+      "title": "Jobs in Bremen",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/dortmund",
+      "title": "Jobs in Dortmund",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/dresden",
+      "title": "Jobs in Dresden",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/duisburg",
+      "title": "Jobs in Duisburg",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/duesseldorf",
+      "title": "Jobs in Düsseldorf",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/essen",
+      "title": "Jobs in Essen",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/frankfurt",
+      "title": "Jobs in Frankfurt am Main",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/freiburg",
+      "title": "Jobs in Freiburg",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/genf",
+      "title": "Jobs in Genf",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/graz",
+      "title": "Jobs in Graz",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/hamburg",
+      "title": "Jobs in Hamburg",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/hannover",
+      "title": "Jobs in Hannover",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/innsbruck",
+      "title": "Jobs in Innsbruck",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/karlsruhe",
+      "title": "Jobs in Karlsruhe",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/kassel",
+      "title": "Jobs in Kassel",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/kiel",
+      "title": "Jobs in Kiel",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/koeln",
+      "title": "Jobs in Köln",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/lausanne",
+      "title": "Jobs in Lausanne",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/leipzig",
+      "title": "Jobs in Leipzig",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/linz",
+      "title": "Jobs in Linz",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/mainz",
+      "title": "Jobs in Mainz",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/muenchen",
+      "title": "Jobs in München",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/muenster",
+      "title": "Jobs in Münster",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/nuernberg",
+      "title": "Jobs in Nürnberg",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/oldenburg",
+      "title": "Jobs in Oldenburg",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/potsdam",
+      "title": "Jobs in Potsdam",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/salzburg",
+      "title": "Jobs in Salzburg",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/stuttgart",
+      "title": "Jobs in Stuttgart",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/wien",
+      "title": "Jobs in Wien",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/wuppertal",
+      "title": "Jobs in Wuppertal",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/jobs/zurich",
+      "title": "Jobs in Zürich",
+      "filtered": true
+    }
+  ]
 }

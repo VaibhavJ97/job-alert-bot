@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-06-22T05:10:24+00:00",
+  "updated_at": "2026-06-22T07:39:26+00:00",
   "jobs": [
     {
-      "url": "https://jobs.lever.co/impossiblecloud/6eae16f3-b514-4ca8-b686-6682d8dd513d",
-      "title": "Go-to-Market Champion (GPU & AI)"
+      "url": "https://jobs.lever.co/impossiblecloud/77bb8ac2-befd-4799-ac81-91c469096d84",
+      "title": "Commercial High Potential Program (DACH)"
+    },
+    {
+      "url": "https://jobs.lever.co/impossiblecloud/d2b464f5-765d-4a56-98fd-680a7a15a15b",
+      "title": "Commercial High Potential Program (France)"
+    },
+    {
+      "url": "https://jobs.lever.co/impossiblecloud/033adb08-8523-47c4-8d66-258b4211c607",
+      "title": "Commercial High Potential Program (Spain)"
+    },
+    {
+      "url": "https://jobs.lever.co/impossiblecloud/e2e85431-cdac-4765-a82e-24c310b84f3d",
+      "title": "Commercial High Potential Program (UK&I)"
     },
     {
       "url": "https://jobs.lever.co/impossiblecloud/d3303c0f-02e8-459c-9ab9-9fa4436bd82e",
       "title": "DevOps Engineer - Infrastructure"
+    },
+    {
+      "url": "https://jobs.lever.co/impossiblecloud/74d953aa-6e78-41b8-a1f0-49e64691a45d",
+      "title": "Digital Marketing & Analytics Intern"
+    },
+    {
+      "url": "https://jobs.lever.co/impossiblecloud/981d0e29-82cf-455c-9231-d9712f7265cd",
+      "title": "Founder's Associate Intern"
+    },
+    {
+      "url": "https://jobs.lever.co/impossiblecloud/6eae16f3-b514-4ca8-b686-6682d8dd513d",
+      "title": "Go-to-Market Champion (GPU & AI)"
     },
     {
       "url": "https://jobs.lever.co/impossiblecloud/d8217001-310f-4a2a-8081-7053d288f2df",
@@ -26,32 +50,8 @@
       "title": "Platform Engineer (Bare Metal) - Entry to Mid-level"
     },
     {
-      "url": "https://jobs.lever.co/impossiblecloud/74d953aa-6e78-41b8-a1f0-49e64691a45d",
-      "title": "Digital Marketing & Analytics Intern"
-    },
-    {
-      "url": "https://jobs.lever.co/impossiblecloud/981d0e29-82cf-455c-9231-d9712f7265cd",
-      "title": "Founder's Associate Intern"
-    },
-    {
       "url": "https://jobs.lever.co/impossiblecloud/554f679c-fcc5-44b7-a574-1b28c151b3f0",
       "title": "Product Specialist (GPU & Distributed Compute)"
-    },
-    {
-      "url": "https://jobs.lever.co/impossiblecloud/77bb8ac2-befd-4799-ac81-91c469096d84",
-      "title": "Commercial High Potential Program (DACH)"
-    },
-    {
-      "url": "https://jobs.lever.co/impossiblecloud/d2b464f5-765d-4a56-98fd-680a7a15a15b",
-      "title": "Commercial High Potential Program (France)"
-    },
-    {
-      "url": "https://jobs.lever.co/impossiblecloud/033adb08-8523-47c4-8d66-258b4211c607",
-      "title": "Commercial High Potential Program (Spain)"
-    },
-    {
-      "url": "https://jobs.lever.co/impossiblecloud/e2e85431-cdac-4765-a82e-24c310b84f3d",
-      "title": "Commercial High Potential Program (UK&I)"
     }
   ]
 }

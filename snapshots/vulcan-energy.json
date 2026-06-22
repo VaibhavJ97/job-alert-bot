@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:00:38+00:00",
+  "updated_at": "2026-06-22T07:37:00+00:00",
   "jobs": [
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2668594",
@@ -96,6 +96,26 @@
       "title": "Umweltingenieur Genehmigungsmanagement (m/w/d)",
       "score": 42,
       "reasoning": "Moderate environmental engineering and geosciences overlap; however, role requires senior experience and strong German fluency, which candidate lacks."
+    },
+    {
+      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/1882908",
+      "title": "Chemikant/Shift Operator für Lithium-Extraktion-Anlage (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2619629",
+      "title": "Exploration Geoscientist (m/f/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2580185",
+      "title": "Field Permitting and Land Acquisition Specialist (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2518162",
+      "title": "Piping & Mechanical Supervisor (m/w/d)",
+      "filtered": true
     }
   ]
 }

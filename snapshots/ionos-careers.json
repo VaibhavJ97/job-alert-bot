@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T04:58:47+00:00",
+  "updated_at": "2026-06-22T07:36:37+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -144,6 +144,31 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
+    },
+    {
+      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs",
+      "title": "(no title)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4659163101-specialist-software-engineer-fmd-managed-kubernetes",
+      "title": "Specialist Software Engineer (f/m/d) Managed Kubernetes",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896175101-data-analytics-engineer-ai-platform-team-hybrid",
+      "title": "Data & Analytics Engineer - AI Platform team (Hybrid)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896174101-data-analytics-engineer-ai-platform-team-hybrid",
+      "title": "Data & Analytics Engineer - AI Platform team (Hybrid)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4803342101-server-support-representative",
+      "title": "Server Support Representative",
+      "filtered": true
     }
   ]
 }

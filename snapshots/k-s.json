@@ -1,4 +1,35 @@
 {
-  "updated_at": "2026-06-22T05:13:32+00:00",
-  "jobs": []
+  "updated_at": "2026-06-22T07:41:42+00:00",
+  "jobs": [
+    {
+      "url": "https://www.kpluss.com/de-de/karriere/stellenangebote/index.html",
+      "title": "(no title)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.kpluss.com/en-us/career/job-market/index.html",
+      "title": "(no title)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.kpluss.com/en-us/career/applying-at-ks",
+      "title": "How to Apply at K+S",
+      "filtered": true
+    },
+    {
+      "url": "https://www.kpluss.com/en-us/career/diversity-and-inclusion",
+      "title": "We Embrace Diversity and Inclusion",
+      "filtered": true
+    },
+    {
+      "url": "https://www.kpluss.com/en-us/career/trainee-programs",
+      "title": "Trainees",
+      "filtered": true
+    },
+    {
+      "url": "https://www.kpluss.com/en-us/career/job-market",
+      "title": "Professionals",
+      "filtered": true
+    }
+  ]
 }

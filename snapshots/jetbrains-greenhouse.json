@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:15:12+00:00",
+  "updated_at": "2026-06-22T07:46:32+00:00",
   "jobs": [
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4845538101",
@@ -100,6 +100,149 @@
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4791569101",
       "title": "Security Engineer, Identity and Access Management (IAM) Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4708214101",
+      "title": "Campus Ambassador",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696941101",
+      "title": "Campus Ambassador (Universities in Europe)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777558101",
+      "title": "Cloud Infrastructure Engineer (Kineto)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4826456101",
+      "title": "Developer Advocate (AIR)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4822652101",
+      "title": "Developer Experience Lead (JetBrains Cloud Platform)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4880987101",
+      "title": "Lead Forward Deployed Engineer (AI-Native Software Development )",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4790552101",
+      "title": "Lead Product Designer (FlySto)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4705364101",
+      "title": "Payroll Specialist (US)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4836687101",
+      "title": "Principal Engineer (JetBrains Cloud Platform, Developer Experience)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4814057101",
+      "title": "Principal Forward Deployed Engineer – AI-Native Software Development",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4782168101",
+      "title": "Product Lead / Entrepreneur in Residence (Project Bonsai)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4754978101",
+      "title": "Research Engineer (Agentic Models)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4712652101",
+      "title": "Research Engineer (Kineto)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4695363101",
+      "title": "Research Engineer (LLM Training and Performance)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4818536101",
+      "title": "Staff Research Engineer (LLM Pre-Training)",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4853479101",
+      "title": "Accounts Payable Specialist in Armenia",
+      "score": 10,
+      "reasoning": "Unrelated field, no matching skills, and location/ language requirements not met."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4847074101",
+      "title": "BI Analyst (Data Office)",
+      "score": 59,
+      "reasoning": "Moderate match due to data analysis skills; however, BI Analyst role requires extensive SQL, Tableau, and dbt experience, which is not strongly evident in the candidate's CV, and senior experience is implied."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4704043101",
+      "title": "Customer Sales Support Specialist",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct sales or customer support experience; skills in geosciences, programming, and web development do not align with the role."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4828073101",
+      "title": "Customer Success Engineer (China)",
+      "score": 39,
+      "reasoning": "Moderate technical skills overlap, but role requires strong pre-sales experience, business-oriented approach, and senior-level customer management skills, which the candidate lacks; location and language requirements also don't match."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4864881101",
+      "title": "Employee Benefits Specialist",
+      "score": 12,
+      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development skills match; strong focus on finance, administration, and communication skills which are not prominent in the candidate's CV."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4695524101",
+      "title": "Enterprise Customer Success Engineer (Post-Sales) - US",
+      "score": 29,
+      "reasoning": "Weak match due to lack of direct experience in customer success, sales, or enterprise software; role requires strong senior-level communication and technical advisory skills, which the candidate lacks."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4862873101",
+      "title": "HR Event Specialist",
+      "score": 10,
+      "reasoning": "No direct skills or experience match; unrelated field and no relevant technical skills for HR Event Specialist role."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4866608101",
+      "title": "Software Developer (Web Development Team)",
+      "score": 42,
+      "reasoning": "Some skill overlap in web development, but role requires strong backend experience with Kotlin or Java, and senior-level expertise in distributed systems and cloud environments, which the candidate lacks."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4828143101",
+      "title": "Staff Software Developer (IntelliJ Platform)"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4695526101",
+      "title": "Staff Software Developer (Kotlin Libraries)"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4851556101",
+      "title": "Support Specialist (Financial Application Development, NetSuite)"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4699241101",
+      "title": "Technical Lead (IntelliJ Platform)"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4724893101",
+      "title": "YouTrack Internal Automation Engineer"
     }
   ]
 }

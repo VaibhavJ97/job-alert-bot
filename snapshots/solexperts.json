@@ -1,4 +1,15 @@
 {
-  "updated_at": "2026-06-22T05:02:11+00:00",
-  "jobs": []
+  "updated_at": "2026-06-22T07:37:31+00:00",
+  "jobs": [
+    {
+      "url": "https://www.solexperts.com/de/karriere/offene-stellen",
+      "title": "OFFENE STELLEN",
+      "filtered": true
+    },
+    {
+      "url": "https://www.solexperts.com/en/career/vacancies",
+      "title": "ENGLISH",
+      "filtered": true
+    }
+  ]
 }

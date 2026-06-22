@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:01:16+00:00",
+  "updated_at": "2026-06-22T07:37:04+00:00",
   "jobs": [
     {
       "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2625540",
@@ -24,6 +24,16 @@
       "title": "Verfahrensingenieur R&D (m/w/d) Technologie und Prozessimplementierung",
       "score": 22,
       "reasoning": "Weak match due to lack of senior experience and strong German fluency; candidate's geosciences background doesn't align with chemical engineering requirements."
+    },
+    {
+      "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2518313",
+      "title": "Betriebstechniker (m/w/d) Instandhaltung und Elektrotechnik",
+      "filtered": true
+    },
+    {
+      "url": "https://ineratec-gmbh-1.jobs.personio.de/job/480651",
+      "title": "Initiativbewerbung",
+      "filtered": true
     }
   ]
 }

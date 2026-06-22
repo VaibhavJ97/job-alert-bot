@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:10:09+00:00",
+  "updated_at": "2026-06-22T07:39:25+00:00",
   "jobs": [
     {
       "url": "https://jobs.frequentis.com/careers/Login",
@@ -32,6 +32,151 @@
     {
       "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-Managed-Services-Sales-Expert/3475",
       "title": "Managed Services Sales Expert (all genders)"
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/SearchJobs",
+      "title": "Job board",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/RegistrationMethods",
+      "title": "Create job alert",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=45",
+      "title": "JOIN OUR TALENT NETWORK",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/AlternateJobs",
+      "title": "JOBS (DE)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/FUSA-Building-and-Facilities-Specialist/3510",
+      "title": "Building and Facilities Specialist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3510",
+      "title": "Apply to Building and Facilities Specialist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/FUSA-Contracts-Specialist/3522",
+      "title": "Contracts Specialist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3522",
+      "title": "Apply to Contracts Specialist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3319",
+      "title": "Apply to DevOps Engineer - MosaiX",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/FUSA-Documentation-Specialist/3343",
+      "title": "Documentation Specialist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3343",
+      "title": "Apply to Documentation Specialist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/FUSA-Field-Engineer/3080",
+      "title": "Field Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3080",
+      "title": "Apply to Field Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3400",
+      "title": "Apply to Group IT Application Support Specialist - 3rd Level (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/FUSA-HR-Generalist/3533",
+      "title": "Human Resources Generalist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3533",
+      "title": "Apply to Human Resources Generalist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3485",
+      "title": "Apply to IT Procurement – Contract Specialist (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3514",
+      "title": "Apply to IT Systems Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/FUSA-Lead-Systems-Engineer/3268",
+      "title": "Lead Systems Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3268",
+      "title": "Apply to Lead Systems Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3323",
+      "title": "Apply to Linux Platform Engineer - MosaiX",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3209",
+      "title": "Apply to Linux System Engineer for RDT solutions",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3475",
+      "title": "Apply to Managed Services Sales Expert (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/SearchJobs/?jobOffset=0",
+      "title": "Job search",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/SearchJobs/?jobOffset=20",
+      "title": "Job search",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/SearchJobs/?jobOffset=40",
+      "title": "Job search",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/SearchJobs/?jobOffset=60",
+      "title": "Job search",
+      "filtered": true
+    },
+    {
+      "url": "https://www.frequentis.com/en/careers/recruiting-team",
+      "title": "Contact us",
+      "filtered": true
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/search/?f_C=15158&locationId=OTHERS.worldwide",
+      "title": "(no title)",
+      "filtered": true
     }
   ]
 }

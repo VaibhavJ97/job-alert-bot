@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:13:52+00:00",
+  "updated_at": "2026-06-22T07:41:50+00:00",
   "jobs": [
     {
       "url": "https://feld-energy.jobs.personio.com/job/2653669",
@@ -12,6 +12,11 @@
     {
       "url": "https://feld-energy.jobs.personio.com/job/2604383",
       "title": "Field Service Techniker (m/w/d) – PV / Elektrotechnik"
+    },
+    {
+      "url": "https://feld-energy.jobs.personio.com/job/2612881",
+      "title": "Truck Driver and Field Machine Operator (m/f/d)",
+      "filtered": true
     }
   ]
 }

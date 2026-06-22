@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:02:04+00:00",
+  "updated_at": "2026-06-22T07:37:25+00:00",
   "jobs": [
     {
       "url": "https://www.disy.net/de/karriere/jobs/?jh=v6ofymy4z3el4mqyn5khsoj3uvjklrn",
@@ -30,6 +30,61 @@
       "title": "Initiativbewerbung",
       "score": 20,
       "reasoning": "No description provided, title 'Initiativbewerbung' translates to 'unsolicited application' and does not directly relate to candidate's skills or experience."
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/perspektiven",
+      "title": "Perspektiven",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/perspektiven/berufserfahrene",
+      "title": "Berufserfahrene",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/perspektiven/berufseinstieg",
+      "title": "Berufseinstieg",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/disy-erleben",
+      "title": "Disy erleben",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/disy-erleben/wer-wir-sind",
+      "title": "Wer wir sind",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/disy-erleben/wie-wir-arbeiten",
+      "title": "Wie wir arbeiten",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/disy-erleben/was-wir-tun",
+      "title": "Was wir tun",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/disy-erleben/benefits",
+      "title": "Warum disy – Benefits",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/disy-erleben/wo-wir-arbeiten",
+      "title": "Wo wir arbeiten",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/disy-erleben/faq",
+      "title": "FAQ",
+      "filtered": true
+    },
+    {
+      "url": "https://www.disy.net/de/karriere/blog",
+      "title": "Inside Disy - Blog",
+      "filtered": true
     }
   ]
 }

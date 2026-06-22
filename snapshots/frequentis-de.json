@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:09:01+00:00",
+  "updated_at": "2026-06-22T07:38:18+00:00",
   "jobs": [
     {
       "url": "https://jobs.frequentis.com/karriere/SearchJobs",
@@ -36,6 +36,111 @@
     {
       "url": "https://jobs.frequentis.com/karriere/SearchJobs/?jobOffset=40",
       "title": "Search by keyword"
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/RegistrationMethods",
+      "title": "JOB-ALARM ERSTELLEN",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=45",
+      "title": "TALENTE NETZWERK BEITRETEN",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/AlternateJobs",
+      "title": "JOBS (EN)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3339",
+      "title": "Bewerben für (Junior) System Engineer – Hochverfügbare IT-Lösungen für Helden des Alltags! (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3400",
+      "title": "Bewerben für Group IT Application Support Specialist - 3rd Level (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3485",
+      "title": "Bewerben für IT Procurement – Contract Specialist (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/ELARA-Projektassistenz-ASGARD/3352",
+      "title": "IT Projektassistenz im Bereich Public Safety (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3352",
+      "title": "Bewerben für IT Projektassistenz im Bereich Public Safety (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/ELARA-IT-System-Engineer-ASGARD/2745",
+      "title": "IT System Engineer ASGARD (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=2745",
+      "title": "Bewerben für IT System Engineer ASGARD (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/FOR-Junior-C-Entwickler-Linux-f-r-moderne-Softwaresysteme/3541",
+      "title": "Junior C++ Entwickler Linux für moderne Softwaresysteme (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3541",
+      "title": "Bewerben für Junior C++ Entwickler Linux für moderne Softwaresysteme (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/ELARA-Lead-System-Engineer/3145",
+      "title": "Lead System Engineer (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3145",
+      "title": "Bewerben für Lead System Engineer (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Lead-Systems-Engineer-Mission-Critical-Infrastructure-all-genders/3404",
+      "title": "Lead Systems Engineer – Mission-Critical Infrastructure (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3404",
+      "title": "Bewerben für Lead Systems Engineer – Mission-Critical Infrastructure (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3475",
+      "title": "Bewerben für Managed Service Sales Expert (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Mission-Critical-System-Engineer-Sicher-vernetzt-f-r-die-Bundeswehr-Teilzeit-oder-Vollzeit-all-genders/3059",
+      "title": "Mission Critical System Engineer – Sicher vernetzt für die Bundeswehr - Teilzeit oder Vollzeit (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3059",
+      "title": "Bewerben für Mission Critical System Engineer – Sicher vernetzt für die Bundeswehr - Teilzeit oder Vollzeit (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.frequentis.com/de/jobs/recruiting-team",
+      "title": "Kontakt",
+      "filtered": true
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/search/?f_C=15158&locationId=OTHERS.worldwide",
+      "title": "(no title)",
+      "filtered": true
     }
   ]
 }

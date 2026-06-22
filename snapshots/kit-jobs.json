@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T04:59:04+00:00",
+  "updated_at": "2026-06-22T07:36:53+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -162,6 +162,46 @@
       "title": "Strahlenschutzingenieurin / Strahlenschutzingenieur (w/m/d)",
       "score": 22,
       "reasoning": "Poor match due to lack of direct experience in Strahlenschutz and limited German fluency; role requires strong understanding of atom- and strahlenschutzrechtliche Vorgaben."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170534/academic-researcher-fmd",
+      "title": "Academic Researcher (f/m/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170565/doktorandin-doktorand-wmd-wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-wmd-im-bereich-kernspinresonanzspektroskopie-nmr-intelligente-miniaturisierte-shim-systeme-fur-die-nmr-spektroskopie-msc-in-elektrotechnik-mikrosystemtechnik-mechatronik-oder-physik",
+      "title": "Doktorandin / Doktorand (w/m/d), Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (w/m/d) im Bereich Kernspinresonanzspektroskopie (NMR): Intelligente miniaturisierte Shim-Systeme für die NMR-Spektroskopie",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170559/elektronikerin-fur-gerate-und-systeme-mwd",
+      "title": "Elektroniker/in für Geräte und Systeme (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170455/mitarbeiterin-mitarbeiter-wmd-instandhaltung",
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) Instandhaltung",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170524/mitarbeiterin-mitarbeiter-genehmigungsverfahren-wmd-strahlenschutz",
+      "title": "Mitarbeiterin / Mitarbeiter Genehmigungsverfahren (w/m/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170563/projektingenieurin-projektingenieur-wmd-der-technischen-gebaudeausrustung",
+      "title": "Projektingenieurin / Projektingenieur (w/m/d) der Technischen Gebäudeausrüstung",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170564/projektingenieurin-projektingenieur-wmd-der-technischen-gebaudeausrustung-elektrotechnik",
+      "title": "Projektingenieurin/ Projektingenieur (w/m/d) der Technischen Gebäudeausrüstung - Elektrotechnik",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
+      "title": "Technikerin / Techniker (w/m/d)",
+      "filtered": true
     }
   ]
 }
