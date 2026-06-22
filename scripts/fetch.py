@@ -15,10 +15,11 @@ JS-rendered page handling: if description extraction yields nothing, the
 job still passes through to AI scoring with title only. Better to score
 with limited info than silently drop it.
 
-Score caching: a URL with an existing score in the snapshot is never
-re-fetched, re-filtered, or re-scored. Only NEW URLs trigger the full
-pipeline. Editing keywords.json triggers re-evaluation of currently-
-filtered jobs but not cached-scored ones.
+Seen-once caching: every URL that reaches the title filter is recorded in
+the snapshot (scored, unscored, or filtered-out). Any URL already in the
+snapshot is skipped entirely on later runs - never re-fetched, re-scored,
+or re-emailed. A job is emailed exactly once: with its score if Groq scored
+it that run, or "unscored" if the daily quota was already used up.
 
 Required env vars (from GitHub Secrets):
 - GROQ_API_KEY, CV_TEXT          -> enable AI scoring
@@ -29,13 +30,14 @@ Required env vars (from GitHub Secrets):
 from __future__ import annotations
 
 import datetime as dt
+import html as html_lib
 import json
 import os
 import re
 import sys
 import time
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 import markdown as md_lib
 import requests
@@ -301,6 +303,114 @@ def extract_job_links(base_url: str, html: str) -> list[dict]:
             if _is_junk_title(title):
                 title = "(no title)"
         jobs.append({"url": full, "title": title[:250]})
+    return jobs
+
+
+# ----------------------------------------------------------------------
+# ATS API handler
+#
+# Many "JS-rendered" career pages are just front-ends for an ATS that also
+# publishes the same jobs as a public JSON feed. When a site URL belongs to
+# one of these platforms we read the feed directly: it returns title, link
+# AND description in one request, so these sites work without a browser and
+# skip the per-job description fetch entirely.
+#   Ashby:      api.ashbyhq.com/posting-api/job-board/<org>
+#   Greenhouse: boards-api.greenhouse.io/v1/boards/<token>/jobs?content=true
+#   Lever:      api.lever.co/v0/postings/<org>?mode=json
+# ----------------------------------------------------------------------
+
+ATS_FETCH_FAIL = "ATS_FETCH_FAIL"   # sentinel: recognized ATS, but feed errored
+
+
+def _ats_platform(url: str) -> tuple[str | None, str | None]:
+    """Return (platform, org) if url is a recognized ATS board, else (None, None)."""
+    p = urlparse(url)
+    host = p.netloc.lower()
+    seg = [s for s in p.path.split("/") if s]
+    if not seg:
+        return None, None
+    if "ashbyhq.com" in host:
+        return "ashby", seg[0]
+    if "greenhouse.io" in host and seg[0] not in ("embed",):
+        return "greenhouse", seg[0]
+    if "lever.co" in host:
+        return "lever", seg[0]
+    return None, None
+
+
+def _html_to_text(html_str: str | None) -> str | None:
+    """Turn an HTML (or HTML-entity-escaped) description into plain text."""
+    if not html_str:
+        return None
+    txt = html_lib.unescape(html_str)
+    if "&lt;" in txt or "&gt;" in txt or "&amp;" in txt:   # double-escaped
+        txt = html_lib.unescape(txt)
+    text = BeautifulSoup(txt, "lxml").get_text(" ", strip=True)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text or None
+
+
+def fetch_ats_api(url: str):
+    """If url is a recognized ATS board, return a list of
+    {url, title, description} dicts (description may be None). Returns None if
+    the url is not an ATS board, or ATS_FETCH_FAIL if the feed request errored.
+    """
+    platform, org = _ats_platform(url)
+    if not platform:
+        return None
+
+    if platform == "ashby":
+        api = f"https://api.ashbyhq.com/posting-api/job-board/{org}?includeCompensation=false"
+    elif platform == "greenhouse":
+        api = f"https://boards-api.greenhouse.io/v1/boards/{org}/jobs?content=true"
+    else:  # lever
+        api = f"https://api.lever.co/v0/postings/{org}?mode=json"
+
+    try:
+        r = requests.get(api, headers=HEADERS, timeout=TIMEOUT)
+        r.raise_for_status()
+        data = r.json()
+    except (requests.exceptions.RequestException, ValueError) as e:
+        print(f"  ATS API FAIL ({platform}): {type(e).__name__}: {e}",
+              file=sys.stderr)
+        return ATS_FETCH_FAIL
+
+    jobs: list[dict] = []
+    seen: set[str] = set()
+
+    if platform == "ashby":
+        raw = data.get("jobs", []) if isinstance(data, dict) else []
+        for j in raw:
+            if not j.get("isListed", True):
+                continue
+            u = (j.get("jobUrl") or "").split("#", 1)[0].rstrip("/")
+            t = _clean_title(j.get("title") or "")
+            if not u or not t or u in seen:
+                continue
+            seen.add(u)
+            desc = j.get("descriptionPlain") or _html_to_text(j.get("descriptionHtml"))
+            jobs.append({"url": u, "title": t[:250], "description": desc})
+    elif platform == "greenhouse":
+        raw = data.get("jobs", []) if isinstance(data, dict) else []
+        for j in raw:
+            u = (j.get("absolute_url") or "").split("#", 1)[0].rstrip("/")
+            t = _clean_title(j.get("title") or "")
+            if not u or not t or u in seen:
+                continue
+            seen.add(u)
+            jobs.append({"url": u, "title": t[:250],
+                         "description": _html_to_text(j.get("content"))})
+    else:  # lever - top-level JSON list
+        raw = data if isinstance(data, list) else []
+        for j in raw:
+            u = (j.get("hostedUrl") or "").split("#", 1)[0].rstrip("/")
+            t = _clean_title(j.get("text") or "")
+            if not u or not t or u in seen:
+                continue
+            seen.add(u)
+            desc = j.get("descriptionPlain") or _html_to_text(j.get("description"))
+            jobs.append({"url": u, "title": t[:250], "description": desc})
+
     return jobs
 
 
@@ -618,15 +728,26 @@ def main() -> int:
         slug = slugify(name)
         print(f"\n[{name}] {url}")
 
-        html = fetch_html(url)
-        if html is None:
+        # Try the ATS JSON feed first (Ashby/Greenhouse/Lever). If this URL
+        # isn't an ATS board, fall back to fetching + scraping the HTML page.
+        api_jobs = fetch_ats_api(url)
+        if api_jobs == ATS_FETCH_FAIL:
             total_failed += 1
             failed_sites.append(name)
             continue
+        if api_jobs is not None:
+            current_jobs = api_jobs           # each already carries a description
+            print(f"  found {len(current_jobs)} jobs via ATS API")
+        else:
+            html = fetch_html(url)
+            if html is None:
+                total_failed += 1
+                failed_sites.append(name)
+                continue
+            current_jobs = extract_job_links(url, html)
+            print(f"  found {len(current_jobs)} job-like links")
 
-        current_jobs = extract_job_links(url, html)
         had_snapshot, prev_by_url = load_snapshot(slug)
-        print(f"  found {len(current_jobs)} job-like links")
 
         # ---- Stage 1: title filter ----
         title_passing: list[dict] = []
@@ -647,16 +768,12 @@ def main() -> int:
         new_jobs: list[dict] = []
         for j in title_passing:
             prev = prev_by_url.get(j["url"])
-            if prev and "score" in prev:
-                # Already scored, keep cached
-                merged.append({
-                    "url": j["url"],
-                    "title": j["title"],
-                    "score": prev["score"],
-                    "reasoning": prev.get("reasoning", ""),
-                })
+            if prev is not None:
+                # Seen on a previous run - already emailed (scored or unscored)
+                # or already filtered out. Never fetch/score/email it again.
+                merged.append(prev)
             else:
-                # Brand-new URL - needs description fetch + filter + scoring
+                # Brand-new URL - fetch description, filter, score, email once.
                 new_jobs.append(j)
 
         # ---- Stage 2: description fetch + filter (only for new URLs) ----
@@ -665,11 +782,16 @@ def main() -> int:
         if new_jobs:
             print(f"  fetching descriptions for {len(new_jobs)} new job(s)...")
             for j in new_jobs:
-                desc = fetch_job_description(j["url"])
-                time.sleep(DESCRIPTION_FETCH_DELAY)
-                total_desc_fetched += 1
-                if desc is None:
-                    total_desc_missing += 1
+                if "description" in j:
+                    # Came from the ATS feed - description already in hand,
+                    # no extra request needed.
+                    desc = j.get("description")
+                else:
+                    desc = fetch_job_description(j["url"])
+                    time.sleep(DESCRIPTION_FETCH_DELAY)
+                    total_desc_fetched += 1
+                    if desc is None:
+                        total_desc_missing += 1
 
                 ok, _reason, _kw = description_passes_filter(desc, desc_incl)
                 if ok:
@@ -677,6 +799,9 @@ def main() -> int:
                     desc_passing.append(j)
                 else:
                     desc_filtered_this_site += 1
+                    # Remember it so this URL is never re-fetched on later runs.
+                    merged.append({"url": j["url"], "title": j["title"],
+                                   "filtered": True})
         total_desc_filtered += desc_filtered_this_site
         if desc_filtered_this_site:
             print(f"  description filter dropped {desc_filtered_this_site}, "
