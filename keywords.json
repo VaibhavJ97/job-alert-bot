@@ -30,6 +30,7 @@
     "radiologisch", "radiologie",
     "elektriker", "mechaniker", "facility", "reinigung",
     "driver", "truck", "vehicle",
+    "kraftfahrer", "lkw-fahrer", "berufskraftfahrer", "fahrzeug",
     "rechtsanwalt", "jurist", "legal counsel"
   ],
   "_comment_description": "DESCRIPTION FILTER for English-friendly jobs only. A job survives ONLY IF its description mentions English (in EN or DE) somewhere. Pure German-only jobs almost never mention English, so this filters them out. JS-rendered pages where description can't be fetched still pass through with title-only AI scoring.",
