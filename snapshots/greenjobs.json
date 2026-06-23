@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-23T09:52:31+00:00",
+  "updated_at": "2026-06-23T15:12:14+00:00",
   "jobs": [
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153459&anz=html&bl=gj",
+      "title": "Tax Tech Specialist (m/w/d)",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrende-vorstaend-strategische-netzwerke-gesellschaftliche-wirksamkeit-und-repraesentation--100153458",
       "title": "Geschäftsführende:r Vorständ:in (m/w/d) Strategische Netzwerke, gesellschaftliche Wirksamkeit und Repräsentation",
@@ -905,6 +910,11 @@
       "title": "Gärtner:in"
     },
     {
+      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-kampagnen-oeffentlichkeitsarbeit--100153166",
+      "title": "Mitarbeiter:in Kampagnen- & Öffentlichkeitsarbeit (w/d/m)",
+      "filtered": true
+    },
+    {
       "url": "https://www.greenjobs.de/stellenanzeige/paedagoge-fuer-das-foej-den-oebfd-in-teilzeit--100153160",
       "title": "Pädagoge (m/w/d) für das FÖJ / den öBFD - in Teilzeit",
       "filtered": true
@@ -1163,6 +1173,12 @@
       "url": "https://www.greenjobs.de/stellenanzeige/berater--100153044",
       "title": "Berater/in (m/w/d)",
       "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/koordinator-laboranalytik-am-standort-ruhleben-befristet--100153046",
+      "title": "Koordinator:in Laboranalytik am Standort Ruhleben (w/m/d) – befristet",
+      "score": 20,
+      "reasoning": "Title implies lab analysis coordination role, which partially matches past experience, but lacks clear connection to candidate's core skills and preferred job areas; seniority and domain unclear."
     },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153051&anz=html&bl=gj",
@@ -2087,20 +2103,32 @@
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153459&anz=html&bl=gj",
-      "title": "Tax Tech Specialist (m/w/d)",
+      "url": "https://www.greenjobs.de/stellenanzeige/umweltbildungsreferent--100153451",
+      "title": "Umweltbildungsreferent*in",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-kampagnen-oeffentlichkeitsarbeit--100153166",
-      "title": "Mitarbeiter:in Kampagnen- & Öffentlichkeitsarbeit (w/d/m)",
+      "url": "https://www.greenjobs.de/stellenanzeige/ingenieurstellen-mit-passender-wasserwirtschaftlicher-vertiefungsrichtung--100153472",
+      "title": "Ingenieurstellen (m/w/d) mit passender wasserwirtschaftlicher Vertiefungsrichtung",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/koordinator-laboranalytik-am-standort-ruhleben-befristet--100153046",
-      "title": "Koordinator:in Laboranalytik am Standort Ruhleben (w/m/d) – befristet",
-      "score": 20,
-      "reasoning": "Title implies lab analysis coordination role, which partially matches past experience, but lacks clear connection to candidate's core skills and preferred job areas; seniority and domain unclear."
+      "url": "https://www.greenjobs.de/stellenanzeige/analyst-consultant-in-the-field-of-biodiversity-restoration-water-full-time-berlin-adelphi-global-ggmbh--100153293",
+      "title": "Analyst/Consultant (d/f/m) in the field of Biodiversity/Restoration/Water (full time, Berlin) - adelphi global gGmbH",
+      "score": 40,
+      "reasoning": "Moderate environmental domain fit, but biodiversity/restoration/water focus doesn't directly align with geosciences/geothermal background; seniority and required skills unclear."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftlerin-geowissenschaftler-fuer-den-bereich-landesaufnahme-geologie--100153473",
+      "title": "Geowissenschaftlerin / Geowissenschaftler (w/m/d) für den Bereich „Landesaufnahme Geologie“",
+      "score": 68,
+      "reasoning": "Good geosciences and geology fit; relevant master's thesis and experience, but German fluency is A2 and role requires strong German skills, manageable learning curve for specific geological tasks"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiterin-sachbearbeiter-biologie--100153467",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) Biologie",
+      "score": 22,
+      "reasoning": "Weak biology focus, no direct geosciences or AI/LLM application; German fluency may be a challenge."
     }
   ]
 }

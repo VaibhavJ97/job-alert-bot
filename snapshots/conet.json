@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T09:53:08+00:00",
+  "updated_at": "2026-06-23T15:12:58+00:00",
   "jobs": [
     {
       "url": "https://www.conet.de/en/careers/open-positions",
@@ -35,14 +35,6 @@
       "title": "Java Backend Entwickler (m/w/d)"
     },
     {
-      "url": "https://www.conet.de/de/karriere/jobs/2026-073-technical-editor",
-      "title": "Technical Editor (m/w/d)"
-    },
-    {
-      "url": "https://www.conet.de/de/karriere/jobs/2026-072-sap-berater",
-      "title": "SAP Berater (m/w/d)"
-    },
-    {
       "url": "https://www.conet.de/de/karriere/stellenangebote?tx_jobs_list%5Baction%5D=list&tx_jobs_list%5Bcontroller%5D=Jobs&tx_jobs_list%5BcurrentPage%5D=1&tx_jobs_list%5Bsettings%5D%5Bapplication%5D%5Bfeedback%5D=103&tx_jobs_list%5Bsettings%5D%5Bapplication%5D%5Bprivacy%5D=92&tx_jobs_list%5Bsettings%5D%5Bapplication%5D%5Bteaser%5D%5BcontentUid%5D=288&tx_jobs_list%5Bsettings%5D%5Bapplication%5D%5Bteaser%5D%5BpageUid%5D=94&tx_jobs_list%5Bsettings%5D%5BdetailPid%5D=42&tx_jobs_list%5Bsettings%5D%5Bfilter%5D%5Bcategory%5D=1&tx_jobs_list%5Bsettings%5D%5Bfilter%5D%5Blocation%5D=1&tx_jobs_list%5Bsettings%5D%5BitemsPerPage%5D=9&tx_jobs_list%5Bsettings%5D%5BlistPid%5D=41&tx_jobs_list%5Bsettings%5D%5BtypeNum%5D=1762417362&type=1762417362&cHash=b0195f5ff5b95268e01b586d0f9aa71e",
       "title": "Aktuelle Seite, Seite 1"
     },
@@ -62,6 +54,18 @@
       "url": "https://www.conet.de/de/karriere/initiativbewerbung",
       "title": "Bewirb dich initiativ",
       "filtered": true
+    },
+    {
+      "url": "https://www.conet.de/de/karriere/jobs/2026-082-sap-psm-pscd-consultant",
+      "title": "SAP PSM / PSCD Consultant (m/w/d)",
+      "score": 20,
+      "reasoning": "Weak match due to lack of SAP experience and public finance domain knowledge; candidate's geospatial and AI skills are not directly applicable."
+    },
+    {
+      "url": "https://www.conet.de/de/karriere/jobs/2026-081-sap-co-consultant",
+      "title": "SAP CO Consultant (m/w/d)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of SAP experience and finance/controlling background; candidate's geosciences and AI skills are not relevant to the SAP CO Consultant role."
     }
   ]
 }

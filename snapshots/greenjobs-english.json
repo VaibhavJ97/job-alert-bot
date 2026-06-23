@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T09:54:03+00:00",
+  "updated_at": "2026-06-23T15:14:21+00:00",
   "jobs": [
     {
       "url": "https://www.eejobs.de/angebote/index.html?s=english&id=100150926&anz=html&bl=gj",
@@ -28,6 +28,12 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/consultant-in-the-field-of-sustainable-finance--100152871/?s=english",
       "title": "Consultant (m/f/d) In the field of Sustainable Finance"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/analyst-consultant-in-the-field-of-biodiversity-restoration-water-full-time-berlin-adelphi-global-ggmbh--100153293/?s=english",
+      "title": "Analyst/Consultant (d/f/m) in the field of Biodiversity/Restoration/Water (full time, Berlin) - adelphi global gGmbH",
+      "score": 40,
+      "reasoning": "Moderate environmental domain fit, but title lacks direct geospatial or AI/LLM skills match; seniority and specific biodiversity/restoration/water expertise unclear."
     }
   ]
 }

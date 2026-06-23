@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T09:52:39+00:00",
+  "updated_at": "2026-06-23T15:12:20+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -142,6 +142,12 @@
       "reasoning": "Unrelated field, candidate's background is in geosciences, not physics or chemistry."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170588/physikalisch-technische-assistentin-physikalisch-technischer-assistent-laborantin-laborant-wmd",
+      "title": "Physikalisch Technische Assistentin / Physikalisch Technischer Assistent, Laborantin / Laborant (w/m/d)",
+      "score": 39,
+      "reasoning": "Moderate match due to lab experience and technical skills; however, role requires specific training as Physikalisch Technischer Assistent, extensive experience in nano- or microstructuring, and strong German fluency, which the candidate lacks."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170563/projektingenieurin-projektingenieur-wmd-der-technischen-gebaudeausrustung",
       "title": "Projektingenieurin / Projektingenieur (w/m/d) der Technischen Gebäudeausrüstung",
       "filtered": true
@@ -199,10 +205,10 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170588/physikalisch-technische-assistentin-physikalisch-technischer-assistent-laborantin-laborant-wmd",
-      "title": "Physikalisch Technische Assistentin / Physikalisch Technischer Assistent, Laborantin / Laborant (w/m/d)",
-      "score": 39,
-      "reasoning": "Moderate match due to lab experience and technical skills; however, role requires specific training as Physikalisch Technischer Assistent, extensive experience in nano- or microstructuring, and strong German fluency, which the candidate lacks."
+      "url": "https://jobs.pse.kit.edu/en/jobs/170601/sachbearbeiterinnen-sachbearbeiter-wmd-drittmittelverwaltung",
+      "title": "Sachbearbeiterinnen / Sachbearbeiter (w/m/d) Drittmittelverwaltung",
+      "score": 22,
+      "reasoning": "Poor match due to lack of relevant experience in Drittmittelverwaltung, Buchhaltung, and Controlling; strong German fluency required but candidate is only A2."
     }
   ]
 }

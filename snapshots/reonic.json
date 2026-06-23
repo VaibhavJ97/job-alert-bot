@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T09:53:01+00:00",
+  "updated_at": "2026-06-23T15:12:42+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/reonic/834ee8ab-5665-4307-8832-52eb7f6b253e",
@@ -58,10 +58,6 @@
       "title": "Product Specialist - France (Greentech) (m/f/d)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/reonic/e1e76b8e-a4f0-4f9f-bc8e-e7a762025b74",
-      "title": "Product Specialist - Italy (Greentech) (m/f/d)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/reonic/07d1aaa8-0efb-4083-81f5-2f2dbd918b95",
       "title": "Go-To-Market Heat Pump & Installation (Greentech) (m/f/d)"
     },
@@ -82,6 +78,10 @@
       "title": "Customer Support Specialist — Spanish-Speaking Markets (Greentech) (m/f/d)",
       "score": 10,
       "reasoning": "No relevant technical skills, no Spanish fluency, and lack of customer support experience make this role a poor fit."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/reonic/e1e76b8e-a4f0-4f9f-bc8e-e7a762025b74",
+      "title": "Product Specialist - Italy (Greentech) (m/f/d)"
     }
   ]
 }

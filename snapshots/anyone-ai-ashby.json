@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T09:53:35+00:00",
+  "updated_at": "2026-06-23T15:13:35+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/bd8c4495-ce51-46c1-90f1-750b2b647021",
@@ -168,10 +168,6 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/6c274656-2dd3-4dd7-9484-cca68c05562b",
       "title": "Chemistry Expert - AI Trainer (Chile)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/798d1332-20a0-452c-a8c8-d06651360eaa",
-      "title": "Chemistry Expert - AI Trainer (Argentina)"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/edc934db-fe12-4d26-9b11-0b8dd6e3f20b",
@@ -738,6 +734,18 @@
       "title": "Software Engineering AI Trainer (Uruguay)",
       "score": 68,
       "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds the candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0a3bad14-b47f-43e0-9418-2fa9e642e26c",
+      "title": "Chemistry AI Training Expert (Argentina)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate lacks relevant experience and education in chemistry, requiring major reskilling."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1e55e029-7a72-4e1b-8804-3a22e5cc6838",
+      "title": "Chemistry Expert (Remote - Europe/LATAM)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate to chemistry, and required strong chemistry knowledge is lacking."
     }
   ]
 }
