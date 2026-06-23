@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-06-22T20:56:30+00:00",
+  "updated_at": "2026-06-23T04:00:40+00:00",
   "jobs": [
     {
       "url": "https://www.unternehmertum.de/jobs/2679410",
       "title": "Controller – KI-Transformation im Controlling (m/w/d) Garching Vollzeit"
+    },
+    {
+      "url": "https://www.unternehmertum.de/jobs/2675661",
+      "title": "XPRENEURS: Venture Consultant – Space, Hardware & Robotics (m/w/d) München Kreativquartier Vollzeit",
+      "score": 32,
+      "reasoning": "Weak match due to lack of direct experience in Space, Hardware, and Robotics; some transferable skills from geosciences and AI, but significant reskilling needed."
     },
     {
       "url": "https://www.unternehmertum.de/jobs/2631830",
@@ -30,12 +36,6 @@
     {
       "url": "https://www.unternehmertum.de/jobs/2570366",
       "title": "Program Coordinator – Entrepreneurship & Innovation Education (m/f/d) München Kreativquartier Vollzeit"
-    },
-    {
-      "url": "https://www.unternehmertum.de/jobs/2675661",
-      "title": "XPRENEURS: Venture Consultant – Space, Hardware & Robotics (m/w/d) München Kreativquartier Vollzeit",
-      "score": 32,
-      "reasoning": "Weak match due to lack of direct experience in Space, Hardware, and Robotics; some transferable skills from geosciences and AI, but significant reskilling needed."
     }
   ]
 }

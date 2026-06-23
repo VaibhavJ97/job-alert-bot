@@ -1,43 +1,33 @@
 {
-  "updated_at": "2026-06-22T20:55:28+00:00",
+  "updated_at": "2026-06-23T04:00:13+00:00",
   "jobs": [
-    {
-      "url": "https://careers.dekra.com/job/Shanghai-Jing&apos;an-Asia-HRBP/1346729855",
-      "title": "Asia HRBP"
-    },
-    {
-      "url": "https://careers.dekra.com/job/Guangzhou-Office-Test-Engineer/1353149555",
-      "title": "Test Engineer"
-    },
-    {
-      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1351430655",
-      "title": "Test Engineer"
-    },
-    {
-      "url": "https://careers.dekra.com/job/Shanghai-Jing&apos;an-Intern-Follow-up-Services/1355792255",
-      "title": "Intern-Follow-up Services"
-    },
-    {
-      "url": "https://careers.dekra.com/job/Shenzhen-AI-Engineer/1355816755",
-      "title": "AI Engineer"
-    },
-    {
-      "url": "https://careers.dekra.com/job/Pieks%C3%A4m%C3%A4ki-Katsastaja-76150/1349618755",
-      "title": "Katsastaja"
-    },
-    {
-      "url": "https://careers.dekra.com/job/Sein%C3%A4joki-Katsastaja/1349619255",
-      "title": "Katsastaja"
-    },
-    {
-      "url": "https://careers.dekra.com/job/Beijing-Office-Test-Engineer/1355660655",
-      "title": "Test Engineer"
-    },
     {
       "url": "https://careers.dekra.com/job/Stuttgart-Salesforce-Platform-Architect-%28mfd%29-70565/1356204655",
       "title": "Salesforce Platform Architect (m/f/d)",
       "score": 22,
       "reasoning": "Unrelated job title and description; no direct geosciences, GIS, or AI/LLM application development skills match; strong Salesforce platform experience required, which is not present in the candidate's CV."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Shanghai-Jing&apos;an-Asia-HRBP/1346729855",
+      "title": "Asia HRBP"
+    },
+    {
+      "url": "https://careers.dekra.com/job/Guangzhou-Office-Test-Engineer/1356260655",
+      "title": "Test Engineer",
+      "score": 29,
+      "reasoning": "Test Engineer role does not directly align with candidate's geosciences or AI/LLM background; description lacks relevant details, but title implies a mismatch."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356260555",
+      "title": "Test Engineer",
+      "score": 20,
+      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development skills match."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Guangzhou-Office-Test-Engineer/1356260455",
+      "title": "Test Engineer",
+      "score": 20,
+      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development fit."
     }
   ]
 }

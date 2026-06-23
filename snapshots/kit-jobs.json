@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T20:54:48+00:00",
+  "updated_at": "2026-06-23T03:59:11+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -187,6 +187,18 @@
       "reasoning": "Strong match due to geosciences background, Python skills, and experience with data analysis; research software engineering role aligns with candidate's interests and skills, but may require some learning in HPC and training aspects."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170600/sachbearbeiterin-sachbearbeiter-wmd-in-der-abteilung-haushalt-und-budgetierung-stelle-in-vollzeit-zu-besetzen-teilzeit-ab-50-moglich",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) in der Abteilung „Haushalt und Budgetierung“",
+      "score": 10,
+      "reasoning": "Poor match due to lack of relevant experience in public administration, finance, and controlling; strong German fluency required but candidate is only A2."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170601/sachbearbeiterinnen-sachbearbeiter-wmd-drittmittelverwaltung",
+      "title": "Sachbearbeiterinnen / Sachbearbeiter (w/m/d) Drittmittelverwaltung",
+      "score": 22,
+      "reasoning": "Poor match due to lack of relevant experience in budgeting, finances, and administrative tasks; strong German fluency required but candidate only has A2 level."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170594/softwarearchitektin-oder-softwarearchitekt-wmd-fur-forschungsdaten-und-ki-infrastrukturen",
       "title": "Softwarearchitektin oder Softwarearchitekt (w/m/d)",
       "score": 73,
@@ -202,18 +214,6 @@
       "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
       "title": "Technikerin / Techniker (w/m/d)",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170600/sachbearbeiterin-sachbearbeiter-wmd-in-der-abteilung-haushalt-und-budgetierung-stelle-in-vollzeit-zu-besetzen-teilzeit-ab-50-moglich",
-      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) in der Abteilung „Haushalt und Budgetierung“",
-      "score": 10,
-      "reasoning": "Poor match due to lack of relevant experience in public administration, finance, and controlling; strong German fluency required but candidate is only A2."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170601/sachbearbeiterinnen-sachbearbeiter-wmd-drittmittelverwaltung",
-      "title": "Sachbearbeiterinnen / Sachbearbeiter (w/m/d) Drittmittelverwaltung",
-      "score": 22,
-      "reasoning": "Poor match due to lack of relevant experience in budgeting, finances, and administrative tasks; strong German fluency required but candidate only has A2 level."
     }
   ]
 }

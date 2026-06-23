@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T20:55:11+00:00",
+  "updated_at": "2026-06-23T03:59:45+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031609-project-cost-controller",
@@ -59,13 +59,13 @@
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0030958-graduate-engineer",
-      "title": "Graduate Engineer",
-      "filtered": true
-    },
-    {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031343-benefits-administrator",
+      "title": "Benefits Administrator",
+      "filtered": true
     }
   ]
 }

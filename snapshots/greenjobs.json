@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-06-22T20:54:36+00:00",
+  "updated_at": "2026-06-23T03:59:09+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrende-vorstaend-strategische-netzwerke-gesellschaftliche-wirksamkeit-und-repraesentation--100153458",
+      "title": "Geschäftsführende:r Vorständ:in (m/w/d) Strategische Netzwerke, gesellschaftliche Wirksamkeit und Repräsentation",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrende-vorstaend-politik--100153457",
+      "title": "Geschäftsführende:r Vorständ:in Politik (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153455&anz=html&bl=gj",
+      "title": "Logistiker (w/m/d) für operative Arbeit in interessanter Arbeitsumgebung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/logistik-koordinator-fuer-die-sicherstellung-eines-reibungslosen-materialflusses--100153449",
+      "title": "Logistik-Koordinator (w/m/d) für die Sicherstellung eines reibungslosen Materialflusses",
+      "score": 0,
+      "reasoning": "No direct match; title implies logistics role unrelated to candidate's skills and experience."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/projektmitarbeiter-nahp-waldfledermaeuse-und-hufeisennase--100153450",
+      "title": "Projektmitarbeiter*in - „nAHP Waldfledermäuse“ und „Hufeisennase“",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-im-referat-hochwasserrisikomanagement-hydrologie-klimawandel-in-der-wasserwirtschaft-und-kompetenzzentrum-hochwasservorsorge-fuer-das-kompetenzzentrum-hochwasservorsorge-und-hochwasserrisikomanage--100153452",
+      "title": "Sachbearbeitung (m/w/d) im Referat „Hochwasserrisikomanagement, Hydrologie, Klimawandel in der Wasserwirtschaft und Kompetenzzentrum Hochwasservorsorge“ für das Kompetenzzentrum Hochwasservorsorge und Hochwasserrisikomanagement (KHH)“",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-im-referat-hochwasserrisikomanagement-hydrologie-klimawandel-in-der-wasserwirtschaft-und-kompetenzzentrum-hochwasservorsorge-fuer-das-kompetenzzentrum-hochwasservorsorge-und-hochwasserrisikomanage--100153446",
+      "title": "Sachbearbeitung (m/w/d) im Referat „Hochwasserrisikomanagement, Hydrologie, Klimawandel in der Wasserwirtschaft und Kompetenzzentrum Hochwasservorsorge“ für das Kompetenzzentrum Hochwasservorsorge und Hochwasserrisikomanagement (KHH)",
+      "filtered": true
+    },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153445&anz=html&bl=gj",
       "title": "Projektentwickler Umweltplanung (w/m/d)",
@@ -879,11 +915,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiterin-sachbearbeiter-fuer-oekologisches-seenmonitoring-und-projekt-seenberichte-bayern--100153165",
-      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) für Ökologisches Seenmonitoring und Projekt Seenberichte Bayern",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieurin-ingenieur-studiengang-bau-umweltingenieurswesen-u-a--100153158",
       "title": "Ingenieurin / Ingenieur (m/w/d) Studiengang Bau-/ Umweltingenieurswesen u.a.",
       "filtered": true
@@ -1068,11 +1099,6 @@
       "title": "Dipl.-Ing. (FH) bzw. Bachelor (w/m/d) der Fachrichtung Gartenbau oder gleichwertige Fachrichtungen - in Teilzeit"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftlerin-geowissenschaftler-fuer-den-bereich-untergrundmodellierung--100153079",
-      "title": "Geowissenschaftlerin / Geowissenschaftler (w/m/d) für den Bereich Untergrundmodellierung",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/it-netzwerkadministrator--100153077",
       "title": "IT-Netzwerkadministrator*in (m/w/d)",
       "filtered": true
@@ -1106,14 +1132,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsplaner-raumplaner--100153067",
-      "title": "Landschaftsplaner*in / Raumplaner*in"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsplaner-ingenieur-landschaftsplanung--100153066",
-      "title": "Landschaftsplaner*in / Ingenieur*in – Landschaftsplanung"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/verstaerkung-im-bereich-gruenlandmanagement--100152205",
       "title": "Verstärkung im Bereich Grünlandmanagement (w/m/d)",
       "filtered": true
@@ -1135,6 +1153,11 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153056&anz=html&bl=gj",
       "title": "Assistenz (m/w/d) Koordination Stichproben",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153055&anz=html&bl=gj",
+      "title": "Wissenschaftsjournalist:in (w/m/d) im Bereich angewandte Energieforschung",
       "filtered": true
     },
     {
@@ -1309,6 +1332,12 @@
       "filtered": true
     },
     {
+      "url": "https://www.greenjobs.de/stellenanzeige/projekt-mitarbeiter-im-projekt-umwelt-oekologische-nachhaltigkeit-und-klimaschutz-in-der-aus-und-fortbildung-der-gruenen-berufe--100152958",
+      "title": "Projekt­mitarbeiter/in (m/w/d) im Projekt „Umwelt, Ökologische Nachhaltigkeit und Klimaschutz in der Aus- und Fortbildung der Grünen Berufe\"",
+      "score": 40,
+      "reasoning": "Partial domain match via 'Umwelt' and 'Klimaschutz'; however, title implies senior or specific expertise in sustainability and education, lacking in candidate's experience."
+    },
+    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152951&anz=html&bl=gj",
       "title": "Energiemanagement-Berater (m/w/d) ISO 50001",
       "filtered": true
@@ -1396,11 +1425,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100146283&anz=html&bl=gj",
       "title": "Kaufmännische Projektassistenz (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sozial-umwelt-agrarwissenschaftler-in--100152895",
-      "title": "Sozial-, Umwelt-, Agrarwissenschaftler: in (m/w/d)",
       "filtered": true
     },
     {
@@ -1503,11 +1527,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/umweltingenieur-geologe-o-ae--100152840",
       "title": "Umweltingenieur/-in Geologe/-in o.ä. (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-m-w-d-oeffentliches-gruen-spiel-sportanlagen--100152834",
-      "title": "Sachbearbeiter (m.w.d) öffentliches Grün, Spiel- / Sportanlagen",
       "filtered": true
     },
     {
@@ -1646,18 +1665,9 @@
       "title": "Beratung Saatgutproduktion (w/m/d)"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektingenieur-gutachter-im-bereich-luftreinhaltung--100152671",
-      "title": "Projektingenieur:in / Gutachter:in im Bereich Luftreinhaltung",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/forstwirt--100152656",
       "title": "Forstwirt*in (m/w/d)",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/earlier-career-researcher-agroecological-systems-part-time-position--100152654",
-      "title": "Earlier Career Researcher - Agroecological Systems (f/m/d) - part-time position"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/informatiker--100151958",
@@ -1676,11 +1686,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152628&anz=html&bl=gj",
       "title": "ERP Solutions Architect (w/m/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/vegetationskundler-mit-berufserfahrung--100151916",
-      "title": "Vegetationskundler/in (m/w/d) mit Berufserfahrung",
       "filtered": true
     },
     {
@@ -1944,10 +1949,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/bfd-stelle-im-bereich-kommunikation-management-und-projektarbeit--100152660",
-      "title": "BFD-Stelle (m/w/d) im Bereich Kommunikation, Management und Projektarbeit"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/freiwilliges-oekologisches-jahr-foej-im-naturkindergarten-in-der-kleinkindgruppe--100152489",
       "title": "Freiwilliges ökologisches Jahr (FÖJ) im Naturkindergarten / in der Kleinkindgruppe (m/w/d)",
       "filtered": true
@@ -2093,59 +2094,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrende-vorstaend-strategische-netzwerke-gesellschaftliche-wirksamkeit-und-repraesentation--100153458",
-      "title": "Geschäftsführende:r Vorständ:in (m/w/d) Strategische Netzwerke, gesellschaftliche Wirksamkeit und Repräsentation",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrende-vorstaend-politik--100153457",
-      "title": "Geschäftsführende:r Vorständ:in Politik (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153455&anz=html&bl=gj",
-      "title": "Logistiker (w/m/d) für operative Arbeit in interessanter Arbeitsumgebung",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektmitarbeiter-nahp-waldfledermaeuse-und-hufeisennase--100153450",
-      "title": "Projektmitarbeiter*in - „nAHP Waldfledermäuse“ und „Hufeisennase“",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-im-referat-hochwasserrisikomanagement-hydrologie-klimawandel-in-der-wasserwirtschaft-und-kompetenzzentrum-hochwasservorsorge-fuer-das-kompetenzzentrum-hochwasservorsorge-und-hochwasserrisikomanage--100153452",
-      "title": "Sachbearbeitung (m/w/d) im Referat „Hochwasserrisikomanagement, Hydrologie, Klimawandel in der Wasserwirtschaft und Kompetenzzentrum Hochwasservorsorge“ für das Kompetenzzentrum Hochwasservorsorge und Hochwasserrisikomanagement (KHH)“",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-im-referat-hochwasserrisikomanagement-hydrologie-klimawandel-in-der-wasserwirtschaft-und-kompetenzzentrum-hochwasservorsorge-fuer-das-kompetenzzentrum-hochwasservorsorge-und-hochwasserrisikomanage--100153446",
-      "title": "Sachbearbeitung (m/w/d) im Referat „Hochwasserrisikomanagement, Hydrologie, Klimawandel in der Wasserwirtschaft und Kompetenzzentrum Hochwasservorsorge“ für das Kompetenzzentrum Hochwasservorsorge und Hochwasserrisikomanagement (KHH)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153055&anz=html&bl=gj",
-      "title": "Wissenschaftsjournalist:in (w/m/d) im Bereich angewandte Energieforschung",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/logistik-koordinator-fuer-die-sicherstellung-eines-reibungslosen-materialflusses--100153449",
-      "title": "Logistik-Koordinator (w/m/d) für die Sicherstellung eines reibungslosen Materialflusses",
-      "score": 0,
-      "reasoning": "No direct match; title implies logistics role unrelated to candidate's skills and experience."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/gaertner--100153149",
-      "title": "Gärtner:in (w/m/d)",
-      "score": 0,
-      "reasoning": "No apparent connection between candidate's skills and Gärtner:in (gardener) role."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projekt-mitarbeiter-im-projekt-umwelt-oekologische-nachhaltigkeit-und-klimaschutz-in-der-aus-und-fortbildung-der-gruenen-berufe--100152958",
-      "title": "Projekt­mitarbeiter/in (m/w/d) im Projekt „Umwelt, Ökologische Nachhaltigkeit und Klimaschutz in der Aus- und Fortbildung der Grünen Berufe\"",
-      "score": 40,
-      "reasoning": "Partial domain match via 'Umwelt' and 'Klimaschutz'; however, title implies senior or specific expertise in sustainability and education, lacking in candidate's experience."
     }
   ]
 }
