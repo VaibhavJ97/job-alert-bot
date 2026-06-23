@@ -1,9 +1,14 @@
 {
-  "updated_at": "2026-06-23T15:13:05+00:00",
+  "updated_at": "2026-06-23T20:12:48+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031588-r2r-%7C-finance-associate",
       "title": "R2R | Finance Associate",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031574-operations-auxiliary-auxiliar-operacional",
+      "title": "Operations Auxiliary \\ Auxiliar Operacional",
       "filtered": true
     },
     {
@@ -12,8 +17,23 @@
       "filtered": true
     },
     {
+      "url": "https://www.fugro.com/careers/jobs/R0031483-projectco%C3%B6rdinator-survey-operations",
+      "title": "Projectcoördinator - Survey Operations",
+      "filtered": true
+    },
+    {
       "url": "https://www.fugro.com/careers/jobs/R0031388-junior-adviseur-geotechniek",
       "title": "(Junior) adviseur geotechniek",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031234-rov-supervisor-fixed-term-contract-for-12-months",
+      "title": "ROV Supervisor (FIXED TERM CONTRACT FOR 12 MONTHS)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031232-rov-pilot-technician-grade-1-fixed-term-contract-for-12-months",
+      "title": "ROV Pilot Technician - Grade 1 (FIXED TERM CONTRACT FOR 12 MONTHS)",
       "filtered": true
     },
     {
@@ -52,26 +72,6 @@
     {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031574-operations-auxiliary-auxiliar-operacional",
-      "title": "Operations Auxiliary \\ Auxiliar Operacional",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031483-projectco%C3%B6rdinator-survey-operations",
-      "title": "Projectcoördinator - Survey Operations",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031234-rov-supervisor-fixed-term-contract-for-12-months",
-      "title": "ROV Supervisor (FIXED TERM CONTRACT FOR 12 MONTHS)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031232-rov-pilot-technician-grade-1-fixed-term-contract-for-12-months",
-      "title": "ROV Pilot Technician - Grade 1 (FIXED TERM CONTRACT FOR 12 MONTHS)",
-      "filtered": true
     }
   ]
 }

@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-06-23T15:12:14+00:00",
+  "updated_at": "2026-06-23T20:12:20+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/umweltbildungsreferent--100153451",
+      "title": "Umweltbildungsreferent*in",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/analyst-consultant-in-the-field-of-biodiversity-restoration-water-full-time-berlin-adelphi-global-ggmbh--100153293",
+      "title": "Analyst/Consultant (d/f/m) in the field of Biodiversity/Restoration/Water (full time, Berlin) - adelphi global gGmbH",
+      "score": 40,
+      "reasoning": "Moderate environmental domain fit, but biodiversity/restoration/water focus doesn't directly align with geosciences/geothermal background; seniority and required skills unclear."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftlerin-geowissenschaftler-fuer-den-bereich-landesaufnahme-geologie--100153473",
+      "title": "Geowissenschaftlerin / Geowissenschaftler (w/m/d) für den Bereich „Landesaufnahme Geologie“",
+      "score": 68,
+      "reasoning": "Good geosciences and geology fit; relevant master's thesis and experience, but German fluency is A2 and role requires strong German skills, manageable learning curve for specific geological tasks"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/ingenieurstellen-mit-passender-wasserwirtschaftlicher-vertiefungsrichtung--100153472",
+      "title": "Ingenieurstellen (m/w/d) mit passender wasserwirtschaftlicher Vertiefungsrichtung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiterin-sachbearbeiter-biologie--100153467",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) Biologie",
+      "score": 22,
+      "reasoning": "Weak biology focus, no direct geosciences or AI/LLM application; German fluency may be a challenge."
+    },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153459&anz=html&bl=gj",
       "title": "Tax Tech Specialist (m/w/d)",
@@ -2103,32 +2131,15 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/umweltbildungsreferent--100153451",
-      "title": "Umweltbildungsreferent*in",
+      "url": "https://www.greenjobs.de/stellenanzeige/referent-natur-und-artenschutz-in-teilzeit--100153475",
+      "title": "Referent*in Natur- und Artenschutz (w/m/d) in Teilzeit",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/ingenieurstellen-mit-passender-wasserwirtschaftlicher-vertiefungsrichtung--100153472",
-      "title": "Ingenieurstellen (m/w/d) mit passender wasserwirtschaftlicher Vertiefungsrichtung",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/analyst-consultant-in-the-field-of-biodiversity-restoration-water-full-time-berlin-adelphi-global-ggmbh--100153293",
-      "title": "Analyst/Consultant (d/f/m) in the field of Biodiversity/Restoration/Water (full time, Berlin) - adelphi global gGmbH",
+      "url": "https://www.greenjobs.de/stellenanzeige/umweltplaner-in-teilzeit--100153476",
+      "title": "Umweltplaner (m/w/d) in Teilzeit",
       "score": 40,
-      "reasoning": "Moderate environmental domain fit, but biodiversity/restoration/water focus doesn't directly align with geosciences/geothermal background; seniority and required skills unclear."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftlerin-geowissenschaftler-fuer-den-bereich-landesaufnahme-geologie--100153473",
-      "title": "Geowissenschaftlerin / Geowissenschaftler (w/m/d) für den Bereich „Landesaufnahme Geologie“",
-      "score": 68,
-      "reasoning": "Good geosciences and geology fit; relevant master's thesis and experience, but German fluency is A2 and role requires strong German skills, manageable learning curve for specific geological tasks"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiterin-sachbearbeiter-biologie--100153467",
-      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) Biologie",
-      "score": 22,
-      "reasoning": "Weak biology focus, no direct geosciences or AI/LLM application; German fluency may be a challenge."
+      "reasoning": "Partial match due to geosciences background, but Umweltplaner typically requires strong German fluency and senior experience, both of which are lacking."
     }
   ]
 }

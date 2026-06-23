@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T15:13:25+00:00",
+  "updated_at": "2026-06-23T20:13:03+00:00",
   "jobs": [
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4853479101",
@@ -55,6 +55,12 @@
       "title": "Customer Success Engineer (Kotlin Multiplatform) Amsterdam, Netherlands; Berlin, Germany; Munich, Germany; Remote, Germany"
     },
     {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4906209101",
+      "title": "Customer Success Engineer - YouTrack",
+      "score": 42,
+      "reasoning": "Moderate technical background fit, but role emphasizes customer-facing experience and sales engineering, which is not directly related to candidate's geosciences or AI engineering background; also, senior experience is preferred."
+    },
+    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4826456101",
       "title": "Developer Advocate (AIR)",
       "filtered": true
@@ -74,6 +80,12 @@
       "title": "Enterprise Customer Success Engineer (Post-Sales) - US",
       "score": 29,
       "reasoning": "Weak match due to lack of direct experience in customer success, sales, or enterprise software; role requires strong senior-level communication and technical advisory skills, which the candidate lacks."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4906152101",
+      "title": "Enterprise Customer Success Engineer (Post-Sales) - US - Portuguese or Spanish speaker",
+      "score": 22,
+      "reasoning": "Unrelated job title and description; no direct geosciences or AI engineering match; requires strong Portuguese or Spanish fluency, not mentioned in CV; senior customer-facing role likely requires more experience."
     },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4765684101",
@@ -197,18 +209,6 @@
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4724893101",
       "title": "YouTrack Internal Automation Engineer"
-    },
-    {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4906209101",
-      "title": "Customer Success Engineer - YouTrack",
-      "score": 42,
-      "reasoning": "Moderate technical background fit, but role emphasizes customer-facing experience and sales engineering, which is not directly related to candidate's geosciences or AI engineering background; also, senior experience is preferred."
-    },
-    {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4906152101",
-      "title": "Enterprise Customer Success Engineer (Post-Sales) - US - Portuguese or Spanish speaker",
-      "score": 22,
-      "reasoning": "Unrelated job title and description; no direct geosciences or AI engineering match; requires strong Portuguese or Spanish fluency, not mentioned in CV; senior customer-facing role likely requires more experience."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T15:11:52+00:00",
+  "updated_at": "2026-06-23T20:12:02+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -83,11 +83,6 @@
       "title": "Site Reliability Engineer (f/m/d)",
       "score": 42,
       "reasoning": "Some skill overlap in Python and Git; however, role requires senior experience, strong infrastructure knowledge, and specific tools like Prometheus, Grafana, and Ansible, which are not mentioned in the candidate's CV."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4659163101-specialist-software-engineer-fmd-managed-kubernetes",
-      "title": "Specialist Software Engineer (f/m/d) Managed Kubernetes",
-      "filtered": true
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4896175101-data-analytics-engineer-ai-platform-team-hybrid",

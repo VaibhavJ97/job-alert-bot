@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T15:12:58+00:00",
+  "updated_at": "2026-06-23T20:12:46+00:00",
   "jobs": [
     {
       "url": "https://www.conet.de/en/careers/open-positions",
@@ -25,6 +25,18 @@
       "url": "https://www.conet.de/de/karriere/stellenangebote",
       "title": "Jobs suchen",
       "filtered": true
+    },
+    {
+      "url": "https://www.conet.de/de/karriere/jobs/2026-082-sap-psm-pscd-consultant",
+      "title": "SAP PSM / PSCD Consultant (m/w/d)",
+      "score": 20,
+      "reasoning": "Weak match due to lack of SAP experience and public finance domain knowledge; candidate's geospatial and AI skills are not directly applicable."
+    },
+    {
+      "url": "https://www.conet.de/de/karriere/jobs/2026-081-sap-co-consultant",
+      "title": "SAP CO Consultant (m/w/d)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of SAP experience and finance/controlling background; candidate's geosciences and AI skills are not relevant to the SAP CO Consultant role."
     },
     {
       "url": "https://www.conet.de/de/karriere/jobs/2026-077-sap-consultant-defense-logistik",
@@ -54,18 +66,6 @@
       "url": "https://www.conet.de/de/karriere/initiativbewerbung",
       "title": "Bewirb dich initiativ",
       "filtered": true
-    },
-    {
-      "url": "https://www.conet.de/de/karriere/jobs/2026-082-sap-psm-pscd-consultant",
-      "title": "SAP PSM / PSCD Consultant (m/w/d)",
-      "score": 20,
-      "reasoning": "Weak match due to lack of SAP experience and public finance domain knowledge; candidate's geospatial and AI skills are not directly applicable."
-    },
-    {
-      "url": "https://www.conet.de/de/karriere/jobs/2026-081-sap-co-consultant",
-      "title": "SAP CO Consultant (m/w/d)",
-      "score": 22,
-      "reasoning": "Weak match due to lack of SAP experience and finance/controlling background; candidate's geosciences and AI skills are not relevant to the SAP CO Consultant role."
     }
   ]
 }
