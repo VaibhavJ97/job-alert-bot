@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-06-23T04:00:17+00:00",
+  "updated_at": "2026-06-23T09:53:39+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/photoroom/be32b011-e4f5-428b-be07-e10f0838bafe",
       "title": "Privacy & Commercial Counsel"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
+      "title": "Customer Support Agent (Freelance/Part time)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct relevance to candidate's technical skills and experience in geosciences, AI, or web development; customer support role requires different skill set."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T03:59:09+00:00",
+  "updated_at": "2026-06-23T09:52:31+00:00",
   "jobs": [
     {
       "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrende-vorstaend-strategische-netzwerke-gesellschaftliche-wirksamkeit-und-repraesentation--100153458",
@@ -563,11 +563,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153274&anz=html&bl=gj",
       "title": "IT-Servicedesk Agent (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153273&anz=html&bl=gj",
-      "title": "Ingenieur für Strategie und Business Development im Bereich Erneuerbare Energien (m/w/d)",
       "filtered": true
     },
     {
@@ -1168,10 +1163,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/berater--100153044",
       "title": "Berater/in (m/w/d)",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/koordinator-laboranalytik--100153046",
-      "title": "Koordinator:in Laboranalytik (w/m/d)"
     },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153051&anz=html&bl=gj",
@@ -2094,6 +2085,22 @@
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
       "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153459&anz=html&bl=gj",
+      "title": "Tax Tech Specialist (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-kampagnen-oeffentlichkeitsarbeit--100153166",
+      "title": "Mitarbeiter:in Kampagnen- & Öffentlichkeitsarbeit (w/d/m)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/koordinator-laboranalytik-am-standort-ruhleben-befristet--100153046",
+      "title": "Koordinator:in Laboranalytik am Standort Ruhleben (w/m/d) – befristet",
+      "score": 20,
+      "reasoning": "Title implies lab analysis coordination role, which partially matches past experience, but lacks clear connection to candidate's core skills and preferred job areas; seniority and domain unclear."
     }
   ]
 }

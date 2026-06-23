@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T03:59:11+00:00",
+  "updated_at": "2026-06-23T09:52:39+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -47,11 +47,6 @@
       "title": "Doktorandin / Doktorand (w/m/d) im Bereich Nichtlineare Dynamik",
       "score": 39,
       "reasoning": "Moderate match due to some overlap in analytical and scientific skills; however, role requires strong mechanical engineering background, high German fluency (C1), and experience in nonlinear dynamics, which the candidate lacks."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170565/doktorandin-doktorand-wmd-wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-wmd-im-bereich-kernspinresonanzspektroskopie-nmr-intelligente-miniaturisierte-shim-systeme-fur-die-nmr-spektroskopie-msc-in-elektrotechnik-mikrosystemtechnik-mechatronik-oder-physik",
-      "title": "Doktorandin / Doktorand (w/m/d), Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (w/m/d) im Bereich Kernspinresonanzspektroskopie (NMR): Intelligente miniaturisierte Shim-Systeme für die NMR-Spektroskopie",
-      "filtered": true
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170559/elektronikerin-fur-gerate-und-systeme-mwd",
@@ -147,12 +142,6 @@
       "reasoning": "Unrelated field, candidate's background is in geosciences, not physics or chemistry."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170588/physikalisch-technische-assistentin-physikalisch-technischer-assistent-wmd",
-      "title": "Physikalisch Technische Assistentin / Physikalisch Technischer Assistent (w/m/d)",
-      "score": 22,
-      "reasoning": "Weak match due to lack of direct experience in microstructure technology, nanofabrication, and required technical expertise; German fluency is also a concern."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170563/projektingenieurin-projektingenieur-wmd-der-technischen-gebaudeausrustung",
       "title": "Projektingenieurin / Projektingenieur (w/m/d) der Technischen Gebäudeausrüstung",
       "filtered": true
@@ -193,12 +182,6 @@
       "reasoning": "Poor match due to lack of relevant experience in public administration, finance, and controlling; strong German fluency required but candidate is only A2."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170601/sachbearbeiterinnen-sachbearbeiter-wmd-drittmittelverwaltung",
-      "title": "Sachbearbeiterinnen / Sachbearbeiter (w/m/d) Drittmittelverwaltung",
-      "score": 22,
-      "reasoning": "Poor match due to lack of relevant experience in budgeting, finances, and administrative tasks; strong German fluency required but candidate only has A2 level."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170594/softwarearchitektin-oder-softwarearchitekt-wmd-fur-forschungsdaten-und-ki-infrastrukturen",
       "title": "Softwarearchitektin oder Softwarearchitekt (w/m/d)",
       "score": 73,
@@ -214,6 +197,12 @@
       "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
       "title": "Technikerin / Techniker (w/m/d)",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170588/physikalisch-technische-assistentin-physikalisch-technischer-assistent-laborantin-laborant-wmd",
+      "title": "Physikalisch Technische Assistentin / Physikalisch Technischer Assistent, Laborantin / Laborant (w/m/d)",
+      "score": 39,
+      "reasoning": "Moderate match due to lab experience and technical skills; however, role requires specific training as Physikalisch Technischer Assistent, extensive experience in nano- or microstructuring, and strong German fluency, which the candidate lacks."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T03:59:45+00:00",
+  "updated_at": "2026-06-23T09:53:15+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031609-project-cost-controller",
@@ -9,6 +9,11 @@
     {
       "url": "https://www.fugro.com/careers/jobs/R0031526-credit-controller-geo-preferred",
       "title": "Credit Controller (Geo Preferred)"
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031343-benefits-administrator",
+      "title": "Benefits Administrator",
+      "filtered": true
     },
     {
       "url": "https://www.fugro.com/careers/jobs/R0031284-saso-admin-support",
@@ -49,22 +54,22 @@
       "title": "Geophysics Workshop Technician"
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031544-navigation-engineer",
-      "title": "Navigation Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031481-laboratory-staff-technician-marine",
-      "title": "Laboratory Staff Technician - Marine",
-      "filtered": true
-    },
-    {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031343-benefits-administrator",
-      "title": "Benefits Administrator",
+      "url": "https://www.fugro.com/careers/jobs/R0031588-r2r-%7C-finance-associate",
+      "title": "R2R | Finance Associate",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031515-veldwerker-buitendienst-grondonderzoek",
+      "title": "Veldwerker – Buitendienst Grondonderzoek",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031388-junior-adviseur-geotechniek",
+      "title": "(Junior) adviseur geotechniek",
       "filtered": true
     }
   ]

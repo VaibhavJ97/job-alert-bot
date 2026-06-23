@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T03:59:05+00:00",
+  "updated_at": "2026-06-23T09:52:16+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -157,6 +157,18 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4698347101-technical-support-engineer-fmd-247-shifts-k8s-german-english",
+      "title": "Technical Support Engineer (f/m/d) 24/7 shifts - K8s, German & English",
+      "score": 42,
+      "reasoning": "Some skill overlap with IT and technical expertise, but role requires strong German fluency and senior experience in IT service management, which the candidate lacks."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4905100101-sr-advisor-ai-transformation-automation-e-commerce-fmd",
+      "title": "Sr. Advisor AI Transformation & Automation – E-Commerce (f/m/d)",
+      "score": 42,
+      "reasoning": "Some AI and web development skills align, but senior advisor role requires significant experience and leadership, which the candidate lacks; also, e-commerce focus differs from candidate's geosciences background."
     }
   ]
 }
