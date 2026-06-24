@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T14:43:15+00:00",
+  "updated_at": "2026-06-24T19:54:17+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/bd8c4495-ce51-46c1-90f1-750b2b647021",
@@ -172,10 +172,6 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/edc934db-fe12-4d26-9b11-0b8dd6e3f20b",
       "title": "Quant Finance Expert (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/33572946-e916-4aac-aeb7-8703419a0dfa",
-      "title": "Python Developer - Remote in Czech Republic"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/403ca0a1-7eb9-4f0a-9146-8bbac3811723",
@@ -370,10 +366,6 @@
       "title": "Computer Science PhD (Netherlands)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e213a9f5-86b5-41f8-811b-974c28810e70",
-      "title": "Full-Stack Developer - AI Trainer (Mexico)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/17dfaaf7-e866-4121-b8bd-70996f764a02",
       "title": "Full-Stack Developer - AI Trainer (Chile)"
     },
@@ -436,42 +428,6 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/c1e27b04-ebcd-4402-aa4d-9b1392aa79cc",
       "title": "Full-Stack Developer - AI Trainer (Uruguay)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/30cd565e-48ee-4d42-a67f-23e50549e627",
-      "title": "Python Developer - AI Trainer (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/cdcb8a8e-d994-4db1-ae5c-5e94edb32bb5",
-      "title": "Python Developer (Mexico)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/50d5adb9-3ffb-4dd4-a1ab-58621e92cd17",
-      "title": "Python Developer - Remote in Brazil"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7e20ff61-5250-4cfb-8f83-190a727afbe3",
-      "title": "Python Developer (Chile)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/56ced059-6726-4ff0-8f43-0d6e10985d53",
-      "title": "Python Developer (Colombia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/79e7d885-98d8-4e72-819a-fe79ac8811d0",
-      "title": "Python Developer (Ecuador)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3c7db589-094a-472e-afaa-b39959003790",
-      "title": "Python Developer - Remote in Paraguay"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/89b6331e-6f62-49cf-a86b-2d0a6fb1147c",
-      "title": "Python Developer (Peru)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7405fdd2-0f7c-4ddf-a76b-0bee8aac0b21",
-      "title": "Python Developer - Remote in Uruguay"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/1928367c-9224-480a-9aba-1902744620f5",
@@ -836,6 +792,70 @@
       "title": "Chemistry Expert (Remote - Egypt)",
       "score": 20,
       "reasoning": "Weak chemistry background; candidate's geosciences and programming skills don't directly align with chemistry expert role requiring strong chemistry knowledge and experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e213a9f5-86b5-41f8-811b-974c28810e70",
+      "title": "Full-Stack Developer - AI Trainer (Mexico)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7ac91a89-f893-44ad-ac7e-fc31211747a3",
+      "title": "Python Developer (Colombia)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience which candidate lacks, and strong proficiency in languages other than Python is also expected."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9670b94e-b0c4-4fc9-9cc4-3f3ca384c208",
+      "title": "Python Developer - AI Trainer (Argentina)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/89681902-4d7d-4816-bbc8-b1bf21ef6673",
+      "title": "Python Developer - Remote in Czech Republic",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds the candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/97ceb34f-efbe-4890-950a-17d758a3a36a",
+      "title": "Python Developer (Mexico)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience, which the candidate lacks, and strong proficiency in languages other than Python is also expected."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/28a83fa9-995a-4580-968c-9472a4265318",
+      "title": "Python Developer - Remote in Paraguay",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1a0b46ec-22d5-42e0-ba1f-315aa7bfaaae",
+      "title": "Python Developer - Remote in Brazil",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience and skills."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/de0250d9-72ce-4524-a11a-b9d2aee46ed6",
+      "title": "Python Developer (Peru)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/01ab011f-7f85-409d-9d8f-951b48247ec8",
+      "title": "Python Developer (Chile)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience, which the candidate lacks, and strong proficiency in languages other than Python is also expected."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/6ef817ca-be6b-4baa-aaa2-49c7a9ffcd9f",
+      "title": "Python Developer (Ecuador)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3fc9249e-a9a1-46f2-8555-e9f0a2bab983",
+      "title": "Python Developer - Remote in Uruguay",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience, which the candidate lacks, and the project's focus is not directly related to the candidate's geosciences background."
     }
   ]
 }

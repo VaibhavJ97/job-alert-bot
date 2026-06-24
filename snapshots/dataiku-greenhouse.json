@@ -1,9 +1,14 @@
 {
-  "updated_at": "2026-06-24T14:43:14+00:00",
+  "updated_at": "2026-06-24T19:53:40+00:00",
   "jobs": [
     {
       "url": "https://job-boards.greenhouse.io/dataiku/jobs/5829382004",
       "title": "AI Healthcare & Life Sciences Solutions Consultant",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6099411004",
+      "title": "Business Development Representative DACH",
       "filtered": true
     },
     {
@@ -22,12 +27,12 @@
       "filtered": true
     },
     {
-      "url": "https://job-boards.greenhouse.io/dataiku/jobs/5420293004",
+      "url": "https://job-boards.greenhouse.io/dataiku/jobs/5420296004",
       "title": "Fullstack Software Engineer - Core",
       "filtered": true
     },
     {
-      "url": "https://job-boards.greenhouse.io/dataiku/jobs/5420296004",
+      "url": "https://job-boards.greenhouse.io/dataiku/jobs/5420293004",
       "title": "Fullstack Software Engineer - Core",
       "filtered": true
     },
@@ -37,12 +42,12 @@
       "filtered": true
     },
     {
-      "url": "https://job-boards.greenhouse.io/dataiku/jobs/5978968004",
+      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6002762004",
       "title": "Generative AI Engineer",
       "filtered": true
     },
     {
-      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6002762004",
+      "url": "https://job-boards.greenhouse.io/dataiku/jobs/5978968004",
       "title": "Generative AI Engineer",
       "filtered": true
     },
@@ -89,11 +94,6 @@
     {
       "url": "https://job-boards.greenhouse.io/dataiku/jobs/5486496004",
       "title": "VP, Reasoning Systems",
-      "filtered": true
-    },
-    {
-      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6099411004",
-      "title": "Business Development Representative DACH",
       "filtered": true
     }
   ]

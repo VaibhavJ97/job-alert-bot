@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T14:42:17+00:00",
+  "updated_at": "2026-06-24T19:53:01+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -82,6 +82,11 @@
       "title": "M.Sc. physics, chemistry or material science (f/m/d)",
       "score": 29,
       "reasoning": "Weak match due to mismatch in field of study (geosciences vs physics/chemistry/material science) and lack of relevant experience with quantum sensors, x-ray spectrometers, and detector physics."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170609/marketingreferentin-marketingreferent-wmd-teilzeit-50",
+      "title": "Marketingreferentin / Marketingreferent (w/m/d)",
+      "filtered": true
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170455/mitarbeiterin-mitarbeiter-wmd-instandhaltung",
@@ -218,11 +223,6 @@
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
       "title": "Technikerin / Techniker (w/m/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170609/marketingreferentin-marketingreferent-wmd-teilzeit-50",
-      "title": "Marketingreferentin / Marketingreferent (w/m/d)",
       "filtered": true
     }
   ]

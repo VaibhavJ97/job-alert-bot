@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T14:42:45+00:00",
+  "updated_at": "2026-06-24T19:53:17+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/reonic/834ee8ab-5665-4307-8832-52eb7f6b253e",
@@ -70,6 +70,12 @@
       "title": "Go-to-Market AI & Data Intern (Greentech) (m/f/d)"
     },
     {
+      "url": "https://jobs.ashbyhq.com/reonic/5b1d3176-9919-4e48-9712-d0a6cb642cc6",
+      "title": "Founders Associate Intern - Special Projects (Greentech) (m/f/d)",
+      "score": 29,
+      "reasoning": "Weak match due to required C2 German proficiency, which candidate lacks; some alignment with greentech and entrepreneurial aspects, but significant skill and experience gaps."
+    },
+    {
       "url": "https://jobs.ashbyhq.com/reonic/a1dabbc5-85d3-4bf2-b4f7-0bc518646132",
       "title": "Founders Associate Marketing (Greentech) (m/f/d)"
     },
@@ -78,12 +84,6 @@
       "title": "Customer Support Specialist — Spanish-Speaking Markets (Greentech) (m/f/d)",
       "score": 10,
       "reasoning": "No relevant technical skills, no Spanish fluency, and lack of customer support experience make this role a poor fit."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/reonic/5b1d3176-9919-4e48-9712-d0a6cb642cc6",
-      "title": "Founders Associate Intern - Special Projects (Greentech) (m/f/d)",
-      "score": 29,
-      "reasoning": "Weak match due to required C2 German proficiency, which candidate lacks; some alignment with greentech and entrepreneurial aspects, but significant skill and experience gaps."
     }
   ]
 }

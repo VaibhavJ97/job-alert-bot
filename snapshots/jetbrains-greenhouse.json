@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T14:43:14+00:00",
+  "updated_at": "2026-06-24T19:53:40+00:00",
   "jobs": [
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4853479101",
@@ -215,6 +215,12 @@
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4724893101",
       "title": "YouTrack Internal Automation Engineer"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4795218101",
+      "title": "QA Engineer (IJ Platform / Remote Development)",
+      "score": 39,
+      "reasoning": "Some skill overlap in programming and web development, but QA Engineer role requires extensive hands-on QA experience which is lacking in the candidate's CV; manageable learning curve but role is a stretch."
     }
   ]
 }

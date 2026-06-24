@@ -1,10 +1,6 @@
 {
-  "updated_at": "2026-06-24T14:43:37+00:00",
+  "updated_at": "2026-06-24T19:54:55+00:00",
   "jobs": [
-    {
-      "url": "https://jobs.lever.co/qonto/3856d52f-0ce4-43ab-94fe-bbbe8e53f199",
-      "title": "Alternance - Collaborateur Comptable"
-    },
     {
       "url": "https://jobs.lever.co/qonto/0ab70c9e-e5c1-4ae5-b600-d17d422c0669",
       "title": "Anti-Financial Crime Officer (France)"
@@ -57,6 +53,12 @@
       "title": "Junior AML - Transaction Monitoring - Spanish market 🇪🇸"
     },
     {
+      "url": "https://jobs.lever.co/qonto/70250f3c-3225-4a19-8549-7cad1e01d675",
+      "title": "Regulatory Reporting Intern",
+      "score": 40,
+      "reasoning": "Moderate fit due to AI and automation aspects, but role requires strong regulatory knowledge and experience, which candidate lacks; German fluency may also be a hindrance."
+    },
+    {
       "url": "https://jobs.lever.co/qonto/8d8ae848-518f-4817-9d79-2eec229aef86",
       "title": "Risk and Prudential Expert"
     },
@@ -67,12 +69,6 @@
     {
       "url": "https://jobs.lever.co/qonto/e0ee4eec-bac4-4d92-87b6-8816a0c91580",
       "title": "Zendesk Administrator"
-    },
-    {
-      "url": "https://jobs.lever.co/qonto/70250f3c-3225-4a19-8549-7cad1e01d675",
-      "title": "Regulatory Reporting Intern",
-      "score": 40,
-      "reasoning": "Moderate fit due to AI and automation aspects, but role requires strong regulatory knowledge and experience, which candidate lacks; German fluency may also be a hindrance."
     }
   ]
 }

@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-06-24T14:42:13+00:00",
+  "updated_at": "2026-06-24T19:53:00+00:00",
   "jobs": [
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153487&anz=html&bl=gj",
+      "title": "Sachbearbeiter*in Energiekonzept und Wärmeplanung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100151753&anz=html&bl=gj",
+      "title": "Projektingenieur Entwicklung (m/w/d) – Erneuerbare Energien",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/projektassistent-in-der-umweltmesstechnik--100153485",
+      "title": "Projektassistent in der Umweltmesstechnik (m/w/d)",
+      "score": 40,
+      "reasoning": "Partial match due to geosciences background; however, title implies environmental measurement technology focus, which is not strongly represented in the candidate's experience or skills."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/pruefingenieur-im-bereich-smart-automation--100153483",
+      "title": "Prüfingenieur im Bereich Smart Automation (w/m/d)",
+      "score": 20,
+      "reasoning": "Title implies senior role with automation focus, lacking direct match with candidate's skills and experience."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/dipl-ing-fh-b-sc-b-eng-der-fachrichtung-naturschutz-und-landschaftsplanung-architektur-oekologie-lra-dillingen-a-d-donau--100153480",
+      "title": "Dipl.-Ing. (FH) / B.Sc./B.Eng. der Fachrichtung Naturschutz und Landschaftsplanung,-architektur, -ökologie (m/w/d) - LRA Dillingen a.d.Donau",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/forstwirtschaftsmeister-forstwirt--100153479",
+      "title": "Forstwirtschaftsmeister / Forstwirt (m/w/d)",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/w2-professur-unternehmensfuehrung-kommunikation-und-beratung--100153478",
       "title": "W2-Professur „Unternehmensführung, Kommunikation und Beratung“",
@@ -2093,36 +2125,20 @@
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153487&anz=html&bl=gj",
-      "title": "Sachbearbeiter*in Energiekonzept und Wärmeplanung",
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153491&anz=html&bl=gj",
+      "title": "Projektbearbeiter (m/w/d) Genehmigungsmanagement",
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100151753&anz=html&bl=gj",
-      "title": "Projektingenieur Entwicklung (m/w/d) – Erneuerbare Energien",
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153490&anz=html&bl=gj",
+      "title": "Kaufmännische*r Assistent*in",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/dipl-ing-fh-b-sc-b-eng-der-fachrichtung-naturschutz-und-landschaftsplanung-architektur-oekologie-lra-dillingen-a-d-donau--100153480",
-      "title": "Dipl.-Ing. (FH) / B.Sc./B.Eng. der Fachrichtung Naturschutz und Landschaftsplanung,-architektur, -ökologie (m/w/d) - LRA Dillingen a.d.Donau",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/forstwirtschaftsmeister-forstwirt--100153479",
-      "title": "Forstwirtschaftsmeister / Forstwirt (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektassistent-in-der-umweltmesstechnik--100153485",
-      "title": "Projektassistent in der Umweltmesstechnik (m/w/d)",
-      "score": 40,
-      "reasoning": "Partial match due to geosciences background; however, title implies environmental measurement technology focus, which is not strongly represented in the candidate's experience or skills."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/pruefingenieur-im-bereich-smart-automation--100153483",
-      "title": "Prüfingenieur im Bereich Smart Automation (w/m/d)",
+      "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-der-fachrichtung-bauingenieurwesen-umweltingenieurwesen-abwassertechnik-wasserbau-tiefbau-wasserwirtschaft-umwelttechnik--100153489",
+      "title": "Ingenieur/in der Fachrichtung Bauingenieurwesen/ Umweltingenieurwesen (Abwassertechnik, Wasserbau, Tiefbau, Wasserwirtschaft, Umwelttechnik)",
       "score": 20,
-      "reasoning": "Title implies senior role with automation focus, lacking direct match with candidate's skills and experience."
+      "reasoning": "Unrelated field, civil/environmental engineering title doesn't match geosciences or AI background."
     }
   ]
 }
