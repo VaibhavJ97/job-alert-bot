@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-23T20:12:20+00:00",
+  "updated_at": "2026-06-24T04:01:23+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/umweltplaner-in-teilzeit--100153476",
+      "title": "Umweltplaner (m/w/d) in Teilzeit",
+      "score": 40,
+      "reasoning": "Partial match due to geosciences background, but Umweltplaner typically requires strong German fluency and senior experience, both of which are lacking."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/referent-natur-und-artenschutz-in-teilzeit--100153475",
+      "title": "Referent*in Natur- und Artenschutz (w/m/d) in Teilzeit",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/umweltbildungsreferent--100153451",
       "title": "Umweltbildungsreferent*in",
@@ -491,10 +502,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftlicher-mitarbeiter-mit-promotion-im-bereich-vegetationsoekologie-interreg-alpine-space-projekt-afteralpineice-in-teilzeit--100153316",
       "title": "Wissenschaftlicher Mitarbeiter mit Promotion (m/w/d) im Bereich Vegetationsökologie - Interreg Alpine Space Projekt \"AfterAlpineIce\" - in Teilzeit"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/technische-mitarbeiter-administration-forschungsinfrastruktur-beim-greifswald-moor-centrum-e-v-i-g--100153075",
-      "title": "Technische*r Mitarbeiter*in (Administration, Forschungsinfrastruktur) (w/m/d) beim Greifswald Moor Centrum e.V. (i.G.)"
     },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153319&anz=html&bl=gj",
@@ -1334,10 +1341,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/referent-oberflaechengewaesserguete-spurenstoffe--100152974",
-      "title": "Referent*in Oberflächengewässergüte / Spurenstoffe"
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152966&anz=html&bl=gj",
       "title": "Projektassistenz für Energieprojekte (m/w/d)",
       "filtered": true
@@ -1345,11 +1348,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/junior-landschaftsplaner-mit-dem-schwerpunkt-umweltplanungen-zu-bauleitplanungen--100152965",
       "title": "Junior-Landschaftsplaner*in (m/w/d) mit dem Schwerpunkt Umweltplanungen zu Bauleitplanungen",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/hauswirtschafter--100152963",
-      "title": "Hauswirtschafter*in",
       "filtered": true
     },
     {
@@ -1375,16 +1373,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152951&anz=html&bl=gj",
       "title": "Energiemanagement-Berater (m/w/d) ISO 50001",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektmitarbeiter-in-fuer-den-bereich-oeffentlichkeitsarbeit-in-teilzeit--100152949",
-      "title": "Projektmitarbeiter/ in für den Bereich Öffentlichkeitsarbeit (m/w/d) - in Teilzeit",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektmitarbeiter-in-fuer-den-schwerpunkt-gewaesser-moore-feuchtflaechen--100152950",
-      "title": "Projektmitarbeiter/ in für den Schwerpunkt Gewässer, Moore, Feuchtflächen (m/w/d)",
       "filtered": true
     },
     {
@@ -1668,27 +1656,9 @@
       "title": "Meister / Techniker Elektrotechnik als Sachverständiger für die Prüfung elektrischer Anlagen (w/m/d)"
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100152711&anz=html&bl=gj",
-      "title": "Mitarbeiter:in im Bereich Kunden- und Mitgliederservice",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/freiberufliche-bildungsreferent-fuer-bne-und-globales-lernen--100152112",
       "title": "Freiberufliche*r Bildungsreferent*in für BNE und globales Lernen",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-fuer-gis-und-inspire-im-bereich-umwelt-und-naturschutz--100152696",
-      "title": "Sachbearbeiter*in (m/w/d) für GIS und INSPIRE im Bereich Umwelt- und Naturschutz"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/verkaeufer-fuer-bio-dorfladen--100152695",
-      "title": "Verkäufer:in (m/w/d) für Bio-Dorfladen",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/standard-owner-naturplus-standard-in-teilzeit--100152697",
-      "title": "Standard Owner (m/w/d) Naturplus-Standard - in Teilzeit"
     },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152690&anz=html&bl=gj",
@@ -1703,10 +1673,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/forstwirt--100152656",
       "title": "Forstwirt*in (m/w/d)",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/informatiker--100151958",
-      "title": "Informatiker (m/w/d)"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-controlling-finanzen--100152641",
@@ -2129,17 +2095,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/referent-natur-und-artenschutz-in-teilzeit--100153475",
-      "title": "Referent*in Natur- und Artenschutz (w/m/d) in Teilzeit",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/umweltplaner-in-teilzeit--100153476",
-      "title": "Umweltplaner (m/w/d) in Teilzeit",
-      "score": 40,
-      "reasoning": "Partial match due to geosciences background, but Umweltplaner typically requires strong German fluency and senior experience, both of which are lacking."
     }
   ]
 }
