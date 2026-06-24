@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T04:01:29+00:00",
+  "updated_at": "2026-06-24T09:39:31+00:00",
   "jobs": [
     {
       "url": "https://www.inovex.de/de/karriere/stellenangebote",
@@ -18,6 +18,18 @@
       "filtered": true
     },
     {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/software-engineer-datenprojekte",
+      "title": "Software Engineer* fÃ¼r Datenprojekte",
+      "score": 68,
+      "reasoning": "Good fit due to Python and data skills match; however, moderate seniority mismatch and some required technologies are not listed in the candidate's CV."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/data-engineer-machine-learning-engineer",
+      "title": "Data Engineer* / Machine Learning Engineer*",
+      "score": 68,
+      "reasoning": "Good technical fit with Python, data engineering, and ML skills; however, moderate experience and lack of senior-level expertise are concerns."
+    },
+    {
       "url": "https://www.inovex.de/de/karriere/stellenangebote/bi-specialist-analytics-engineer",
       "title": "BI Specialist* / Analytics Engineer*",
       "score": 39,
@@ -28,18 +40,6 @@
       "title": "Information Security Consultant*",
       "score": 22,
       "reasoning": "No direct match in skills or domain; significant experience gap in Information Security and German fluency."
-    },
-    {
-      "url": "https://www.inovex.de/de/karriere/stellenangebote/data-engineer-machine-learning-engineer",
-      "title": "Data Engineer* / Machine Learning Engineer*",
-      "score": 68,
-      "reasoning": "Good technical fit with Python, data engineering, and ML skills; however, moderate experience and lack of senior-level expertise are concerns."
-    },
-    {
-      "url": "https://www.inovex.de/de/karriere/stellenangebote/software-engineer-datenprojekte",
-      "title": "Software Engineer* fÃ¼r Datenprojekte",
-      "score": 68,
-      "reasoning": "Good fit due to Python and data skills match; however, moderate seniority mismatch and some required technologies are not listed in the candidate's CV."
     },
     {
       "url": "https://www.inovex.de/de/karriere/stellenangebote/devops-engineer-linux",

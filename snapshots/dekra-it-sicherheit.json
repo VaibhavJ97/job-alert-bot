@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T04:02:04+00:00",
+  "updated_at": "2026-06-24T09:40:17+00:00",
   "jobs": [
     {
       "url": "https://careers.dekra.com/job/Guangzhou-Office-Test-Engineer/1356260455",
@@ -20,10 +20,16 @@
       "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development skills match."
     },
     {
-      "url": "https://careers.dekra.com/job/Stuttgart-Salesforce-Platform-Architect-%28mfd%29-70565/1356204655",
-      "title": "Salesforce Platform Architect (m/f/d)",
-      "score": 22,
-      "reasoning": "Unrelated job title and description; no direct geosciences, GIS, or AI/LLM application development skills match; strong Salesforce platform experience required, which is not present in the candidate's CV."
+      "url": "https://careers.dekra.com/job/Beijing-Office-Test-Engineer/1356417355",
+      "title": "Test Engineer",
+      "score": 20,
+      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development skills mentioned."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Beijing-Office-Test-Engineer/1356417455",
+      "title": "Test Engineer",
+      "score": 20,
+      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development match."
     }
   ]
 }

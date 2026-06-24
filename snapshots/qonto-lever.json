@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T04:02:29+00:00",
+  "updated_at": "2026-06-24T09:41:20+00:00",
   "jobs": [
     {
       "url": "https://jobs.lever.co/qonto/3856d52f-0ce4-43ab-94fe-bbbe8e53f199",
@@ -66,6 +66,11 @@
     {
       "url": "https://jobs.lever.co/qonto/e0ee4eec-bac4-4d92-87b6-8816a0c91580",
       "title": "Zendesk Administrator"
+    },
+    {
+      "url": "https://jobs.lever.co/qonto/ad179f23-b782-4956-aed1-8a0256ed0df2",
+      "title": "Inside Sales Representative Junior – Account Growth",
+      "filtered": true
     }
   ]
 }

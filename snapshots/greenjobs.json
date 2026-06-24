@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T04:01:23+00:00",
+  "updated_at": "2026-06-24T09:39:24+00:00",
   "jobs": [
     {
       "url": "https://www.greenjobs.de/stellenanzeige/umweltplaner-in-teilzeit--100153476",
@@ -2095,6 +2095,17 @@
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
       "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/dipl-ing-fh-b-sc-b-eng-der-fachrichtung-naturschutz-und-landschaftsplanung-architektur-oekologie-lra-guenzburg--100153477",
+      "title": "Dipl.-Ing. (FH) / B.Sc./B.Eng. der Fachrichtung Naturschutz und Landschaftsplanung, -architektur, -ökologie (m/w/d) - LRA Günzburg",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/w2-professur-unternehmensfuehrung-kommunikation-und-beratung--100153478",
+      "title": "W2-Professur „Unternehmensführung, Kommunikation und Beratung“",
+      "score": 0,
+      "reasoning": "No direct match; title implies management/leadership role unrelated to candidate's technical skills and experience."
     }
   ]
 }

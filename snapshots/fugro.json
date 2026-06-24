@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T04:01:52+00:00",
+  "updated_at": "2026-06-24T09:39:57+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031588-r2r-%7C-finance-associate",
@@ -65,13 +65,18 @@
       "title": "Offshore Planning Coordinator"
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031477-travel-coordinator",
-      "title": "Travel Coordinator",
+      "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
+      "title": "Create an account"
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031553-workshop-technician",
+      "title": "Workshop Technician",
       "filtered": true
     },
     {
-      "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
-      "title": "Create an account"
+      "url": "https://www.fugro.com/careers/jobs/R0031524-geotechnical-engineer",
+      "title": "Geotechnical Engineer",
+      "filtered": true
     }
   ]
 }

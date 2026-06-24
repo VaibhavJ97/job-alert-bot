@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T04:01:26+00:00",
+  "updated_at": "2026-06-24T09:39:28+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -124,6 +124,11 @@
       "reasoning": "Strong geosciences background and relevant master thesis; however, PhD position typically requires more senior experience and a strong research focus, which is a stretch for the candidate."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170593/phd-position-untangling-multi-property-nmr-signals-in-drug-screening-with-data-driven-neural-networks-75-part-time",
+      "title": "PhD position Untangling multi-property NMR signals in drug screening with data-driven neural networks",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170520/philosopher-fmd-part-time-75",
       "title": "Philosopher (f/m/d)",
       "score": 10,
@@ -206,8 +211,13 @@
       "reasoning": "Poor match due to lack of direct experience in Strahlenschutz and limited German fluency; role requires strong understanding of atom- and strahlenschutzrechtliche Vorgaben."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170593/phd-position-untangling-multi-property-nmr-signals-in-drug-screening-with-data-driven-neural-networks-75-part-time",
-      "title": "PhD position Untangling multi-property NMR signals in drug screening with data-driven neural networks",
+      "url": "https://jobs.pse.kit.edu/en/jobs/170607/phd-position-fmd-in-applied-geosciences-pattern-recognition-in-das-data",
+      "title": "PhD Position (f/m/d) in Applied Geosciences: Pattern recognition in DAS data",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
+      "title": "Technikerin / Techniker (w/m/d)",
       "filtered": true
     }
   ]
