@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:39:28+00:00",
+  "updated_at": "2026-06-24T14:42:17+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -118,6 +118,11 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170607/phd-position-fmd-in-applied-geosciences-pattern-recognition-in-das-data",
+      "title": "PhD Position (f/m/d) in Applied Geosciences: Pattern recognition in DAS data",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170550/phd-position-in-geophysics-fmd-part-time-75",
       "title": "PhD Position in Geophysics (f/m/d)",
       "score": 68,
@@ -211,13 +216,13 @@
       "reasoning": "Poor match due to lack of direct experience in Strahlenschutz and limited German fluency; role requires strong understanding of atom- and strahlenschutzrechtliche Vorgaben."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170607/phd-position-fmd-in-applied-geosciences-pattern-recognition-in-das-data",
-      "title": "PhD Position (f/m/d) in Applied Geosciences: Pattern recognition in DAS data",
+      "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
+      "title": "Technikerin / Techniker (w/m/d)",
       "filtered": true
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
-      "title": "Technikerin / Techniker (w/m/d)",
+      "url": "https://jobs.pse.kit.edu/en/jobs/170609/marketingreferentin-marketingreferent-wmd-teilzeit-50",
+      "title": "Marketingreferentin / Marketingreferent (w/m/d)",
       "filtered": true
     }
   ]

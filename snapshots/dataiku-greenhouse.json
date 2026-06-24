@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:40:38+00:00",
+  "updated_at": "2026-06-24T14:43:14+00:00",
   "jobs": [
     {
       "url": "https://job-boards.greenhouse.io/dataiku/jobs/5829382004",
@@ -89,6 +89,11 @@
     {
       "url": "https://job-boards.greenhouse.io/dataiku/jobs/5486496004",
       "title": "VP, Reasoning Systems",
+      "filtered": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6099411004",
+      "title": "Business Development Representative DACH",
       "filtered": true
     }
   ]

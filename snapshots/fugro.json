@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-24T09:39:57+00:00",
+  "updated_at": "2026-06-24T14:42:59+00:00",
   "jobs": [
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031553-workshop-technician",
+      "title": "Workshop Technician",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031524-geotechnical-engineer",
+      "title": "Geotechnical Engineer",
+      "filtered": true
+    },
     {
       "url": "https://www.fugro.com/careers/jobs/R0031588-r2r-%7C-finance-associate",
       "title": "R2R | Finance Associate",
@@ -56,27 +66,19 @@
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0030746-technical-architect-geotechnical-applications",
-      "title": "Technical Architect – Geotechnical Applications",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031589-offshore-planning-coordinator",
-      "title": "Offshore Planning Coordinator"
-    },
-    {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031553-workshop-technician",
-      "title": "Workshop Technician",
+      "url": "https://www.fugro.com/careers/jobs/R0031322-project-controller",
+      "title": "Project Controller",
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031524-geotechnical-engineer",
-      "title": "Geotechnical Engineer",
-      "filtered": true
+      "url": "https://www.fugro.com/careers/jobs/R0030691-hydraulic-mechanic",
+      "title": "Hydraulic Mechanic",
+      "score": 22,
+      "reasoning": "Weak mechanical engineering fit; lacks direct experience with diesel engines, hydraulic systems, and heavy equipment; senior experience required."
     }
   ]
 }

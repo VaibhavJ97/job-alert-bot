@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:41:20+00:00",
+  "updated_at": "2026-06-24T14:43:37+00:00",
   "jobs": [
     {
       "url": "https://jobs.lever.co/qonto/3856d52f-0ce4-43ab-94fe-bbbe8e53f199",
@@ -44,6 +44,11 @@
       "reasoning": "Moderate environmental overlap via geosciences background; however, ESG role is a stretch, and strong German fluency is not demonstrated, with A2 level being insufficient for a German-based company."
     },
     {
+      "url": "https://jobs.lever.co/qonto/ad179f23-b782-4956-aed1-8a0256ed0df2",
+      "title": "Inside Sales Representative Junior – Account Growth",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.lever.co/qonto/0cbb618a-3292-4591-b60a-f688eb24d09a",
       "title": "It Operations & Network Specialist"
     },
@@ -56,10 +61,6 @@
       "title": "Risk and Prudential Expert"
     },
     {
-      "url": "https://jobs.lever.co/qonto/1f945bad-2c45-4ac1-be06-a219dc9e1a93",
-      "title": "Software Engineer (Engineering Efficiency) - remote friendly"
-    },
-    {
       "url": "https://jobs.lever.co/qonto/471e0021-d630-4cd1-81c3-2fb2e9dc253c",
       "title": "Staff Machine Learning Engineer for AI Product"
     },
@@ -68,9 +69,10 @@
       "title": "Zendesk Administrator"
     },
     {
-      "url": "https://jobs.lever.co/qonto/ad179f23-b782-4956-aed1-8a0256ed0df2",
-      "title": "Inside Sales Representative Junior – Account Growth",
-      "filtered": true
+      "url": "https://jobs.lever.co/qonto/70250f3c-3225-4a19-8549-7cad1e01d675",
+      "title": "Regulatory Reporting Intern",
+      "score": 40,
+      "reasoning": "Moderate fit due to AI and automation aspects, but role requires strong regulatory knowledge and experience, which candidate lacks; German fluency may also be a hindrance."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:41:21+00:00",
+  "updated_at": "2026-06-24T14:43:41+00:00",
   "jobs": [
     {
       "url": "https://reltix.jobs.personio.com/job/2601565?language=en",
@@ -22,6 +22,11 @@
     {
       "url": "https://reltix.jobs.personio.com/job/2662101?language=en",
       "title": "Software Engineer (m/w/d)"
+    },
+    {
+      "url": "https://reltix.jobs.personio.com/job/2523078?language=en",
+      "title": "Operations Intern (m/w/d)",
+      "filtered": true
     }
   ]
 }

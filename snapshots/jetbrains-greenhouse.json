@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:40:23+00:00",
+  "updated_at": "2026-06-24T14:43:14+00:00",
   "jobs": [
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4853479101",
@@ -8,12 +8,12 @@
       "reasoning": "Unrelated field, no matching skills, and location/ language requirements not met."
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4845999101",
-      "title": "Backend Customer Success Engineer (Kotlin Ecosystem) Foster City, California; Marlton, New Jersey; Remote, United States"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4846000101",
       "title": "Backend Customer Success Engineer (Kotlin Ecosystem) Amsterdam, Netherlands; Prague, Czech Republic"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4845999101",
+      "title": "Backend Customer Success Engineer (Kotlin Ecosystem) Foster City, California; Marlton, New Jersey; Remote, United States"
     },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4849993101",
@@ -110,12 +110,12 @@
       "title": "IT Support specialist Munich, Germany"
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4871978101",
-      "title": "JetBrains C/C++ Developer Advocate Remote, United States"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4771939101",
       "title": "JetBrains C/C++ Developer Advocate Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Munich, Germany; Remote, Germany"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4871978101",
+      "title": "JetBrains C/C++ Developer Advocate Remote, United States"
     },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4791071101",
@@ -207,14 +207,14 @@
       "title": "Support Specialist (Financial Application Development, NetSuite)"
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4724893101",
-      "title": "YouTrack Internal Automation Engineer"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4773679101",
       "title": "Talent Sourcer",
       "score": 22,
       "reasoning": "No direct match with geosciences, AI, or web development; talent sourcing requires unrelated skills and experience."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4724893101",
+      "title": "YouTrack Internal Automation Engineer"
     }
   ]
 }

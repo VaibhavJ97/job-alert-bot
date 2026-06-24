@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:39:45+00:00",
+  "updated_at": "2026-06-24T14:42:40+00:00",
   "jobs": [
     {
       "url": "https://de.nttdata.com/karriere/unsere-kultur",
@@ -33,6 +33,12 @@
       "url": "https://de.nttdata.com/stellenangebote/page/5",
       "title": "(no title)",
       "filtered": true
+    },
+    {
+      "url": "https://de.nttdata.com/jobs/21974--sapbtpbu21974ts--sap-ai-consultant-wmx",
+      "title": "SAP AI Consultant (w/m/x) Erfurt, Ettlingen, Hamburg, Stuttgart, Wolfsburg, deutschlandweit, Frankfurt a. M., Köln, München, Berlin, Wien SAP Analytics Technisch Funktional",
+      "score": 42,
+      "reasoning": "Moderate AI and technical skills match, but role requires strong SAP expertise and senior experience, which candidate lacks; German fluency is also a concern."
     }
   ]
 }
