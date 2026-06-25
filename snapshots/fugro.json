@@ -1,11 +1,31 @@
 {
-  "updated_at": "2026-06-25T14:46:39+00:00",
+  "updated_at": "2026-06-25T20:08:23+00:00",
   "jobs": [
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031682-junior-projectco%C3%B6rdinator-landmeetkunde",
+      "title": "(Junior) Projectcoördinator - Landmeetkunde",
+      "filtered": true
+    },
     {
       "url": "https://www.fugro.com/careers/jobs/R0031589-offshore-personnel-coordinator",
       "title": "Offshore Personnel Coordinator",
       "score": 22,
       "reasoning": "Poor fit due to lack of relevant experience in personnel coordination and offshore operations; geosciences background is not directly applicable to this role."
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031514-boormeester",
+      "title": "Boormeester",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031513-sondeermeester",
+      "title": "Sondeermeester",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031462-3rd-officer-oficial-de-nautica-ii",
+      "title": "3rd Officer \\ Oficial de Nautica II",
+      "filtered": true
     },
     {
       "url": "https://www.fugro.com/careers/jobs/R0031284-quality-specialist-saso-%26-iso-systems",
@@ -17,6 +37,18 @@
       "title": "Corporate Finance Intern",
       "score": 22,
       "reasoning": "Weak match due to unrelated field of study and work experience; corporate finance requires specific financial background and skills, which the candidate lacks."
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0029684-product-owner-global-navigation-satellite-systems-gnss",
+      "title": "Product Owner – Global Navigation Satellite Systems (GNSS)",
+      "score": 58,
+      "reasoning": "Moderate geospatial and technical skills fit; however, GNSS expertise and senior experience are lacking, and strong product ownership skills are required."
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0024153-security-architect",
+      "title": "Security Architect",
+      "score": 22,
+      "reasoning": "Unrelated field, lacks direct security experience, and insufficient seniority for architect role."
     },
     {
       "url": "https://www.fugro.com/careers/jobs/R0031553-workshop-technician",
@@ -59,36 +91,9 @@
       "title": "Create an account"
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031682-junior-projectco%C3%B6rdinator-landmeetkunde",
-      "title": "(Junior) Projectcoördinator - Landmeetkunde",
+      "url": "https://www.fugro.com/careers/jobs/R0031450-survey-technologist-marine",
+      "title": "Survey Technologist - Marine",
       "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031514-boormeester",
-      "title": "Boormeester",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031513-sondeermeester",
-      "title": "Sondeermeester",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031462-3rd-officer-oficial-de-nautica-ii",
-      "title": "3rd Officer \\ Oficial de Nautica II",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0029684-product-owner-global-navigation-satellite-systems-gnss",
-      "title": "Product Owner – Global Navigation Satellite Systems (GNSS)",
-      "score": 58,
-      "reasoning": "Moderate geospatial and technical skills fit; however, GNSS expertise and senior experience are lacking, and strong product ownership skills are required."
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0024153-security-architect",
-      "title": "Security Architect",
-      "score": 22,
-      "reasoning": "Unrelated field, lacks direct security experience, and insufficient seniority for architect role."
     }
   ]
 }

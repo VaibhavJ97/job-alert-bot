@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-06-25T14:45:47+00:00",
+  "updated_at": "2026-06-25T20:07:55+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/ngo-mitarbeiter-fuer-redaktion-und-fundraising--100153516",
+      "title": "NGO-Mitarbeiter*in für Redaktion und Fundraising",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153513&anz=html&bl=gj",
+      "title": "Freiberufliche Tätigkeit in Bildungsprojekten (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/informatikerin-informatiker-oder-geoinformatikerin-geoinformatiker-fuer-den-bereich-fachanwendungen-softwareentwicklung--100153512",
+      "title": "Informatikerin / Informatiker oder Geoinformatikerin / Geoinformatiker (w/m/d) für den Bereich Fachanwendungen / Softwareentwicklung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-befristet--100153508",
+      "title": "Sachbearbeitung (w/m/d) - befristet",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsplanerin--100153507",
+      "title": "LandschaftsplanerIn (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-holzbuero-befristet--100153506",
+      "title": "Sachbearbeitung (m/w/d) „Holzbüro“ - befristet",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeitende-mit-dem-schwerpunkt-klimapolitik--100153504",
+      "title": "Wissenschaftliche:r Mitarbeitende:r mit dem Schwerpunkt Klimapolitik",
+      "score": 40,
+      "reasoning": "Partial domain match via 'Wissenschaftliche:r Mitarbeitende:r', implying science background; however, title implies senior research role and strong German fluency, both of which are lacking."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/lehrkraft-fuer-gartenbau-12-deputatsstunden--100153502",
+      "title": "Lehrkraft (m/w/d) für Gartenbau – 12 Deputatsstunden",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiter-projekt-banu-zertifikatslehrgang-fuer-ranger-in-teilzeit--100153500",
+      "title": "Wissenschaftliche/r Mitarbeiter/in (m/w/d) - Projekt: BANU-Zertifikatslehrgang für Ranger/innen - in Teilzeit",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsarchitekt-projektsteuerung-kinderspielanlagen--100153501",
+      "title": "Landschaftsarchitekt:innen (w/m/d) Projektsteuerung Kinderspielanlagen",
+      "score": 19,
+      "reasoning": "No direct match; Landschaftsarchitekt (landscape architect) title does not align with candidate's geosciences, AI, or web development background."
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/referent-kinderbildungsarbeit-mitgliederentwicklung--100153499",
       "title": "Referent*in Kinderbildungsarbeit & Mitgliederentwicklung",
@@ -33,6 +85,12 @@
       "url": "https://www.greenjobs.de/stellenanzeige/verwaltungsbeschaeftigte-und-beratungsassistenz--100153497",
       "title": "Verwaltungsbeschäftigte/r und Beratungsassistenz (m/w/d)",
       "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/teamassistenz-hauptabteilung-in-teilzeit-oder-vollzeit--100153496",
+      "title": "Teamassistenz Hauptabteilung in Teilzeit oder Vollzeit (w/m/d)",
+      "score": 20,
+      "reasoning": "Title does not directly relate to candidate's skills or experience; no description provided for further evaluation."
     },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153491&anz=html&bl=gj",
@@ -1433,6 +1491,12 @@
       "filtered": true
     },
     {
+      "url": "https://www.greenjobs.de/stellenanzeige/projekt-mitarbeiter-im-projekt-umwelt-oekologische-nachhaltigkeit-und-klimaschutz-in-der-aus-und-fortbildung-der-gruenen-berufe--100152958",
+      "title": "Projekt­mitarbeiter/in (m/w/d) im Projekt „Umwelt, Ökologische Nachhaltigkeit und Klimaschutz in der Aus- und Fortbildung der Grünen Berufe\"",
+      "score": 40,
+      "reasoning": "Partial domain match via geosciences background; however, title implies senior focus on environmental sustainability and education, which is not directly reflected in the candidate's experience or skills."
+    },
+    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152951&anz=html&bl=gj",
       "title": "Energiemanagement-Berater (m/w/d) ISO 50001",
       "filtered": true
@@ -1915,6 +1979,12 @@
       "filtered": true
     },
     {
+      "url": "https://www.greenjobs.de/stellenanzeige/foejler--100153511",
+      "title": "FÖJler*in (m/w/d)",
+      "score": 22,
+      "reasoning": "Poor match due to lack of direct relevance to geosciences, GIS, or AI engineering; low German fluency (A2) is a significant hindrance; role seems to focus on administrative and secretarial tasks."
+    },
+    {
       "url": "https://www.greenjobs.de/stellenanzeige/foej-stelle-bei-bauernhof-kita--100153380",
       "title": "FÖJ-Stelle (m/w/d) bei Bauernhof-Kita",
       "filtered": true
@@ -2126,74 +2196,9 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/ngo-mitarbeiter-fuer-redaktion-und-fundraising--100153516",
-      "title": "NGO-Mitarbeiter*in für Redaktion und Fundraising",
+      "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-fuer-den-bereich-wasserwirtschaft-und-gewaesserschutz-im-fachdienst-umwelt--100153517",
+      "title": "Ingenieur/in (m/w/d) für den Bereich Wasserwirtschaft und Gewässerschutz im Fachdienst Umwelt",
       "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153513&anz=html&bl=gj",
-      "title": "Freiberufliche Tätigkeit in Bildungsprojekten (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/informatikerin-informatiker-oder-geoinformatikerin-geoinformatiker-fuer-den-bereich-fachanwendungen-softwareentwicklung--100153512",
-      "title": "Informatikerin / Informatiker oder Geoinformatikerin / Geoinformatiker (w/m/d) für den Bereich Fachanwendungen / Softwareentwicklung",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-befristet--100153508",
-      "title": "Sachbearbeitung (w/m/d) - befristet",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsplanerin--100153507",
-      "title": "LandschaftsplanerIn (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-holzbuero-befristet--100153506",
-      "title": "Sachbearbeitung (m/w/d) „Holzbüro“ - befristet",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/lehrkraft-fuer-gartenbau-12-deputatsstunden--100153502",
-      "title": "Lehrkraft (m/w/d) für Gartenbau – 12 Deputatsstunden",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiter-projekt-banu-zertifikatslehrgang-fuer-ranger-in-teilzeit--100153500",
-      "title": "Wissenschaftliche/r Mitarbeiter/in (m/w/d) - Projekt: BANU-Zertifikatslehrgang für Ranger/innen - in Teilzeit",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeitende-mit-dem-schwerpunkt-klimapolitik--100153504",
-      "title": "Wissenschaftliche:r Mitarbeitende:r mit dem Schwerpunkt Klimapolitik",
-      "score": 40,
-      "reasoning": "Partial domain match via 'Wissenschaftliche:r Mitarbeitende:r', implying science background; however, title implies senior research role and strong German fluency, both of which are lacking."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsarchitekt-projektsteuerung-kinderspielanlagen--100153501",
-      "title": "Landschaftsarchitekt:innen (w/m/d) Projektsteuerung Kinderspielanlagen",
-      "score": 19,
-      "reasoning": "No direct match; Landschaftsarchitekt (landscape architect) title does not align with candidate's geosciences, AI, or web development background."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/teamassistenz-hauptabteilung-in-teilzeit-oder-vollzeit--100153496",
-      "title": "Teamassistenz Hauptabteilung in Teilzeit oder Vollzeit (w/m/d)",
-      "score": 20,
-      "reasoning": "Title does not directly relate to candidate's skills or experience; no description provided for further evaluation."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projekt-mitarbeiter-im-projekt-umwelt-oekologische-nachhaltigkeit-und-klimaschutz-in-der-aus-und-fortbildung-der-gruenen-berufe--100152958",
-      "title": "Projekt­mitarbeiter/in (m/w/d) im Projekt „Umwelt, Ökologische Nachhaltigkeit und Klimaschutz in der Aus- und Fortbildung der Grünen Berufe\"",
-      "score": 40,
-      "reasoning": "Partial domain match via geosciences background; however, title implies senior focus on environmental sustainability and education, which is not directly reflected in the candidate's experience or skills."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/foejler--100153511",
-      "title": "FÖJler*in (m/w/d)",
-      "score": 22,
-      "reasoning": "Poor match due to lack of direct relevance to geosciences, GIS, or AI engineering; low German fluency (A2) is a significant hindrance; role seems to focus on administrative and secretarial tasks."
     }
   ]
 }
