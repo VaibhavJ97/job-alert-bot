@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T19:53:01+00:00",
+  "updated_at": "2026-06-25T04:02:02+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -139,12 +139,6 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170520/philosopher-fmd-part-time-75",
-      "title": "Philosopher (f/m/d)",
-      "score": 10,
-      "reasoning": "Unrelated field of philosophy, no match with geosciences, AI, or web development skills; strong English required but no issue, German A2 not a concern."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170445/physicist-fmd",
       "title": "Physicist (f/m/d)",
       "score": 22,
@@ -224,6 +218,12 @@
       "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
       "title": "Technikerin / Techniker (w/m/d)",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170581/promovierter-wissenschaftlerin-wmd-rontgenmikroskopie-und-koharente-bildgebungstechniken-fur-biowissenschaften-und-materialforschung",
+      "title": "Promovierte/r Wissenschaftler/in (w/m/d)",
+      "score": 20,
+      "reasoning": "Weak match due to lack of direct experience in Röntgenmikroskopie, kohärente Bildgebungstechniken, and Synchrotronstrahlung; required promotion in unrelated field and senior experience not met."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T19:53:25+00:00",
+  "updated_at": "2026-06-25T04:02:32+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031553-workshop-technician",
@@ -14,6 +14,11 @@
     {
       "url": "https://www.fugro.com/careers/jobs/R0031322-project-controller",
       "title": "Project Controller",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031213-production-coordinator-land",
+      "title": "Production Coordinator - Land",
       "filtered": true
     },
     {
@@ -74,11 +79,6 @@
     {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031213-production-coordinator-land",
-      "title": "Production Coordinator - Land",
-      "filtered": true
     }
   ]
 }

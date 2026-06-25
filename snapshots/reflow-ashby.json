@@ -1,39 +1,9 @@
 {
-  "updated_at": "2026-06-24T19:53:41+00:00",
+  "updated_at": "2026-06-25T04:02:50+00:00",
   "jobs": [
-    {
-      "url": "https://jobs.ashbyhq.com/reflow/5e3899c0-f1fc-4ecb-9e94-ada6da5f5443",
-      "title": "Technical Advisor",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/reflow/3329b275-3512-4a56-a280-3bd7df1b5a9d",
-      "title": "Forward Deployed Data Analyst",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/reflow/dec3e892-879b-4c8d-9c2e-df67b8df309c",
-      "title": "GTM",
-      "filtered": true
-    },
     {
       "url": "https://jobs.ashbyhq.com/reflow/1baf100d-6ae6-4494-9389-45a46f1ab1a7",
       "title": "Product Operations",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/reflow/772363f3-791d-4e04-9550-85e7a4cc6a5c",
-      "title": "Product Designer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/reflow/1fb90633-e2b4-4560-a421-b08016b08c1d",
-      "title": "Full-Stack Data Platform Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/reflow/cd4b3752-b07d-4c33-acb3-169a3562d71a",
-      "title": "AI Engineer",
       "filtered": true
     },
     {
@@ -42,13 +12,33 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.ashbyhq.com/reflow/1fb90633-e2b4-4560-a421-b08016b08c1d",
+      "title": "Full-Stack Data Platform Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/reflow/3329b275-3512-4a56-a280-3bd7df1b5a9d",
+      "title": "Forward Deployed Data Analyst",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/reflow/5e3899c0-f1fc-4ecb-9e94-ada6da5f5443",
+      "title": "Technical Advisor",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/reflow/60f53162-d4d6-493f-a86b-2a4151816497",
+      "title": "GTM / Growth Engineer (contract)",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.ashbyhq.com/reflow/6cb4e6c2-d124-414c-bb34-f5da6856f4ac",
       "title": "ML Engineer",
       "filtered": true
     },
     {
-      "url": "https://jobs.ashbyhq.com/reflow/9ee81d3e-3cbc-4cb2-907a-4958f7bbc5e4",
-      "title": "Data Scientist",
+      "url": "https://jobs.ashbyhq.com/reflow/772363f3-791d-4e04-9550-85e7a4cc6a5c",
+      "title": "Product Designer",
       "filtered": true
     },
     {
@@ -57,8 +47,18 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.ashbyhq.com/reflow/60f53162-d4d6-493f-a86b-2a4151816497",
-      "title": "GTM / Growth Engineer (contract)",
+      "url": "https://jobs.ashbyhq.com/reflow/9ee81d3e-3cbc-4cb2-907a-4958f7bbc5e4",
+      "title": "Data Scientist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/reflow/cd4b3752-b07d-4c33-acb3-169a3562d71a",
+      "title": "AI Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/reflow/dec3e892-879b-4c8d-9c2e-df67b8df309c",
+      "title": "GTM",
       "filtered": true
     }
   ]

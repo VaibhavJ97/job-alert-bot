@@ -1,843 +1,13 @@
 {
-  "updated_at": "2026-06-24T19:54:17+00:00",
+  "updated_at": "2026-06-25T04:02:52+00:00",
   "jobs": [
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/bd8c4495-ce51-46c1-90f1-750b2b647021",
-      "title": "Full-Stack Developer - AI Trainer (Sweden)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e795562e-4cfb-4903-bcca-6edfc4aca554",
-      "title": "Mathematics Expert (LATAM & Europe)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/abfa7cdd-1969-41b1-bd59-71e09fa2d845",
-      "title": "Mathematics Expert (Finland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e98c889e-3de4-4ca7-9c5f-164b2d791b31",
-      "title": "Mathematics Expert (Sweden)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/2f3f6739-6c06-4ffc-bde7-546b9b620598",
-      "title": "Quant Finance Expert (Denmark)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/2f3c3141-0c9e-4c4f-aa40-de5f7d497af5",
-      "title": "Mathematics Expert (Denmark)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ab35033b-fdbd-4ade-94f0-17562eed13cb",
-      "title": "Mathematics Expert (UK)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0638770e-baaa-496b-a74c-ab56dfe4c75a",
-      "title": "Mathematics Expert (Netherlands)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/947cc953-37a1-4c13-be6a-01ac4c20ce77",
-      "title": "Mathematics Expert (France)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/9d4cd97f-22a6-407e-acde-9e298f94df70",
-      "title": "Quant Finance Expert (Finland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/237aeef9-3025-49fa-9e86-91143f0d0c91",
-      "title": "Mathematics Expert (Spain)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1bf6c7e7-8e8e-450e-87fd-e499773f17e2",
-      "title": "Mathematics Expert (Portugal)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/92a594c0-0a66-45ea-99f2-36d33d9e0c04",
-      "title": "Mathematics Expert (Italy)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7b7df7c8-0f1e-4b22-bb9d-f4630c503122",
-      "title": "Mathematics Expert (Poland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3d14677b-2b5f-4e00-bb5e-5e4774049e83",
-      "title": "Mathematics Expert (Czechia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/329f7941-e9fb-4847-9d0a-36293b6a391b",
-      "title": "Mathematics Expert (Romania)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b25eb47a-5c67-4280-82fc-0536b9c5b4d5",
-      "title": "Mathematics Expert (Turkey)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/227d54fd-ef63-4aea-af01-c97e6ced64b6",
-      "title": "Full-Stack Developer - AI Trainer (Portugal)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/fb79009b-f2c4-40dd-b514-1a757730e429",
-      "title": "Full-Stack Developer - AI Trainer (Romania)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/bb0d4940-104e-48b5-924e-59f0e3bb84c8",
-      "title": "Full-Stack Developer - AI Trainer (Spain)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/09f5823d-5319-4173-bb10-9b9ff50a8ebd",
-      "title": "Full-Stack Developer - AI Trainer (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/42b1c3db-7d03-4b38-9b07-9820235e93ba",
-      "title": "Mathematics Expert (Egypt)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3bb06d27-5671-4bc6-935e-e209c416645b",
-      "title": "Quant Finance Expert (Mexico)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/d6bb835e-1a3e-4d9d-b84f-ef7c7585cf22",
-      "title": "Full-Stack Developer (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/42057e4b-87f7-44e7-a419-14e847e98f0d",
-      "title": "Full-Stack Developer (Italy)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a986520b-8d1e-41a7-bc15-2c509c0b0d58",
-      "title": "Full-Stack Developer (Turkey)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/44d22c6d-5661-43d2-a484-7424da4e4902",
-      "title": "Full-Stack Developer (Poland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/c1e13f2e-07d2-46c7-8581-d38f71268d57",
-      "title": "Full-Stack Developer (Thailand)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e7168692-2d22-461d-aea9-75fc965f08d8",
-      "title": "Full-Stack Developer (Japan)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/73a9c528-f2ff-408a-90cc-1ff303e04b1c",
-      "title": "Full-Stack Developer (Vietnam)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ac328e9a-47a4-476f-aa7a-30d7aff29652",
-      "title": "Full-Stack Developer (Indonesia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/5a1910d1-7c37-4bf4-b5a0-9e21d47f4cf8",
-      "title": "Python Developer - Remote in Japan"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/475823f5-8267-4f34-bdea-438b8c82d8b2",
-      "title": "Quant Finance Expert (UK)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7c7d1b61-0666-4d3d-a1d1-11d59e9f9c29",
-      "title": "Full-Stack Developer - AI Trainer (Poland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a917aaec-b64e-4733-9bb9-9edcfacce690",
-      "title": "Quant Finance Expert (Spain)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/87fa00f2-1000-4e26-ae15-b74abc6568e6",
-      "title": "Full-Stack Developer - AI Trainer (Turkey)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ab7c2e1a-1eca-4c58-9828-5cab17542fde",
-      "title": "Chemistry Expert - AI Trainer (Mexico)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/17de4d80-a499-450c-990e-fa99bf3e7d20",
-      "title": "Chemistry AI Training Expert (Colombia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/01faa125-67d1-4d0a-9520-69d196055351",
-      "title": "Full-Stack Developer - AI Trainer (UK)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/299ef8b8-969f-4a76-81fb-5167066c1ae2",
-      "title": "Chemistry Expert - AI Trainer (Ecuador)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/8e5141d3-208c-4201-8b40-80b98369df92",
-      "title": "Chemistry Expert - AI Trainer (Peru)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/6c274656-2dd3-4dd7-9484-cca68c05562b",
-      "title": "Chemistry Expert - AI Trainer (Chile)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/edc934db-fe12-4d26-9b11-0b8dd6e3f20b",
-      "title": "Quant Finance Expert (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/403ca0a1-7eb9-4f0a-9146-8bbac3811723",
-      "title": "Python Developer - Remote in Denmark"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/37bf8ee2-0b92-42db-83dc-6b0f40371f16",
-      "title": "Python Developer - Egypt (Remote)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0d477d53-4cb6-4135-8030-c93b65b056c2",
-      "title": "Python Developer - Remote in Finland"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/80d7cabd-2e30-494f-aedc-bb0709f8900b",
-      "title": "Python Developer - Remote in Germany"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1cd1d5d1-65c3-4abc-90b3-9df8fced4ad8",
-      "title": "Python Developer - India (Remote)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7203c0e8-d22e-4c2e-ad8b-f56651c0ee72",
-      "title": "Python Developer - Remote in Indonesia"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b0c3859e-31d8-4ca1-91b1-7a356f937798",
-      "title": "Python Developer - Remote in Italy"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/d78c0490-0529-47cc-88b2-e2105dd2f0fa",
-      "title": "Python Developer - Remote in the Netherlands"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ea0865c5-0100-4772-ac19-ca9f3ef99744",
-      "title": "Python Developer - Remote in Poland"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e2660ec4-e7d6-4764-bd82-b510305fe1e0",
-      "title": "Python Developer - Remote in Portugal"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/4fef1bc2-7776-4960-ad0d-8d734f4c29a7",
-      "title": "Python Developer - Remote in Spain"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a2574376-fe47-4a2e-8497-18a1655aba98",
-      "title": "Python Developer - Remote in Sweden"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0c3c9426-b942-4eb4-a51b-c222f7cea898",
-      "title": "Python Developer - Remote in Thailand"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7a7c4b4a-8afb-4571-9395-443d9ce9a65b",
-      "title": "Python Developer - Remote in Turkey"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ed5d8b4a-e434-4fec-ae71-b813e3a87b19",
-      "title": "Python Developer - UK (Remote)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/dbb699fc-f978-4376-9222-4cf885e9d99c",
-      "title": "Python Developer - Remote in Vietnam"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3694214b-59ec-4ecc-b60b-5dc0f621983c",
-      "title": "Quant Finance Expert (Italy)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b17e9c90-7dc2-4e74-8181-5c1096781f91",
-      "title": "Software Engineering AI Trainer (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/221ee0d2-520f-4a6c-a447-f01afe435654",
-      "title": "Software Engineering AI Trainer (Netherlands)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ff8ca326-87f6-4f86-9c10-c5a288bf8169",
-      "title": "Software Engineering AI Trainer (Spain)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/49db3001-9a24-4999-ab8d-b58cf9c4e3a0",
-      "title": "Software Engineering AI Trainer (Sweden)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0b7a5074-cb4b-4ffe-9ff1-71bb3d60b705",
-      "title": "Software Engineering AI Trainer (UK)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a098e8d8-ff22-43d5-8bc9-8975c5bbca97",
-      "title": "Quant Finance Expert (India)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/8d0592d6-8085-4038-b459-b14c0ab9b384",
-      "title": "Quant Finance Expert (Netherlands)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/f76fcf5d-e70e-40f1-8acd-51aba4f602c4",
-      "title": "Quant Finance Expert (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/9576c499-9824-4f4b-8648-2501c67614ed",
-      "title": "Quant Finance Expert (Sweden)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/916f2c4d-47da-4114-bb95-9e7d218e84fc",
-      "title": "Quant Finance Expert (Sweden)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/c6168fe9-548e-4027-b17b-da7c60ab2f13",
-      "title": "Backend Developer - AI Trainer (Brazil)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/6d92eed3-a36e-4806-8d93-66312b5b012c",
-      "title": "Backend Developer - AI Trainer (Chile)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1f6a2b42-0bd7-457a-a694-7594b5164721",
-      "title": "Backend Developer - AI Trainer (Colombia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3f58087e-77fa-4f44-baed-499b48742a59",
-      "title": "Backend Developer - AI Trainer (Ecuador)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/411aafb6-6606-4107-b934-16fc1052e65d",
-      "title": "Backend Developer - AI Trainer (Egypt)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3dc0afa7-1ced-4715-9f8d-d41910950151",
-      "title": "Backend Developer - AI Trainer (France)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1922eab1-dd51-4b6d-a5cd-75a60574e06f",
-      "title": "Backend Developer - AI Trainer (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7026b075-cfc9-4774-8e8f-85d6af98f90c",
-      "title": "Backend Developer - AI Trainer (India)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/f82549e8-6e36-48f5-829c-c1afec20c5a1",
-      "title": "Backend Developer - AI Trainer (Netherlands)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/40999265-2a81-42e1-861a-199ee65ebf1e",
-      "title": "Backend Developer - AI Trainer (Spain)"
-    },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/00fecc89-233d-4c08-9826-c72898b9fc69",
       "title": "Backend Developer - AI Trainer (UK)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1a0368a3-7629-49c4-b742-5017b3facca7",
-      "title": "Backend Developer - AI Trainer (Uruguay)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/54807946-7328-4e6f-9d43-3243ac9b0d04",
-      "title": "Computer Science PhD (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e2aa4097-18bc-4450-a361-470f645fd926",
-      "title": "Computer Science PhD (Mexico)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/08bc3fa1-556b-41a6-be48-532db0c5c3b1",
-      "title": "Computer Science PhD (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/2e35a16b-a3ac-463f-8c3b-592935e1fe7a",
-      "title": "Computer Science PhD (Italy)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/d515b3df-807e-4dcd-844b-bc25f542381b",
-      "title": "Computer Science PhD (India)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0eb4ad3d-c698-4df7-8cf9-3016587878c4",
-      "title": "Computer Science PhD (Finland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/5770ba6f-7a59-4faa-a5ee-d3ca0f0c5199",
-      "title": "Computer Science PhD (Sweden)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1765b679-86a9-4c6b-aab1-cf92a5aca3fc",
-      "title": "Computer Science PhD (Denmark)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/cd775702-36e4-401b-96ec-841d1900d510",
-      "title": "Computer Science PhD (Netherlands)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/17dfaaf7-e866-4121-b8bd-70996f764a02",
-      "title": "Full-Stack Developer - AI Trainer (Chile)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/acf8c636-be3f-4331-b16c-77775e655575",
-      "title": "Full-Stack Developer - AI Trainer (Egypt)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/130ed870-415a-4e0d-bd78-e24cc8505eed",
-      "title": "Full-Stack Developer (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/efbb4b95-13a3-48aa-a422-4c898ab1d7af",
-      "title": "Full-Stack Developer - AI Trainer (Ecuador)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/d6041c52-dfff-4456-a50c-2a9e3a9f4446",
-      "title": "Full-Stack Developer - AI Trainer (Colombia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b0ee53e0-29cc-4346-8d32-6009a642637c",
-      "title": "Full-Stack Developer - AI Trainer (Brazil)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/c811f7b2-be3b-46a3-89f1-5d8cd0c231b6",
-      "title": "Full-Stack Developer - AI Trainer (Czechia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/31eae70f-331f-4dcf-9522-2c06e9ca4d98",
-      "title": "Full-Stack Developer - AI Trainer (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/678e8ee2-9482-4936-8a51-62f49223cd41",
-      "title": "Full-Stack Developer - AI Trainer (Indonesia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0cbcf7f1-3627-40aa-a245-a096d2941fc1",
-      "title": "Backend Developer - AI Trainer (Mexico)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a3e9ffb1-4b62-4dae-9daf-18ac651ce1cf",
-      "title": "Backend Developer - AI Trainer (Peru)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b10f696e-e410-4e03-8b5c-aba41dadbf85",
-      "title": "Backend Developer - AI Trainer (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e825df23-e721-465b-87d7-04a569f7269e",
-      "title": "Full-Stack Developer - AI Trainer (India)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/f53aa4a8-ec7b-4dae-841c-2ff0c9889a0f",
-      "title": "Full-Stack Developer - AI Trainer (Netherlands)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/be608b65-a3ab-45cb-bff7-369debf2fd5c",
-      "title": "Full-Stack Developer - AI Trainer (Peru)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/c1e27b04-ebcd-4402-aa4d-9b1392aa79cc",
-      "title": "Full-Stack Developer - AI Trainer (Uruguay)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1928367c-9224-480a-9aba-1902744620f5",
-      "title": "Biology Expert - AI Trainer (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/da725f06-a90e-49b6-b4de-828204a7ea49",
-      "title": "Biology Expert - AI Trainer (Mexico)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3c16ed16-4c8f-43da-80c7-a2720c8f05e1",
-      "title": "Biology Expert - AI Trainer (Colombia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/2ae82ed1-acbc-476e-a49b-85af60b9ea03",
-      "title": "Biology Expert - AI Trainer (Ecuador)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3e760d02-326d-4f5e-a4b7-4b1e908e9a41",
-      "title": "Biology Expert - AI Trainer (Peru)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/4fd03534-ff58-4b9a-80da-9037e2e35c43",
-      "title": "Biology Expert - AI Trainer (Chile)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/53fa170b-af8a-4e13-a734-152280f5d7dd",
-      "title": "Biology Expert - AI Trainer (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a4e1edaf-c423-4888-a6ec-3ee6a72ca79e",
-      "title": "Biology Expert - AI Trainer (Uruguay)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/8c2098aa-7a1f-48c4-a3da-17e282882f98",
-      "title": "Biology Expert - AI Trainer (Brazil)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/f77c1bdf-cd06-4c9e-934b-5bcc8a49ddf4",
-      "title": "Biology Expert - AI Trainer (Finland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/374d0a30-2f18-4aa5-ab2c-366958fd0715",
-      "title": "Biology Expert - AI Trainer (Sweden)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ea1de553-64ad-4da9-a07c-d7bc9b5f292c",
-      "title": "Biology Expert - AI Trainer (Denmark)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/00feee43-b8cb-4e70-8445-2a7f8493ebad",
       "title": "Biology Expert - AI Trainer (UK)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b2feeee7-6d89-4cd5-973a-49722d4f253d",
-      "title": "Biology Expert - AI Trainer (Netherlands)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/4c886715-264a-400f-97b2-373ce0d0c445",
-      "title": "Biology Expert - AI Trainer (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3edaccbf-f894-475c-802a-09a5d7cc878a",
-      "title": "Biology Expert - AI Trainer (France)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/447fb43e-efc6-4777-b5a2-06e3d9f386d1",
-      "title": "Biology Expert - AI Trainer (Spain)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/4c24edb9-582a-44e2-867d-a138a18ec342",
-      "title": "Biology Expert - AI Trainer (Portugal)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/640d033c-15df-44fc-895d-399691a2b7e0",
-      "title": "Biology Expert - AI Trainer (Italy)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7703c57c-658d-443f-a227-7d2c33c2146a",
-      "title": "Biology Expert - AI Trainer (Poland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/092a56a3-039d-465c-8d49-422bca88774a",
-      "title": "Biology Expert - AI Trainer (Czechia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/4eff29c1-7e8a-4834-a32e-40ec75e52c26",
-      "title": "Biology Expert - AI Trainer (Romania)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/2938fc6e-58b0-4abf-8d9b-748d517642c1",
-      "title": "Biology Expert - AI Trainer (Turkey)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/d31465b1-94e9-454e-b186-39be9a720301",
-      "title": "Physics AI Training Expert (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/d7fe3ed5-0f12-4294-af54-e0b38deaa12c",
-      "title": "Physics Expert - AI Trainer (Mexico)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/4e767ea3-0026-41ae-b1ee-7359f8acd621",
-      "title": "Physics Expert - AI Trainer (Colombia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/bd468793-51b1-44c4-b111-c34a6053054f",
-      "title": "Physics Expert - AI Trainer (Ecuador)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/59c457ae-f044-4b71-99d8-2103a7ad2bb2",
-      "title": "Physics Expert - AI Trainer (Peru)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b20181c7-8788-4f5d-bc9d-91d4284f9cd7",
-      "title": "Physics Expert - AI Trainer (Chile)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7d454bb5-7dc7-4199-bdbf-cef10a553ab1",
-      "title": "Physics Expert - AI Trainer (Brazil)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a9bcd880-5222-4e31-ad3a-c2823245148c",
-      "title": "Physics Expert - AI Trainer (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/eb9a8e7c-ffca-4a28-be3c-ca6a5130444e",
-      "title": "Physics Expert - AI Trainer (Uruguay)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/bf998cd7-f7a5-404b-bbff-9c4d7131e860",
-      "title": "Physics Expert - AI Trainer (Finland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/496906e5-e278-4273-ae5a-1d0969402c0d",
-      "title": "Physics Expert - AI Trainer (Sweden)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/66954c86-e009-4cd1-9cb9-b2716721f567",
-      "title": "Physics Expert - AI Trainer (Denmark)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/2ee35b3d-c7c0-4f86-bb2a-73006172391f",
-      "title": "Physics Expert - AI Trainer (UK)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/9d66471e-a0c7-4e5d-b6aa-2b26a12018ea",
-      "title": "Physics Expert - AI Trainer (France)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/83bc809b-fa24-433c-9130-997f9ca075cf",
-      "title": "Physics Expert - AI Trainer (Spain)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b80c0300-d5bf-4568-a2f9-0a13b538cadf",
-      "title": "Physics Expert - AI Trainer (Portugal)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/84dd0868-22ec-4072-87dd-2dbbc26e1f9b",
-      "title": "Physics Expert - AI Trainer (Italy)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/6dd1ff36-1c2f-4a8d-a227-e298201a592e",
-      "title": "Physics Expert - AI Trainer (Poland)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/2e7e0103-77aa-4bd9-8b9d-84a111af11e6",
-      "title": "Physics Expert - AI Trainer (Czechia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/9f1a92f2-ad00-41a5-95be-6ab5febe7a6f",
-      "title": "Physics Expert - AI Trainer (Romania)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/bc97a021-0b6b-4080-bcf1-be1bf6e7a25e",
-      "title": "Physics Expert - AI Trainer (Turkey)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7260bc61-c5f4-4f66-8921-5217f927647a",
-      "title": "Mathematics Expert - (Colombia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/86d36685-8912-454f-a449-236d7ada5ce6",
-      "title": "Mathematics AI Training Expert (Germany)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/366dc165-8c43-4ee0-9459-b937e26d7fac",
-      "title": "Mathematics AI Training Expert (Peru)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/df9a9cf4-3eb5-4f32-b372-7eb5991c1ff3",
-      "title": "Mathematics Expert - (Ecuador)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/881f9538-40f9-4ac8-b517-56e1067d95dd",
-      "title": "Mathematics Expert - (Brazil)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a0df609e-a1d4-4f16-ad8b-bab395696a24",
-      "title": "Mathematics Expert - (Uruguay)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/620db9fb-e8f2-41f7-bdff-b726fcede168",
-      "title": "Mathematics Expert - (Argentina)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/481887ac-571f-4498-973a-ac5b3aded0a6",
-      "title": "Mathematics Expert - (Chile)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ff43d415-ee90-4185-8f7b-82427305aac7",
-      "title": "Software Engineering AI Trainer (Argentina)",
-      "score": 40,
-      "reasoning": "Some skill overlap in Python and JavaScript, but role requires 3-7 years of professional software engineering experience and strong proficiency in multiple programming languages, which the candidate lacks; additionally, location and language requirements do not match."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/9f908cf0-0658-4e34-8910-f59e75805881",
-      "title": "Software Engineering AI Trainer (Brazil)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/27e1a0fd-e7e5-4efd-a8e5-7dd8e1010e08",
-      "title": "Software Engineering AI Trainer (Chile)",
-      "score": 68,
-      "reasoning": "Good fit due to Python and JavaScript skills; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which is a stretch for the candidate."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/d0507253-5316-4d52-b93f-8c5edd41d66d",
-      "title": "Software Engineering AI Trainer (Colombia)",
-      "score": 40,
-      "reasoning": "Moderate Python and JavaScript skills match, but lacks required 3-7 years of professional software engineering experience and strong proficiency in Java, C#, or Go; also, location and language requirements are not met."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/4fceea7e-64b2-4696-a30e-92d6923232ff",
-      "title": "Software Engineering AI Trainer (Ecuador)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/8a764c00-121b-464c-b67d-5675c38c7c11",
-      "title": "Software Engineering AI Trainer (Mexico)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience, which candidate lacks, and strong proficiency in English is met but German is not required."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/fca00915-a638-4d54-98b4-691ab7a8ef0f",
-      "title": "Software Engineering AI Trainer (Paraguay)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ec2c543a-1629-4a6f-8662-06f2b1b1e474",
-      "title": "Software Engineering AI Trainer (Peru)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/20dc8074-e69e-4a95-83a2-12436ab5c218",
-      "title": "Software Engineering AI Trainer (Uruguay)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds the candidate's current level."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0a3bad14-b47f-43e0-9418-2fa9e642e26c",
-      "title": "Chemistry AI Training Expert (Argentina)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate lacks relevant experience and education in chemistry, requiring major reskilling."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1e55e029-7a72-4e1b-8804-3a22e5cc6838",
-      "title": "Chemistry Expert (Remote - Europe/LATAM)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate to chemistry, and required strong chemistry knowledge is lacking."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/63036c0e-ce98-43d8-af3e-fafd83083c5f",
-      "title": "Chemistry Expert (Remote - Finland)",
-      "score": 20,
-      "reasoning": "Weak chemistry background, candidate's geosciences expertise doesn't directly apply; strong Python skills are the only significant overlap."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/85cb540d-e4bd-4a59-a79f-9cb970c2dd6d",
-      "title": "Chemistry Expert (Remote - Sweden)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate; lacks research experience in computational chemistry."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/66cfae8c-b0f2-4c9a-9822-6fef1b95921b",
-      "title": "Chemistry Expert (Remote - Denmark)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences and programming skills don't align with chemistry expert role requiring strong chemistry knowledge and experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3d10ceb6-cf60-41b5-90f8-90daaf10f446",
-      "title": "Chemistry Expert (Remote - UK)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate; lacks required chemistry research or industry experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7a7f5eb4-55f8-4a00-bc29-0007a736d015",
-      "title": "Chemistry Expert (Remote - Germany)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences and programming skills don't directly align with chemistry expert role requiring strong chemistry knowledge and experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/f92c9027-6a59-4099-b0ac-f5b485a2fd36",
-      "title": "Chemistry Expert (Remote - Netherlands)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate lacks relevant education and experience in chemistry, requiring major reskilling."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/2f4a50cb-38d1-4945-aa60-8af4fd03a660",
-      "title": "Chemistry Expert (Remote - France)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate lacks relevant education and experience in chemistry, requiring major reskilling."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/534919ae-3b02-4cf2-9857-34890f762fbf",
-      "title": "Chemistry Expert (Remote - Spain)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate lacks relevant education and experience in chemistry, requiring major reskilling."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ae090abe-9b4a-4a0d-a39e-85ea3fb53399",
-      "title": "Chemistry Expert (Remote - Portugal)",
-      "score": 20,
-      "reasoning": "Weak chemistry background, candidate's expertise lies in geosciences and AI/LLM application development, lacking required chemistry knowledge and experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/9cd44ab2-0210-44d8-a9e4-04bf60611702",
-      "title": "Chemistry Expert (Remote - Italy)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences and programming skills don't directly align with chemistry expert role requiring strong chemistry knowledge and experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e2fb6abd-5643-4429-941c-de8136cbd4a4",
-      "title": "Chemistry Expert (Remote - Poland)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate lacks relevant education and experience in chemistry, requiring major reskilling."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/33f62ac3-9eae-4b0f-badd-4e1a3b499394",
-      "title": "Chemistry Expert (Remote - Czechia)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly apply; lacks research or industry experience in computational or quantitative chemistry workflows."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/f976bfa2-210e-41b4-a920-88d7a171a83d",
-      "title": "Chemistry Expert (Remote - Romania)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate; lacks required chemistry research or industry experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7d476aaf-00b1-4e04-9b0d-1c68be08e6ff",
-      "title": "Chemistry Expert (Remote - Turkey)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate; lacks required strong chemistry research or industry experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a1b2fd39-ef13-43ee-8351-d187e634b391",
-      "title": "Chemistry Expert (Remote - Egypt)",
-      "score": 20,
-      "reasoning": "Weak chemistry background; candidate's geosciences and programming skills don't directly align with chemistry expert role requiring strong chemistry knowledge and experience."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e213a9f5-86b5-41f8-811b-974c28810e70",
-      "title": "Full-Stack Developer - AI Trainer (Mexico)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/7ac91a89-f893-44ad-ac7e-fc31211747a3",
-      "title": "Python Developer (Colombia)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience which candidate lacks, and strong proficiency in languages other than Python is also expected."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/9670b94e-b0c4-4fc9-9cc4-3f3ca384c208",
-      "title": "Python Developer - AI Trainer (Argentina)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/89681902-4d7d-4816-bbc8-b1bf21ef6673",
-      "title": "Python Developer - Remote in Czech Republic",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds the candidate's current level."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/97ceb34f-efbe-4890-950a-17d758a3a36a",
-      "title": "Python Developer (Mexico)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience, which the candidate lacks, and strong proficiency in languages other than Python is also expected."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/28a83fa9-995a-4580-968c-9472a4265318",
-      "title": "Python Developer - Remote in Paraguay",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1a0b46ec-22d5-42e0-ba1f-315aa7bfaaae",
-      "title": "Python Developer - Remote in Brazil",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience and skills."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/de0250d9-72ce-4524-a11a-b9d2aee46ed6",
-      "title": "Python Developer (Peru)",
-      "score": 68,
-      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/01ab011f-7f85-409d-9d8f-951b48247ec8",
@@ -846,16 +16,846 @@
       "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience, which the candidate lacks, and strong proficiency in languages other than Python is also expected."
     },
     {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/6ef817ca-be6b-4baa-aaa2-49c7a9ffcd9f",
-      "title": "Python Developer (Ecuador)",
+      "url": "https://jobs.ashbyhq.com/anyone-ai/01faa125-67d1-4d0a-9520-69d196055351",
+      "title": "Full-Stack Developer - AI Trainer (UK)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0638770e-baaa-496b-a74c-ab56dfe4c75a",
+      "title": "Mathematics Expert (Netherlands)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/08bc3fa1-556b-41a6-be48-532db0c5c3b1",
+      "title": "Computer Science PhD (Germany)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/092a56a3-039d-465c-8d49-422bca88774a",
+      "title": "Biology Expert - AI Trainer (Czechia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/09f5823d-5319-4173-bb10-9b9ff50a8ebd",
+      "title": "Full-Stack Developer - AI Trainer (Argentina)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0a3bad14-b47f-43e0-9418-2fa9e642e26c",
+      "title": "Chemistry AI Training Expert (Argentina)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate lacks relevant experience and education in chemistry, requiring major reskilling."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0b7a5074-cb4b-4ffe-9ff1-71bb3d60b705",
+      "title": "Software Engineering AI Trainer (UK)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0c3c9426-b942-4eb4-a51b-c222f7cea898",
+      "title": "Python Developer - Remote in Thailand"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0cbcf7f1-3627-40aa-a245-a096d2941fc1",
+      "title": "Backend Developer - AI Trainer (Mexico)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0d477d53-4cb6-4135-8030-c93b65b056c2",
+      "title": "Python Developer - Remote in Finland"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0eb4ad3d-c698-4df7-8cf9-3016587878c4",
+      "title": "Computer Science PhD (Finland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/130ed870-415a-4e0d-bd78-e24cc8505eed",
+      "title": "Full-Stack Developer (Argentina)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1765b679-86a9-4c6b-aab1-cf92a5aca3fc",
+      "title": "Computer Science PhD (Denmark)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/17de4d80-a499-450c-990e-fa99bf3e7d20",
+      "title": "Chemistry AI Training Expert (Colombia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/17dfaaf7-e866-4121-b8bd-70996f764a02",
+      "title": "Full-Stack Developer - AI Trainer (Chile)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1922eab1-dd51-4b6d-a5cd-75a60574e06f",
+      "title": "Backend Developer - AI Trainer (Germany)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1928367c-9224-480a-9aba-1902744620f5",
+      "title": "Biology Expert - AI Trainer (Argentina)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1a0368a3-7629-49c4-b742-5017b3facca7",
+      "title": "Backend Developer - AI Trainer (Uruguay)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1a0b46ec-22d5-42e0-ba1f-315aa7bfaaae",
+      "title": "Python Developer - Remote in Brazil",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience and skills."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1bf6c7e7-8e8e-450e-87fd-e499773f17e2",
+      "title": "Mathematics Expert (Portugal)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1cd1d5d1-65c3-4abc-90b3-9df8fced4ad8",
+      "title": "Python Developer - India (Remote)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1e55e029-7a72-4e1b-8804-3a22e5cc6838",
+      "title": "Chemistry Expert (Remote - Europe/LATAM)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate to chemistry, and required strong chemistry knowledge is lacking."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1f6a2b42-0bd7-457a-a694-7594b5164721",
+      "title": "Backend Developer - AI Trainer (Colombia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/20dc8074-e69e-4a95-83a2-12436ab5c218",
+      "title": "Software Engineering AI Trainer (Uruguay)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds the candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/221ee0d2-520f-4a6c-a447-f01afe435654",
+      "title": "Software Engineering AI Trainer (Netherlands)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/227d54fd-ef63-4aea-af01-c97e6ced64b6",
+      "title": "Full-Stack Developer - AI Trainer (Portugal)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/237aeef9-3025-49fa-9e86-91143f0d0c91",
+      "title": "Mathematics Expert (Spain)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/27e1a0fd-e7e5-4efd-a8e5-7dd8e1010e08",
+      "title": "Software Engineering AI Trainer (Chile)",
+      "score": 68,
+      "reasoning": "Good fit due to Python and JavaScript skills; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which is a stretch for the candidate."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/28a83fa9-995a-4580-968c-9472a4265318",
+      "title": "Python Developer - Remote in Paraguay",
       "score": 68,
       "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/2938fc6e-58b0-4abf-8d9b-748d517642c1",
+      "title": "Biology Expert - AI Trainer (Turkey)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/299ef8b8-969f-4a76-81fb-5167066c1ae2",
+      "title": "Chemistry Expert - AI Trainer (Ecuador)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/2ae82ed1-acbc-476e-a49b-85af60b9ea03",
+      "title": "Biology Expert - AI Trainer (Ecuador)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/2e35a16b-a3ac-463f-8c3b-592935e1fe7a",
+      "title": "Computer Science PhD (Italy)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/2e7e0103-77aa-4bd9-8b9d-84a111af11e6",
+      "title": "Physics Expert - AI Trainer (Czechia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/2ee35b3d-c7c0-4f86-bb2a-73006172391f",
+      "title": "Physics Expert - AI Trainer (UK)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/2f3c3141-0c9e-4c4f-aa40-de5f7d497af5",
+      "title": "Mathematics Expert (Denmark)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/2f3f6739-6c06-4ffc-bde7-546b9b620598",
+      "title": "Quant Finance Expert (Denmark)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/2f4a50cb-38d1-4945-aa60-8af4fd03a660",
+      "title": "Chemistry Expert (Remote - France)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate lacks relevant education and experience in chemistry, requiring major reskilling."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/31eae70f-331f-4dcf-9522-2c06e9ca4d98",
+      "title": "Full-Stack Developer - AI Trainer (Germany)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/329f7941-e9fb-4847-9d0a-36293b6a391b",
+      "title": "Mathematics Expert (Romania)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/33f62ac3-9eae-4b0f-badd-4e1a3b499394",
+      "title": "Chemistry Expert (Remote - Czechia)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly apply; lacks research or industry experience in computational or quantitative chemistry workflows."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/366dc165-8c43-4ee0-9459-b937e26d7fac",
+      "title": "Mathematics AI Training Expert (Peru)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3694214b-59ec-4ecc-b60b-5dc0f621983c",
+      "title": "Quant Finance Expert (Italy)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/374d0a30-2f18-4aa5-ab2c-366958fd0715",
+      "title": "Biology Expert - AI Trainer (Sweden)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/37bf8ee2-0b92-42db-83dc-6b0f40371f16",
+      "title": "Python Developer - Egypt (Remote)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3bb06d27-5671-4bc6-935e-e209c416645b",
+      "title": "Quant Finance Expert (Mexico)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3c16ed16-4c8f-43da-80c7-a2720c8f05e1",
+      "title": "Biology Expert - AI Trainer (Colombia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3d10ceb6-cf60-41b5-90f8-90daaf10f446",
+      "title": "Chemistry Expert (Remote - UK)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate; lacks required chemistry research or industry experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3d14677b-2b5f-4e00-bb5e-5e4774049e83",
+      "title": "Mathematics Expert (Czechia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3dc0afa7-1ced-4715-9f8d-d41910950151",
+      "title": "Backend Developer - AI Trainer (France)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3e760d02-326d-4f5e-a4b7-4b1e908e9a41",
+      "title": "Biology Expert - AI Trainer (Peru)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3edaccbf-f894-475c-802a-09a5d7cc878a",
+      "title": "Biology Expert - AI Trainer (France)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3f58087e-77fa-4f44-baed-499b48742a59",
+      "title": "Backend Developer - AI Trainer (Ecuador)"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/3fc9249e-a9a1-46f2-8555-e9f0a2bab983",
       "title": "Python Developer - Remote in Uruguay",
       "score": 68,
       "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience, which the candidate lacks, and the project's focus is not directly related to the candidate's geosciences background."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/403ca0a1-7eb9-4f0a-9146-8bbac3811723",
+      "title": "Python Developer - Remote in Denmark"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/40999265-2a81-42e1-861a-199ee65ebf1e",
+      "title": "Backend Developer - AI Trainer (Spain)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/411aafb6-6606-4107-b934-16fc1052e65d",
+      "title": "Backend Developer - AI Trainer (Egypt)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/42057e4b-87f7-44e7-a419-14e847e98f0d",
+      "title": "Full-Stack Developer (Italy)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/42b1c3db-7d03-4b38-9b07-9820235e93ba",
+      "title": "Mathematics Expert (Egypt)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/447fb43e-efc6-4777-b5a2-06e3d9f386d1",
+      "title": "Biology Expert - AI Trainer (Spain)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/44d22c6d-5661-43d2-a484-7424da4e4902",
+      "title": "Full-Stack Developer (Poland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/475823f5-8267-4f34-bdea-438b8c82d8b2",
+      "title": "Quant Finance Expert (UK)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/481887ac-571f-4498-973a-ac5b3aded0a6",
+      "title": "Mathematics Expert - (Chile)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/496906e5-e278-4273-ae5a-1d0969402c0d",
+      "title": "Physics Expert - AI Trainer (Sweden)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/49db3001-9a24-4999-ab8d-b58cf9c4e3a0",
+      "title": "Software Engineering AI Trainer (Sweden)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/4c24edb9-582a-44e2-867d-a138a18ec342",
+      "title": "Biology Expert - AI Trainer (Portugal)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/4c886715-264a-400f-97b2-373ce0d0c445",
+      "title": "Biology Expert - AI Trainer (Germany)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/4e767ea3-0026-41ae-b1ee-7359f8acd621",
+      "title": "Physics Expert - AI Trainer (Colombia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/4eff29c1-7e8a-4834-a32e-40ec75e52c26",
+      "title": "Biology Expert - AI Trainer (Romania)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/4fceea7e-64b2-4696-a30e-92d6923232ff",
+      "title": "Software Engineering AI Trainer (Ecuador)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/4fd03534-ff58-4b9a-80da-9037e2e35c43",
+      "title": "Biology Expert - AI Trainer (Chile)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/4fef1bc2-7776-4960-ad0d-8d734f4c29a7",
+      "title": "Python Developer - Remote in Spain"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/534919ae-3b02-4cf2-9857-34890f762fbf",
+      "title": "Chemistry Expert (Remote - Spain)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate lacks relevant education and experience in chemistry, requiring major reskilling."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/53fa170b-af8a-4e13-a734-152280f5d7dd",
+      "title": "Biology Expert - AI Trainer (Argentina)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/54807946-7328-4e6f-9d43-3243ac9b0d04",
+      "title": "Computer Science PhD (Argentina)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/5770ba6f-7a59-4faa-a5ee-d3ca0f0c5199",
+      "title": "Computer Science PhD (Sweden)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/59c457ae-f044-4b71-99d8-2103a7ad2bb2",
+      "title": "Physics Expert - AI Trainer (Peru)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/5a1910d1-7c37-4bf4-b5a0-9e21d47f4cf8",
+      "title": "Python Developer - Remote in Japan"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/620db9fb-e8f2-41f7-bdff-b726fcede168",
+      "title": "Mathematics Expert - (Argentina)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/63036c0e-ce98-43d8-af3e-fafd83083c5f",
+      "title": "Chemistry Expert (Remote - Finland)",
+      "score": 20,
+      "reasoning": "Weak chemistry background, candidate's geosciences expertise doesn't directly apply; strong Python skills are the only significant overlap."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/640d033c-15df-44fc-895d-399691a2b7e0",
+      "title": "Biology Expert - AI Trainer (Italy)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/66954c86-e009-4cd1-9cb9-b2716721f567",
+      "title": "Physics Expert - AI Trainer (Denmark)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/66cfae8c-b0f2-4c9a-9822-6fef1b95921b",
+      "title": "Chemistry Expert (Remote - Denmark)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences and programming skills don't align with chemistry expert role requiring strong chemistry knowledge and experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/678e8ee2-9482-4936-8a51-62f49223cd41",
+      "title": "Full-Stack Developer - AI Trainer (Indonesia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/6c274656-2dd3-4dd7-9484-cca68c05562b",
+      "title": "Chemistry Expert - AI Trainer (Chile)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/6d92eed3-a36e-4806-8d93-66312b5b012c",
+      "title": "Backend Developer - AI Trainer (Chile)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/6dd1ff36-1c2f-4a8d-a227-e298201a592e",
+      "title": "Physics Expert - AI Trainer (Poland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/6ef817ca-be6b-4baa-aaa2-49c7a9ffcd9f",
+      "title": "Python Developer (Ecuador)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7026b075-cfc9-4774-8e8f-85d6af98f90c",
+      "title": "Backend Developer - AI Trainer (India)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7203c0e8-d22e-4c2e-ad8b-f56651c0ee72",
+      "title": "Python Developer - Remote in Indonesia"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7260bc61-c5f4-4f66-8921-5217f927647a",
+      "title": "Mathematics Expert - (Colombia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/73a9c528-f2ff-408a-90cc-1ff303e04b1c",
+      "title": "Full-Stack Developer (Vietnam)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7703c57c-658d-443f-a227-7d2c33c2146a",
+      "title": "Biology Expert - AI Trainer (Poland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7a7c4b4a-8afb-4571-9395-443d9ce9a65b",
+      "title": "Python Developer - Remote in Turkey"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7a7f5eb4-55f8-4a00-bc29-0007a736d015",
+      "title": "Chemistry Expert (Remote - Germany)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences and programming skills don't directly align with chemistry expert role requiring strong chemistry knowledge and experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7ac91a89-f893-44ad-ac7e-fc31211747a3",
+      "title": "Python Developer (Colombia)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience which candidate lacks, and strong proficiency in languages other than Python is also expected."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7b7df7c8-0f1e-4b22-bb9d-f4630c503122",
+      "title": "Mathematics Expert (Poland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7c7d1b61-0666-4d3d-a1d1-11d59e9f9c29",
+      "title": "Full-Stack Developer - AI Trainer (Poland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7d454bb5-7dc7-4199-bdbf-cef10a553ab1",
+      "title": "Physics Expert - AI Trainer (Brazil)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/7d476aaf-00b1-4e04-9b0d-1c68be08e6ff",
+      "title": "Chemistry Expert (Remote - Turkey)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate; lacks required strong chemistry research or industry experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/80d7cabd-2e30-494f-aedc-bb0709f8900b",
+      "title": "Python Developer - Remote in Germany"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/83bc809b-fa24-433c-9130-997f9ca075cf",
+      "title": "Physics Expert - AI Trainer (Spain)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/84dd0868-22ec-4072-87dd-2dbbc26e1f9b",
+      "title": "Physics Expert - AI Trainer (Italy)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/85cb540d-e4bd-4a59-a79f-9cb970c2dd6d",
+      "title": "Chemistry Expert (Remote - Sweden)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate; lacks research experience in computational chemistry."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/86d36685-8912-454f-a449-236d7ada5ce6",
+      "title": "Mathematics AI Training Expert (Germany)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/87fa00f2-1000-4e26-ae15-b74abc6568e6",
+      "title": "Full-Stack Developer - AI Trainer (Turkey)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/881f9538-40f9-4ac8-b517-56e1067d95dd",
+      "title": "Mathematics Expert - (Brazil)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/89681902-4d7d-4816-bbc8-b1bf21ef6673",
+      "title": "Python Developer - Remote in Czech Republic",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds the candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/8a764c00-121b-464c-b67d-5675c38c7c11",
+      "title": "Software Engineering AI Trainer (Mexico)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience, which candidate lacks, and strong proficiency in English is met but German is not required."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/8c2098aa-7a1f-48c4-a3da-17e282882f98",
+      "title": "Biology Expert - AI Trainer (Brazil)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/8d0592d6-8085-4038-b459-b14c0ab9b384",
+      "title": "Quant Finance Expert (Netherlands)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/8e5141d3-208c-4201-8b40-80b98369df92",
+      "title": "Chemistry Expert - AI Trainer (Peru)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/916f2c4d-47da-4114-bb95-9e7d218e84fc",
+      "title": "Quant Finance Expert (Sweden)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/92a594c0-0a66-45ea-99f2-36d33d9e0c04",
+      "title": "Mathematics Expert (Italy)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/947cc953-37a1-4c13-be6a-01ac4c20ce77",
+      "title": "Mathematics Expert (France)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9576c499-9824-4f4b-8648-2501c67614ed",
+      "title": "Quant Finance Expert (Sweden)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9670b94e-b0c4-4fc9-9cc4-3f3ca384c208",
+      "title": "Python Developer - AI Trainer (Argentina)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/97ceb34f-efbe-4890-950a-17d758a3a36a",
+      "title": "Python Developer (Mexico)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience, which the candidate lacks, and strong proficiency in languages other than Python is also expected."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9cd44ab2-0210-44d8-a9e4-04bf60611702",
+      "title": "Chemistry Expert (Remote - Italy)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences and programming skills don't directly align with chemistry expert role requiring strong chemistry knowledge and experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9d4cd97f-22a6-407e-acde-9e298f94df70",
+      "title": "Quant Finance Expert (Finland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9d66471e-a0c7-4e5d-b6aa-2b26a12018ea",
+      "title": "Physics Expert - AI Trainer (France)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9f1a92f2-ad00-41a5-95be-6ab5febe7a6f",
+      "title": "Physics Expert - AI Trainer (Romania)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9f908cf0-0658-4e34-8910-f59e75805881",
+      "title": "Software Engineering AI Trainer (Brazil)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/a098e8d8-ff22-43d5-8bc9-8975c5bbca97",
+      "title": "Quant Finance Expert (India)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/a0df609e-a1d4-4f16-ad8b-bab395696a24",
+      "title": "Mathematics Expert - (Uruguay)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/a1b2fd39-ef13-43ee-8351-d187e634b391",
+      "title": "Chemistry Expert (Remote - Egypt)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences and programming skills don't directly align with chemistry expert role requiring strong chemistry knowledge and experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/a2574376-fe47-4a2e-8497-18a1655aba98",
+      "title": "Python Developer - Remote in Sweden"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/a3e9ffb1-4b62-4dae-9daf-18ac651ce1cf",
+      "title": "Backend Developer - AI Trainer (Peru)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/a4e1edaf-c423-4888-a6ec-3ee6a72ca79e",
+      "title": "Biology Expert - AI Trainer (Uruguay)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/a917aaec-b64e-4733-9bb9-9edcfacce690",
+      "title": "Quant Finance Expert (Spain)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/a986520b-8d1e-41a7-bc15-2c509c0b0d58",
+      "title": "Full-Stack Developer (Turkey)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/a9bcd880-5222-4e31-ad3a-c2823245148c",
+      "title": "Physics Expert - AI Trainer (Argentina)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ab35033b-fdbd-4ade-94f0-17562eed13cb",
+      "title": "Mathematics Expert (UK)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ab7c2e1a-1eca-4c58-9828-5cab17542fde",
+      "title": "Chemistry Expert - AI Trainer (Mexico)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/abfa7cdd-1969-41b1-bd59-71e09fa2d845",
+      "title": "Mathematics Expert (Finland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ac328e9a-47a4-476f-aa7a-30d7aff29652",
+      "title": "Full-Stack Developer (Indonesia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/acf8c636-be3f-4331-b16c-77775e655575",
+      "title": "Full-Stack Developer - AI Trainer (Egypt)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ae090abe-9b4a-4a0d-a39e-85ea3fb53399",
+      "title": "Chemistry Expert (Remote - Portugal)",
+      "score": 20,
+      "reasoning": "Weak chemistry background, candidate's expertise lies in geosciences and AI/LLM application development, lacking required chemistry knowledge and experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/b0c3859e-31d8-4ca1-91b1-7a356f937798",
+      "title": "Python Developer - Remote in Italy"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/b0ee53e0-29cc-4346-8d32-6009a642637c",
+      "title": "Full-Stack Developer - AI Trainer (Brazil)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/b10f696e-e410-4e03-8b5c-aba41dadbf85",
+      "title": "Backend Developer - AI Trainer (Argentina)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/b17e9c90-7dc2-4e74-8181-5c1096781f91",
+      "title": "Software Engineering AI Trainer (Germany)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/b20181c7-8788-4f5d-bc9d-91d4284f9cd7",
+      "title": "Physics Expert - AI Trainer (Chile)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/b25eb47a-5c67-4280-82fc-0536b9c5b4d5",
+      "title": "Mathematics Expert (Turkey)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/b2feeee7-6d89-4cd5-973a-49722d4f253d",
+      "title": "Biology Expert - AI Trainer (Netherlands)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/b80c0300-d5bf-4568-a2f9-0a13b538cadf",
+      "title": "Physics Expert - AI Trainer (Portugal)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/bb0d4940-104e-48b5-924e-59f0e3bb84c8",
+      "title": "Full-Stack Developer - AI Trainer (Spain)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/bc97a021-0b6b-4080-bcf1-be1bf6e7a25e",
+      "title": "Physics Expert - AI Trainer (Turkey)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/bd468793-51b1-44c4-b111-c34a6053054f",
+      "title": "Physics Expert - AI Trainer (Ecuador)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/bd8c4495-ce51-46c1-90f1-750b2b647021",
+      "title": "Full-Stack Developer - AI Trainer (Sweden)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/be608b65-a3ab-45cb-bff7-369debf2fd5c",
+      "title": "Full-Stack Developer - AI Trainer (Peru)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/bf998cd7-f7a5-404b-bbff-9c4d7131e860",
+      "title": "Physics Expert - AI Trainer (Finland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/c1e13f2e-07d2-46c7-8581-d38f71268d57",
+      "title": "Full-Stack Developer (Thailand)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/c1e27b04-ebcd-4402-aa4d-9b1392aa79cc",
+      "title": "Full-Stack Developer - AI Trainer (Uruguay)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/c6168fe9-548e-4027-b17b-da7c60ab2f13",
+      "title": "Backend Developer - AI Trainer (Brazil)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/c811f7b2-be3b-46a3-89f1-5d8cd0c231b6",
+      "title": "Full-Stack Developer - AI Trainer (Czechia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/cd775702-36e4-401b-96ec-841d1900d510",
+      "title": "Computer Science PhD (Netherlands)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/d0507253-5316-4d52-b93f-8c5edd41d66d",
+      "title": "Software Engineering AI Trainer (Colombia)",
+      "score": 40,
+      "reasoning": "Moderate Python and JavaScript skills match, but lacks required 3-7 years of professional software engineering experience and strong proficiency in Java, C#, or Go; also, location and language requirements are not met."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/d31465b1-94e9-454e-b186-39be9a720301",
+      "title": "Physics AI Training Expert (Germany)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/d515b3df-807e-4dcd-844b-bc25f542381b",
+      "title": "Computer Science PhD (India)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/d6041c52-dfff-4456-a50c-2a9e3a9f4446",
+      "title": "Full-Stack Developer - AI Trainer (Colombia)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/d6bb835e-1a3e-4d9d-b84f-ef7c7585cf22",
+      "title": "Full-Stack Developer (Germany)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/d78c0490-0529-47cc-88b2-e2105dd2f0fa",
+      "title": "Python Developer - Remote in the Netherlands"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/d7fe3ed5-0f12-4294-af54-e0b38deaa12c",
+      "title": "Physics Expert - AI Trainer (Mexico)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/da725f06-a90e-49b6-b4de-828204a7ea49",
+      "title": "Biology Expert - AI Trainer (Mexico)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/dbb699fc-f978-4376-9222-4cf885e9d99c",
+      "title": "Python Developer - Remote in Vietnam"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/de0250d9-72ce-4524-a11a-b9d2aee46ed6",
+      "title": "Python Developer (Peru)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/df9a9cf4-3eb5-4f32-b372-7eb5991c1ff3",
+      "title": "Mathematics Expert - (Ecuador)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e213a9f5-86b5-41f8-811b-974c28810e70",
+      "title": "Full-Stack Developer - AI Trainer (Mexico)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e2660ec4-e7d6-4764-bd82-b510305fe1e0",
+      "title": "Python Developer - Remote in Portugal"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e2aa4097-18bc-4450-a361-470f645fd926",
+      "title": "Computer Science PhD (Mexico)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e2fb6abd-5643-4429-941c-de8136cbd4a4",
+      "title": "Chemistry Expert (Remote - Poland)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate lacks relevant education and experience in chemistry, requiring major reskilling."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e7168692-2d22-461d-aea9-75fc965f08d8",
+      "title": "Full-Stack Developer (Japan)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e795562e-4cfb-4903-bcca-6edfc4aca554",
+      "title": "Mathematics Expert (LATAM & Europe)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e825df23-e721-465b-87d7-04a569f7269e",
+      "title": "Full-Stack Developer - AI Trainer (India)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e98c889e-3de4-4ca7-9c5f-164b2d791b31",
+      "title": "Mathematics Expert (Sweden)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ea0865c5-0100-4772-ac19-ca9f3ef99744",
+      "title": "Python Developer - Remote in Poland"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ea1de553-64ad-4da9-a07c-d7bc9b5f292c",
+      "title": "Biology Expert - AI Trainer (Denmark)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/eb9a8e7c-ffca-4a28-be3c-ca6a5130444e",
+      "title": "Physics Expert - AI Trainer (Uruguay)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ec2c543a-1629-4a6f-8662-06f2b1b1e474",
+      "title": "Software Engineering AI Trainer (Peru)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ed5d8b4a-e434-4fec-ae71-b813e3a87b19",
+      "title": "Python Developer - UK (Remote)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/edc934db-fe12-4d26-9b11-0b8dd6e3f20b",
+      "title": "Quant Finance Expert (Germany)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/efbb4b95-13a3-48aa-a422-4c898ab1d7af",
+      "title": "Full-Stack Developer - AI Trainer (Ecuador)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/f53aa4a8-ec7b-4dae-841c-2ff0c9889a0f",
+      "title": "Full-Stack Developer - AI Trainer (Netherlands)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/f76fcf5d-e70e-40f1-8acd-51aba4f602c4",
+      "title": "Quant Finance Expert (Argentina)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/f77c1bdf-cd06-4c9e-934b-5bcc8a49ddf4",
+      "title": "Biology Expert - AI Trainer (Finland)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/f82549e8-6e36-48f5-829c-c1afec20c5a1",
+      "title": "Backend Developer - AI Trainer (Netherlands)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/f92c9027-6a59-4099-b0ac-f5b485a2fd36",
+      "title": "Chemistry Expert (Remote - Netherlands)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate lacks relevant education and experience in chemistry, requiring major reskilling."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/f976bfa2-210e-41b4-a920-88d7a171a83d",
+      "title": "Chemistry Expert (Remote - Romania)",
+      "score": 20,
+      "reasoning": "Weak chemistry background; candidate's geosciences expertise doesn't directly translate; lacks required chemistry research or industry experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/fb79009b-f2c4-40dd-b514-1a757730e429",
+      "title": "Full-Stack Developer - AI Trainer (Romania)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/fca00915-a638-4d54-98b4-691ab7a8ef0f",
+      "title": "Software Engineering AI Trainer (Paraguay)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ff43d415-ee90-4185-8f7b-82427305aac7",
+      "title": "Software Engineering AI Trainer (Argentina)",
+      "score": 40,
+      "reasoning": "Some skill overlap in Python and JavaScript, but role requires 3-7 years of professional software engineering experience and strong proficiency in multiple programming languages, which the candidate lacks; additionally, location and language requirements do not match."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ff8ca326-87f6-4f86-9c10-c5a288bf8169",
+      "title": "Software Engineering AI Trainer (Spain)"
     }
   ]
 }

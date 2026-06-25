@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-06-24T19:53:00+00:00",
+  "updated_at": "2026-06-25T04:01:55+00:00",
   "jobs": [
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153491&anz=html&bl=gj",
+      "title": "Projektbearbeiter (m/w/d) Genehmigungsmanagement",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153490&anz=html&bl=gj",
+      "title": "Kaufmännische*r Assistent*in",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-der-fachrichtung-bauingenieurwesen-umweltingenieurwesen-abwassertechnik-wasserbau-tiefbau-wasserwirtschaft-umwelttechnik--100153489",
+      "title": "Ingenieur/in der Fachrichtung Bauingenieurwesen/ Umweltingenieurwesen (Abwassertechnik, Wasserbau, Tiefbau, Wasserwirtschaft, Umwelttechnik)",
+      "score": 20,
+      "reasoning": "Unrelated field, civil/environmental engineering title doesn't match geosciences or AI background."
+    },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153487&anz=html&bl=gj",
       "title": "Sachbearbeiter*in Energiekonzept und Wärmeplanung",
@@ -1089,11 +1105,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiterin-mitarbeiter-im-dezernat-53-integrierte-stationen--100153120",
-      "title": "Mitarbeiterin / Mitarbeiter im Dezernat 53 „Integrierte Stationen“ (m/w/d)",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-spenderverwaltung--100153117",
       "title": "Mitarbeiter*in Spenderverwaltung (w/m/d)",
       "filtered": true
@@ -1137,10 +1148,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/auditor-fuer-treibhausgasbilanzierung--100153101",
       "title": "Auditor für Treibhausgasbilanzierung (w/m/d)"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/referent-im-strategischen-wissenschaftsmanagement-schwerpunkt-strategie-und-evaluation--100153094",
-      "title": "Referent/in im Strategischen Wissenschaftsmanagement, Schwerpunkt Strategie und Evaluation (m/w/d)"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/akademischer-projektmitarbeiter-projekt-walduebermorgen3d--100153092",
@@ -1643,41 +1650,13 @@
       "title": "Landwirt­schafts­berater, Schwerpunkt Agrar (m/w/d)"
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100152752&anz=html&bl=gj",
-      "title": "Datenbankadministrator:in Oracle im Bereich erneuerbare Energien (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektmitarbeiter-abfallwirtschaft-stoffstrommanagement--100152741",
-      "title": "Projektmitarbeiter Abfallwirtschaft Stoffstrommanagement (m/w/d)",
-      "filtered": true
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152722&anz=html&bl=gj",
       "title": "Ingenieur Elektrotechnik & Leittechnik - Energieerzeugungsanlagen (w/m/d)",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsplanung-landschaftsarchitektur--100152721",
-      "title": "Landschaftsplanung / Landschaftsarchitektur (m/w/d)"
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100152720&anz=html&bl=gj",
-      "title": "Technischer Customer Support B2B (m/w/d)"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/technische-qualitaetssicherung-mit-dem-themenschwerpunkt-zerstoerungsfreie-werkstoffpruefung--100152723",
       "title": "Technische Qualitätssicherung mit dem Themenschwerpunkt zerstörungsfreie Werkstoffprüfung (m/w/d)"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektentwickler-im-bereich-hydrogeologie-und-altlasten--100151781",
-      "title": "Projektentwickler/-in (m/w/d) im Bereich Hydrogeologie und Altlasten",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektingenieur-im-bereich-deponiebau--100151782",
-      "title": "Projektingenieur/-in (m/w/d) im Bereich Deponiebau",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/meister-techniker-elektrotechnik-als-sachverstaendiger-fuer-die-pruefung-elektrischer-anlagen--100152713",
@@ -2123,22 +2102,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
       "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153491&anz=html&bl=gj",
-      "title": "Projektbearbeiter (m/w/d) Genehmigungsmanagement",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153490&anz=html&bl=gj",
-      "title": "Kaufmännische*r Assistent*in",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-der-fachrichtung-bauingenieurwesen-umweltingenieurwesen-abwassertechnik-wasserbau-tiefbau-wasserwirtschaft-umwelttechnik--100153489",
-      "title": "Ingenieur/in der Fachrichtung Bauingenieurwesen/ Umweltingenieurwesen (Abwassertechnik, Wasserbau, Tiefbau, Wasserwirtschaft, Umwelttechnik)",
-      "score": 20,
-      "reasoning": "Unrelated field, civil/environmental engineering title doesn't match geosciences or AI background."
     }
   ]
 }

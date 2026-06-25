@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-06-24T19:54:18+00:00",
+  "updated_at": "2026-06-25T04:02:52+00:00",
   "jobs": [
     {
-      "url": "https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87",
-      "title": "Forward Deployed Engineer"
+      "url": "https://jobs.ashbyhq.com/owkin/089fd878-1f67-446e-a319-65351a4ed09f",
+      "title": "Security Engineer (DevSecOps / Code Security)"
     },
     {
       "url": "https://jobs.ashbyhq.com/owkin/28cd1d4f-b5ef-45a1-8bc7-230e4da52b8f",
       "title": "Lab Technician - CDD"
     },
     {
-      "url": "https://jobs.ashbyhq.com/owkin/f3649b43-4768-49b7-8095-b55a1957276a",
-      "title": "AI Engineer - Intern"
+      "url": "https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87",
+      "title": "Forward Deployed Engineer"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/owkin/441cb8ac-80ce-48dc-8243-9283f8865134",
+      "title": "Software Engineer"
     },
     {
       "url": "https://jobs.ashbyhq.com/owkin/ba9135db-b9fd-4d1e-a3f9-5b4674fa1935",
       "title": "Research Intern (Flow Matching models)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/owkin/089fd878-1f67-446e-a319-65351a4ed09f",
-      "title": "Security Engineer (DevSecOps / Code Security)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/owkin/441cb8ac-80ce-48dc-8243-9283f8865134",
-      "title": "Software Engineer"
+      "url": "https://jobs.ashbyhq.com/owkin/f3649b43-4768-49b7-8095-b55a1957276a",
+      "title": "AI Engineer - Intern"
     }
   ]
 }

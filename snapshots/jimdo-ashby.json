@@ -1,9 +1,14 @@
 {
-  "updated_at": "2026-06-24T19:54:22+00:00",
+  "updated_at": "2026-06-25T04:02:58+00:00",
   "jobs": [
     {
-      "url": "https://jobs.ashbyhq.com/jimdo.com/f73360bb-f3d2-41b9-84bf-b0a3d14d7b8d",
-      "title": "Expert Engineer",
+      "url": "https://jobs.ashbyhq.com/jimdo.com/19955aa3-0b86-4a62-9062-57cdcaf3b6f4",
+      "title": "Data Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/jimdo.com/5c30cec1-4019-4f5e-86e3-1fb6ae0882f0",
+      "title": "Expert Full-Stack Engineer (Get Discovered)",
       "filtered": true
     },
     {
@@ -21,13 +26,8 @@
       "title": "Customer Support Services Agent (Tech/Product)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/jimdo.com/19955aa3-0b86-4a62-9062-57cdcaf3b6f4",
-      "title": "Data Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/jimdo.com/5c30cec1-4019-4f5e-86e3-1fb6ae0882f0",
-      "title": "Expert Full-Stack Engineer (Get Discovered)",
+      "url": "https://jobs.ashbyhq.com/jimdo.com/f73360bb-f3d2-41b9-84bf-b0a3d14d7b8d",
+      "title": "Expert Engineer",
       "filtered": true
     }
   ]
