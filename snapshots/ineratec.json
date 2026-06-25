@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-06-25T09:32:40+00:00",
+  "updated_at": "2026-06-25T14:45:53+00:00",
   "jobs": [
+    {
+      "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2538755",
+      "title": "Verfahrensingenieur (m/w/d) Planung und Auslegung von chemischen Anlagen",
+      "score": 22,
+      "reasoning": "Weak match due to lack of chemical engineering background and insufficient senior experience; German fluency is also a concern."
+    },
     {
       "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2625540",
       "title": "Experte (m/w/d) Kraftstofftechnik & Produktzertifizierung für e-Fuels",
@@ -11,12 +17,6 @@
       "url": "https://ineratec-gmbh-1.jobs.personio.de/job/480651",
       "title": "Initiativbewerbung",
       "filtered": true
-    },
-    {
-      "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2538755",
-      "title": "Verfahrensingenieur (m/w/d) Planung und Auslegung von chemischen Anlagen",
-      "score": 22,
-      "reasoning": "Weak match due to lack of chemical engineering background and insufficient senior experience; German fluency is also a concern."
     },
     {
       "url": "https://ineratec-gmbh-1.jobs.personio.de/job/2371791",

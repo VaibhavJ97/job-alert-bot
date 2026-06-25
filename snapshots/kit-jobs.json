@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T09:32:30+00:00",
+  "updated_at": "2026-06-25T14:45:49+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -106,6 +106,12 @@
       "reasoning": "Some skill overlap in technical aspects, but role focuses on digital examinations and educational technology, which is not a direct match for the candidate's geosciences or AI engineering background."
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170610/mitarbeiterin-mitarbeiter-wmd-in-der-verwaltung-teilzeit-50",
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Verwaltung",
+      "score": 22,
+      "reasoning": "Poor match due to administrative role requiring strong German fluency (A2 is insufficient), Büromanagement expertise, and SAP experience, which are not present in the candidate's CV."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170332/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft",
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft",
       "score": 68,
@@ -167,12 +173,6 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170581/promovierter-wissenschaftlerin-wmd-rontgenmikroskopie-und-koharente-bildgebungstechniken-fur-biowissenschaften-und-materialforschung",
-      "title": "Promovierte/r Wissenschaftler/in (w/m/d)",
-      "score": 20,
-      "reasoning": "Weak match due to lack of direct experience in Röntgenmikroskopie, kohärente Bildgebungstechniken, and Synchrotronstrahlung; required promotion in unrelated field and senior experience not met."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170549/referentin-referent-wmd-personalentwicklung",
       "title": "Referentin / Referent (w/m/d) Personalentwicklung",
       "score": 10,
@@ -203,12 +203,6 @@
       "reasoning": "Poor match due to lack of relevant experience in public administration, finance, and controlling; strong German fluency required but candidate is only A2."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170601/sachbearbeiterinnen-sachbearbeiter-wmd-drittmittelverwaltung",
-      "title": "Sachbearbeiterinnen / Sachbearbeiter (w/m/d) Drittmittelverwaltung",
-      "score": 22,
-      "reasoning": "Poor match due to lack of relevant experience in Drittmittelverwaltung, Buchhaltung, and Controlling; strong German fluency required but candidate is only A2."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170594/softwarearchitektin-oder-softwarearchitekt-wmd-fur-forschungsdaten-und-ki-infrastrukturen",
       "title": "Softwarearchitektin oder Softwarearchitekt (w/m/d)",
       "score": 73,
@@ -224,12 +218,6 @@
       "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
       "title": "Technikerin / Techniker (w/m/d)",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170610/mitarbeiterin-mitarbeiter-wmd-in-der-verwaltung-teilzeit-50",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Verwaltung",
-      "score": 22,
-      "reasoning": "Poor match due to administrative role requiring strong German fluency (A2 is insufficient), Büromanagement expertise, and SAP experience, which are not present in the candidate's CV."
     }
   ]
 }

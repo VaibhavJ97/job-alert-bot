@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T09:33:45+00:00",
+  "updated_at": "2026-06-25T14:47:22+00:00",
   "jobs": [
     {
       "url": "https://www.eejobs.de/angebote/index.html?s=english&id=100150926&anz=html&bl=gj",
@@ -28,6 +28,12 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/consultant-in-the-field-of-sustainable-finance--100152871/?s=english",
       "title": "Consultant (m/f/d) In the field of Sustainable Finance"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeitende-mit-dem-schwerpunkt-klimapolitik--100153504/?s=english",
+      "title": "Wissenschaftliche:r Mitarbeitende:r mit dem Schwerpunkt Klimapolitik",
+      "score": 40,
+      "reasoning": "Partial domain match via 'Wissenschaftliche:r Mitarbeitende:r', implying science background; however, title implies senior research role and strong German fluency, both of which are lacking."
     }
   ]
 }

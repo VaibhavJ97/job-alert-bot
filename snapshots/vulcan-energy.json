@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T09:32:39+00:00",
+  "updated_at": "2026-06-25T14:45:52+00:00",
   "jobs": [
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2668594",
@@ -71,6 +71,12 @@
       "reasoning": "Moderate IT skills overlap, but role requires strong IT support experience and German fluency, which candidate lacks; geosciences background is not utilized."
     },
     {
+      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2573201",
+      "title": "Junior Scientist (m/w/d)",
+      "score": 39,
+      "reasoning": "Weak match due to mismatch in required education background (Chemie, Metallurgie, Chemieingenieurwesen) and candidate's geosciences background; also, junior scientist role requires strong German fluency which candidate lacks."
+    },
+    {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2645144",
       "title": "Lab Technician (m/w/d)",
       "score": 39,
@@ -104,12 +110,6 @@
       "title": "Umweltingenieur Genehmigungsmanagement (m/w/d)",
       "score": 42,
       "reasoning": "Moderate environmental engineering and geosciences overlap; however, role requires senior experience and strong German fluency, which candidate lacks."
-    },
-    {
-      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2573201",
-      "title": "Junior Scientist (m/w/d)",
-      "score": 39,
-      "reasoning": "Weak match due to mismatch in required education background (Chemie, Metallurgie, Chemieingenieurwesen) and candidate's geosciences background; also, junior scientist role requires strong German fluency which candidate lacks."
     }
   ]
 }

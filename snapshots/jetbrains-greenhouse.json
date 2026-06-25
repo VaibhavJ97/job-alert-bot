@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T09:33:25+00:00",
+  "updated_at": "2026-06-25T14:46:54+00:00",
   "jobs": [
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4853479101",
@@ -8,12 +8,12 @@
       "reasoning": "Unrelated field, no matching skills, and location/ language requirements not met."
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4846000101",
-      "title": "Backend Customer Success Engineer (Kotlin Ecosystem) Amsterdam, Netherlands; Prague, Czech Republic"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4845999101",
       "title": "Backend Customer Success Engineer (Kotlin Ecosystem) Foster City, California; Marlton, New Jersey; Remote, United States"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4846000101",
+      "title": "Backend Customer Success Engineer (Kotlin Ecosystem) Amsterdam, Netherlands; Prague, Czech Republic"
     },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4849993101",
@@ -102,20 +102,16 @@
       "reasoning": "No direct skills or experience match; unrelated field and no relevant technical skills for HR Event Specialist role."
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4819892101",
-      "title": "HR Specialist in Munich, Germany (m/f/x) Munich, Germany"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4847809101",
       "title": "IT Support specialist Munich, Germany"
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4771939101",
-      "title": "JetBrains C/C++ Developer Advocate Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Munich, Germany; Remote, Germany"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4871978101",
       "title": "JetBrains C/C++ Developer Advocate Remote, United States"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4771939101",
+      "title": "JetBrains C/C++ Developer Advocate Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Munich, Germany; Remote, Germany"
     },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4791071101",

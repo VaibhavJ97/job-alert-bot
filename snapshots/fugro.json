@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-06-25T09:33:12+00:00",
+  "updated_at": "2026-06-25T14:46:39+00:00",
   "jobs": [
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031589-offshore-personnel-coordinator",
+      "title": "Offshore Personnel Coordinator",
+      "score": 22,
+      "reasoning": "Poor fit due to lack of relevant experience in personnel coordination and offshore operations; geosciences background is not directly applicable to this role."
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031284-quality-specialist-saso-%26-iso-systems",
+      "title": "Quality Specialist (SASO & ISO Systems)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0030545-corporate-finance-intern",
+      "title": "Corporate Finance Intern",
+      "score": 22,
+      "reasoning": "Weak match due to unrelated field of study and work experience; corporate finance requires specific financial background and skills, which the candidate lacks."
+    },
     {
       "url": "https://www.fugro.com/careers/jobs/R0031553-workshop-technician",
       "title": "Workshop Technician",
@@ -38,55 +55,40 @@
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031515-veldwerker-buitendienst-grondonderzoek",
-      "title": "Veldwerker – Buitendienst Grondonderzoek",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031483-projectco%C3%B6rdinator-survey-operations",
-      "title": "Projectcoördinator - Survey Operations",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031388-junior-adviseur-geotechniek",
-      "title": "(Junior) adviseur geotechniek",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031234-rov-supervisor-fixed-term-contract-for-12-months",
-      "title": "ROV Supervisor (FIXED TERM CONTRACT FOR 12 MONTHS)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031232-rov-pilot-technician-grade-1-fixed-term-contract-for-12-months",
-      "title": "ROV Pilot Technician - Grade 1 (FIXED TERM CONTRACT FOR 12 MONTHS)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031609-project-cost-controller",
-      "title": "Project Cost Controller",
-      "filtered": true
-    },
-    {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031284-quality-specialist-saso-%26-iso-systems",
-      "title": "Quality Specialist (SASO & ISO Systems)",
+      "url": "https://www.fugro.com/careers/jobs/R0031682-junior-projectco%C3%B6rdinator-landmeetkunde",
+      "title": "(Junior) Projectcoördinator - Landmeetkunde",
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031589-offshore-personnel-coordinator",
-      "title": "Offshore Personnel Coordinator",
-      "score": 22,
-      "reasoning": "Poor fit due to lack of relevant experience in personnel coordination and offshore operations; geosciences background is not directly applicable to this role."
+      "url": "https://www.fugro.com/careers/jobs/R0031514-boormeester",
+      "title": "Boormeester",
+      "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0030545-corporate-finance-intern",
-      "title": "Corporate Finance Intern",
+      "url": "https://www.fugro.com/careers/jobs/R0031513-sondeermeester",
+      "title": "Sondeermeester",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031462-3rd-officer-oficial-de-nautica-ii",
+      "title": "3rd Officer \\ Oficial de Nautica II",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0029684-product-owner-global-navigation-satellite-systems-gnss",
+      "title": "Product Owner – Global Navigation Satellite Systems (GNSS)",
+      "score": 58,
+      "reasoning": "Moderate geospatial and technical skills fit; however, GNSS expertise and senior experience are lacking, and strong product ownership skills are required."
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0024153-security-architect",
+      "title": "Security Architect",
       "score": 22,
-      "reasoning": "Weak match due to unrelated field of study and work experience; corporate finance requires specific financial background and skills, which the candidate lacks."
+      "reasoning": "Unrelated field, lacks direct security experience, and insufficient seniority for architect role."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T09:33:12+00:00",
+  "updated_at": "2026-06-25T14:46:40+00:00",
   "jobs": [
     {
       "url": "https://www.gogeogo.com/de/job/vermessungstechniker-m-w-d-im-innen--und-aussendienst",
@@ -279,6 +279,11 @@
     {
       "url": "https://www.gogeogo.com/de/jobs/zurich",
       "title": "Jobs in Zürich",
+      "filtered": true
+    },
+    {
+      "url": "https://www.gogeogo.com/de/job/geoinformatiker-m-w-d-gis-developer-m-w-d",
+      "title": "Geoinformatiker (m/w/d) / GIS-Developer (m/w/d)",
       "filtered": true
     }
   ]
