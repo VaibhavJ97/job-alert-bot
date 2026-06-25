@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T04:02:32+00:00",
+  "updated_at": "2026-06-25T09:33:12+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031553-workshop-technician",
@@ -68,17 +68,25 @@
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031526-credit-controller-geo-preferred",
-      "title": "Credit Controller (Geo Preferred)"
+      "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
+      "title": "Create an account"
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031343-benefits-administrator",
-      "title": "Benefits Administrator",
+      "url": "https://www.fugro.com/careers/jobs/R0031284-quality-specialist-saso-%26-iso-systems",
+      "title": "Quality Specialist (SASO & ISO Systems)",
       "filtered": true
     },
     {
-      "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
-      "title": "Create an account"
+      "url": "https://www.fugro.com/careers/jobs/R0031589-offshore-personnel-coordinator",
+      "title": "Offshore Personnel Coordinator",
+      "score": 22,
+      "reasoning": "Poor fit due to lack of relevant experience in personnel coordination and offshore operations; geosciences background is not directly applicable to this role."
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0030545-corporate-finance-intern",
+      "title": "Corporate Finance Intern",
+      "score": 22,
+      "reasoning": "Weak match due to unrelated field of study and work experience; corporate finance requires specific financial background and skills, which the candidate lacks."
     }
   ]
 }

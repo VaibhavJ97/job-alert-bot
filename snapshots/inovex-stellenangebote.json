@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T04:02:04+00:00",
+  "updated_at": "2026-06-25T09:32:33+00:00",
   "jobs": [
     {
       "url": "https://www.inovex.de/de/karriere/stellenangebote",
@@ -34,12 +34,6 @@
       "title": "BI Specialist* / Analytics Engineer*",
       "score": 39,
       "reasoning": "Some skill overlap in data and Power BI, but role requires strong BI and Data Warehousing experience, senior-level skills, and advanced German fluency, all of which the candidate lacks."
-    },
-    {
-      "url": "https://www.inovex.de/de/karriere/stellenangebote/information-security-consultant",
-      "title": "Information Security Consultant*",
-      "score": 22,
-      "reasoning": "No direct match in skills or domain; significant experience gap in Information Security and German fluency."
     },
     {
       "url": "https://www.inovex.de/de/karriere/stellenangebote/devops-engineer-linux",
