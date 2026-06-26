@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T04:08:52+00:00",
+  "updated_at": "2026-06-26T09:36:31+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -30,6 +30,12 @@
       "title": "All jobs",
       "score": 73,
       "reasoning": "Strong geospatial and programming skills, but senior roles may be a reach due to limited work experience in primary fields of interest."
+    },
+    {
+      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs",
+      "title": "(no title)",
+      "score": 22,
+      "reasoning": "No direct job title or description match; most listed jobs require senior experience, German fluency, or unrelated skills."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs?new-search=1",
@@ -159,12 +165,6 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
-    },
-    {
-      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs",
-      "title": "(no title)",
-      "score": 22,
-      "reasoning": "No direct job title or description match; most listed jobs require senior experience, German fluency, or unrelated skills."
     }
   ]
 }

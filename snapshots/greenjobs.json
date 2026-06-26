@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T04:08:57+00:00",
+  "updated_at": "2026-06-26T09:36:48+00:00",
   "jobs": [
     {
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-fuer-den-bereich-wasserwirtschaft-und-gewaesserschutz-im-fachdienst-umwelt--100153517",
@@ -1448,11 +1448,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100152973&anz=html&bl=gj",
-      "title": "Justiziar*in Energierecht",
-      "filtered": true
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152966&anz=html&bl=gj",
       "title": "Projektassistenz für Energieprojekte (m/w/d)",
       "filtered": true
@@ -1683,10 +1678,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/revierfoerster--100152818",
       "title": "Revierförster/in (m/w/d)",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/referent-fundraising--100152808",
-      "title": "Referent*in Fundraising (w/m/d)"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/baum-und-forst-sachverstaendiger--100146964",
@@ -2180,6 +2171,42 @@
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
       "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftler-in--100153532",
+      "title": "Geowissenschaftler_in (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/kuechentrainer-neue-kantine-hamburg--100153529",
+      "title": "Küchentrainer*in NEUE KANTINE HAMBURG",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153530&anz=html&bl=gj",
+      "title": "Ingenieur im Bereich Windenergieanlagen Lastsimulation Onshore/Offshore (w/m/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153522&anz=html&bl=gj",
+      "title": "(Junior) Software Developer Financial Modeling (m/w/d) -Projekt- und Unternehmensbewertung Erneuerbare Energien",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-im-projekt-koordinierungsstelle-fuer-nachhaltige-besucherlenkung-im-leipziger-neuseenland-teilzeit--100153519",
+      "title": "Mitarbeiter im Projekt „Koordinierungsstelle für nachhaltige Besucherlenkung im Leipziger Neuseenland“ (m/w/d) - Teilzeit",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100151811&anz=html&bl=gj",
+      "title": "Controlling",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153520&anz=html&bl=gj",
+      "title": "Sales Engineer BESS (m/w/d)",
+      "score": 29,
+      "reasoning": "Weak match due to lack of direct experience in sales, energy economics, or batteries; German fluency is below required B2 level."
     }
   ]
 }

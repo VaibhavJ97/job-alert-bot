@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T04:09:47+00:00",
+  "updated_at": "2026-06-26T09:39:57+00:00",
   "jobs": [
     {
       "url": "https://careers.dekra.com/job/Beijing-Office-Test-Engineer/1356417355",
@@ -14,22 +14,16 @@
       "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development match."
     },
     {
-      "url": "https://careers.dekra.com/job/Guangzhou-Office-Test-Engineer/1356260455",
-      "title": "Test Engineer",
-      "score": 20,
-      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development fit."
-    },
-    {
-      "url": "https://careers.dekra.com/job/Guangzhou-Office-Test-Engineer/1356260655",
+      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647855",
       "title": "Test Engineer",
       "score": 29,
-      "reasoning": "Test Engineer role does not directly align with candidate's geosciences or AI/LLM background; description lacks relevant details, but title implies a mismatch."
+      "reasoning": "Unrelated job title and description; no direct match with candidate's core skills or experience."
     },
     {
-      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356260555",
+      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647955",
       "title": "Test Engineer",
       "score": 20,
-      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development skills match."
+      "reasoning": "Unrelated job title and description; no direct geosciences, GIS, or AI engineering match."
     }
   ]
 }
