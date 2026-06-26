@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-25T20:07:55+00:00",
+  "updated_at": "2026-06-26T04:08:57+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-fuer-den-bereich-wasserwirtschaft-und-gewaesserschutz-im-fachdienst-umwelt--100153517",
+      "title": "Ingenieur/in (m/w/d) für den Bereich Wasserwirtschaft und Gewässerschutz im Fachdienst Umwelt",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/ngo-mitarbeiter-fuer-redaktion-und-fundraising--100153516",
       "title": "NGO-Mitarbeiter*in für Redaktion und Fundraising",
@@ -598,11 +603,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/redakteur-fuer-presse-und-oeffentlichkeitsarbeit--100153326",
-      "title": "Redakteur/in (m/w/d) für Presse- und Öffentlichkeitsarbeit",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-mit-begeisterung-fuer-technik--100153331",
       "title": "Ingenieur mit Begeisterung für Technik (w/m/d)"
     },
@@ -777,11 +777,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-r-mitarbeiter-in-umwelttechnik-labormanagement-bauwesen--100153260",
       "title": "Wissenschaftliche_r Mitarbeiter_in (m/w/d) Umwelttechnik & Labormanagement Bauwesen"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-fuer-den-bereich-biotopkartierung--100153251",
-      "title": "Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (w/m/d) für den Bereich Biotopkartierung",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/bau-oder-umweltingenieur-hydrologin-hydrologe--100153243",
@@ -1327,10 +1322,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/geo-umwelt-natur-ingenieurwissenschaftlerin-bzw-geo-umwelt-natur-ingenieurwissenschaftler-fuer-den-bereich-tiefe-geothermie-balneologie--100153043",
-      "title": "Geo-/ Umwelt-/ Natur-/ Ingenieurwissenschaftlerin bzw. Geo-/ Umwelt-/ Natur-/ Ingenieurwissenschaftler (w/m/d) für den Bereich Tiefe Geothermie / Balneologie"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/berater--100153044",
       "title": "Berater/in (m/w/d)",
       "filtered": true
@@ -1450,11 +1441,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/verwaltungsfachkraft-w-m-d-naturschutzrecht--100152983",
       "title": "Verwaltungsfachkraft (w-m-d) Naturschutzrecht"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/gaertner--100152980",
-      "title": "Gärtner*in (m/w/d)",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/umweltfachliche-bauueberwachung--100152249",
@@ -2193,11 +2179,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-fuer-den-bereich-wasserwirtschaft-und-gewaesserschutz-im-fachdienst-umwelt--100153517",
-      "title": "Ingenieur/in (m/w/d) für den Bereich Wasserwirtschaft und Gewässerschutz im Fachdienst Umwelt",
       "filtered": true
     }
   ]

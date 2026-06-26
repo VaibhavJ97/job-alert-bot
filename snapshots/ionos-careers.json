@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T20:07:50+00:00",
+  "updated_at": "2026-06-26T04:08:52+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -161,10 +161,10 @@
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
     },
     {
-      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs?new-search=1",
+      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs",
       "title": "(no title)",
       "score": 22,
-      "reasoning": "No direct job title or description match; most listed roles require senior experience, German fluency, or unrelated skills."
+      "reasoning": "No direct job title or description match; most listed jobs require senior experience, German fluency, or unrelated skills."
     }
   ]
 }

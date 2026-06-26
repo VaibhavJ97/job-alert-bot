@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T20:08:23+00:00",
+  "updated_at": "2026-06-26T04:09:33+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031682-junior-projectco%C3%B6rdinator-landmeetkunde",
@@ -25,6 +25,11 @@
     {
       "url": "https://www.fugro.com/careers/jobs/R0031462-3rd-officer-oficial-de-nautica-ii",
       "title": "3rd Officer \\ Oficial de Nautica II",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031450-survey-technologist-marine",
+      "title": "Survey Technologist - Marine",
       "filtered": true
     },
     {
@@ -89,11 +94,6 @@
     {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031450-survey-technologist-marine",
-      "title": "Survey Technologist - Marine",
-      "filtered": true
     }
   ]
 }
