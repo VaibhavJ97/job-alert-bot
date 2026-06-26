@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T09:38:33+00:00",
+  "updated_at": "2026-06-26T14:35:52+00:00",
   "jobs": [
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2668594",
@@ -110,6 +110,12 @@
       "title": "Umweltingenieur Genehmigungsmanagement (m/w/d)",
       "score": 42,
       "reasoning": "Moderate environmental engineering and geosciences overlap; however, role requires senior experience and strong German fluency, which candidate lacks."
+    },
+    {
+      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2688651",
+      "title": "Lab Technician (m/w/d)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of chemistry background and insufficient German fluency; lab experience is limited and not directly related to the job requirements."
     }
   ]
 }

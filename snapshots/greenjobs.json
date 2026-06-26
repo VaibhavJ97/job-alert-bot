@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-26T09:36:48+00:00",
+  "updated_at": "2026-06-26T14:35:34+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftler-in--100153532",
+      "title": "Geowissenschaftler_in (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153530&anz=html&bl=gj",
+      "title": "Ingenieur im Bereich Windenergieanlagen Lastsimulation Onshore/Offshore (w/m/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153522&anz=html&bl=gj",
+      "title": "(Junior) Software Developer Financial Modeling (m/w/d) -Projekt- und Unternehmensbewertung Erneuerbare Energien",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153520&anz=html&bl=gj",
+      "title": "Sales Engineer BESS (m/w/d)",
+      "score": 29,
+      "reasoning": "Weak match due to lack of direct experience in sales, energy economics, or batteries; German fluency is below required B2 level."
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100151811&anz=html&bl=gj",
+      "title": "Controlling",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-fuer-den-bereich-wasserwirtschaft-und-gewaesserschutz-im-fachdienst-umwelt--100153517",
       "title": "Ingenieur/in (m/w/d) für den Bereich Wasserwirtschaft und Gewässerschutz im Fachdienst Umwelt",
@@ -22,18 +48,8 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-befristet--100153508",
-      "title": "Sachbearbeitung (w/m/d) - befristet",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/landschaftsplanerin--100153507",
       "title": "LandschaftsplanerIn (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-holzbuero-befristet--100153506",
-      "title": "Sachbearbeitung (m/w/d) „Holzbüro“ - befristet",
       "filtered": true
     },
     {
@@ -1956,12 +1972,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/foejler--100153511",
-      "title": "FÖJler*in (m/w/d)",
-      "score": 22,
-      "reasoning": "Poor match due to lack of direct relevance to geosciences, GIS, or AI engineering; low German fluency (A2) is a significant hindrance; role seems to focus on administrative and secretarial tasks."
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/foej-stelle-bei-bauernhof-kita--100153380",
       "title": "FÖJ-Stelle (m/w/d) bei Bauernhof-Kita",
       "filtered": true
@@ -2173,40 +2183,80 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/geowissenschaftler-in--100153532",
-      "title": "Geowissenschaftler_in (m/w/d)",
+      "url": "https://www.greenjobs.de/stellenanzeige/bildungsreferent-in-teilzeit--100153550",
+      "title": "Bildungsreferent*in (m/w/d) - in Teilzeit",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/kuechentrainer-neue-kantine-hamburg--100153529",
-      "title": "Küchentrainer*in NEUE KANTINE HAMBURG",
+      "url": "https://www.greenjobs.de/stellenanzeige/dipl-ing-tu-uni-bzw-master-fachrichtung-wasserwirtschaft-geowissenschaften--100153536",
+      "title": "Dipl.-Ing. (TU/Uni) bzw. Master Fachrichtung Wasserwirtschaft / Geowissenschaften (m/w/d)",
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153530&anz=html&bl=gj",
-      "title": "Ingenieur im Bereich Windenergieanlagen Lastsimulation Onshore/Offshore (w/m/d)",
+      "url": "https://www.greenjobs.de/stellenanzeige/fachkraft-fuer-ubb-nfb-und-oebb--100153535",
+      "title": "Fachkraft (m/w/d) für UBB, NFB und ÖBB",
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153522&anz=html&bl=gj",
-      "title": "(Junior) Software Developer Financial Modeling (m/w/d) -Projekt- und Unternehmensbewertung Erneuerbare Energien",
+      "url": "https://www.greenjobs.de/stellenanzeige/staatl-gepruefte-bautechniker-oder-meister--100153534",
+      "title": "Staatl. geprüfte/r Bautechniker/in (m/w/d) oder Meister/in (m/w/d)",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-im-projekt-koordinierungsstelle-fuer-nachhaltige-besucherlenkung-im-leipziger-neuseenland-teilzeit--100153519",
-      "title": "Mitarbeiter im Projekt „Koordinierungsstelle für nachhaltige Besucherlenkung im Leipziger Neuseenland“ (m/w/d) - Teilzeit",
+      "url": "https://www.greenjobs.de/stellenanzeige/kuechentrainer-projekt-neue-kantine-hamburg--100153529",
+      "title": "Küchentrainer*in - Projekt: NEUE KANTINE HAMBURG",
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100151811&anz=html&bl=gj",
-      "title": "Controlling",
+      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-im-projekt-koordinierungsstelle-fuer-nachhaltige-besucherlenkung-im-leipziger-neuseenland-in-teilzeit--100153519",
+      "title": "Mitarbeiter im Projekt „Koordinierungsstelle für nachhaltige Besucherlenkung im Leipziger Neuseenland“ (m/w/d) - in Teilzeit",
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153520&anz=html&bl=gj",
-      "title": "Sales Engineer BESS (m/w/d)",
-      "score": 29,
-      "reasoning": "Weak match due to lack of direct experience in sales, energy economics, or batteries; German fluency is below required B2 level."
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-zentrale-dienste-rfa-muensterland--100153508",
+      "title": "Sachbearbeitung (w/m/d) Zentrale Dienste - RFA Münsterland",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-holzbuero-rfa-hochstift--100153506",
+      "title": "Sachbearbeitung (m/w/d) „Holzbüro“ - RFA Hochstift",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsplaner-landschaftsarchitekt--100153545",
+      "title": "Landschaftsplaner / Landschaftsarchitekt (m/w/d)",
+      "score": 20,
+      "reasoning": "Landschaftsplaner/Landschaftsarchitekt title implies strong German fluency and landscape architecture/planning expertise, neither of which are prominent in the candidate's CV."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/referent-nachhaltigkeit-und-compliance--100153543",
+      "title": "Referent Nachhaltigkeit und Compliance (m/w/d)",
+      "score": 20,
+      "reasoning": "Title implies senior role with focus on sustainability and compliance, lacking direct skill overlap and likely requiring strong German fluency."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-uni-diplom-master-der-fachrichtungen-ingenieur-natur-oder-geowissenschaften-z-b-wasserbau-hydrologie-physische-geographie-geooekologie-oder-vergleich--100153540",
+      "title": "Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (Uni-Diplom/​Master) (m/w/d) der Fachrichtungen Ingenieur-, Natur- oder Geowissenschaften (z.B. Wasserbau, Hydrologie, Physische Geographie, Geoökologie) oder vergleichbare Fachrichtung",
+      "score": 67,
+      "reasoning": "Strong geosciences background matches job title; however, lack of senior experience and limited German fluency are drawbacks."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/erste-pressesprecherin-bzw-erster-pressesprecher--100153538",
+      "title": "Erste Pressesprecherin bzw. erster Pressesprecher",
+      "score": 10,
+      "reasoning": "Poor match due to lack of relevant experience in journalism, public relations, or press spokesperson roles; strong German fluency required, which candidate lacks."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-uni-diplom-master-fachrichtung-geo-oder-umwelt-wissenschaften-geoinformatik-mit-schwerpunkt-fernerkundung--100153541",
+      "title": "Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (Uni-Diplom/​Master) (m/w/d) Fachrichtung Geo- oder Umwelt­wissenschaften, Geoinformatik mit Schwerpunkt Fernerkundung",
+      "score": 67,
+      "reasoning": "Strong geosciences background, but title implies senior research role and German fluency; moderate match due to potential seniority and language gap."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/foejler-im-institutsbereich-produkte-stoffstroeme--100153511",
+      "title": "FÖJler*in (m/w/d) im Institutsbereich Produkte & Stoffströme",
+      "score": 39,
+      "reasoning": "Moderate match due to some overlap in environmental and scientific themes; however, the role focuses on administrative tasks and requires strong German fluency, which the candidate lacks."
     }
   ]
 }

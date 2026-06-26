@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T09:38:32+00:00",
+  "updated_at": "2026-06-26T14:35:44+00:00",
   "jobs": [
     {
       "url": "https://www.inovex.de/de/karriere/stellenangebote",
@@ -7,20 +7,15 @@
       "filtered": true
     },
     {
-      "url": "https://www.inovex.de/de/karriere/teams-und-projekte",
-      "title": "Teams & Projekte",
-      "filtered": true
-    },
-    {
-      "url": "https://www.inovex.de/de/karriere/stellenangebote/initiativbewerbung",
-      "title": "Initiativbewerbung",
-      "filtered": true
-    },
-    {
       "url": "https://www.inovex.de/de/karriere/das-inovex-package-fuer-mitarbeiterinnen",
       "title": "inovex package",
       "score": 20,
       "reasoning": "Title 'inovex package' is unclear and unrelated to candidate's skills and experience."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/teams-und-projekte",
+      "title": "Teams & Projekte",
+      "filtered": true
     },
     {
       "url": "https://www.inovex.de/de/karriere/stellenangebote/software-engineer-datenprojekte",
@@ -75,6 +70,11 @@
       "title": "Security Specialist* (Kubernetes, Cloud)",
       "score": 22,
       "reasoning": "Weak match due to lack of direct security, Kubernetes, and cloud experience; candidate's geosciences and web development background is unrelated to the job's core requirements."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/initiativbewerbung",
+      "title": "Initiativbewerbung",
+      "filtered": true
     }
   ]
 }

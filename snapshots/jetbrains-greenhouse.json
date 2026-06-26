@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T09:39:59+00:00",
+  "updated_at": "2026-06-26T14:36:36+00:00",
   "jobs": [
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4853479101",
@@ -106,12 +106,12 @@
       "title": "IT Support specialist Munich, Germany"
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4871978101",
-      "title": "JetBrains C/C++ Developer Advocate Remote, United States"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4771939101",
       "title": "JetBrains C/C++ Developer Advocate Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Munich, Germany; Remote, Germany"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4871978101",
+      "title": "JetBrains C/C++ Developer Advocate Remote, United States"
     },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4791071101",
@@ -125,10 +125,6 @@
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4705364101",
       "title": "Payroll Specialist (US)",
       "filtered": true
-    },
-    {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4831734101",
-      "title": "Performance QA Engineer (JCP Core) Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
     },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4836687101",
