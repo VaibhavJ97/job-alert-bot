@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T14:35:41+00:00",
+  "updated_at": "2026-06-26T19:57:11+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -17,6 +17,12 @@
       "title": "Academic employee (f/m/d)",
       "score": 68,
       "reasoning": "Strong geosciences background, but academic employee role may require senior experience and teaching skills not explicitly mentioned in the CV."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170614/akademische-mitarbeiterin-akademischer-mitarbeiter-wmd-professur-bildende-kunst-und-gestaltung-teilzeit-50-3-positionen-zu-besetzen",
+      "title": "Akademische Mitarbeiterin / Akademischer Mitarbeiter (w/m/d) - Professur Bildende Kunst und Gestaltung",
+      "score": 10,
+      "reasoning": "Poor match due to unrelated field of study and work experience; candidate's geosciences and AI background does not align with the job's requirements in fine arts and design."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170068/akademische-mitarbeiterin-oder-akademischer-mitarbeiter-wmd-75-teilzeit-mit-der-moglichkeit-zur-berufsbegleitenden-promotion",
@@ -218,12 +224,6 @@
       "url": "https://jobs.pse.kit.edu/en/jobs/170529/technikerin-techniker-wmd-fachrichtung-energietechnik",
       "title": "Technikerin / Techniker (w/m/d)",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170614/akademische-mitarbeiterin-akademischer-mitarbeiter-wmd-professur-bildende-kunst-und-gestaltung-teilzeit-50-3-positionen-zu-besetzen",
-      "title": "Akademische Mitarbeiterin / Akademischer Mitarbeiter (w/m/d) - Professur Bildende Kunst und Gestaltung",
-      "score": 10,
-      "reasoning": "Poor match due to unrelated field of study and work experience; candidate's geosciences and AI background does not align with the job's requirements in fine arts and design."
     }
   ]
 }
