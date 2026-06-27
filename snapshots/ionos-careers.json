@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T13:53:34+00:00",
+  "updated_at": "2026-06-27T19:35:59+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -161,16 +161,10 @@
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
     },
     {
-      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs?utm_source=chatgpt.com",
+      "url": "https://jobs.ionos.de/karriere/jobs/alle-jobs",
       "title": "(no title)",
-      "score": 38,
-      "reasoning": "No direct job title match; job description lacks specific geosciences, AI, or web development details; various senior roles listed, which may exceed candidate's experience."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs?utm_source=chatgpt.com",
-      "title": "(no title)",
-      "score": 38,
-      "reasoning": "Few matching roles; most require senior experience or strong German fluency, which the candidate lacks."
+      "score": 20,
+      "reasoning": "No direct job title or description match; most listed jobs require senior experience or strong German fluency, which the candidate lacks."
     }
   ]
 }
