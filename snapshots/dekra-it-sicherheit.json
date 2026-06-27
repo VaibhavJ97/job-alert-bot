@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T19:58:15+00:00",
+  "updated_at": "2026-06-27T03:55:27+00:00",
   "jobs": [
     {
       "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647855",
@@ -14,18 +14,6 @@
       "reasoning": "Unrelated job title and description; no direct geosciences, GIS, or AI engineering match."
     },
     {
-      "url": "https://careers.dekra.com/job/Beijing-Office-Test-Engineer/1356417355",
-      "title": "Test Engineer",
-      "score": 20,
-      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development skills mentioned."
-    },
-    {
-      "url": "https://careers.dekra.com/job/Beijing-Office-Test-Engineer/1356417455",
-      "title": "Test Engineer",
-      "score": 20,
-      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development match."
-    },
-    {
       "url": "https://careers.dekra.com/job/San-Carlos-Asesor-de-Servicio-al-cliente/1358635255",
       "title": "Asesor de Servicio al cliente",
       "score": 10,
@@ -36,6 +24,18 @@
       "title": "Asesor de Servicio al Cliente",
       "score": 10,
       "reasoning": "No relevant skills or experience match; customer service role unrelated to candidate's background in geosciences, AI, or web development."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Beijing-Office-Test-Engineer/1356417355",
+      "title": "Test Engineer",
+      "score": 20,
+      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development skills mentioned."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Beijing-Office-Test-Engineer/1356417455",
+      "title": "Test Engineer",
+      "score": 20,
+      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development match."
     }
   ]
 }

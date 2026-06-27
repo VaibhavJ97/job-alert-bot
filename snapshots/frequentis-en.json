@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T19:57:35+00:00",
+  "updated_at": "2026-06-27T03:55:06+00:00",
   "jobs": [
     {
       "url": "https://jobs.frequentis.com/careers/SearchJobs",
@@ -121,6 +121,17 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-Managed-Services-Sales-Expert/3475",
+      "title": "Managed Services Sales Expert (all genders)",
+      "score": 10,
+      "reasoning": "No direct match; sales role requires senior experience and security-critical IT systems expertise, lacking in candidate's background."
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3475",
+      "title": "Apply to Managed Services Sales Expert (all genders)",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.frequentis.com/careers/SearchJobs/?jobOffset=0",
       "title": "Job search",
       "filtered": true
@@ -149,17 +160,6 @@
       "url": "https://www.linkedin.com/jobs/search/?f_C=15158&locationId=OTHERS.worldwide",
       "title": "(no title)",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3475",
-      "title": "Apply to Managed Services Sales Expert (all genders)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-Managed-Services-Sales-Expert/3475",
-      "title": "Managed Services Sales Expert (all genders)",
-      "score": 10,
-      "reasoning": "No direct match; sales role requires senior experience and security-critical IT systems expertise, lacking in candidate's background."
     }
   ]
 }

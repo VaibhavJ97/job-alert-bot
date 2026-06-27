@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T19:57:11+00:00",
+  "updated_at": "2026-06-27T03:54:54+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -11,12 +11,6 @@
       "url": "https://jobs.pse.kit.edu/en/jobs/170534/academic-researcher-fmd",
       "title": "Academic Researcher (f/m/d)",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170500/academic-employee-fmd",
-      "title": "Academic employee (f/m/d)",
-      "score": 68,
-      "reasoning": "Strong geosciences background, but academic employee role may require senior experience and teaching skills not explicitly mentioned in the CV."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170614/akademische-mitarbeiterin-akademischer-mitarbeiter-wmd-professur-bildende-kunst-und-gestaltung-teilzeit-50-3-positionen-zu-besetzen",
@@ -100,12 +94,6 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170473/mitarbeiterin-mitarbeiter-wmd-fur-buroorganisation-und-community-management",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für Büroorganisation und Community-Management",
-      "score": 22,
-      "reasoning": "Poor match due to lack of relevant skills and experience in office organization and community management."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170551/mitarbeiterin-mitarbeiter-wmd-fur-digitale-prufungen",
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für digitale Prüfungen",
       "score": 42,
@@ -151,18 +139,6 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170445/physicist-fmd",
-      "title": "Physicist (f/m/d)",
-      "score": 22,
-      "reasoning": "Unrelated field, physicist role requires strong physics background which is not present in the candidate's CV, geosciences background is closest match but not sufficient for a physicist role."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170447/physicist-or-chemist-fmd",
-      "title": "Physicist or Chemist (f/m/d)",
-      "score": 22,
-      "reasoning": "Unrelated field, candidate's background is in geosciences, not physics or chemistry."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170588/physikalisch-technische-assistentin-physikalisch-technischer-assistent-laborantin-laborant-wmd",
       "title": "Physikalisch Technische Assistentin / Physikalisch Technischer Assistent, Laborantin / Laborant (w/m/d)",
       "score": 39,
@@ -189,12 +165,6 @@
       "title": "Referentin / Referent für Steuerrecht / Tax Consultant (w/m/d)",
       "score": 10,
       "reasoning": "No direct match in skills, domain, or seniority; candidate lacks tax law expertise and relevant experience."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170483/research-associate-fmd",
-      "title": "Research Associate (f/m/d)",
-      "score": 68,
-      "reasoning": "Good geosciences and Python fit, recent master's thesis relevant, but research associate role may require more senior experience and academic publications."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170539/research-software-engineer-fmd",

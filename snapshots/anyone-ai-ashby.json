@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T19:58:33+00:00",
+  "updated_at": "2026-06-27T03:55:29+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/00fecc89-233d-4c08-9826-c72898b9fc69",
@@ -86,6 +86,12 @@
       "title": "Python Developer - Remote in Brazil",
       "score": 68,
       "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current experience and skills."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/1ab77e03-2bb0-4a71-8e74-1ac4eeb1862a",
+      "title": "Full-Stack Developer (Chile)",
+      "score": 68,
+      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and Java/C#/Go knowledge are partially lacking."
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/1bf6c7e7-8e8e-450e-87fd-e499773f17e2",
@@ -318,6 +324,12 @@
       "title": "Python Developer - Remote in Spain"
     },
     {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/52ce2735-6386-4c42-a555-c77ee82dd0f2",
+      "title": "Full-Stack Developer (Argentina)",
+      "score": 68,
+      "reasoning": "Good technical fit with Python and JavaScript skills; however, role requires 3-7 years of experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/534919ae-3b02-4cf2-9857-34890f762fbf",
       "title": "Chemistry Expert (Remote - Spain)",
       "score": 20,
@@ -498,6 +510,12 @@
       "title": "Chemistry Expert - AI Trainer (Peru)"
     },
     {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/8e85b792-b30d-4dc5-88b6-1d951362cdbd",
+      "title": "Full-Stack Developer (Colombia)",
+      "score": 68,
+      "reasoning": "Good fit due to full-stack and Python skills match; however, role requires 3-7 years of experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/916f2c4d-47da-4114-bb95-9e7d218e84fc",
       "title": "Quant Finance Expert (Sweden)"
     },
@@ -524,6 +542,12 @@
       "title": "Python Developer (Mexico)",
       "score": 68,
       "reasoning": "Good Python and JavaScript skills match; however, the role requires 3-7 years of professional experience, which the candidate lacks, and strong proficiency in languages other than Python is also expected."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/9bfa2710-6c3e-400b-b748-17fe5f757b04",
+      "title": "Full-Stack Developer (Brazil)",
+      "score": 68,
+      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and strong proficiency in multiple programming languages are required, which is a stretch for the candidate."
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/9cd44ab2-0210-44d8-a9e4-04bf60611702",
@@ -840,30 +864,6 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/ff8ca326-87f6-4f86-9c10-c5a288bf8169",
       "title": "Software Engineering AI Trainer (Spain)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1ab77e03-2bb0-4a71-8e74-1ac4eeb1862a",
-      "title": "Full-Stack Developer (Chile)",
-      "score": 68,
-      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and Java/C#/Go knowledge are partially lacking."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/52ce2735-6386-4c42-a555-c77ee82dd0f2",
-      "title": "Full-Stack Developer (Argentina)",
-      "score": 68,
-      "reasoning": "Good technical fit with Python and JavaScript skills; however, role requires 3-7 years of experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/8e85b792-b30d-4dc5-88b6-1d951362cdbd",
-      "title": "Full-Stack Developer (Colombia)",
-      "score": 68,
-      "reasoning": "Good fit due to full-stack and Python skills match; however, role requires 3-7 years of experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/9bfa2710-6c3e-400b-b748-17fe5f757b04",
-      "title": "Full-Stack Developer (Brazil)",
-      "score": 68,
-      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and strong proficiency in multiple programming languages are required, which is a stretch for the candidate."
     }
   ]
 }

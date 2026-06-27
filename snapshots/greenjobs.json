@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-26T19:57:09+00:00",
+  "updated_at": "2026-06-27T03:54:53+00:00",
   "jobs": [
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153556&anz=html&bl=gj",
+      "title": "Projektentwickler Erneuerbare Energien (m/w/d)",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/bildungsreferent-in-teilzeit--100153550",
       "title": "Bildungsreferent*in (m/w/d) - in Teilzeit",
@@ -160,12 +165,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/geoinformatiker-gis-developer--100153494",
       "title": "Geoinformatiker (m/w/d) / GIS-Developer (m/w/d)",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/expert-fuer-carbon-dioxide-removal-negativemissionen--100153498",
-      "title": "Expert*in (w/m/d) für Carbon Dioxide Removal / Negativemissionen",
-      "score": 67,
-      "reasoning": "Good geosciences and climate change fit; some skill overlap in data analysis and Python; however, role requires strong expertise in Carbon Dioxide Removal and Negativemissionen, which is a stretch for the candidate's current experience."
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/landwirtschaftlich-technische-assistent-in-teilzeit--100153493",
@@ -1102,10 +1101,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-team-gewerbe--100153180",
-      "title": "Sachbearbeiter:in (w/m/d) Team Gewerbe"
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153177&anz=html&bl=gj",
       "title": "Schulungsreferent (m/w/d) - Technische Schulungen",
       "filtered": true
@@ -1234,10 +1229,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-landwirtschaft-schwerpunkt-ackerbau--100153139",
       "title": "Mitarbeiter Landwirtschaft - Schwerpunkt Ackerbau (m/w/d)",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/phd-candidate-in-soil-science-agroforestry-all-genders-welcome-project-climate-impact-of-agroforestry-systems-of-different-complexity-in-the-humid-tropics-of-java-indonesia--100153140",
-      "title": "PhD candidate in soil science / agroforestry (all genders welcome) - project: Climate impact of agroforestry systems of different complexity in the humid tropics of Java, Indonesia"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/referent-seeverkehr--100153135",
@@ -1433,11 +1424,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrung--100153038",
       "title": "Geschäftsführung (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-fuer-den-fachbereich-60-00-umwelt-naturschutz-und-bauleitplanung--100153037",
-      "title": "Sachbearbeiter (m/w/d) für den Fachbereich 60.00 – Umwelt, Naturschutz und Bauleitplanung",
       "filtered": true
     },
     {
@@ -1662,11 +1648,6 @@
       "title": "Messtechniker für Arbeitsplatzmessungen, Innenraumschadstoffe und Gebäudeschadstoffe (w/m/d)"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/ingenieurin-ingenieur-fuer-den-kuestenschutz--100152882",
-      "title": "Ingenieurin / Ingenieur (m/w/d) für den Küstenschutz",
-      "filtered": true
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152880&anz=html&bl=gj",
       "title": "Projektentwickler im Außendienst (w/m/d)",
       "filtered": true
@@ -1758,11 +1739,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152829&anz=html&bl=gj",
       "title": "Kaufmännischer Mitarbeiter im Handwerksbereich (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/revierfoerster--100152818",
-      "title": "Revierförster/in (m/w/d)",
       "filtered": true
     },
     {
@@ -2256,11 +2232,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153556&anz=html&bl=gj",
-      "title": "Projektentwickler Erneuerbare Energien (m/w/d)",
       "filtered": true
     }
   ]
