@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T14:01:45+00:00",
+  "updated_at": "2026-06-28T19:37:51+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031081-data-operator",
@@ -76,13 +76,13 @@
       "filtered": true
     },
     {
-      "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
-      "title": "Create an account"
-    },
-    {
       "url": "https://www.fugro.com/careers/jobs/R0031574-operations-auxiliary-auxiliar-operacional",
       "title": "Operations Auxiliary \\ Auxiliar Operacional",
       "filtered": true
+    },
+    {
+      "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
+      "title": "Create an account"
     }
   ]
 }
