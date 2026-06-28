@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T09:18:14+00:00",
+  "updated_at": "2026-06-28T14:01:45+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031081-data-operator",
@@ -30,11 +30,6 @@
     {
       "url": "https://www.fugro.com/careers/jobs/R0031450-survey-technologist-marine",
       "title": "Survey Technologist - Marine",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031284-quality-specialist-saso-%26-iso-systems",
-      "title": "Quality Specialist (SASO & ISO Systems)",
       "filtered": true
     },
     {
@@ -76,12 +71,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0030691-hydraulic-mechanic",
-      "title": "Hydraulic Mechanic",
-      "score": 22,
-      "reasoning": "Weak mechanical engineering fit; lacks direct experience with diesel engines, hydraulic systems, and heavy equipment; senior experience required."
-    },
-    {
       "url": "https://www.fugro.com/careers/jobs/R0031588-r2r-%7C-finance-associate",
       "title": "R2R | Finance Associate",
       "filtered": true
@@ -89,6 +78,11 @@
     {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031574-operations-auxiliary-auxiliar-operacional",
+      "title": "Operations Auxiliary \\ Auxiliar Operacional",
+      "filtered": true
     }
   ]
 }
