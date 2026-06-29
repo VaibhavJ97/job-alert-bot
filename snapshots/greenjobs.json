@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-06-29T15:55:45+00:00",
+  "updated_at": "2026-06-29T20:05:28+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-im-bereich-der-verkehrssicherung-der-sparte-bundesforst--100153629",
+      "title": "Sachbearbeitung im Bereich der Verkehrssicherung der Sparte Bundesforst (w/m/d)",
+      "score": 10,
+      "reasoning": "No direct match; title implies administrative role in traffic safety for federal forests, unrelated to candidate's geosciences, AI, or web development background."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsarchitekt-fuer-die-projektbearbeitung-freianlage--100153628",
+      "title": "Landschaftsarchitekt (m/w/d) für die Projektbearbeitung Freianlage",
+      "score": 20,
+      "reasoning": "Landschaftsarchitekt title implies landscape architecture focus, unrelated to candidate's geosciences, AI, or web development background."
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153627&anz=html&bl=gj",
+      "title": "Referent für Umwelt- und Nachhaltigkeitsmanagement (m/w/d) 50 %",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/referent-schnittstelle-fuer-bildung-und-kommunikation-im-laendlichen-raum--100153626",
+      "title": "Referent/-in (m/w/d) – Schnittstelle für Bildung und Kommunikation im ländlichen Raum",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/fachliche-bewertung-von-streuobst-und-gehoelzen-gis-auswertung-und-validierung-von-erfassungsdaten-zum-thema-streuobst-und-gehoelzen-in-bayern--100153625",
+      "title": "Fachliche Bewertung von Streuobst und Gehölzen; GIS-Auswertung und Validierung von Erfassungsdaten zum Thema Streuobst- und Gehölzen in Bayern",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-fuer-vertragsmanagement-und-qualitaetscontrolling--100153624",
+      "title": "Sachbearbeiter*in (m/w/d) für Vertragsmanagement und Qualitätscontrolling",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/it-service-desk-mitarbeiter--100153623",
+      "title": "IT Service Desk Mitarbeiter*in",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153609&anz=html&bl=gj",
+      "title": "Software Developer Financial Modeling (m/w/d) Projekt- und Unternehmensbewertung Erneuerbare Energien",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153611&anz=html&bl=gj",
+      "title": "Umweltplanerin Natur- und Artenschutz mit Schwerpunkt Wind (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153613&anz=html&bl=gj",
+      "title": "Mitarbeiter (m/w/d) aus dem Bereich Wirtschaft, Ingenieurwissenschaften, Rechtswissenschaften, Finanzen",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/verwaltungskraft-als-mitarbeiter-veranstaltungsvermittlung-und-organisation-im-umweltbildungszentrum-augsburg-in-teilzeit--100153606",
       "title": "Verwaltungskraft als Mitarbeiter:in (m/w/d) - Veranstaltungsvermittlung und -organisation im Umweltbildungszentrum Augsburg - in Teilzeit",
@@ -2258,56 +2310,9 @@
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153627&anz=html&bl=gj",
-      "title": "Referent für Umwelt- und Nachhaltigkeitsmanagement (m/w/d) 50 %",
+      "url": "https://www.greenjobs.de/stellenanzeige/managing-consultant-eisenbahnpolitik--100153630",
+      "title": "Managing Consultant (gn) Eisenbahnpolitik",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/referent-schnittstelle-fuer-bildung-und-kommunikation-im-laendlichen-raum--100153626",
-      "title": "Referent/-in (m/w/d) – Schnittstelle für Bildung und Kommunikation im ländlichen Raum",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/fachliche-bewertung-von-streuobst-und-gehoelzen-gis-auswertung-und-validierung-von-erfassungsdaten-zum-thema-streuobst-und-gehoelzen-in-bayern--100153625",
-      "title": "Fachliche Bewertung von Streuobst und Gehölzen; GIS-Auswertung und Validierung von Erfassungsdaten zum Thema Streuobst- und Gehölzen in Bayern",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-fuer-vertragsmanagement-und-qualitaetscontrolling--100153624",
-      "title": "Sachbearbeiter*in (m/w/d) für Vertragsmanagement und Qualitätscontrolling",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/it-service-desk-mitarbeiter--100153623",
-      "title": "IT Service Desk Mitarbeiter*in",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153609&anz=html&bl=gj",
-      "title": "Software Developer Financial Modeling (m/w/d) Projekt- und Unternehmensbewertung Erneuerbare Energien",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153611&anz=html&bl=gj",
-      "title": "Umweltplanerin Natur- und Artenschutz mit Schwerpunkt Wind (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153613&anz=html&bl=gj",
-      "title": "Mitarbeiter (m/w/d) aus dem Bereich Wirtschaft, Ingenieurwissenschaften, Rechtswissenschaften, Finanzen",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-im-bereich-der-verkehrssicherung-der-sparte-bundesforst--100153629",
-      "title": "Sachbearbeitung im Bereich der Verkehrssicherung der Sparte Bundesforst (w/m/d)",
-      "score": 10,
-      "reasoning": "No direct match; title implies administrative role in traffic safety for federal forests, unrelated to candidate's geosciences, AI, or web development background."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsarchitekt-fuer-die-projektbearbeitung-freianlage--100153628",
-      "title": "Landschaftsarchitekt (m/w/d) für die Projektbearbeitung Freianlage",
-      "score": 20,
-      "reasoning": "Landschaftsarchitekt title implies landscape architecture focus, unrelated to candidate's geosciences, AI, or web development background."
     }
   ]
 }

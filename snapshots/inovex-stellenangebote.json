@@ -1,4 +1,80 @@
 {
-  "updated_at": "2026-06-29T15:55:47+00:00",
-  "jobs": []
+  "updated_at": "2026-06-29T20:06:46+00:00",
+  "jobs": [
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote",
+      "title": "Offene Jobs",
+      "filtered": true
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/teams-und-projekte",
+      "title": "Teams & Projekte",
+      "filtered": true
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/initiativbewerbung",
+      "title": "Initiativbewerbung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/das-inovex-package-fuer-mitarbeiterinnen",
+      "title": "inovex package",
+      "score": 20,
+      "reasoning": "No clear connection between 'inovex package' title and candidate's skills or experience; insufficient information for meaningful match."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/software-engineer-datenprojekte",
+      "title": "Software Engineer* für Datenprojekte",
+      "score": 68,
+      "reasoning": "Good technical fit with Python, SQL, and data skills; however, moderate experience and no clear seniority match, also German fluency might be a limitation."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/data-engineer-machine-learning-engineer",
+      "title": "Data Engineer* / Machine Learning Engineer*",
+      "score": 68,
+      "reasoning": "Good technical fit with Python, data engineering, and ML skills; however, moderate experience and lack of senior-level expertise are drawbacks."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/bi-specialist-analytics-engineer",
+      "title": "BI Specialist* / Analytics Engineer*",
+      "score": 39,
+      "reasoning": "Moderate data skills overlap; however, role requires strong BI and Data Warehousing experience, senior-level skills, and advanced German fluency, which the candidate lacks."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/devops-engineer-linux",
+      "title": "DevOps Engineer* Linux",
+      "score": 40,
+      "reasoning": "Some skill overlap in automation and scripting, but role requires strong Linux and DevOps expertise, which is not the candidate's primary focus; significant reskilling needed."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/cloud-platform-kubernetes-engineer",
+      "title": "Cloud Platform / Kubernetes Engineer*",
+      "score": 40,
+      "reasoning": "Some skill overlap with Python and general IT experience, but role is a stretch due to lack of direct Kubernetes and cloud platform experience."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/software-developer-cloudtechnologien",
+      "title": "Software Developer* Cloud-Technologien",
+      "score": 67,
+      "reasoning": "Good technical fit with Python and software development skills; however, lack of direct experience with cloud technologies and infrastructure engineering may require a learning curve."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/cloud-architect-aws-azure-gcp",
+      "title": "Cloud Architect* (AWS, Azure, GCP, private Cloud)",
+      "score": 29,
+      "reasoning": "Weak match due to lack of direct cloud architecture experience and seniority; some programming skills overlap but role requires strong cloud expertise and leadership."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/big-data-specialist-cloud-services",
+      "title": "Big Data Specialist* Cloud Services",
+      "score": 68,
+      "reasoning": "Good fit due to Python and data skills; some learning curve for cloud services and big data technologies, but manageable with candidate's adaptability and experience in web development and geospatial data analysis."
+    },
+    {
+      "url": "https://www.inovex.de/de/karriere/stellenangebote/security-specialist-kubernetes-cloud",
+      "title": "Security Specialist* (Kubernetes, Cloud)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct security, Kubernetes, and cloud experience; candidate's skills in AI, geosciences, and web development are not strongly relevant to the security specialist role."
+    }
+  ]
 }

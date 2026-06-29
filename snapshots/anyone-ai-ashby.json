@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T15:57:13+00:00",
+  "updated_at": "2026-06-29T20:08:13+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/00fecc89-233d-4c08-9826-c72898b9fc69",
@@ -20,6 +20,12 @@
       "title": "Full-Stack Developer - AI Trainer (UK)"
     },
     {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0494a12d-8efd-4c1a-8030-6f2abcbe4ce5",
+      "title": "Full-Stack Developer (Mexico)",
+      "score": 68,
+      "reasoning": "Good fit due to full-stack and Python skills; however, lacks senior experience and some required programming languages, manageable learning curve."
+    },
+    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/0638770e-baaa-496b-a74c-ab56dfe4c75a",
       "title": "Mathematics Expert (Netherlands)"
     },
@@ -36,6 +42,12 @@
       "title": "Chemistry AI Training Expert (Argentina)",
       "score": 20,
       "reasoning": "Weak chemistry background; candidate lacks relevant experience and education in chemistry, requiring major reskilling."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0a8bbb2b-ef10-4fb4-aa81-b2a2b0616583",
+      "title": "Full-Stack Developer (Uruguay)",
+      "score": 73,
+      "reasoning": "Strong full-stack development skills match; Python and JavaScript proficiency align with job requirements; manageable learning curve for Java, C#, or Go; however, senior experience and part-time project-based nature may require adjustments."
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/0b7a5074-cb4b-4ffe-9ff1-71bb3d60b705",
@@ -230,6 +242,12 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/3e760d02-326d-4f5e-a4b7-4b1e908e9a41",
       "title": "Biology Expert - AI Trainer (Peru)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3ecffd48-46af-4779-a5b0-f866f531b9b7",
+      "title": "Full-Stack Developer (Ecuador)",
+      "score": 68,
+      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and Java/C#/Go knowledge are partially lacking."
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/3edaccbf-f894-475c-802a-09a5d7cc878a",
@@ -634,6 +652,12 @@
       "reasoning": "Weak chemistry background, candidate's expertise lies in geosciences and AI/LLM application development, lacking required chemistry knowledge and experience."
     },
     {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ae75b14b-6c27-4191-848e-adb6d9a533da",
+      "title": "Full-Stack Developer (Peru)",
+      "score": 68,
+      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and Java/C#/Go knowledge are partially lacking."
+    },
+    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/b0c3859e-31d8-4ca1-91b1-7a356f937798",
       "title": "Python Developer - Remote in Italy"
     },
@@ -844,30 +868,6 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/ff8ca326-87f6-4f86-9c10-c5a288bf8169",
       "title": "Software Engineering AI Trainer (Spain)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0494a12d-8efd-4c1a-8030-6f2abcbe4ce5",
-      "title": "Full-Stack Developer (Mexico)",
-      "score": 68,
-      "reasoning": "Good fit due to full-stack and Python skills; however, lacks senior experience and some required programming languages, manageable learning curve."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0a8bbb2b-ef10-4fb4-aa81-b2a2b0616583",
-      "title": "Full-Stack Developer (Uruguay)",
-      "score": 73,
-      "reasoning": "Strong full-stack development skills match; Python and JavaScript proficiency align with job requirements; manageable learning curve for Java, C#, or Go; however, senior experience and part-time project-based nature may require adjustments."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3ecffd48-46af-4779-a5b0-f866f531b9b7",
-      "title": "Full-Stack Developer (Ecuador)",
-      "score": 68,
-      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and Java/C#/Go knowledge are partially lacking."
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/ae75b14b-6c27-4191-848e-adb6d9a533da",
-      "title": "Full-Stack Developer (Peru)",
-      "score": 68,
-      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and Java/C#/Go knowledge are partially lacking."
     }
   ]
 }

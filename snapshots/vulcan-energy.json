@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T15:55:53+00:00",
+  "updated_at": "2026-06-29T20:06:47+00:00",
   "jobs": [
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2668594",
@@ -12,6 +12,12 @@
       "title": "HSE-Advisor (m/w/d)",
       "score": 22,
       "reasoning": "Weak match due to lack of direct HSE experience and required seniority; geothermal context is the only overlap."
+    },
+    {
+      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/1623143",
+      "title": "Analytical Technician (m/w/d)",
+      "score": 42,
+      "reasoning": "Moderate fit due to geosciences background and some lab experience; however, role requires strong analytical lab skills, German fluency, and specific certifications (CTA, Chemielaborant) which are not highlighted in the candidate's CV."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2071306",
@@ -110,12 +116,6 @@
       "title": "Umweltingenieur Genehmigungsmanagement (m/w/d)",
       "score": 42,
       "reasoning": "Moderate environmental engineering and geosciences overlap; however, role requires senior experience and strong German fluency, which candidate lacks."
-    },
-    {
-      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/1623143",
-      "title": "Analytical Technician (m/w/d)",
-      "score": 42,
-      "reasoning": "Moderate fit due to geosciences background and some lab experience; however, role requires strong analytical lab skills, German fluency, and specific certifications (CTA, Chemielaborant) which are not highlighted in the candidate's CV."
     }
   ]
 }
