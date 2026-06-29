@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T19:38:04+00:00",
+  "updated_at": "2026-06-29T04:24:31+00:00",
   "jobs": [
     {
       "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647855",
@@ -24,12 +24,6 @@
       "title": "Asesor de Servicio al Cliente",
       "score": 10,
       "reasoning": "No relevant skills or experience match; customer service role unrelated to candidate's background in geosciences, AI, or web development."
-    },
-    {
-      "url": "https://careers.dekra.com/job/Beijing-Office-Test-Engineer/1356417355",
-      "title": "Test Engineer",
-      "score": 20,
-      "reasoning": "Unrelated job title and description; no direct geosciences, AI, or web development skills mentioned."
     }
   ]
 }

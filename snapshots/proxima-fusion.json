@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T19:37:58+00:00",
+  "updated_at": "2026-06-29T04:24:25+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/18456d3d-23cf-4bf2-becc-f180a8f65705",
@@ -19,6 +19,11 @@
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/1b5ad75c-4c97-4a92-9150-ea8536c6b18d",
       "title": "Unsolicited Application",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/2810dcc6-770f-43a3-9fb6-d7c8a39a0833",
+      "title": "AI Solutions Engineer",
       "filtered": true
     },
     {
@@ -112,11 +117,6 @@
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/ff2f1cb1-835d-4166-b303-cc7b01bc6f80",
       "title": "Manufacturing Engineer (Temporary ITER Secondment Program)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/2810dcc6-770f-43a3-9fb6-d7c8a39a0833",
-      "title": "AI Solutions Engineer",
-      "filtered": true
     }
   ]
 }

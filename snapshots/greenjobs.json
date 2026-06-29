@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T19:37:23+00:00",
+  "updated_at": "2026-06-29T04:23:50+00:00",
   "jobs": [
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153556&anz=html&bl=gj",
@@ -751,11 +751,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/zwei-dezernentinnen-dezernenten-fuer-wildtieroekologie--100153308",
-      "title": "Zwei Dezernentinnen / Dezernenten (w/m/d) für Wildtierökologie",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/cta-bzw-chemielaborantin-chemielaborant--100153309",
       "title": "CTA bzw. Chemielaborantin / Chemielaborant (m/w/d)",
       "filtered": true
@@ -801,10 +796,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153289&anz=html&bl=gj",
       "title": "Ingenieur (m/w/d) Leittechnik & Automatisierung"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/referentin-referent-im-referat-35-abwasser-anlagenbezogener-gewaesserschutz--100153281",
-      "title": "Referentin/Referent (m/w/d) im Referat 35 „Abwasser, Anlagenbezogener Gewässerschutz“"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/referent-quantitative-szenario-und-wirtschaftsanalyse--100153282",
@@ -876,11 +867,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/fachkraft-fuer-waldoekologie--100153245",
       "title": "Fachkraft für Waldökologie (m/w/d)"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsplaner--100153244",
-      "title": "Landschaftsplaner/in",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitungen-geoinformationen-techn-im-amt-fuer-umwelt-und-laendlichen-raum--100153247",
@@ -1002,11 +988,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/referentin-referent-im-referat-6-05-chemikaliensicherheit-bio-und-gentechnik-raumluftqualitaet-im-rahmen-der-gewerbeaufsicht-und-giftinformationszentrum--100153212",
-      "title": "Referentin / Referent (m/w/d) im Referat 6.05 „Chemikaliensicherheit, Bio- und Gentechnik, Raumluftqualität im Rahmen der Gewerbeaufsicht und Giftinformationszentrum“",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/verstaerkung-im-team-landschaftsplanung-und-umweltplanung--100153211",
       "title": "Verstärkung im Team Landschaftsplanung und Umweltplanung (m/w/d)",
       "filtered": true
@@ -1034,10 +1015,6 @@
       "title": "Verwaltungs- oder Technische Assistenz (TA) mit kaufmännischem Hintergrund (m/w/d) - in Teilzeit"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-wasserrecht-oder-ingenieur-hydrologie-in-teilzeit--100153203",
-      "title": "Sachbearbeiter/in Wasserrecht oder Ingenieur/in Hydrologie (w/m/d) - in Teilzeit"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/fachreferent-kommunales-regenwassermanagement-in-teilzeit--100153201",
       "title": "Fachreferent:in Kommunales Regenwassermanagement (m/w/d) - in Teilzeit"
     },
@@ -1049,16 +1026,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/referent-im-newsroom--100153199",
       "title": "Referent*in im Newsroom (w/m/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-im-bereich-immissionsschutz-abfallrecht--100153198",
-      "title": "Sachbearbeiter/in im Bereich Immissionsschutz-/ Abfallrecht",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/forstwirt-in-der-reviergruppe-dalheim-und-hardehausen-rfa-hochstift--100153196",
-      "title": "Forstwirt/in (m/w/d) in der Reviergruppe „Dalheim und Hardehausen“ - RFA Hochstift",
       "filtered": true
     },
     {
@@ -1096,23 +1063,8 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-naturschutz-fach-und-vok--100153179",
-      "title": "Sachbearbeitung (w/m/d) Naturschutz Fach und VOK",
-      "filtered": true
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153177&anz=html&bl=gj",
       "title": "Schulungsreferent (m/w/d) - Technische Schulungen",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-in-der-jagdeinheit-asp-des-rfa-kurkoelnisches-sauerland--100153171",
-      "title": "Mitarbeiter/in (w/m/d) in der Jagdeinheit ASP des RFA Kurkölnisches Sauerland",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-in-der-jagdeinheit-asp-des-rfa-oberes-sauerland--100153172",
-      "title": "Mitarbeiter/in (w/m/d) in der Jagdeinheit ASP des RFA Oberes Sauerland",
       "filtered": true
     },
     {
@@ -1148,11 +1100,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100151762&anz=html&bl=gj",
       "title": "Experte (m/w/d) für energieeffiziente und klimaneutrale Gebäude",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153168&anz=html&bl=gj",
-      "title": "Energieberater:in (m/w/d) für das Projekt Orientierungsberatung Energieeffizienz für kleine und mittelständische Unternehmen - in Teilzeit",
       "filtered": true
     },
     {
@@ -1268,16 +1215,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-spenderverwaltung--100153117",
-      "title": "Mitarbeiter*in Spenderverwaltung (w/m/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-unterstuetzerservice--100153118",
-      "title": "Mitarbeiter*in (m/w/d) Unterstützerservice",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/berater-saatgutproduktion--100153113",
       "title": "Berater*in Saatgutproduktion"
     },
@@ -1288,11 +1225,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/referent-verband-politik--100153105",
       "title": "Referent (m/w/d) Verband & Politik"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/verwaltungsfachangestellte-verwaltungsfachangestellter--100153106",
-      "title": "Verwaltungsfachangestellte / Verwaltungsfachangestellter (m/w/d)",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-im-aufgabenfeld-ausgleich-und-ersatz--100151800",
@@ -1317,11 +1249,6 @@
       "title": "Akademischer Projektmitarbeiter (m/w/d) - Projekt [WaldÜberMorgen3D]"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-bodendauerbeobachtung--100153091",
-      "title": "Sachbearbeiter*in Bodendauerbeobachtung",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/projektmitarbeiter-sonderaufgabe-monitoring-vogelmonitoring-spa-monitoring-und-offenland-biotopkartierung-obk-in-teilzeit--100153090",
       "title": "Projektmitarbeiter*in Sonderaufgabe Monitoring – Vogelmonitoring / SPA-Monitoring und Offenland-Biotopkartierung (OBK) - in Teilzeit",
       "filtered": true
@@ -1329,11 +1256,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-im-team-kompensation--100153085",
       "title": "Mitarbeiter im Team Kompensation (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/klimaschutzkoordinator--100153086",
-      "title": "Klimaschutzkoordinator:in (d/w/m)",
       "filtered": true
     },
     {
@@ -1437,11 +1359,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/referentin-referent-fuer-das-kompetenzzentrum-klimawandel-in-der-kommunalen-klimaanpassung--100153030",
-      "title": "Referentin / Referent (w/m/d) für das Kompetenzzentrum Klimawandel in der kommunalen Klimaanpassung",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-fuer-den-arbeitsschwerpunkt-kontrollen-im-sachbereich-genehmigungen-und-kontrollen-sachkunde--100153029",
       "title": "Sachbearbeiter/in (m/w/d) für den Arbeitsschwerpunkt \"Kontrollen\" im Sachbereich \"Genehmigungen und Kontrollen, Sachkunde\""
     },
@@ -1539,11 +1456,6 @@
       "title": "Geograf / Meteorologe als Windgutachter (m/w/d)"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiterin-bzw-wissenschaftlichen-mitarbeiter-fuer-forschung-beratung-und-lehre-im-garten-landschafts-und-sportplatzbau--100152959",
-      "title": "Wissenschaftliche Mitarbeiterin bzw. wissenschaftlichen Mitarbeiter (m/w/d) für Forschung, Beratung und Lehre im Garten-, Landschafts- und Sportplatzbau",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/projekt-mitarbeiter-im-projekt-umwelt-oekologische-nachhaltigkeit-und-klimaschutz-in-der-aus-und-fortbildung-der-gruenen-berufe--100152958",
       "title": "Projekt­mitarbeiter/in (m/w/d) im Projekt „Umwelt, Ökologische Nachhaltigkeit und Klimaschutz in der Aus- und Fortbildung der Grünen Berufe\"",
       "score": 40,
@@ -1567,11 +1479,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-fuer-sicherheits-und-risikomanagement--100152933",
       "title": "Ingenieur für Sicherheits- und Risikomanagement (w/m/d)"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/bearbeiter-bearbeiterin-haus-und-liegenschaftsverwaltung--100152925",
-      "title": "Bearbeiter / Bearbeiterin (m/w/d) Haus- und Liegenschaftsverwaltung",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/bildungsreferent--100152921",
