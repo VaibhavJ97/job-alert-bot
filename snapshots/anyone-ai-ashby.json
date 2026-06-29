@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T11:11:36+00:00",
+  "updated_at": "2026-06-29T15:57:13+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/00fecc89-233d-4c08-9826-c72898b9fc69",
@@ -30,10 +30,6 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/092a56a3-039d-465c-8d49-422bca88774a",
       "title": "Biology Expert - AI Trainer (Czechia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/09f5823d-5319-4173-bb10-9b9ff50a8ebd",
-      "title": "Full-Stack Developer - AI Trainer (Argentina)"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/0a3bad14-b47f-43e0-9418-2fa9e642e26c",
@@ -682,20 +678,12 @@
       "title": "Full-Stack Developer - AI Trainer (Sweden)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/be608b65-a3ab-45cb-bff7-369debf2fd5c",
-      "title": "Full-Stack Developer - AI Trainer (Peru)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/bf998cd7-f7a5-404b-bbff-9c4d7131e860",
       "title": "Physics Expert - AI Trainer (Finland)"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/c1e13f2e-07d2-46c7-8581-d38f71268d57",
       "title": "Full-Stack Developer (Thailand)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/c1e27b04-ebcd-4402-aa4d-9b1392aa79cc",
-      "title": "Full-Stack Developer - AI Trainer (Uruguay)"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/c6168fe9-548e-4027-b17b-da7c60ab2f13",
@@ -754,10 +742,6 @@
       "title": "Mathematics Expert - (Ecuador)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/e213a9f5-86b5-41f8-811b-974c28810e70",
-      "title": "Full-Stack Developer - AI Trainer (Mexico)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/e2660ec4-e7d6-4764-bd82-b510305fe1e0",
       "title": "Python Developer - Remote in Portugal"
     },
@@ -814,10 +798,6 @@
       "title": "Quant Finance Expert (Germany)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/efbb4b95-13a3-48aa-a422-4c898ab1d7af",
-      "title": "Full-Stack Developer - AI Trainer (Ecuador)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/f53aa4a8-ec7b-4dae-841c-2ff0c9889a0f",
       "title": "Full-Stack Developer - AI Trainer (Netherlands)"
     },
@@ -864,6 +844,30 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/ff8ca326-87f6-4f86-9c10-c5a288bf8169",
       "title": "Software Engineering AI Trainer (Spain)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0494a12d-8efd-4c1a-8030-6f2abcbe4ce5",
+      "title": "Full-Stack Developer (Mexico)",
+      "score": 68,
+      "reasoning": "Good fit due to full-stack and Python skills; however, lacks senior experience and some required programming languages, manageable learning curve."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/0a8bbb2b-ef10-4fb4-aa81-b2a2b0616583",
+      "title": "Full-Stack Developer (Uruguay)",
+      "score": 73,
+      "reasoning": "Strong full-stack development skills match; Python and JavaScript proficiency align with job requirements; manageable learning curve for Java, C#, or Go; however, senior experience and part-time project-based nature may require adjustments."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/3ecffd48-46af-4779-a5b0-f866f531b9b7",
+      "title": "Full-Stack Developer (Ecuador)",
+      "score": 68,
+      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and Java/C#/Go knowledge are partially lacking."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/ae75b14b-6c27-4191-848e-adb6d9a533da",
+      "title": "Full-Stack Developer (Peru)",
+      "score": 68,
+      "reasoning": "Good fit due to full-stack and Python skills match; however, senior experience and Java/C#/Go knowledge are partially lacking."
     }
   ]
 }

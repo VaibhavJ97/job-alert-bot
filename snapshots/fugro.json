@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T11:10:56+00:00",
+  "updated_at": "2026-06-29T15:56:40+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031081-data-operator",
@@ -45,39 +45,46 @@
       "reasoning": "Moderate geospatial and technical skills fit; however, GNSS expertise and senior experience are lacking, and strong product ownership skills are required."
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0024153-security-architect",
-      "title": "Security Architect",
-      "score": 22,
-      "reasoning": "Unrelated field, lacks direct security experience, and insufficient seniority for architect role."
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031553-workshop-technician",
-      "title": "Workshop Technician",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031524-geotechnical-engineer",
-      "title": "Geotechnical Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031322-project-controller",
-      "title": "Project Controller",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031213-production-coordinator-land",
-      "title": "Production Coordinator - Land",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031588-r2r-%7C-finance-associate",
-      "title": "R2R | Finance Associate",
-      "filtered": true
-    },
-    {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031657-travel-co-ordinator",
+      "title": "Travel Co-ordinator",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031646-assistente-t%C3%A9cnico",
+      "title": "Assistente Técnico",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031316-t%C3%A9cnico-de-campo-ii",
+      "title": "Técnico de Campo II",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0028824-systems-engineer-usv",
+      "title": "Systems Engineer - USV",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031493-procurement-sourcing-specialist-europe-africa-region",
+      "title": "Procurement Sourcing Specialist - Europe Africa Region",
+      "score": 10,
+      "reasoning": "No direct skills or experience match; procurement role unrelated to candidate's geosciences, AI, or web development background."
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031071-receptioniste",
+      "title": "Receptioniste",
+      "score": 0,
+      "reasoning": "No relevant skills or experience for a Receptioniste role."
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0030809-staff-laboratory-engineer",
+      "title": "Staff Laboratory Engineer",
+      "score": 68,
+      "reasoning": "Good geotechnical engineering fit; geosciences background and some relevant lab experience, but role requires more hands-on testing expertise and senior experience is not fully matched."
     }
   ]
 }

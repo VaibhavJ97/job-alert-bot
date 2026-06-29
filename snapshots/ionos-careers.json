@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T11:09:26+00:00",
+  "updated_at": "2026-06-29T15:55:18+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -42,6 +42,12 @@
       "title": "Reset filter",
       "score": 50,
       "reasoning": "No specific job title provided for evaluation."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4684000101-site-reliability-engineer-fmd",
+      "title": "Site Reliability Engineer (f/m/d)",
+      "score": 39,
+      "reasoning": "Some skill overlap in programming and web development, but role requires senior experience and strong system reliability skills, which are not evident in the candidate's CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4789603101-ai-developer-with-python-for-customer-care-ai-platform-team-hybrid",
@@ -99,12 +105,6 @@
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4803342101-server-support-representative",
       "title": "Server Support Representative",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4684000101-site-reliability-engineer-fmd",
-      "title": "Site Reliability Engineer (f/m/d)",
-      "score": 39,
-      "reasoning": "Some skill overlap in programming and web development, but role requires senior experience and strong system reliability skills, which are not evident in the candidate's CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4703552101-site-reliability-engineer-fmd",

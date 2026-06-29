@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-29T11:11:11+00:00",
+  "updated_at": "2026-06-29T15:56:50+00:00",
   "jobs": [
-    {
-      "url": "https://feld-energy.jobs.personio.com/job/2604383",
-      "title": "Field Service Techniker (m/w/d) – PV / Elektrotechnik"
-    },
     {
       "url": "https://feld-energy.jobs.personio.com/job/2439457",
       "title": "Hilfsarbeiter (m/w/d) – Feldarbeit",
       "score": 22,
       "reasoning": "Weak match due to lack of direct skills alignment; role requires physical labor and outdoor work, which doesn't match the candidate's technical background in geosciences and AI engineering."
+    },
+    {
+      "url": "https://feld-energy.jobs.personio.com/job/2604383",
+      "title": "Field Service Techniker (m/w/d) – PV / Elektrotechnik"
     }
   ]
 }

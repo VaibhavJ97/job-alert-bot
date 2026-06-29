@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-06-29T11:11:32+00:00",
+  "updated_at": "2026-06-29T15:56:53+00:00",
   "jobs": [
     {
-      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647855",
-      "title": "Test Engineer",
-      "score": 29,
-      "reasoning": "Unrelated job title and description; no direct match with candidate's core skills or experience."
-    },
-    {
-      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647955",
-      "title": "Test Engineer",
+      "url": "https://careers.dekra.com/job/Beijing-Office-Specialist/1358766755",
+      "title": "Specialist",
       "score": 20,
-      "reasoning": "Unrelated job title and description; no direct geosciences, GIS, or AI engineering match."
+      "reasoning": "Job title 'Specialist' is too vague; description lacks relevant details, and language options suggest potential strong German fluency requirement which candidate lacks."
     },
     {
       "url": "https://careers.dekra.com/job/Guangzhou-Office-Assistant/1358752955",
@@ -26,10 +20,16 @@
       "reasoning": "Unrelated job title and description; no direct match with candidate's skills or experience in geosciences, AI, or web development."
     },
     {
-      "url": "https://careers.dekra.com/job/Beijing-Office-Specialist/1358766755",
-      "title": "Specialist",
+      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647855",
+      "title": "Test Engineer",
+      "score": 29,
+      "reasoning": "Unrelated job title and description; no direct match with candidate's core skills or experience."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647955",
+      "title": "Test Engineer",
       "score": 20,
-      "reasoning": "Job title 'Specialist' is too vague; description lacks relevant details, and language options suggest potential strong German fluency requirement which candidate lacks."
+      "reasoning": "Unrelated job title and description; no direct geosciences, GIS, or AI engineering match."
     }
   ]
 }
