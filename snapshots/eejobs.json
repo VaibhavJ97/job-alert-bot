@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-29T04:25:05+00:00",
+  "updated_at": "2026-06-29T11:11:57+00:00",
   "jobs": [
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1xghijkvmtulnopqrsw5&jtz=12&s=english&countrycode=DE&dist=10&id=100150258&anz=html",
+      "title": "Geotechnical Engineer (m/f/d)"
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1xghijkvmtulnopqrsw5&jtz=12&s=english&countrycode=DE&dist=10&id=100150256&anz=html",
+      "title": "Electrical Engineer (m/f/d)"
+    },
     {
       "url": "https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1xghijkvmtulnopqrsw5&jtz=12&s=english&countrycode=DE&dist=10&id=100150926&anz=html",
       "title": "Hydropower Planning Expert (m/f/d)"
@@ -8,14 +16,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1xghijkvmtulnopqrsw5&jtz=12&s=english&countrycode=DE&dist=10&id=100150925&anz=html",
       "title": "Hydraulic Engineer (m/f/d)"
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1xghijkvmtulnopqrsw5&jtz=12&s=english&countrycode=DE&dist=10&id=100150256&anz=html",
-      "title": "Electrical Engineer (m/f/d)"
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1xghijkvmtulnopqrsw5&jtz=12&s=english&countrycode=DE&dist=10&id=100150258&anz=html",
-      "title": "Geotechnical Engineer (m/f/d)"
     }
   ]
 }

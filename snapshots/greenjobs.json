@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-06-29T04:23:50+00:00",
+  "updated_at": "2026-06-29T11:10:16+00:00",
   "jobs": [
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100150258&anz=html&bl=gj",
+      "title": "Geotechnical Engineer (m/f/d)"
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100150256&anz=html&bl=gj",
+      "title": "Electrical Engineer (m/f/d)"
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100150252&anz=html&bl=gj",
+      "title": "Projektingenieur (m/w/d)"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschafts-umweltplaner-asb-ffh-vp-lbp-uvs-halle--100152849",
+      "title": "Landschafts-/ Umweltplaner (m/w/d) ASB, FFH-VP, LBP, UVS - HALLE",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschafts-umweltplaner-asb-ffh-vp-lbp-uvs--100152850",
+      "title": "Landschafts-/ Umweltplaner (m/w/d) ASB, FFH-VP, LBP, UVS",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/projektmitarbeiter-artgruppe-fledermaeuse--100152848",
+      "title": "Projektmitarbeiter (m/w/d) - Artgruppe: Fledermäuse",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/avifaunist-ornithologe--100152847",
+      "title": "Avifaunist / Ornithologe (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/biotopkartierer--100152877",
+      "title": "Biotopkartierer (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschafts-und-umweltplaner--100151193",
+      "title": "Landschafts- und Umweltplaner (m/w/d)",
+      "filtered": true
+    },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153556&anz=html&bl=gj",
       "title": "Projektentwickler Erneuerbare Energien (m/w/d)",
@@ -507,11 +549,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/geschaeftsfuehrung--100153390",
       "title": "Geschäftsführung (m/w/d)"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/kundenserviceberater--100153391",
-      "title": "Kundenserviceberater*in",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiterin-sachbearbeiter-im-ackerbaulichen-versuchswesen-und-sortenpruefwesen--100153385",
@@ -1302,11 +1339,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153058&anz=html&bl=gj",
-      "title": "Bauingenieur / Projektwickler (w/m/d)",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/umweltschutztechniker--100153057",
       "title": "Umweltschutztechniker (m/w/d)"
     },
@@ -1501,18 +1533,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100150252&anz=html&bl=gj",
-      "title": "Projektingenieur (m/w/d)"
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100150256&anz=html&bl=gj",
-      "title": "Electrical Engineer (m/f/d)"
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100150258&anz=html&bl=gj",
-      "title": "Geotechnical Engineer (m/f/d)"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/geologe--100152919",
       "title": "Geologe (m/w/d)"
     },
@@ -1546,11 +1566,6 @@
       "title": "Produktionsingenieur (m/w/d) Papier"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/biotopkartierer--100152877",
-      "title": "Biotopkartierer (m/w/d)",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/messtechniker-fuer-arbeitsplatzmessungen-innenraumschadstoffe-und-gebaeudeschadstoffe--100152884",
       "title": "Messtechniker für Arbeitsplatzmessungen, Innenraumschadstoffe und Gebäudeschadstoffe (w/m/d)"
     },
@@ -1581,26 +1596,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/landschaftsgaertner--100149710",
       "title": "Landschaftsgärtner:in (d/m/w)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschafts-umweltplaner-asb-ffh-vp-lbp-uvs--100152850",
-      "title": "Landschafts-/ Umweltplaner (m/w/d) ASB, FFH-VP, LBP, UVS",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschafts-umweltplaner-asb-ffh-vp-lbp-uvs-halle--100152849",
-      "title": "Landschafts-/ Umweltplaner (m/w/d) ASB, FFH-VP, LBP, UVS - HALLE",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektmitarbeiter-artgruppe-fledermaeuse--100152848",
-      "title": "Projektmitarbeiter (m/w/d) - Artgruppe: Fledermäuse",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/avifaunist-ornithologe--100152847",
-      "title": "Avifaunist / Ornithologe (m/w/d)",
       "filtered": true
     },
     {
@@ -1673,11 +1668,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschafts-und-umweltplaner--100151193",
-      "title": "Landschafts- und Umweltplaner (m/w/d)",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/landwirtschaftsberater-schwerpunkt-agrar--100152779",
       "title": "Landwirt­schafts­berater, Schwerpunkt Agrar (m/w/d)"
     },
@@ -1721,11 +1711,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152646&anz=html&bl=gj",
       "title": "Projektentwickler Wind & Site (w/m/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100152628&anz=html&bl=gj",
-      "title": "ERP Solutions Architect (w/m/d)",
       "filtered": true
     },
     {
@@ -1794,10 +1779,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/berater-fuer-unternehmensentwicklung-verarbeitung-und-vermarktung-in-der-lebensmittelkette-getreide--100152244",
       "title": "Berater/in (m/w/d) für Unternehmensentwicklung, Verarbeitung und Vermarktung in der Lebensmittelkette Getreide",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachverstaendiger-anlagensicherheit-schwerpunkt-wasserchemie--100152208",
-      "title": "Sachverständiger Anlagensicherheit (w/m/d) - Schwerpunkt Wasserchemie"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-als-sachverstaendiger-anlagensicherheit--100152141",
@@ -2139,6 +2120,146 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/verwaltungskraft-als-mitarbeiter-veranstaltungsvermittlung-und-organisation-im-umweltbildungszentrum-augsburg-in-teilzeit--100153606",
+      "title": "Verwaltungskraft als Mitarbeiter:in (m/w/d) - Veranstaltungsvermittlung und -organisation im Umweltbildungszentrum Augsburg - in Teilzeit",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153584&anz=html&bl=gj",
+      "title": "Projektentwickler (m/w/d) Wind",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153598&anz=html&bl=gj",
+      "title": "Vertragsmitarbeiter (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153580&anz=html&bl=gj",
+      "title": "Projektkoordinator Genehmigungsverfahren (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153577&anz=html&bl=gj",
+      "title": "Mitarbeiter Genehmigungsplanung (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153575&anz=html&bl=gj",
+      "title": "Mitarbeiter Netztechnik (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153576&anz=html&bl=gj",
+      "title": "Mitarbeiter Leitwarte für Windenergieanlagen (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153596&anz=html&bl=gj",
+      "title": "Projektplaner Netzanschluss und Kabeltrasse (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153573&anz=html&bl=gj",
+      "title": "Netzplaner Erneuerbare Energien (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/probenehmerin-probenehmer--100153593",
+      "title": "Probenehmerin / Probenehmer (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsarchitekt-schwerpunkt-freiraumplanung-nachhaltige-entwaesserungsplanung-foerderung-kommunaler-schwammstadt-konzepte--100153594",
+      "title": "Landschaftsarchitekt:in (m/w/d) - Schwerpunkt: Freiraumplanung / nachhaltige Entwässerungsplanung - Förderung kommunaler Schwammstadt-Konzepte",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153563&anz=html&bl=gj",
+      "title": "Mitarbeiter Entgeltabrechnung / Payroll (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153574&anz=html&bl=gj",
+      "title": "Mitarbeiter / Assistenz für Mitarbeiterservice, Sekretariat und Empfang (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153571&anz=html&bl=gj",
+      "title": "Projektassistenz Netztechnik (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153568&anz=html&bl=gj",
+      "title": "Kaufmännische Mitarbeiterin / Sachbearbeiterin Projektfinanzierung (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153570&anz=html&bl=gj",
+      "title": "Projektentwickler (m/w/d) Kooperationen Erneuerbare Energien",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153582&anz=html&bl=gj",
+      "title": "Projektentwickler für Windenergieprojekte (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153567&anz=html&bl=gj",
+      "title": "Kaufmännischer Betriebsführer (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153581&anz=html&bl=gj",
+      "title": "Projektingenieur Umspannwerke (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153583&anz=html&bl=gj",
+      "title": "Projektentwickler (m/w/d) Wind",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153564&anz=html&bl=gj",
+      "title": "Mitarbeiter Due Diligence (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153585&anz=html&bl=gj",
+      "title": "CAD-Planer / 3D-Konstrukteur (m/w/d) für Straßen und Tiefbauplanung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153572&anz=html&bl=gj",
+      "title": "Operativer Einkäufer Umspannwerke und Großbatteriespeicher (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153578&anz=html&bl=gj",
+      "title": "Projektentwickler Projektinitiierung (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153569&anz=html&bl=gj",
+      "title": "Projektentwickler (m/w/d) Wind",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-der-naturschutzbehoerde-schwerpunkt-baumschutz-in-teilzeit--100153562",
+      "title": "Sachbearbeiter:in (w/m/d) der Naturschutzbehörde Schwerpunkt Baumschutz - in Teilzeit",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsentwickler-untere-naturschutzbehoerde--100153558",
+      "title": "Landschaftsentwickler/-in (m/w/d) - Untere Naturschutzbehörde",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/kundenserviceberater-filiale-stuttgart--100153391",
+      "title": "Kundenserviceberater*in Filiale Stuttgart",
       "filtered": true
     }
   ]
