@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-30T09:50:48+00:00",
+  "updated_at": "2026-06-30T14:30:14+00:00",
   "jobs": [
-    {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4846000101",
-      "title": "Backend Customer Success Engineer (Kotlin Ecosystem) Amsterdam, Netherlands; Prague, Czech Republic"
-    },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4845999101",
       "title": "Backend Customer Success Engineer (Kotlin Ecosystem) Foster City, California; Marlton, New Jersey; Remote, United States"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4846000101",
+      "title": "Backend Customer Success Engineer (Kotlin Ecosystem) Amsterdam, Netherlands; Prague, Czech Republic"
     },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4849993101",
@@ -135,10 +135,6 @@
       "title": "Product Designer (.NET Ecosystem) Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4826258101",
-      "title": "QA Engineer (AI Assistant Features) Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4795218101",
       "title": "QA Engineer (IJ Platform / Remote Development)",
       "score": 39,
@@ -172,10 +168,6 @@
       "title": "Security Compliance Specialist Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4791569101",
-      "title": "Security Engineer, Identity and Access Management (IAM) Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4866608101",
       "title": "Software Developer (Web Development Team)",
       "score": 42,
@@ -195,10 +187,6 @@
       "title": "Staff Software Developer (Kotlin Libraries)"
     },
     {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4851556101",
-      "title": "Support Specialist (Financial Application Development, NetSuite)"
-    },
-    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4773679101",
       "title": "Talent Sourcer",
       "score": 22,
@@ -207,6 +195,18 @@
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4724893101",
       "title": "YouTrack Internal Automation Engineer"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4888935101",
+      "title": "Office Assistant in Cyprus",
+      "score": 10,
+      "reasoning": "Unrelated job title and description; no match with candidate's technical skills or domain experience."
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4907234101",
+      "title": "QA Performance Engineer (YouTrack)",
+      "score": 40,
+      "reasoning": "Some skill overlap in programming and analytical thinking, but role requires strong performance testing and QA experience, which is not prominent in the candidate's background."
     }
   ]
 }

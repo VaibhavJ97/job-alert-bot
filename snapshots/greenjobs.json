@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-06-30T09:49:05+00:00",
+  "updated_at": "2026-06-30T14:29:18+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/bildungsreferent-fuer-klima-umwelttechnik-und-weiterentwicklung--100153207",
+      "title": "Bildungsreferent/in für Klima, Umwelttechnik und Weiterentwicklung"
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/analyst-sustainable-structured-finance--100153633",
+      "title": "Analyst (m/w/d) – Sustainable & Structured Finance",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/umwelt-naturpaedagog-fuer-das-projekt-wald-und-wiesenuniversum-in-der-naturerlebniswerkstatt-humulus--100153635",
+      "title": "Umwelt-/ Naturpädagog*in für das Projekt „Wald- und Wiesenuniversum“ in der Naturerlebniswerkstatt Humulus",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/managing-consultant-eisenbahnpolitik--100153630",
       "title": "Managing Consultant (gn) Eisenbahnpolitik",
@@ -26,6 +40,11 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/referent-schnittstelle-fuer-bildung-und-kommunikation-im-laendlichen-raum--100153626",
       "title": "Referent/-in (m/w/d) – Schnittstelle für Bildung und Kommunikation im ländlichen Raum",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landwirtschaftstechn-mitarbeiterin-mitarbeiter-projekt-fachliche-bewertung-von-streuobst-und-gehoelzen-gis-auswertung-und-validierung-von-erfassungsdaten-zum-thema-streuobst-und-gehoelzen-in-bayern-in-teilzeit--100153625",
+      "title": "Landwirtschaftstechn. Mitarbeiterin / Mitarbeiter (m/w/d) - Projekt „Fachliche Bewertung von Streuobst und Gehölzen; GIS-Auswertung und Validierung von Erfassungsdaten zum Thema Streuobst- und Gehölzen in Bayern“ - in Teilzeit",
       "filtered": true
     },
     {
@@ -685,10 +704,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-der-fachrichtung-landschaftsoekologie--100153386",
       "title": "Ingenieur*in der Fachrichtung Landschaftsökologie",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/bildungsreferent-fuer-klima-umwelttechnik-und-weiterentwicklung--100153207",
-      "title": "Bildungsreferent/in für Klima, Umwelttechnik und Weiterentwicklung"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-naturschutzmanagement-in-teilzeit-als-elternzeitvertretung--100153403",
@@ -1741,10 +1756,6 @@
       "title": "Produktionsingenieur (m/w/d) Papier"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/messtechniker-fuer-arbeitsplatzmessungen-innenraumschadstoffe-und-gebaeudeschadstoffe--100152884",
-      "title": "Messtechniker für Arbeitsplatzmessungen, Innenraumschadstoffe und Gebäudeschadstoffe (w/m/d)"
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152880&anz=html&bl=gj",
       "title": "Projektentwickler im Außendienst (w/m/d)",
       "filtered": true
@@ -2066,6 +2077,11 @@
       "filtered": true
     },
     {
+      "url": "https://www.greenjobs.de/stellenanzeige/bundesfreiwilligendienst-bfd-in-der-oeffentlichkeitsarbeit--100153634",
+      "title": "Bundesfreiwilligendienst (BFD) in der Öffentlichkeitsarbeit (m/w/d)",
+      "filtered": true
+    },
+    {
       "url": "https://www.greenjobs.de/stellenanzeige/foejler-im-institutsbereich-produkte-stoffstroeme--100153511",
       "title": "FÖJler*in (m/w/d) im Institutsbereich Produkte & Stoffströme",
       "score": 39,
@@ -2283,24 +2299,100 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/analyst-sustainable-structured-finance--100153633",
-      "title": "Analyst (m/w/d) – Sustainable & Structured Finance",
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153662&anz=html&bl=gj",
+      "title": "Mitarbeiter (Mensch) Customer Support",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/umwelt-naturpaedagog-fuer-das-projekt-wald-und-wiesenuniversum-in-der-naturerlebniswerkstatt-humulus--100153635",
-      "title": "Umwelt-/ Naturpädagog*in für das Projekt „Wald- und Wiesenuniversum“ in der Naturerlebniswerkstatt Humulus",
+      "url": "https://www.greenjobs.de/stellenanzeige/verwaltungsassistenz-fuer-den-ernaehrungsrat-koeln--100153660",
+      "title": "Verwaltungsassistenz (m/w/d) für den Ernährungsrat Köln",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/landwirtschaftstechn-mitarbeiterin-mitarbeiter-projekt-fachliche-bewertung-von-streuobst-und-gehoelzen-gis-auswertung-und-validierung-von-erfassungsdaten-zum-thema-streuobst-und-gehoelzen-in-bayern-in-teilzeit--100153625",
-      "title": "Landwirtschaftstechn. Mitarbeiterin / Mitarbeiter (m/w/d) - Projekt „Fachliche Bewertung von Streuobst und Gehölzen; GIS-Auswertung und Validierung von Erfassungsdaten zum Thema Streuobst- und Gehölzen in Bayern“ - in Teilzeit",
+      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-recyclinghof--100153659",
+      "title": "Mitarbeiter Recyclinghof (m/w/d)",
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/bundesfreiwilligendienst-bfd-in-der-oeffentlichkeitsarbeit--100153634",
-      "title": "Bundesfreiwilligendienst (BFD) in der Öffentlichkeitsarbeit (m/w/d)",
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153661&anz=html&bl=gj",
+      "title": "Sachbearbeitung Umweltökonomische Gesamtrechnungen der Länder (w/m/d) im Referat » Umweltbeobachtung, Energie, Umweltökonomische Gesamtrechnungen «",
       "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/lagermitarbeiter--100143306",
+      "title": "Lagermitarbeiter:in (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/baumkontrolleur--100153658",
+      "title": "Baumkontrolleur*in",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/bund-botschafter-auf-selbststaendiger-basis--100153656",
+      "title": "BUND Botschafter*in auf selbstständiger Basis",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landwirtschaftliche-facharbeiterin-landwirtschaftlicher-facharbeiter--100153637",
+      "title": "Landwirtschaftliche Facharbeiterin / landwirtschaftlicher Facharbeiter (w/m/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/consultant-immobilienmanagement--100153641",
+      "title": "Consultant (m/w/d) Immobilienmanagement",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/mitgestalter-fuer-den-film-abenteuer-utopia--100153638",
+      "title": "Mitgestalter:innen für den Film „Abenteuer Utopia“",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsentwickler-naturschutz--100153636",
+      "title": "Landschaftsentwickler/in - Naturschutz (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/bfd-stellen-beim-umweltschutzamt-in-kiel--100153642",
+      "title": "BFD-Stellen (m/w/d) beim Umweltschutzamt in Kiel",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/philanthropy-officer--100153663",
+      "title": "Philanthropy Officer (gn)",
+      "score": 10,
+      "reasoning": "No direct match between candidate's technical skills and philanthropy role; significant reskilling needed."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/assistenz-der-geschaeftsfuehrung-kaufmaennische-assistenz-bueromanagement--100153657",
+      "title": "Assistenz der Geschäftsführung / Kaufmännische Assistenz / Büromanagement",
+      "score": 22,
+      "reasoning": "Poor match due to lack of relevant skills in finance, accounting, and German fluency; candidate's background is in geosciences and web development."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/nachhaltigkeitsexperte-esg--100153653",
+      "title": "Nachhaltigkeitsexperte / ESG (w/m/d)",
+      "score": 20,
+      "reasoning": "Title suggests senior role in sustainability, no direct link to candidate's core skills or experience; German fluency may be required."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/inside-sales-professional--100153652",
+      "title": "Inside Sales Professional (w/m/d)",
+      "score": 19,
+      "reasoning": "No direct skills or experience match; sales role unrelated to candidate's technical background and preferences."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/pruefingenieur-elektrotechnik-fuer-maschinensicherheit--100153646",
+      "title": "Prüfingenieur Elektrotechnik für Maschinensicherheit (w/m/d)",
+      "score": 0,
+      "reasoning": "No direct match; title implies electrical engineering focus, unrelated to candidate's geosciences and AI background."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachverstaendige-r-pruefingenieur-im-bereich-anlagensicherheit--100153647",
+      "title": "Sachverständige/-r / Prüfingenieur:in im Bereich Anlagensicherheit (m/w/d)",
+      "score": 20,
+      "reasoning": "Title implies senior role with strong German fluency and domain expertise in plant safety, which candidate lacks."
     }
   ]
 }

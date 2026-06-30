@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T09:49:20+00:00",
+  "updated_at": "2026-06-30T14:29:21+00:00",
   "jobs": [
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2668594",
@@ -12,6 +12,12 @@
       "title": "HSE-Advisor (m/w/d)",
       "score": 22,
       "reasoning": "Weak match due to lack of direct HSE experience and required seniority; geothermal context is the only overlap."
+    },
+    {
+      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2690743",
+      "title": "Project Engineer (m/w/d)",
+      "score": 58,
+      "reasoning": "Moderate fit due to geothermal and technical overlap; however, lacks direct experience in drilling and well operations, and requires more senior experience and stronger German fluency."
     },
     {
       "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/1623143",
@@ -116,12 +122,6 @@
       "title": "Umweltingenieur Genehmigungsmanagement (m/w/d)",
       "score": 42,
       "reasoning": "Moderate environmental engineering and geosciences overlap; however, role requires senior experience and strong German fluency, which candidate lacks."
-    },
-    {
-      "url": "https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/job/2690743",
-      "title": "Project Engineer (m/w/d)",
-      "score": 58,
-      "reasoning": "Moderate fit due to geothermal and technical overlap; however, lacks direct experience in drilling and well operations, and requires more senior experience and stronger German fluency."
     }
   ]
 }

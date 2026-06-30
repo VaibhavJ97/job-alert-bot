@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-06-30T09:50:46+00:00",
+  "updated_at": "2026-06-30T14:30:05+00:00",
   "jobs": [
     {
       "url": "https://careers.dekra.com/job/Beijing-Office-Project-Engineer/1358853755",
       "title": "Project Engineer",
       "score": 40,
       "reasoning": "Moderate match due to lack of direct job description content; however, 'Project Engineer' title may align with geosciences background, but seniority and specific skills are unclear."
-    },
-    {
-      "url": "https://careers.dekra.com/job/Beijing-Office-Specialist/1358766755",
-      "title": "Specialist",
-      "score": 20,
-      "reasoning": "Job title 'Specialist' is too vague; description lacks relevant details, and language options suggest potential strong German fluency requirement which candidate lacks."
-    },
-    {
-      "url": "https://careers.dekra.com/job/Guangzhou-Office-Assistant/1358752955",
-      "title": "Assistant",
-      "score": 20,
-      "reasoning": "Job title and description lack relevant details; no clear connection to candidate's skills or experience in geosciences, AI, or web development."
-    },
-    {
-      "url": "https://careers.dekra.com/job/Guangzhou-Office-Test-Engineer/1358752655",
-      "title": "Test Engineer",
-      "score": 20,
-      "reasoning": "Unrelated job title and description; no direct match with candidate's skills or experience in geosciences, AI, or web development."
     },
     {
       "url": "https://careers.dekra.com/job/Ningbo-Sales-Representative/1358872155",
@@ -42,6 +24,24 @@
       "title": "Sales Representative",
       "score": 10,
       "reasoning": "No relevant skills or experience for sales role; strong mismatch in job function and required skills."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Beijing-Office-Specialist/1358766755",
+      "title": "Specialist",
+      "score": 20,
+      "reasoning": "Job title 'Specialist' is too vague; description lacks relevant details, and language options suggest potential strong German fluency requirement which candidate lacks."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Guangzhou-Office-Assistant/1358752955",
+      "title": "Assistant",
+      "score": 20,
+      "reasoning": "Job title and description lack relevant details; no clear connection to candidate's skills or experience in geosciences, AI, or web development."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Guangzhou-Office-Test-Engineer/1358752655",
+      "title": "Test Engineer",
+      "score": 20,
+      "reasoning": "Unrelated job title and description; no direct match with candidate's skills or experience in geosciences, AI, or web development."
     }
   ]
 }

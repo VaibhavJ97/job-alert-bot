@@ -1,52 +1,6 @@
 {
-  "updated_at": "2026-06-30T09:50:17+00:00",
+  "updated_at": "2026-06-30T14:29:53+00:00",
   "jobs": [
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031657-travel-co-ordinator",
-      "title": "Travel Co-ordinator",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031646-assistente-t%C3%A9cnico",
-      "title": "Assistente Técnico",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031493-procurement-sourcing-specialist-europe-africa-region",
-      "title": "Procurement Sourcing Specialist - Europe Africa Region",
-      "score": 10,
-      "reasoning": "No direct skills or experience match; procurement role unrelated to candidate's geosciences, AI, or web development background."
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031316-t%C3%A9cnico-de-campo-ii",
-      "title": "Técnico de Campo II",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031071-receptioniste",
-      "title": "Receptioniste",
-      "score": 0,
-      "reasoning": "No relevant skills or experience for a Receptioniste role."
-    },
-    {
-      "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
-      "title": "Create an account"
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0030716-ger%C3%A4tef%C3%BChrer-o.-bohrger%C3%A4tef%C3%BChrer-f%C3%BCr-drucksondierungen-m-w-d-quereinsteiger",
-      "title": "Geräteführer o. Bohrgeräteführer für Drucksondierungen (m/w/d) / Quereinsteiger",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0029340-ger%C3%A4tef%C3%BChrer-facharbeiter-f%C3%BCr-drucksondierungen-m-w-d",
-      "title": "Geräteführer/ Facharbeiter für Drucksondierungen (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0021735-ger%C3%A4tef%C3%BChrer-o.-bohrger%C3%A4tef%C3%BChrer-f%C3%BCr-drucksondierungen-m-w-d-quereinsteiger",
-      "title": "Geräteführer o. Bohrgeräteführer für Drucksondierungen (m/w/d) / Quereinsteiger",
-      "filtered": true
-    },
     {
       "url": "https://www.fugro.com/careers/jobs/R0030796-junior-consultant-environment-m-w-d",
       "title": "Junior Consultant Environment (m/w/d)",
@@ -60,6 +14,16 @@
       "reasoning": "Moderate geosciences fit, but role requires experienced level and strong hydrogeology background, which is not directly evident in the candidate's CV; German language skills may also be a limitation."
     },
     {
+      "url": "https://www.fugro.com/careers/jobs/R0030716-ger%C3%A4tef%C3%BChrer-o.-bohrger%C3%A4tef%C3%BChrer-f%C3%BCr-drucksondierungen-m-w-d-quereinsteiger",
+      "title": "Geräteführer o. Bohrgeräteführer für Drucksondierungen (m/w/d) / Quereinsteiger",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0029340-ger%C3%A4tef%C3%BChrer-facharbeiter-f%C3%BCr-drucksondierungen-m-w-d",
+      "title": "Geräteführer/ Facharbeiter für Drucksondierungen (m/w/d)",
+      "filtered": true
+    },
+    {
       "url": "https://www.fugro.com/careers/jobs/R0028219-geotechnical-engineer-m-w-d",
       "title": "Geotechnical Engineer (m/w/d)",
       "score": 58,
@@ -70,6 +34,25 @@
       "title": "Geotechnical Engineer (m/w/d)",
       "score": 59,
       "reasoning": "Moderate geology and geospatial skills fit; however, role requires strong German fluency (A2 is insufficient), relevant work experience, and specific geotechnical expertise, which are not strongly represented in the candidate's profile."
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0021735-ger%C3%A4tef%C3%BChrer-o.-bohrger%C3%A4tef%C3%BChrer-f%C3%BCr-drucksondierungen-m-w-d-quereinsteiger",
+      "title": "Geräteführer o. Bohrgeräteführer für Drucksondierungen (m/w/d) / Quereinsteiger",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031657-travel-co-ordinator",
+      "title": "Travel Co-ordinator",
+      "filtered": true
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031646-assistente-t%C3%A9cnico",
+      "title": "Assistente Técnico",
+      "filtered": true
+    },
+    {
+      "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
+      "title": "Create an account"
     }
   ]
 }

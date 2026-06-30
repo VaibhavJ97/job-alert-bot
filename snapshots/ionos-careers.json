@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T09:48:54+00:00",
+  "updated_at": "2026-06-30T14:28:28+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -42,6 +42,11 @@
       "title": "Reset filter",
       "score": 50,
       "reasoning": "No specific job title provided for evaluation."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4750203101-customer-retention-and-telesales-specialist",
+      "title": "Customer Retention and Telesales Specialist",
+      "filtered": true
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4684000101-site-reliability-engineer-fmd",
@@ -165,11 +170,6 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4750203101-customer-retention-and-telesales-specialist",
-      "title": "Customer Retention and Telesales Specialist",
-      "filtered": true
     }
   ]
 }
