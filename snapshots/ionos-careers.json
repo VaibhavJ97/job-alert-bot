@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T04:03:43+00:00",
+  "updated_at": "2026-06-30T09:48:54+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -165,6 +165,11 @@
       "title": "Privacy Policy",
       "score": 0,
       "reasoning": "No relevant skills or experience match the job title 'Privacy Policy'."
+    },
+    {
+      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4750203101-customer-retention-and-telesales-specialist",
+      "title": "Customer Retention and Telesales Specialist",
+      "filtered": true
     }
   ]
 }

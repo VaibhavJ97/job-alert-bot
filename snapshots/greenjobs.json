@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T04:03:48+00:00",
+  "updated_at": "2026-06-30T09:49:05+00:00",
   "jobs": [
     {
       "url": "https://www.greenjobs.de/stellenanzeige/managing-consultant-eisenbahnpolitik--100153630",
@@ -26,11 +26,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/referent-schnittstelle-fuer-bildung-und-kommunikation-im-laendlichen-raum--100153626",
       "title": "Referent/-in (m/w/d) – Schnittstelle für Bildung und Kommunikation im ländlichen Raum",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/fachliche-bewertung-von-streuobst-und-gehoelzen-gis-auswertung-und-validierung-von-erfassungsdaten-zum-thema-streuobst-und-gehoelzen-in-bayern--100153625",
-      "title": "Fachliche Bewertung von Streuobst und Gehölzen; GIS-Auswertung und Validierung von Erfassungsdaten zum Thema Streuobst- und Gehölzen in Bayern",
       "filtered": true
     },
     {
@@ -666,11 +661,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-im-sachgebiet-handel-handwerk-abwassersysteme-und-umweltalarm--100153409",
       "title": "Ingenieur*in (m/w/d) im Sachgebiet Handel, Handwerk, Abwassersysteme und Umweltalarm",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153410&anz=html&bl=gj",
-      "title": "Projektmitarbeiter HR Personalentwicklung (m/w/d)",
       "filtered": true
     },
     {
@@ -2290,6 +2280,26 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/analyst-sustainable-structured-finance--100153633",
+      "title": "Analyst (m/w/d) – Sustainable & Structured Finance",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/umwelt-naturpaedagog-fuer-das-projekt-wald-und-wiesenuniversum-in-der-naturerlebniswerkstatt-humulus--100153635",
+      "title": "Umwelt-/ Naturpädagog*in für das Projekt „Wald- und Wiesenuniversum“ in der Naturerlebniswerkstatt Humulus",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/landwirtschaftstechn-mitarbeiterin-mitarbeiter-projekt-fachliche-bewertung-von-streuobst-und-gehoelzen-gis-auswertung-und-validierung-von-erfassungsdaten-zum-thema-streuobst-und-gehoelzen-in-bayern-in-teilzeit--100153625",
+      "title": "Landwirtschaftstechn. Mitarbeiterin / Mitarbeiter (m/w/d) - Projekt „Fachliche Bewertung von Streuobst und Gehölzen; GIS-Auswertung und Validierung von Erfassungsdaten zum Thema Streuobst- und Gehölzen in Bayern“ - in Teilzeit",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/bundesfreiwilligendienst-bfd-in-der-oeffentlichkeitsarbeit--100153634",
+      "title": "Bundesfreiwilligendienst (BFD) in der Öffentlichkeitsarbeit (m/w/d)",
       "filtered": true
     }
   ]

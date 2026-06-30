@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-06-30T04:04:33+00:00",
+  "updated_at": "2026-06-30T09:50:46+00:00",
   "jobs": [
+    {
+      "url": "https://careers.dekra.com/job/Beijing-Office-Project-Engineer/1358853755",
+      "title": "Project Engineer",
+      "score": 40,
+      "reasoning": "Moderate match due to lack of direct job description content; however, 'Project Engineer' title may align with geosciences background, but seniority and specific skills are unclear."
+    },
     {
       "url": "https://careers.dekra.com/job/Beijing-Office-Specialist/1358766755",
       "title": "Specialist",
@@ -20,22 +26,22 @@
       "reasoning": "Unrelated job title and description; no direct match with candidate's skills or experience in geosciences, AI, or web development."
     },
     {
-      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647855",
+      "url": "https://careers.dekra.com/job/Ningbo-Sales-Representative/1358872155",
+      "title": "Sales Representative",
+      "score": 10,
+      "reasoning": "No direct skills or experience match; sales role is unrelated to candidate's technical background and preferences."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Wenzhou-Office-Test-Engineer/1358872455",
       "title": "Test Engineer",
       "score": 29,
       "reasoning": "Unrelated job title and description; no direct match with candidate's core skills or experience."
     },
     {
-      "url": "https://careers.dekra.com/job/Shanghai-Jiading-Test-Engineer/1356647955",
-      "title": "Test Engineer",
-      "score": 20,
-      "reasoning": "Unrelated job title and description; no direct geosciences, GIS, or AI engineering match."
-    },
-    {
-      "url": "https://careers.dekra.com/job/Beijing-Office-Project-Engineer/1358853755",
-      "title": "Project Engineer",
-      "score": 40,
-      "reasoning": "Moderate match due to lack of direct job description content; however, 'Project Engineer' title may align with geosciences background, but seniority and specific skills are unclear."
+      "url": "https://careers.dekra.com/job/Shanghai-Jing&apos;an-Sales-Representative/1358872555",
+      "title": "Sales Representative",
+      "score": 10,
+      "reasoning": "No relevant skills or experience for sales role; strong mismatch in job function and required skills."
     }
   ]
 }

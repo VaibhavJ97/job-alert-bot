@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T04:04:03+00:00",
+  "updated_at": "2026-06-30T09:49:41+00:00",
   "jobs": [
     {
       "url": "https://jobs.frequentis.com/careers/SearchJobs",
@@ -160,6 +160,17 @@
       "url": "https://www.linkedin.com/jobs/search/?f_C=15158&locationId=OTHERS.worldwide",
       "title": "(no title)",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3405",
+      "title": "Apply to Network Engineer - Customer Service",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/FSS-Network-Engineer-Customer-Service-ATM/3405",
+      "title": "Network Engineer - Customer Service",
+      "score": 20,
+      "reasoning": "Weak match due to lack of direct network engineering experience and limited relevance of geosciences background to the role; customer service focus and network engineering requirements are a significant departure from the candidate's skills and experience."
     }
   ]
 }

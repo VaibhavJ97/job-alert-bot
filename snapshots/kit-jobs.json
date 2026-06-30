@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T04:03:49+00:00",
+  "updated_at": "2026-06-30T09:49:12+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -189,6 +189,12 @@
       "title": "Strahlenschutzingenieurin / Strahlenschutzingenieur (w/m/d)",
       "score": 22,
       "reasoning": "Poor match due to lack of direct experience in Strahlenschutz and limited German fluency; role requires strong understanding of atom- and strahlenschutzrechtliche Vorgaben."
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170553/referentinreferent-wmd-fur-studiengangsmanagement-koordination-teilzeit-50",
+      "title": "Referentin/Referent (w/m/d) für Studiengangsmanagement & - koordination",
+      "score": 20,
+      "reasoning": "Poor fit due to lack of direct relevance to candidate's skills and experience in geosciences, AI, or web development; role requires strong administrative and coordination skills in a specific academic context, and German fluency is likely essential."
     }
   ]
 }
