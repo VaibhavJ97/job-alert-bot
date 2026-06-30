@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T20:08:08+00:00",
+  "updated_at": "2026-06-30T04:04:33+00:00",
   "jobs": [
     {
       "url": "https://careers.dekra.com/job/Beijing-Office-Specialist/1358766755",
@@ -30,6 +30,12 @@
       "title": "Test Engineer",
       "score": 20,
       "reasoning": "Unrelated job title and description; no direct geosciences, GIS, or AI engineering match."
+    },
+    {
+      "url": "https://careers.dekra.com/job/Beijing-Office-Project-Engineer/1358853755",
+      "title": "Project Engineer",
+      "score": 40,
+      "reasoning": "Moderate match due to lack of direct job description content; however, 'Project Engineer' title may align with geosciences background, but seniority and specific skills are unclear."
     }
   ]
 }

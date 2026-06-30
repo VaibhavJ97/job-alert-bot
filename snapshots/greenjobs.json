@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-29T20:05:28+00:00",
+  "updated_at": "2026-06-30T04:03:48+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/managing-consultant-eisenbahnpolitik--100153630",
+      "title": "Managing Consultant (gn) Eisenbahnpolitik",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-im-bereich-der-verkehrssicherung-der-sparte-bundesforst--100153629",
       "title": "Sachbearbeitung im Bereich der Verkehrssicherung der Sparte Bundesforst (w/m/d)",
@@ -1136,10 +1141,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektingenieur-im-bereich-umweltplanung-und-ausgleichsflaechen--100153234",
-      "title": "Projektingenieur*in im Bereich Umweltplanung und Ausgleichsflächen (w/m/d)"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiterin-sachbearbeiter-fuer-gewaesserkunde--100153235",
       "title": "Sachbearbeiterin / Sachbearbeiter für Gewässerkunde (m/w/d)"
     },
@@ -1448,10 +1449,6 @@
       "title": "Berater*in Saatgutproduktion"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/herausgehobene-sachbearbeitung-waldbau-bzw-waldbautrainer-waldbautrainerin--100153114",
-      "title": "Herausgehobene Sachbearbeitung Waldbau bzw. Waldbautrainer / Waldbautrainerin (w/m/d)"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/referent-verband-politik--100153105",
       "title": "Referent (m/w/d) Verband & Politik"
     },
@@ -1510,10 +1507,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/verstaerkung-fuer-unser-team-im-bereich-planung-von-kompensationsmassnahmen--100152405",
       "title": "Verstärkung für unser Team im Bereich Planung von Kompensationsmaßnahmen (w/m/d)",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeitung-technische-produktion--100153072",
-      "title": "Sachbearbeitung technische Produktion (w/m/d)"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/tieroekologe-artenschuetzer--100149787",
@@ -1836,11 +1829,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100152796&anz=html&bl=gj",
-      "title": "Treasury Specialist (m/w/d) Projektfinanzierung Erneuerbare Energien",
-      "filtered": true
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152045&anz=html&bl=gj",
       "title": "Verstärkung im Bereich der Technik hochenergieeffizienter Gebäude (m/w/d)",
       "filtered": true
@@ -1848,11 +1836,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152782&anz=html&bl=gj",
       "title": "Referent Unternehmenskommunikation (m/w/d) Schwerpunkt Corporate Publishing"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/umweltplaner--100140690",
-      "title": "Umweltplaner (m/w/d)",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/landwirtschaftsberater-schwerpunkt-agrar--100152779",
@@ -2307,11 +2290,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/managing-consultant-eisenbahnpolitik--100153630",
-      "title": "Managing Consultant (gn) Eisenbahnpolitik",
       "filtered": true
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T20:08:32+00:00",
+  "updated_at": "2026-06-30T04:04:53+00:00",
   "jobs": [
     {
       "url": "https://www.unternehmertum.de/jobs/2679410",
@@ -26,6 +26,12 @@
       "filtered": true
     },
     {
+      "url": "https://www.unternehmertum.de/jobs/2691105",
+      "title": "Werkstundent_in (m/w/d) Marketing & Communications Munich Urban Colab München Kreativquartier Teilzeit",
+      "score": 22,
+      "reasoning": "Weak match due to lack of marketing background and German fluency; candidate's geosciences and AI skills are not directly applicable to the marketing role."
+    },
+    {
       "url": "https://www.unternehmertum.de/jobs/2420405",
       "title": "UVC Partners: Junior Investment Analyst Venture Capital Intern (f/m/x) München Kreativquartier Vollzeit"
     },
@@ -36,12 +42,6 @@
     {
       "url": "https://www.unternehmertum.de/jobs/2570366",
       "title": "Program Coordinator – Entrepreneurship & Innovation Education (m/f/d) München Kreativquartier Vollzeit"
-    },
-    {
-      "url": "https://www.unternehmertum.de/jobs/2691105",
-      "title": "Werkstundent_in (m/w/d) Marketing & Communications Munich Urban Colab München Kreativquartier Teilzeit",
-      "score": 22,
-      "reasoning": "Weak match due to lack of marketing background and German fluency; candidate's geosciences and AI skills are not directly applicable to the marketing role."
     }
   ]
 }
