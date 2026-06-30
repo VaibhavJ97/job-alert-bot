@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T14:30:14+00:00",
+  "updated_at": "2026-06-30T20:05:40+00:00",
   "jobs": [
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4845999101",
@@ -112,6 +112,12 @@
       "title": "Junior Email Marketing Specialist Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia"
     },
     {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4888935101",
+      "title": "Office Assistant in Cyprus",
+      "score": 10,
+      "reasoning": "Unrelated job title and description; no match with candidate's technical skills or domain experience."
+    },
+    {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4859108101",
       "title": "Outsourcing Talent Partner Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
     },
@@ -147,6 +153,12 @@
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4867022101",
       "title": "QA Engineer (Toolbox QA) Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Warsaw, Poland; Yerevan, Armenia"
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4907234101",
+      "title": "QA Performance Engineer (YouTrack)",
+      "score": 40,
+      "reasoning": "Some skill overlap in programming and analytical thinking, but role requires strong performance testing and QA experience, which is not prominent in the candidate's background."
     },
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4754978101",
@@ -195,18 +207,6 @@
     {
       "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4724893101",
       "title": "YouTrack Internal Automation Engineer"
-    },
-    {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4888935101",
-      "title": "Office Assistant in Cyprus",
-      "score": 10,
-      "reasoning": "Unrelated job title and description; no match with candidate's technical skills or domain experience."
-    },
-    {
-      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4907234101",
-      "title": "QA Performance Engineer (YouTrack)",
-      "score": 40,
-      "reasoning": "Some skill overlap in programming and analytical thinking, but role requires strong performance testing and QA experience, which is not prominent in the candidate's background."
     }
   ]
 }

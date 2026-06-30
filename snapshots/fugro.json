@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T14:29:53+00:00",
+  "updated_at": "2026-06-30T20:05:26+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0030796-junior-consultant-environment-m-w-d",
@@ -46,13 +46,13 @@
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0031646-assistente-t%C3%A9cnico",
-      "title": "Assistente Técnico",
-      "filtered": true
-    },
-    {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0031573-intern-estagi%C3%A1rio",
+      "title": "Intern\\ Estagiário",
+      "filtered": true
     }
   ]
 }

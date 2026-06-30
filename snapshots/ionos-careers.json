@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T14:28:28+00:00",
+  "updated_at": "2026-06-30T20:04:47+00:00",
   "jobs": [
     {
       "url": "https://jobs.ionos.de/career/about-us",
@@ -47,12 +47,6 @@
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4750203101-customer-retention-and-telesales-specialist",
       "title": "Customer Retention and Telesales Specialist",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4684000101-site-reliability-engineer-fmd",
-      "title": "Site Reliability Engineer (f/m/d)",
-      "score": 39,
-      "reasoning": "Some skill overlap in programming and web development, but role requires senior experience and strong system reliability skills, which are not evident in the candidate's CV."
     },
     {
       "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/4789603101-ai-developer-with-python-for-customer-care-ai-platform-team-hybrid",

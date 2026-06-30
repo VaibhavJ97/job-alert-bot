@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T14:30:33+00:00",
+  "updated_at": "2026-06-30T20:05:56+00:00",
   "jobs": [
     {
       "url": "https://jobs.lever.co/qonto/0ab70c9e-e5c1-4ae5-b600-d17d422c0669",
@@ -39,6 +39,11 @@
       "title": "Junior AML - Transaction Monitoring - Spanish market 🇪🇸"
     },
     {
+      "url": "https://jobs.lever.co/qonto/88feecdd-c4dc-410b-9e8f-bd87953240a6",
+      "title": "People Data & Analytics Officer",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.lever.co/qonto/8d8ae848-518f-4817-9d79-2eec229aef86",
       "title": "Risk and Prudential Expert"
     },
@@ -49,11 +54,6 @@
     {
       "url": "https://jobs.lever.co/qonto/e0ee4eec-bac4-4d92-87b6-8816a0c91580",
       "title": "Zendesk Administrator"
-    },
-    {
-      "url": "https://jobs.lever.co/qonto/88feecdd-c4dc-410b-9e8f-bd87953240a6",
-      "title": "People Data & Analytics Officer",
-      "filtered": true
     }
   ]
 }
