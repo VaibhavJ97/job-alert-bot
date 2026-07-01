@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T20:04:54+00:00",
+  "updated_at": "2026-07-01T04:19:51+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -19,18 +19,6 @@
       "reasoning": "Poor match due to unrelated field of study and work experience; candidate's geosciences and AI background does not align with the job's requirements in fine arts and design."
     },
     {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170068/akademische-mitarbeiterin-oder-akademischer-mitarbeiter-wmd-75-teilzeit-mit-der-moglichkeit-zur-berufsbegleitenden-promotion",
-      "title": "Akademische Mitarbeiterin oder Akademischer Mitarbeiter (w/m/d)",
-      "score": 40,
-      "reasoning": "Moderate match due to geosciences background, but role requires strong materials science and battery technology expertise, lacking in candidate's experience; also, strong German fluency is required, which candidate lacks."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170286/akademische-ratin-akademischer-rat-wmd",
-      "title": "Akademische Rätin / Akademischer Rat (w/m/d)",
-      "score": 42,
-      "reasoning": "Some skill overlap in geosciences and data analysis, but role title implies senior academic position requiring strong German fluency and significant experience, which the candidate lacks."
-    },
-    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170598/chemisch-technische-assistenz-laborantin-laborant-wmd",
       "title": "Chemisch-Technische Assistenz, Laborantin / Laborant (w/m/d)",
       "score": 22,
@@ -41,12 +29,6 @@
       "title": "Coordinator (f/m/d) Research Infrastructure “KIAOS”",
       "score": 42,
       "reasoning": "Some skill overlap in geosciences and data management; however, role requires PhD, senior experience, and strong project management skills, which the candidate lacks."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170562/doktorandin-doktorand-wmd-im-bereich-nichtlineare-dynamik-vollzeit",
-      "title": "Doktorandin / Doktorand (w/m/d) im Bereich Nichtlineare Dynamik",
-      "score": 39,
-      "reasoning": "Moderate match due to some overlap in analytical and scientific skills; however, role requires strong mechanical engineering background, high German fluency (C1), and experience in nonlinear dynamics, which the candidate lacks."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170559/elektronikerin-fur-gerate-und-systeme-mwd",
@@ -70,12 +52,6 @@
       "title": "HPC Specialist for Usage Analysis, User Support and Software Licensing (f/m/d)",
       "score": 58,
       "reasoning": "Moderate fit due to some overlap in technical skills like Python and Linux; however, role requires strong HPC expertise and senior experience, which the candidate lacks."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170498/ingenieurin-maschinenbau-konstruktion-wmd",
-      "title": "Ingenieur/in Maschinenbau, Konstruktion (w/m/d)",
-      "score": 22,
-      "reasoning": "Poor match due to lack of mechanical engineering background and relevant work experience; German fluency is also below required level."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170573/msc-physics-chemistry-or-material-science-fmd-part-time-75",
@@ -104,12 +80,6 @@
       "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Verwaltung",
       "score": 22,
       "reasoning": "Poor match due to administrative role requiring strong German fluency (A2 is insufficient), Büromanagement expertise, and SAP experience, which are not present in the candidate's CV."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170332/mitarbeiterin-mitarbeiter-wmd-in-der-wissenschaft",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) in der Wissenschaft",
-      "score": 68,
-      "reasoning": "Good geosciences background, but job title implies a research-focused role which may require more seniority and stronger German fluency than the candidate possesses."
     },
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170552/mitarbeiterin-mitarbeiter-wmd-mit-schwerpunkt-medieninformatik-teilzeit-75",

@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-30T20:04:53+00:00",
+  "updated_at": "2026-07-01T04:19:49+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/bauingenieurin-bauingenieur-wasserwirtschaft-tiefbau-oder-vergleichbar--100153666",
+      "title": "Bauingenieurin/Bauingenieur (m/w/d) Wasserwirtschaft, Tiefbau oder vergleichbar",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/philanthropy-officer--100153663",
       "title": "Philanthropy Officer (gn)",
@@ -1050,14 +1055,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/doktorat-dynamik-von-gebirgswaeldern--100153317",
-      "title": "Doktorat (m/w/d) Dynamik von Gebirgswäldern"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftlicher-mitarbeiter-mit-promotion-im-bereich-vegetationsoekologie-interreg-alpine-space-projekt-afteralpineice-in-teilzeit--100153316",
-      "title": "Wissenschaftlicher Mitarbeiter mit Promotion (m/w/d) im Bereich Vegetationsökologie - Interreg Alpine Space Projekt \"AfterAlpineIce\" - in Teilzeit"
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153319&anz=html&bl=gj",
       "title": "Team-Assistenz Markt & Internationales (w/m/d) - in Teilzeit"
     },
@@ -1309,18 +1306,9 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-verkehrsbezogener-immissionsschutz-laermaktionsplanung--100153215",
-      "title": "Mitarbeiter*in Verkehrsbezogener Immissionsschutz, Lärmaktionsplanung",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/verstaerkung-im-team-landschaftsplanung-und-umweltplanung--100153211",
       "title": "Verstärkung im Team Landschaftsplanung und Umweltplanung (m/w/d)",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/finance-und-controlling-officer--100153210",
-      "title": "Finance und Controlling Officer (gn)"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/fahrrad-kurier-gemuesekistenausliefer-mit-e-bike-pedelec-trike-in-teilzeit-als-mini-midijob--100153208",
@@ -1481,18 +1469,8 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/fachkraft-fuer-projektorganisation-projekt-berliner-baumbeet-mit-pinkelstein--100153145",
-      "title": "Fachkraft für Projektorganisation (m/w/d) - Projekt „Berliner Baumbeet mit Pinkelstein“",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/friedhofsgaertner--100153144",
       "title": "Friedhofsgärtner (m/w/d)"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-m-w-d-assistenz-der-geschaeftsfuehrung-mit-den-schwerpunkten-waldentwicklung-und-oeffentlichkeitsarbeit--100153142",
-      "title": "Mitarbeiter*in (m, w, d) Assistenz der Geschäftsführung mit den Schwerpunkten Waldentwicklung und Öffentlichkeitsarbeit",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/fachexpertin-landschaftsplanung-umweltplanung--100153141",
@@ -1536,17 +1514,8 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/social-media-profi-in-teilzeit--100153121",
-      "title": "Social Media-Profi (m/w/d) - in Teilzeit",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/berater-saatgutproduktion--100153113",
       "title": "Berater*in Saatgutproduktion"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/referent-verband-politik--100153105",
-      "title": "Referent (m/w/d) Verband & Politik"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiter-im-aufgabenfeld-ausgleich-und-ersatz--100151800",
@@ -1578,15 +1547,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/mitarbeiter-im-team-kompensation--100153085",
       "title": "Mitarbeiter im Team Kompensation (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/dipl-ing-fh-bzw-bachelor-der-fachrichtung-gartenbau-oder-gleichwertige-fachrichtungen-in-teilzeit--100153081",
-      "title": "Dipl.-Ing. (FH) bzw. Bachelor (w/m/d) der Fachrichtung Gartenbau oder gleichwertige Fachrichtungen - in Teilzeit"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/it-netzwerkadministrator--100153077",
-      "title": "IT-Netzwerkadministrator*in (m/w/d)",
       "filtered": true
     },
     {
@@ -1637,12 +1597,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/berater--100153044",
       "title": "Berater/in (m/w/d)",
       "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/koordinator-laboranalytik-am-standort-ruhleben-befristet--100153046",
-      "title": "Koordinator:in Laboranalytik am Standort Ruhleben (w/m/d) – befristet",
-      "score": 20,
-      "reasoning": "Title implies lab analysis coordination role, which partially matches past experience, but lacks clear connection to candidate's core skills and preferred job areas; seniority and domain unclear."
     },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100153051&anz=html&bl=gj",
@@ -1809,11 +1763,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/umweltplaner--100151882",
-      "title": "Umweltplaner (m/w/d)",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/geologe--100152919",
       "title": "Geologe (m/w/d)"
     },
@@ -1896,40 +1845,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/umweltingenieur-geologe-o-ae--100152840",
-      "title": "Umweltingenieur/-in Geologe/-in o.ä. (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/forstingenieure-forsteinrichter-im-aussendienst--100152833",
-      "title": "Forstingenieure / Forsteinrichter im Außendienst (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsplaner--100152831",
-      "title": "Landschaftsplaner (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/technischer-projektinnendienst-logistik--100152830",
-      "title": "Technischer Projektinnendienst / Logistik (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100152829&anz=html&bl=gj",
-      "title": "Kaufmännischer Mitarbeiter im Handwerksbereich (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100152045&anz=html&bl=gj",
-      "title": "Verstärkung im Bereich der Technik hochenergieeffizienter Gebäude (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100152782&anz=html&bl=gj",
-      "title": "Referent Unternehmenskommunikation (m/w/d) Schwerpunkt Corporate Publishing"
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/landwirtschaftsberater-schwerpunkt-agrar--100152779",
       "title": "Landwirt­schafts­berater, Schwerpunkt Agrar (m/w/d)"
     },
@@ -1945,11 +1860,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/meister-techniker-elektrotechnik-als-sachverstaendiger-fuer-die-pruefung-elektrischer-anlagen--100152713",
       "title": "Meister / Techniker Elektrotechnik als Sachverständiger für die Prüfung elektrischer Anlagen (w/m/d)"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/freiberufliche-bildungsreferent-fuer-bne-und-globales-lernen--100152112",
-      "title": "Freiberufliche*r Bildungsreferent*in für BNE und globales Lernen",
-      "filtered": true
     },
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152690&anz=html&bl=gj",
@@ -1976,10 +1886,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/professur-fuer-waldpolitik-und-umweltrecht-besgr-w2--100152586",
-      "title": "Professur (m/w/d) für Waldpolitik und Umweltrecht (BesGr. W2)"
-    },
-    {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152589&anz=html&bl=gj",
       "title": "Ingenieur / Naturwissenschaftler Strahlenschutz (w/m/d)",
       "filtered": true
@@ -1987,11 +1893,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/aussendienstmitarbeiter-leh-westoesterreich--100152590",
       "title": "Außendienstmitarbeiter*in LEH Westösterreich",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/paedagogische-referent--100152543",
-      "title": "Pädagogische*r Referent*in",
       "filtered": true
     },
     {
@@ -2021,26 +1922,12 @@
       "title": "Meister / Techniker Elektrotechnik als Sachverständiger für die Prüfung elektrischer Anlagen (w/m/d)"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/w2-professur-standortkunde-und-allgemeine-geosysteme--100152316",
-      "title": "W2-Professur „Standortkunde und Allgemeine Geosysteme“"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/landschaftsarchitekt-planer-schwerpunkt-objektplanung-im-naturnahen-wasserbau--100151766",
-      "title": "Landschaftsarchitekt/ -planer (m/w/d) - Schwerpunkt: Objektplanung im naturnahen Wasserbau",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/sachverstaendige-r-explosionsschutz--100152290",
       "title": "Sachverständige/-r (m/w/d) Explosionsschutz"
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/auditor-fuer-treibhausgasbilanzierung--100152284",
       "title": "Auditor für Treibhausgasbilanzierung (w/m/d)"
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/berater-fuer-unternehmensentwicklung-verarbeitung-und-vermarktung-in-der-lebensmittelkette-getreide--100152244",
-      "title": "Berater/in (m/w/d) für Unternehmensentwicklung, Verarbeitung und Vermarktung in der Lebensmittelkette Getreide",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-als-sachverstaendiger-anlagensicherheit--100152141",
@@ -2163,11 +2050,6 @@
       "title": "Ingenieur Gebäudetechnik/Versorgungstechnik für Sicherheit Technische Gebäudeausrüstung (TGA)"
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/ingenieur-der-fachrichtung-vermessungswesen--100148698",
-      "title": "Ingenieur:innen (m/w/d) der Fachrichtung Vermessungswesen (m/w/d)",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/bfd-stellen-beim-umweltschutzamt-in-kiel--100153642",
       "title": "BFD-Stellen (m/w/d) beim Umweltschutzamt in Kiel",
       "filtered": true
@@ -2218,11 +2100,6 @@
       "filtered": true
     },
     {
-      "url": "https://www.greenjobs.de/stellenanzeige/bundesfreiwilligendienst-bfd-stelle--100153007",
-      "title": "Bundesfreiwilligendienst / BFD-Stelle (m/w/d)",
-      "filtered": true
-    },
-    {
       "url": "https://www.greenjobs.de/stellenanzeige/bundesfreiwilligendienstler--100152999",
       "title": "Bundesfreiwilligendienstler*innen",
       "filtered": true
@@ -2235,11 +2112,6 @@
     {
       "url": "https://www.eejobs.de/angebote/index.html?id=100152860&anz=html&bl=gj",
       "title": "Freiwilliges Ökologisches Jahr (FÖJ) – Event Management und Social Media",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/freiwilliges-oekologisches-jahr-foej-stelle--100152578",
-      "title": "Freiwilliges ökologisches Jahr / FÖJ-Stelle (m/w/d)",
       "filtered": true
     },
     {
@@ -2392,11 +2264,6 @@
     {
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/bauingenieurin-bauingenieur-wasserwirtschaft-tiefbau-oder-vergleichbar--100153666",
-      "title": "Bauingenieurin/Bauingenieur (m/w/d) Wasserwirtschaft, Tiefbau oder vergleichbar",
       "filtered": true
     }
   ]

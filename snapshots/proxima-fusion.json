@@ -1,72 +1,9 @@
 {
-  "updated_at": "2026-06-30T20:05:34+00:00",
+  "updated_at": "2026-07-01T04:20:25+00:00",
   "jobs": [
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/18456d3d-23cf-4bf2-becc-f180a8f65705",
-      "title": "Magnet Prototyping Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/186e4b2e-c2d9-455a-acc1-6550c65427fc",
-      "title": "Intern Enterprise AI Team",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/1b3967b3-48e9-493b-942e-7bca8bc9a46f",
-      "title": "Integration Engineer, Building Services & MEP (Mechanical, Electrical and Plumbing)",
-      "filtered": true
-    },
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/1b5ad75c-4c97-4a92-9150-ea8536c6b18d",
       "title": "Unsolicited Application",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/2810dcc6-770f-43a3-9fb6-d7c8a39a0833",
-      "title": "AI Solutions Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/2cf7cffc-40b6-4e19-b3f6-365b1b40aedb",
-      "title": "Mechanical Design Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/4143b760-6c31-4c07-824f-27ca65e60b1c",
-      "title": "Procurement Specialist"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/427ff7f8-622a-4f06-9425-21c3c003c4af",
-      "title": "Nuclear Design Safety Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/5723393e-96eb-4cbd-8780-ac0935f879f8",
-      "title": "Plasma Physicist",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/64390ed3-68d5-4c2f-be13-d27a06432c6c",
-      "title": "German Policy Specialist (Bavaria)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/66a241fd-808d-4206-a308-29797ef39690",
-      "title": "Burning Plasma Physicist",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/737a20f6-2325-4d3c-886c-00ea53c2e27c",
-      "title": "Plasma Material Interaction Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/744701a8-5693-4d04-a008-cd2649a105a3",
-      "title": "Instrumentation and Test Engineer",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/76fe53d6-92f9-47b1-a760-24f2cd8e1590",
-      "title": "Plasma Edge Transport Physicist",
       "filtered": true
     },
     {
@@ -75,17 +12,29 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/a6f8bf5a-d7dd-4b49-bcf6-8fdccccdd0cb",
-      "title": "Technician"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/aec0f06d-c402-4745-90c0-24d0e6b9932a",
-      "title": "Design Physicist",
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/5723393e-96eb-4cbd-8780-ac0935f879f8",
+      "title": "Plasma Physicist",
       "filtered": true
     },
     {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/af604395-078a-4f44-8a57-83cc4820babc",
-      "title": "German Policy Specialist"
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/2cf7cffc-40b6-4e19-b3f6-365b1b40aedb",
+      "title": "Mechanical Design Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/427ff7f8-622a-4f06-9425-21c3c003c4af",
+      "title": "Nuclear Design Safety Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/76fe53d6-92f9-47b1-a760-24f2cd8e1590",
+      "title": "Plasma Edge Transport Physicist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/1b3967b3-48e9-493b-942e-7bca8bc9a46f",
+      "title": "Integration Engineer, Building Services & MEP (Mechanical, Electrical and Plumbing)",
+      "filtered": true
     },
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/c44e48a6-0939-4043-ace2-8e5589c4fc70",
@@ -98,12 +47,28 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/ddf762f4-04cf-435d-8ad7-4bb9765f7c1e",
-      "title": "Lab Technician"
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/aec0f06d-c402-4745-90c0-24d0e6b9932a",
+      "title": "Design Physicist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/2810dcc6-770f-43a3-9fb6-d7c8a39a0833",
+      "title": "AI Solutions Engineer",
+      "filtered": true
     },
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/e8e6463c-9890-49dd-903c-dc3006d18dce",
       "title": "Engineering Program Associate"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/737a20f6-2325-4d3c-886c-00ea53c2e27c",
+      "title": "Plasma Material Interaction Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/744701a8-5693-4d04-a008-cd2649a105a3",
+      "title": "Instrumentation and Test Engineer",
+      "filtered": true
     },
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/ec5e8a17-0b41-4448-adc0-ed4308f9d422",
@@ -111,12 +76,47 @@
       "filtered": true
     },
     {
-      "url": "https://jobs.ashbyhq.com/proxima-fusion/f48e607d-3209-469c-a471-741e0eff5273",
-      "title": "Electrical Technician, Magnet Systems"
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/af604395-078a-4f44-8a57-83cc4820babc",
+      "title": "German Policy Specialist"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/18456d3d-23cf-4bf2-becc-f180a8f65705",
+      "title": "Magnet Prototyping Engineer",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/a6f8bf5a-d7dd-4b49-bcf6-8fdccccdd0cb",
+      "title": "Technician"
     },
     {
       "url": "https://jobs.ashbyhq.com/proxima-fusion/ff2f1cb1-835d-4166-b303-cc7b01bc6f80",
       "title": "Manufacturing Engineer (Temporary ITER Secondment Program)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/4143b760-6c31-4c07-824f-27ca65e60b1c",
+      "title": "Procurement Specialist"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/186e4b2e-c2d9-455a-acc1-6550c65427fc",
+      "title": "Intern Enterprise AI Team",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/64390ed3-68d5-4c2f-be13-d27a06432c6c",
+      "title": "German Policy Specialist (Bavaria)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/66a241fd-808d-4206-a308-29797ef39690",
+      "title": "Burning Plasma Physicist",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/f48e607d-3209-469c-a471-741e0eff5273",
+      "title": "Electrical Technician, Magnet Systems"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/ddf762f4-04cf-435d-8ad7-4bb9765f7c1e",
+      "title": "Lab Technician"
     }
   ]
 }
