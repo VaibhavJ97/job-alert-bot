@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T04:19:49+00:00",
+  "updated_at": "2026-07-01T09:58:34+00:00",
   "jobs": [
     {
       "url": "https://www.greenjobs.de/stellenanzeige/bauingenieurin-bauingenieur-wasserwirtschaft-tiefbau-oder-vergleichbar--100153666",
@@ -42,11 +42,6 @@
       "title": "Assistenz der Geschäftsführung / Kaufmännische Assistenz / Büromanagement",
       "score": 22,
       "reasoning": "Poor match due to lack of relevant skills in finance, accounting, and German fluency; candidate's background is in geosciences and web development."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/baumkontrolleur--100153658",
-      "title": "Baumkontrolleur*in",
-      "filtered": true
     },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/bund-botschafter-auf-selbststaendiger-basis--100153656",
@@ -2265,6 +2260,38 @@
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
       "filtered": true
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153673&anz=html&bl=gj",
+      "title": "Mitarbeiter (Mensch) Accounting",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/verwaltungskraft--100153672",
+      "title": "Verwaltungskraft (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/ingenieurin-ingenieur-fachrichtung-agrar-bzw-umweltwissenschaften-wasserwirtschaft-geologie-geographie--100152631",
+      "title": "Ingenieurin / Ingenieur (m/w/d) - Fachrichtung: Agrar- bzw. Umweltwissenschaften, Wasserwirtschaft, Geologie, Geographie",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/berater-bio-ackerbau-niederbayern-und-angrenzende-gebiete--100153668",
+      "title": "Berater*in Bio-Ackerbau Niederbayern und angrenzende Gebiete (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiter-referent-im-bereich-agrarforschung--100153674",
+      "title": "Wissenschaftliche:r Mitarbeiter:in / Referent:in (m/w/d) im Bereich Agrarforschung",
+      "score": 20,
+      "reasoning": "Title implies senior research role in agricultural research, which is unrelated to candidate's geosciences and AI background; senior experience also lacking."
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/fachkraft-fuer-wasserwirtschaft-bzw-abwasserwirtschaft-oder-kulturbautechniker-im-hydrologieteam--100153671",
+      "title": "Fachkraft für Wasserwirtschaft bzw. Abwasserwirtschaft oder Kulturbautechniker/in (im Hydrologieteam)",
+      "score": 40,
+      "reasoning": "Moderate match due to geosciences background, but title implies senior role or specialized expertise in water management, which is not directly evident in the candidate's experience."
     }
   ]
 }

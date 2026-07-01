@@ -1,10 +1,6 @@
 {
-  "updated_at": "2026-07-01T04:20:35+00:00",
+  "updated_at": "2026-07-01T09:59:22+00:00",
   "jobs": [
-    {
-      "url": "https://netlution.jobs.personio.de/job/2648794",
-      "title": "Security Expert (w/m/d) vor Ort in Dresden"
-    },
     {
       "url": "https://netlution.jobs.personio.de/job/2648709",
       "title": "DevOps Engineer – Platform Operations (m/w/d) vor Ort in Berlin"
@@ -12,10 +8,6 @@
     {
       "url": "https://netlution.jobs.personio.de/job/2649272",
       "title": "DevOps Engineer – Platform Operations (m/w/d) vor Ort in St. Leon-Rot"
-    },
-    {
-      "url": "https://netlution.jobs.personio.de/job/2630450",
-      "title": "Full-Stack Software Engineer (Go / Vue.js) – Remote (m/w/d) | Befristet auf 2 Jahre"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T04:20:15+00:00",
+  "updated_at": "2026-07-01T09:59:04+00:00",
   "jobs": [
     {
       "url": "https://www.fugro.com/careers/jobs/R0031573-intern-estagi%C3%A1rio",
@@ -29,30 +29,14 @@
       "filtered": true
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0028219-geotechnical-engineer-m-w-d",
-      "title": "Geotechnical Engineer (m/w/d)",
-      "score": 58,
-      "reasoning": "Moderate geology and geotechnical overlap; however, role emphasizes fieldwork, lab analysis, and project management, which is not the candidate's primary experience. German fluency is also a concern."
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0028218-geotechnical-engineer-m-w-d",
-      "title": "Geotechnical Engineer (m/w/d)",
-      "score": 59,
-      "reasoning": "Moderate geology and geospatial skills fit; however, role requires strong German fluency (A2 is insufficient), relevant work experience, and specific geotechnical expertise, which are not strongly represented in the candidate's profile."
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0021735-ger%C3%A4tef%C3%BChrer-o.-bohrger%C3%A4tef%C3%BChrer-f%C3%BCr-drucksondierungen-m-w-d-quereinsteiger",
-      "title": "Geräteführer o. Bohrgeräteführer für Drucksondierungen (m/w/d) / Quereinsteiger",
-      "filtered": true
-    },
-    {
-      "url": "https://www.fugro.com/careers/jobs/R0031657-travel-co-ordinator",
-      "title": "Travel Co-ordinator",
-      "filtered": true
-    },
-    {
       "url": "https://fugro.wd3.myworkdayjobs.com/en-US/Careers/login?redirect=%2Fen-US%2FCareers%2FjobAlerts",
       "title": "Create an account"
+    },
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0030730-testing-engineer",
+      "title": "Testing Engineer",
+      "score": 29,
+      "reasoning": "Weak match due to lack of direct experience in marine technology, testing, or relevant industry; candidate's geosciences and AI background not directly applicable to the Testing Engineer role."
     }
   ]
 }
