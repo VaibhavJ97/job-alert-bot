@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T14:47:41+00:00",
+  "updated_at": "2026-07-01T20:02:28+00:00",
   "jobs": [
     {
       "url": "https://jobs.pse.kit.edu/en/jobs/170597/academic-research-assistant-position-phd-candidate-fmd-chair-of-economic-policy-part-time-70",
@@ -93,6 +93,17 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170616/mitarbeiterin-mitarbeiter-in-der-verwaltung-wmd-teilzeit-90",
+      "title": "Mitarbeiterin / Mitarbeiter in der Verwaltung (w/m/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.pse.kit.edu/en/jobs/170618/phd-position-fmd-hyperion-msc-mechanical-engineering-electrical-engineering",
+      "title": "PhD Position (f/m/d) - HyPERiON",
+      "score": 20,
+      "reasoning": "Weak match due to mismatched field of study (Applied Geosciences vs Mechanical/Electrical Engineering) and lack of relevant experience in RF engineering, CMOS, or magnetic resonance imaging/spectroscopy."
+    },
+    {
       "url": "https://jobs.pse.kit.edu/en/jobs/170607/phd-position-fmd-in-applied-geosciences-pattern-recognition-in-das-data",
       "title": "PhD Position (f/m/d) in Applied Geosciences: Pattern recognition in DAS data",
       "filtered": true
@@ -165,17 +176,6 @@
       "title": "Strahlenschutzingenieurin / Strahlenschutzingenieur (w/m/d)",
       "score": 22,
       "reasoning": "Poor match due to lack of direct experience in Strahlenschutz and limited German fluency; role requires strong understanding of atom- and strahlenschutzrechtliche Vorgaben."
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170616/mitarbeiterin-mitarbeiter-in-der-verwaltung-wmd-teilzeit-90",
-      "title": "Mitarbeiterin / Mitarbeiter in der Verwaltung (w/m/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.pse.kit.edu/en/jobs/170618/phd-position-fmd-hyperion-msc-mechanical-engineering-electrical-engineering",
-      "title": "PhD Position (f/m/d) - HyPERiON",
-      "score": 20,
-      "reasoning": "Weak match due to mismatched field of study (Applied Geosciences vs Mechanical/Electrical Engineering) and lack of relevant experience in RF engineering, CMOS, or magnetic resonance imaging/spectroscopy."
     }
   ]
 }

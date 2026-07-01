@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-07-01T14:47:33+00:00",
+  "updated_at": "2026-07-01T20:02:27+00:00",
   "jobs": [
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/projektkoordinator-digitale-technologien-im-agri-food-sektor--100153685",
+      "title": "Projektkoordinator/in (m/w/d) Digitale Technologien im Agri- & Food-Sektor",
+      "score": 20,
+      "reasoning": "Title suggests project coordination role in agriculture/food sector, unrelated to candidate's core skills and experience in geosciences, AI, and web development."
+    },
+    {
+      "url": "https://www.eejobs.de/angebote/index.html?id=100153684&anz=html&bl=gj",
+      "title": "Gebäudeenergieberater (m/w/d) individueller Sanierungsfahrplan (iSFP)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/projektreferent-flaechensicherung--100153682",
+      "title": "Projektreferent (m/w/d) Flächensicherung",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/baumkontrolleure-mitarbeiter-baumkontrolle--100153679",
+      "title": "Baumkontrolleure / Mitarbeiter Baumkontrolle (m/w/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiterin-sachbearbeiter-fuer-den-bereich-freiflaechenplanung-und-bau--100153678",
+      "title": "Sachbearbeiterin / Sachbearbeiter für den Bereich Freiflächenplanung und -bau (w/m/d)",
+      "filtered": true
+    },
+    {
+      "url": "https://www.greenjobs.de/stellenanzeige/nette-liebevolle-naturverbundene-paedagogische-fachkraft--100153677",
+      "title": "nette, liebevolle, Naturverbundene pädagogische Fachkraft (m/w/d)",
+      "filtered": true
+    },
     {
       "url": "https://www.greenjobs.de/stellenanzeige/wissenschaftliche-mitarbeiter-referent-im-bereich-agrarforschung--100153674",
       "title": "Wissenschaftliche:r Mitarbeiter:in / Referent:in (m/w/d) im Bereich Agrarforschung",
@@ -1338,6 +1369,12 @@
       "filtered": true
     },
     {
+      "url": "https://www.greenjobs.de/stellenanzeige/finance-und-controlling-officer--100153210",
+      "title": "Finance und Controlling Officer (gn)",
+      "score": 20,
+      "reasoning": "Weak match due to lack of finance and controlling experience; strong geosciences and programming background is not utilized."
+    },
+    {
       "url": "https://www.greenjobs.de/stellenanzeige/fahrrad-kurier-gemuesekistenausliefer-mit-e-bike-pedelec-trike-in-teilzeit-als-mini-midijob--100153208",
       "title": "Fahrrad Kurier Gemüsekistenausliefer*innen (m/w/x) mit E-Bike Pedelec Trike - in Teilzeit / als Mini-/ Midijob",
       "filtered": true
@@ -2287,43 +2324,6 @@
       "url": "https://www.greenjobs.de/stellenanzeige/praxisqualifizierung-gis-und-geodatenspezialist--43217",
       "title": "Praxisqualifizierung GIS und Geodatenspezialist",
       "filtered": true
-    },
-    {
-      "url": "https://www.eejobs.de/angebote/index.html?id=100153684&anz=html&bl=gj",
-      "title": "Gebäudeenergieberater (m/w/d) individueller Sanierungsfahrplan (iSFP)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektreferent-flaechensicherung--100153682",
-      "title": "Projektreferent (m/w/d) Flächensicherung",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/baumkontrolleure-mitarbeiter-baumkontrolle--100153679",
-      "title": "Baumkontrolleure / Mitarbeiter Baumkontrolle (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/sachbearbeiterin-sachbearbeiter-fuer-den-bereich-freiflaechenplanung-und-bau--100153678",
-      "title": "Sachbearbeiterin / Sachbearbeiter für den Bereich Freiflächenplanung und -bau (w/m/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/nette-liebevolle-naturverbundene-paedagogische-fachkraft--100153677",
-      "title": "nette, liebevolle, Naturverbundene pädagogische Fachkraft (m/w/d)",
-      "filtered": true
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/projektkoordinator-digitale-technologien-im-agri-food-sektor--100153685",
-      "title": "Projektkoordinator/in (m/w/d) Digitale Technologien im Agri- & Food-Sektor",
-      "score": 20,
-      "reasoning": "Title suggests project coordination role in agriculture/food sector, unrelated to candidate's core skills and experience in geosciences, AI, and web development."
-    },
-    {
-      "url": "https://www.greenjobs.de/stellenanzeige/finance-und-controlling-officer--100153210",
-      "title": "Finance und Controlling Officer (gn)",
-      "score": 20,
-      "reasoning": "Weak match due to lack of finance and controlling experience; strong geosciences and programming background is not utilized."
     }
   ]
 }

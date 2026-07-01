@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T14:48:06+00:00",
+  "updated_at": "2026-07-01T20:02:40+00:00",
   "jobs": [
     {
       "url": "https://jobs.frequentis.com/karriere/SearchJobs",
@@ -34,6 +34,17 @@
       "filtered": true
     },
     {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Junior-System-Test-Engineer-High-Tech-Towerl-sungen-im-Defence-Bereich-all-genders/3547",
+      "title": "(Junior) System Test Engineer (all genders)",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct relevance to geosciences, GIS, or AI engineering; system test engineering requires senior experience and strong technical expertise, which the candidate lacks."
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3547",
+      "title": "Bewerben für (Junior) System Test Engineer (all genders)",
+      "filtered": true
+    },
+    {
       "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Group-IT-Application-Support-Specialist-3rd-Level-all-genders/3400",
       "title": "Group IT Application Support Specialist - 3rd Level (all genders)"
     },
@@ -50,6 +61,17 @@
     {
       "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3352",
       "title": "Bewerben für IT Projektassistenz im Bereich Public Safety (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-IT-Service-Engineer-all-genders-Vollzeit-oder-Teilzeit/3364",
+      "title": "IT Service Engineer (all genders) – Vollzeit oder Teilzeit",
+      "score": 22,
+      "reasoning": "Weak match due to lack of direct relevance to geosciences, GIS, or AI engineering; IT service engineering role requires strong Windows Server and networking knowledge, which is not prominent in the candidate's CV."
+    },
+    {
+      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3364",
+      "title": "Bewerben für IT Service Engineer (all genders) – Vollzeit oder Teilzeit",
       "filtered": true
     },
     {
@@ -112,28 +134,6 @@
       "url": "https://www.linkedin.com/jobs/search/?f_C=15158&locationId=OTHERS.worldwide",
       "title": "(no title)",
       "filtered": true
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3547",
-      "title": "Bewerben für (Junior) System Test Engineer (all genders)",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/ApplicationMethods?jobId=3364",
-      "title": "Bewerben für IT Service Engineer (all genders) – Vollzeit oder Teilzeit",
-      "filtered": true
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-Junior-System-Test-Engineer-High-Tech-Towerl-sungen-im-Defence-Bereich-all-genders/3547",
-      "title": "(Junior) System Test Engineer (all genders)",
-      "score": 22,
-      "reasoning": "Weak match due to lack of direct relevance to geosciences, GIS, or AI engineering; system test engineering requires senior experience and strong technical expertise, which the candidate lacks."
-    },
-    {
-      "url": "https://jobs.frequentis.com/karriere/JobDetail/VIE-IT-Service-Engineer-all-genders-Vollzeit-oder-Teilzeit/3364",
-      "title": "IT Service Engineer (all genders) – Vollzeit oder Teilzeit",
-      "score": 22,
-      "reasoning": "Weak match due to lack of direct relevance to geosciences, GIS, or AI engineering; IT service engineering role requires strong Windows Server and networking knowledge, which is not prominent in the candidate's CV."
     }
   ]
 }
