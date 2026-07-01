@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T09:58:53+00:00",
+  "updated_at": "2026-07-01T14:48:24+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/reonic/07d1aaa8-0efb-4083-81f5-2f2dbd918b95",
@@ -12,10 +12,6 @@
       "reasoning": "No relevant technical skills, no Spanish fluency, and lack of customer support experience make this role a poor fit."
     },
     {
-      "url": "https://jobs.ashbyhq.com/reonic/2aed364b-83ad-42ad-b69c-6aa4e7259d7f",
-      "title": "Marketing & Growth Specialist LATAM (Greentech) (m/f/d)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/reonic/5b1d3176-9919-4e48-9712-d0a6cb642cc6",
       "title": "Founders Associate Intern - Special Projects (Greentech) (m/f/d)",
       "score": 29,
@@ -24,6 +20,12 @@
     {
       "url": "https://jobs.ashbyhq.com/reonic/68b7bb7e-378d-44a3-8010-eb9eac2ee3c8",
       "title": "Sales Development Representative - Germany (Greentech) (m/f/d)"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/reonic/78e83c41-6046-4826-9024-0f3ee48875da",
+      "title": "GTM Academy (Greentech) (m/f/d)",
+      "score": 39,
+      "reasoning": "Weak fit due to lack of sales experience, low German fluency, and non-technical role requirements; some overlap in entrepreneurial spirit and curiosity, but significant reskilling needed."
     },
     {
       "url": "https://jobs.ashbyhq.com/reonic/79d56c30-6b6f-4f1d-9370-2873e2db8b9b",
@@ -75,12 +77,6 @@
     {
       "url": "https://jobs.ashbyhq.com/reonic/eff5604b-7135-4e19-b75f-68164920af2a",
       "title": "Performance Marketing Specialist (Greentech) (m/f/d)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/reonic/78e83c41-6046-4826-9024-0f3ee48875da",
-      "title": "GTM Academy (Greentech) (m/f/d)",
-      "score": 39,
-      "reasoning": "Weak fit due to lack of sales experience, low German fluency, and non-technical role requirements; some overlap in entrepreneurial spirit and curiosity, but significant reskilling needed."
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-07-01T09:59:04+00:00",
+  "updated_at": "2026-07-01T14:48:36+00:00",
   "jobs": [
+    {
+      "url": "https://www.fugro.com/careers/jobs/R0030730-testing-engineer",
+      "title": "Testing Engineer",
+      "score": 29,
+      "reasoning": "Weak match due to lack of direct experience in marine technology, testing, or relevant industry; candidate's geosciences and AI background not directly applicable to the Testing Engineer role."
+    },
     {
       "url": "https://www.fugro.com/careers/jobs/R0031573-intern-estagi%C3%A1rio",
       "title": "Intern\\ Estagiário",
@@ -33,10 +39,10 @@
       "title": "Create an account"
     },
     {
-      "url": "https://www.fugro.com/careers/jobs/R0030730-testing-engineer",
-      "title": "Testing Engineer",
-      "score": 29,
-      "reasoning": "Weak match due to lack of direct experience in marine technology, testing, or relevant industry; candidate's geosciences and AI background not directly applicable to the Testing Engineer role."
+      "url": "https://www.fugro.com/careers/jobs/R0030953-sr.-project-planner",
+      "title": "Sr. Project Planner",
+      "score": 22,
+      "reasoning": "Weak match due to lack of senior experience and strong project management background; candidate's geosciences and AI skills are not directly applicable to the Sr. Project Planner role."
     }
   ]
 }

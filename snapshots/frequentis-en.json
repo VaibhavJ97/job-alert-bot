@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T09:58:46+00:00",
+  "updated_at": "2026-07-01T14:48:15+00:00",
   "jobs": [
     {
       "url": "https://jobs.frequentis.com/careers/SearchJobs",
@@ -171,6 +171,17 @@
       "url": "https://www.linkedin.com/jobs/search/?f_C=15158&locationId=OTHERS.worldwide",
       "title": "(no title)",
       "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3547",
+      "title": "Apply to (Junior) System Test Engineer (all genders)",
+      "filtered": true
+    },
+    {
+      "url": "https://jobs.frequentis.com/careers/JobDetail/VIE-Junior-System-Test-Engineer-High-Tech-Towerl-sungen-im-Defence-Bereich-all-genders/3547",
+      "title": "(Junior) System Test Engineer (all genders)",
+      "score": 39,
+      "reasoning": "Moderate IT and technology overlap; however, role requires senior experience and domain expertise in safety-critical systems, which candidate lacks; German fluency may also be a challenge."
     }
   ]
 }
