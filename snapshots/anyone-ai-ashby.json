@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T20:03:07+00:00",
+  "updated_at": "2026-07-02T04:00:50+00:00",
   "jobs": [
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/bd8c4495-ce51-46c1-90f1-750b2b647021",
@@ -278,22 +278,6 @@
       "title": "Quant Finance Expert (Sweden)"
     },
     {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/c6168fe9-548e-4027-b17b-da7c60ab2f13",
-      "title": "Backend Developer - AI Trainer (Brazil)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/6d92eed3-a36e-4806-8d93-66312b5b012c",
-      "title": "Backend Developer - AI Trainer (Chile)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1f6a2b42-0bd7-457a-a694-7594b5164721",
-      "title": "Backend Developer - AI Trainer (Colombia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/3f58087e-77fa-4f44-baed-499b48742a59",
-      "title": "Backend Developer - AI Trainer (Ecuador)"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/anyone-ai/411aafb6-6606-4107-b934-16fc1052e65d",
       "title": "Backend Developer - AI Trainer (Egypt)"
     },
@@ -320,10 +304,6 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/00fecc89-233d-4c08-9826-c72898b9fc69",
       "title": "Backend Developer - AI Trainer (UK)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/1a0368a3-7629-49c4-b742-5017b3facca7",
-      "title": "Backend Developer - AI Trainer (Uruguay)"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/54807946-7328-4e6f-9d43-3243ac9b0d04",
@@ -376,18 +356,6 @@
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/678e8ee2-9482-4936-8a51-62f49223cd41",
       "title": "Full-Stack Developer - AI Trainer (Indonesia)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/0cbcf7f1-3627-40aa-a245-a096d2941fc1",
-      "title": "Backend Developer - AI Trainer (Mexico)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/a3e9ffb1-4b62-4dae-9daf-18ac651ce1cf",
-      "title": "Backend Developer - AI Trainer (Peru)"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/anyone-ai/b10f696e-e410-4e03-8b5c-aba41dadbf85",
-      "title": "Backend Developer - AI Trainer (Argentina)"
     },
     {
       "url": "https://jobs.ashbyhq.com/anyone-ai/e825df23-e721-465b-87d7-04a569f7269e",
@@ -868,6 +836,54 @@
       "title": "Full-Stack Developer (Uruguay)",
       "score": 73,
       "reasoning": "Strong full-stack development skills match; Python and JavaScript proficiency align with job requirements; manageable learning curve for Java, C#, or Go; however, senior experience and part-time project-based nature may require adjustments."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/d3f29d7f-10a4-47f6-82a6-5a412f5b4270",
+      "title": "Backend Developer (Argentina)",
+      "score": 68,
+      "reasoning": "Partial match due to Python and JavaScript skills; however, role requires 3-7 years of professional experience and strong proficiency in multiple programming languages, which exceeds candidate's current level."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/83a0fd44-ca80-46a4-af36-b00c05b787a2",
+      "title": "Backend Developer (Chile)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of professional experience which exceeds candidate's experience, and German fluency is not required but location is not preferred."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/88193ee4-f399-43d6-a6d9-badb21326006",
+      "title": "Backend Developer (Ecuador)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, role requires 3-7 years of experience and strong proficiency in multiple programming languages, which is a stretch for the candidate."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/c28dbc7b-b91c-492f-8bc3-83ccfe2b5430",
+      "title": "Backend Developer (Brazil)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; backend experience partially matches; however, role requires 3-7 years of professional software engineering experience which exceeds candidate's experience."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/185a8441-af1c-47fe-9d00-aff5a3958f9c",
+      "title": "Backend Developer (Colombia)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, lack of direct backend development experience and seniority are drawbacks."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/8f88a6fd-afec-49f9-9a4f-19ef5f8ed3cf",
+      "title": "Backend Developer (Mexico)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, lack of direct backend development experience and seniority (3-7 years) are drawbacks."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/280eaf4f-8d64-499a-80e9-2127b992dc25",
+      "title": "Backend Developer (Peru)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, lack of direct backend development experience and seniority are concerns."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyone-ai/2b08d035-2cb7-4acb-8d2a-3bbfa7e951c8",
+      "title": "Backend Developer (Uruguay)",
+      "score": 68,
+      "reasoning": "Good Python and JavaScript skills match; however, lack of direct backend development experience and seniority are concerns."
     }
   ]
 }
